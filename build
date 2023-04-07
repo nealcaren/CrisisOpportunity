@@ -1,0 +1,36 @@
+v=$RANDOM
+
+pandoc -s -o docs/articles/african_roots_of_war.html --template=templates/article_html.template markdown/african_roots_of_war.md  --css="article_style.css&id=$v"
+pandoc -s -o docs/articles/pathology.html --template=templates/article_html.template markdown/pathology_of_race_prejudice.md --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/reaches.html --template=templates/article_html.template markdown/reaches.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/womanhood.html --template=templates/article_html.template markdown/womanhood.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/chicago.html --template=templates/article_html.template markdown/chicago.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/program.html --template=templates/article_html.template markdown/program.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/garvey.html --template=templates/article_html.template markdown/garvey.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/negro_women.html --template=templates/article_html.template markdown/negro_women.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/after_garvey.html --template=templates/article_html.template markdown/after_garvey.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/public_opinion.html --template=templates/article_html.template markdown/public_opinion.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/students_challenge.html --template=templates/article_html.template markdown/students_challenge.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/selfexpression.html --template=templates/article_html.template markdown/selfexpression.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/mirrors_of_harlem.html --template=templates/article_html.template markdown/mirrors_of_harlem.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/lilywhite.html --template=templates/article_html.template markdown/lilywhite.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/negro_in_chicago.html --template=templates/article_html.template markdown/negro_in_chicago.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/enumeration.html --template=templates/article_html.template markdown/enumeration.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/frontage.html --template=templates/article_html.template markdown/frontage.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/rent.html --template=templates/article_html.template markdown/rent.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/north_i.html --template=templates/article_html.template markdown/north_i.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/two_million.html --template=templates/article_html.template markdown/two_million.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/foundations.html --template=templates/article_html.template markdown/foundations.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/quarrel.html --template=templates/article_html.template markdown/quarrel.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/problem.html --template=templates/article_html.template markdown/problem.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/bleached.html --template=templates/article_html.template markdown/bleached.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/unrest.html --template=templates/article_html.template markdown/unrest.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/chicago_crime.html --template=templates/article_html.template markdown/chicago_crime.md  --css="article_style.css?id=$v"
+
+
+
+pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css=style.css --metadata title="About"
+pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css=style.css --metadata title="C&O"
+
+
+

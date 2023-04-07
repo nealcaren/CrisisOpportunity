@@ -1,0 +1,265 @@
+---
+charset: 'UTF-8'
+lang:    'en'
+
+title: "Economic Foundations of American Race Division"
+short_title: Foundations
+
+author:
+- name: Abram L. Harris
+- affiliation: ""
+
+date: 1927
+
+citation_title: "Economic Foundations of American Race Division"
+citation_journal_title: Social Forces
+citation_author: Harris, Abram L.
+citation_publication_date: 1927
+citation_volume: 5
+citation_issue: 3
+citation_firstpage: 468
+citation_lastpage: 478
+
+citation: <em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.
+---
+[468]{.pagenum}
+The apologetic school of American race relations considers the social distance[^fn1] between white and black Americans as conforming to a natural order of pre-ordained and inescapable physical, mental and moral differences between different branches of the human species. And according to the philosophy of this school, the abridgment of social distance is undertaken only at the penalty of provoking inherent racial antipathy; the price of social peace being the maintenance of mutually exclusive worlds of racial habitation characterized by reciprocal racial tolerance. The fatalism which runs through this viewpoint hinges upon a belief in well established race differences upon which race prejudice is believed to be based, and, the corresponding conviction that the only way to lessen the belliose manifestations of race prejudice is by rendering wholesale contact between members of each race impossible.
+
+[^fn1]: Social distance is defined by Dr. Emory Bogardus as the grades and degrees of understanding, feeling and intimacy that persons experience regarding each other. It charts the character of their social relations. Vid. “Social Distance and Its Origin,” E. S. Bogardus, *Journal of Applied Sociology*, January, 1925.
+
+Assuming as the above argument does that American Negroes and whites are distinguishable by marked dissimilarities in physiognomy, mentality and social traditions, and that whatever hostilityexists between the races arises from an aversion to these differences, the only means by which antipathy can be eradicated is the very association and intimacy which the apologists shun. Social experience substantiates this.
+
+“There must be something,” said Livingstone[^fn2], “in the appearance of white men frightfully repulsive to the unsophisticated natives of Africa, for on entering villages previously unvisited by Europeans, if we met a child coming quietly and unsuspectingly toward us the moment he raised his eyes and saw the men in ‘bags’ he would take to his heels in an agony of terror, such as we might feel if we met a live Egyptian mummy at the door of the British Museum. Alarmed by the child’s wild outcries, the mother rushes out of the hut but darts back again at first glimpse of the fearful apparition. Dogs turn tails and scurry off in dismay, and hens, abandoning their chickens, fly screaming to the top of the houses.’’ Here we have the elements of race prejudice. On the negative side, the stigmata of race prejudice are the feelings of wonder at the strange, fear of that which is unknown, and repulsion aroused in one individual by another who differs in physical features or cultural traits; and,
+[469]{.pagenum}
+on the positive side, they are contempt for and hate and hostility toward others who differ in these respects. But if race prejudice is not accompanied with competitive activities or the subjugation of one group by the other it is soon removed through association. And the accommodation of groups and individuals to others of different physiognomy and aesthetic standards takes place with relative ease. According to Livingstone,[^fn3]  after one has associated with the blacks for a long period, “one feels ashamed of the white skin. It seems unnatural like blanched celery or white mice.” [^fn4]  And Stanley’s report of his feelings on first meeting white men after crossing Africa coincides with Livingstone’s. [^fn4]   He said: “As I looked into their faces, I blushed that I was wondering at their paleness. .... The pale color after so long gazing on rich black and richer bronze, had something of an unaccountable ghastliness. I could not divest myself of the feeling that they must be sick.’’ [^fn4]  
+
+[^fn2]: Livingstone, *The Zambesi and its Tributaries*, p. 181.
+[^fn3]: Op. cit., p. 379.
+[^fn4]: Stanley, *Through the Dark Continent*, p. 462.
+
+
+Does the foregoing analysis cast much light on the causes of race antipathy in the United States? Not very much, if any. In the first place the association between whites and blacks has been and is today more intimate than either the race-conscious white or black citizenry is willing to admit. Not only have white boys and girls kissed their black mammies but have been suckled by them. It is not infrequent that leading persons in the white race, desiring to impress audiences with their devotion to the Negro race, cite as evidence of fidelity their recognition of some unpaid debt to an “old darkey’’ friend or to a black mammy who was their wet nurse. Moreover the existence of a large mulatto population is evidence of a very
+intimate physical contact which could not have taken place had dominant whites, the aggressors, been repelled by the Negro’s physical appearance; and conversely, whatever race prejudice arose from the introduction of Negroes in America was soon lost through sex relations and other close association. In the second place the present antipathy cannot be attributed to a difference in social traditions and aesthetic standards, since the life of the Negro in the United States bespeaks knowledge of only those cultural traditions that are American. It is not infrequent that the economic and social subjugation of one race or class by another has led the subordinated group to adopt the culture of the dominant. This has happened to the Negro in the United States. If the first African Negroes who came to America brought with them concepts of social institutions or a culture typically African they could not put them to practice in America. Moreover, we have no evidence of any attempts made by Negroes to establish African culture in the United States. Nor can the American Negro be considered in any logical sense African. The assimilation of the Negro to American culture has been so complete that one observer[^fn5] has remarked: “With most marvelous certainty, when we consider the conditions, the Negro in the South could be trusted to perpetuate our political ideas and institutions if our republic fell, as surely as the Gaul did his adopted institutions.”[^fn5]  This cultural accommodation and above all the physical contact which preceded and paralleled it, could have but one effect upon the Negro,---the annihilation of a Negro national physiognomy---and, in consequence, the Negro’s repudiation of African
+[470]{.pagenum}
+aesthetic standards. The ready market which sellers of bleaching and hair straightening compounds find among Negroes indicates the extent of this repudiation. But a surging race consciousness among Negroes which has expressed itself in art and other forms may seem to belie the repudiation of African aesthetic standards, or it may be mistaken as the Negro’s attempt to establish a Negro culture within the United States. Considerable controversy has centered about the question of Negro culture as a product distinct from United States culture.[^fn6]
+But close examination of the social facts underlying the Negro’s position in the United States shows his race consciousness to be merely a device which he has contrived to compensate his thwarted ambition for full participation in American institutions. Thus, neither cultural differences nor the horror of the Negro’s external aspect account for present race antipathy in the United States. Racial antipathy in the United States cannot, therefore, be attributed to race prejudice. Some other explanation must be sought.
+
+[^fn5]:	George Burton Adams, *Civilisation during the Middle Ages*, p. 30.
+[^fn6]:	See the very able article by George Schuyler, "The Negro Art Hokum,” in *The Nation*, June 16, 1916, and Langston Hughes’ reply in the June 23 issue. In *Opportunity* for August, Charles S. Johnson writes a discriminating editorial on the points of view advanced by Messrs. Hughes and Schuyler. Equally stimulating are the current discussions in the *Crisis* beginning January 192.6 on “The Negro in Art---How Should He be Portrayed?” and J. Milton Sampson's brilliant essay “Race Consciousness and Race Relations,” *Opportunity*, May, 1923.
+
+Slavery was an economic system which involved white freemen as masters and black men as slaves. The Negro was not enslaved because his complexion, and nose and lip formation differed from the white man’s.[^fn7] It would be just as reasonable
+to assign the servitude of white serfs to the color of their skin which conformed in paleness to that of the dominant whites. As a matter of fact both the lower white and black classes were weak. Their impotence coupled with the need for cheap labor meant their subjugation. For a short period white and black bondsmen were on the same indefinite legal footing. And it did not at first seem that the institution of serfdom and, later, slavery could thrive in colonial United States. Several of the colonies actually opposed the purchase of Negroes and the dumping of expatriated Europeans and prisoners upon American soil. Serfdom was mild as compared with slavery into which it developed. In 1661, there seemed to have been the absence of any law or custom which established the institution of slavery. The court records of Virginia, for example, refers to Negroes as servants and not as slaves.[^fn8] Like the white servants the Negro became free at the expiration of their indentures. Many freed Negroes of the colonial period acquired property in slaves and land. But conditions did not long remain rosy. The chains of chattel slavery which were to bind the Negro were already being forged in the South at the anvil of economic necessity. Meanwhile industrial conditions in the New England and Middle States were slowly working the transformation of white serfs into wage-earners.
+
+[^fn7]:	Blacks assisted in conducting the slave traffic.
+In 1771, the state of Georgia issued a certificate to a certain Fenda Lawrence reciting that she “a free black woman and heretofore a considerable trader in the river Gamba on the coast of Africa hath voluntarily come to be and remain for some time in this province” and giving her permission to “pass and repass unmolested within the said province on her lawful and necessary occasions.” U. B. Phillips, *American Negro Slavery*, p. 20.
+
+[^fn8]:	U. B. Phillips, *op. cit.*, p. 75.
+
+
+The supply of Negro labor was more plentiful than white labor. It was also more easily secured, and consequently,
+[471]{.pagenum}
+cheaper than the latter. Negro labor being cheaper than cheap white labor was more desired. Emmanuel Downing wrote his brother-in-law, John Winthrop: “You know verie well how we shall mayntayne 20 Moores cheaper than one English servant.” [^fn9] During the same period Negroes in the South not bound for a term were coming to be appraised as high as thirty pounds while the most valuable white redemptioners were worth not above fifteen pounds. [^fn10] Because of the increasing significance of Negro labor to the germinating agricultural system in the South and the diminishing importance of it to budding domestic capitalism in the North, the thrifty New Englanders found it profitable to capture Indians, exchange them for Negroes, and sell the Negroes to the southern planters. [^fn11]^,^[^fn12] These were the faint murmurs of the regime which the rise of the southern tobacco, cotton, rice and sugar plantations would crystallize through successive legal enactments. The invention of the cotton gin by Eli Whitney in 1793 gave impetus to cotton culture. A great cotton kingdom arose extending from the uplands and covering the alluvial plains of the southwest. Before the cotton gin was invented the sale of a Negro rarely brought more than $300 but afterwards the price was twice as high. The average value of a Negro was $800 in 1830, $1,200 in 1850 and from $1,400 to $2,000 in 1860.[^fn12] The invention of the cotton gin made slavery more profitable now than ever; and the anti-slavery agitation which was sprouting in the South was stifled. On the other hand, New England’s barrenness made extensive agriculture and slavery futile undertakings. However, its 
+indented coast line enabled it to build a commercial and shipping enterprise which supplied the South with Negro labor; and its favorable position for manufacture developed a domestic capitalism which wrought the metamorphosis of disadvantaged white men from serfs to wage earners. These conditions determined the rise of bourgeois democracy based upon economic competition and individualism in the North and of landed aristocracy based upon slavery and custom in the South.
+
+
+[^fn9]: Ibid.
+[^fn10]: Ibid. p. 76.
+[^fn11]: Ibid., Chapt. VI.
+[^fn12]: Faulkner, American History, pp. 214-115.
+
+Slavery was a profitable institution to the landed class who desired to perpetuate it and to extend its geographical limits and the political power based upon it. Like every economic system based upon the exploitation of human labor, the slave regime sought rationalization for its exploitation of Negroes. Slavery was therefore designated by the whites to be God’s way of educating ignorant blacks and bringing them into the marvelous light of His gospel. The literature which grew in this period reveals much talk on the Negro’s natural unfitness for civilization, his inhumanity and his uneducability. Charles Carroll wrote a book and established from biblical texts that man was created in the image of God, and, since, as everyone knows God not to be a Negro, it follows that the Negro is not a man. John C. Calhoun, at a time when Negro slaves were everywhere by intention deprived of the elements of education, ventured that if he could find a Negro capable of giving the syntax of a Greek verb he would be disposed to call him human. Thomas Jefferson observed that a Negro could scarcely be found who was capable of tracing and comprehending the investigation of Euclid.[^fn13] These and
+[472]{.pagenum}
+similar dogmas on the Negro’s predisposition to crime and his lack of sexual restraint furnished by clergy and learned doctors established the psychological breastworks of the slave empire.
+
+[^fn13]: Charles S. Johnson, “Public Opinion and the Negro,” *Opportunity*, July, 192.3,
+
+
+On the other hand, the attitude of the landed aristocracy to the white peasant and artisan was hardly better than that exhibited toward the Negro. Negro slaves were usually much better off materially than the submerged whites. This contrast in material lot undoubtedly inflamed the lower white stratum against the Negro and rendered the Negro contemptuous of it. Yet an ill founded fear of seditious combination between outnumbering Negro slaves and landless whites led the dominant whites to foster and augment race distinctions just as many modern employers maintain a definite proportion of representatives of different races and nationalities as a bulwark against labor organization and as others, more ruthless, exploit race antipathy upon the theory of *divide et imp* era. That this fear was something of a plaguing nightmare Thomas Jefferson testified by his references to the landless whites in the South, the growing mass of propertyless wage-earners in the towns, and Negro slavery which he said made him tremble with anxiety when he contemplated the future of his country. Foremost among the distinctions initiated by the dominant whites was the statute against marriages between white and black. Massachusetts prohibited white and black marital unions as early as 1680.[^fn14] The prohibition against intermarriage soon became the rule in all of the colonies although no laws were ever enacted against the cohabitation of white masters with black female slaves. The running away of white servants in company with Negroes
+must have occurred frequently, else Virginia in 1661 would never have enacted a statute penalizing white servants guilty of this offense.[^fn15]  Suggestion and imitation did their share in further promoting hostility between the lower classes. To the master class the landless white was “po’ white trash” and the Negro slave “nigger.” Each of the disadvantaged classes seized the counter-appellation invented by the aristocrat out of its contempt for it and arrogantly hurled it back at the other. Under this growing race sentiment revolutionary coalition between the Negro slaves and whites serfs need never have been feared; and if not actually feared it was only because submerged blacks and whites in their weakness and arrogance toward each other could be pitted one against the other. Mutual animosity between poor whites and black slaves was strengthened by the competition offered by free Negro artisans in the northern and southern cities and by slave apprentices who upon being let to contractors were used to beat down wages.[^fn16]  The degree to which slavery was opposed by white workingmen, especially immigrants, is revealed in the opposition of eighty German newspapers to the opening up of new federal territory to possible slave settlement by the Kansas-Nebraska Act.[^fn17] But the opposition to slavery which emanated from the Northwest and the eastern wage-earners was caused by their recognition of a fundamental antagonism of interest between the slavery system and free labor rather than by their humanitarism. As a matter of fact the northern wage-earners were as hostile to Negro freemen as to the slaves. The mobbing
+[473].{pagenum}
+of Negroes was quite a common occurrence in the northern and middle western cities during the pre-civil war period.[^fn18]
+
+[^fn14]: U. B. Phillips, p. 103.
+
+[^fn15]:  Ibid., p. 76.
+
+[^fn16]: See Commons and Associates, The Documentary-History of American Industrial Society.
+
+[^fn17]: See A. M. Schlesinger, *New Viewpoints in American History*, p. 12.
+
+[^fn18]: Vid. *Life and Times of Frederick Douglass*, Part I, Chap. 2.0, and Part II, Chap. 5. Also *The New York Riots*.
+
+Upon the slave regime the social relationship of the white man and Negro in the United States was founded. It was the relationship of master and servant. The traditions which were its psychological props did not wholly disappear after the dissolution of the slave regime.[^fn19] The white man’s divine right to rule and exploit, and the Negro’s divine heritage to hue wood and draw water for the master in the big house are sacrosanct traditions which the regime bequeathed to our not incredulous generation. Yet it should be obvious that the caste psychology which was built around white masters as the “exalted of God” differed very little from that of the ancient theocracy in which Jews were “Jahweh’s elect;” or from that of feudalism wherein serfs were bitches and trollopes and, humble handicraftsmen, the lineal ancestors of modern capitalists, might have their ears boxed by offended patricians; or from that of the contemporary plutocracy which has raised up a host of panegyrists to extol the virtues of those who rule by divine right of superior chromosomes. Nor should it not be equally discernible to our generation that a past economic circumstance fashioned a psychology which sets in contemporary society the limits of racial association and determines its mental norms. One observer in noting this psychology points out: ”The especially caste nature of the division—as distinguished from those personal differences which democratic tradition recognizes— is seen in the feeling, universal among the whites, that the Negro must be held apart and subordinate not merely as an individual, or any number of individuals, but as a race, a social whole. That is, the fact that many individuals of this race are equal, and some superior, to the majority of whites does not, in the opinion of the latter, make it just or expedient to treat them apart from the mass of their race. To dine with a Negro, to work or play by his side, or to associate in any relation where superiority cannot be asserted is held to be degrading and of evil example, no matter what kind of Negro he may be. It is the practice and policy of the dominant rac.e to impress upon the Negro that he belongs by birth to a distinct order out of which he can in no way depart. There or nowhere must he find his destiny. If he wishes to mingle with whites it must be as an acknowledged inferior.”[^fn20] Thus agitation against segregation and jim crowism come to be interpreted by the dominant whites as advocacy of intermarriage or “social equality” as it is more euphemistically called in the South. Social equality is not taboo because of any abhorrence to blackness, as we have already noticed, but because social approval of mixed marriages would mean guaranteeing to members of each race equal protection and rights in their sex relations. To do this would be to recognize Negroes as equals. But society
+[474]{.pagenum}
+demands that the Negro’s social and economic infirmity be maintained. Rather than permit equality between the races, it is thought best to leave the males of the dominant race unfettered by law and custom in their relations with women of the lower race and to lynch Negroes who look with lust in their eyes upon white women. When such suggestion as “Negroes prefer being to themselves’’ is ineffective in keeping obstreperous Negroes in “their place’’ the more drastic methods of segregation and jim crowism are invoked. Even though an inviolate and sacred institution, segregation may be temporarily suspended in the case of the Negro servant who accompanies his master or his master’s children on public carriers.
+
+[^fn19]: As a legal institution slavery disappeared. The plantation system upon which the slave empire was based remained intact and what was slavery often became peonage. During the past decade the South has been experiencing an economic revolution. The penetration of large capital and industry will revolutionize the South’s political and social institutions as greatly as it will the Negro’s position. Economic and industrial changes continue to pull and push the Negro from the farms to the cities. Already the transformation of the Negro from a peasant into an
+industrial wage earner is rapidly taking place. The Negro migrations are the means of this accomplishment.
+
+[^fn20]: C.H. Cooley, *Social Organization*, p. 218.
+
+In none of the foregoing phenomena does color serve as the basis of racial antipathy as much as it does the means by which a socially submerged class is distinguished from a dominant. The antipathy between white and black bears all of the earmarks of class prejudice which has been rationalized in justification of the exploitation and subjugation of the Negro. As a result of this a whole crop of ideas have been shaped into a Negro stereotype to which the public reacts. For example, the author has been very often told that Negroes make excellent domestics and personal servants because of their affection and slowness to insult but that their mentality is such that one could never trust them with technical processes in industry. Again in matters of health, the Negro is viewed with pitying fatalism. The Negro’s high mortality is attributed to the fact that he is a Negro. In other words, the fact that Negro mortality is higher than that of the white is believed to be the resultant of a difference in organic structure which lessens the Negro’s chances for survival in rigorous
+climates. To race and not to environic factors such as inadequate and poor housing, and insufficient income is the high mortality of the Negro attributed.
+
+The extent to which these opinions are prevalent is ascertainable. The author prepared a questionnaire on race relations and submitted it to 144 prominent white persons selected at random. Two questions in the schedule read: “What distinguishing traits of mentality or character do you believe Negroes to possess?" and “On what facts, authorities or sources of information do you base your opinions?" The table that follows is a summary of 37 replies. Column 1 in the table gives “the kind of contact or observations” subjects had. Column 2 gives “the distinguishing traits" which Negroes are believed to possess.
+
+The extent to which these opinions are prevalent is ascertainable. The author prepared a questionnaire on race relations and submitted it to 144 prominent white persons selected at random. Two questions in the schedule read: “What distinguishing traits of mentality or character do you believe Negroes to possess?’’ and “On what facts, authorities or sources of information do you base your opinions?: The table that follows is a summary of 37 replies. Column 1 in the table gives “the kind of contact or observations” subjects had. Column 2 gives “the distinguishing traits’’ which Negroes are believed to possess.
+
+Underlying the whole maze of assumptions on Negro mental and character differences is the opinion actually stated in one of the replies: “*The Negro and white man are physiologically, mentally and morally different.*” It is but one step from this dogma to another belief which was stated by a social service worker: “*The average Negro's capacity for loyalty exceeds the white man’s but the average white man excels the average Negro in drive, persistence and punctuality,*" Now capacity implies potentiality which is a factor in heredity. To say that one individual or that one race has greater capacity than another for loyalty as against persistence or punctuality is to say that these traits are hereditary in that individual or race. It is not to be doubted, however, that the social environment in which the Negro has lived and that in which the white man has lived has made for the development of loyalty in the former and for the development of punctuality and drive in the latter. Contrast the traits of temperament fostered by a world of 
+competitive business enterprise with those that are not only encouraged, but actually enforced by a social status which demands submissiveness and which until recently existed apart from modern industry and its cultural accompaniments. If there is racial capacity for punctuality, loyalty and persistence these traits inhere in the chromosomes, are transmissible and, are, therefore, not due to nurture. If, on the other hand, they do not inhere in germplasm they are not transmissible and one race does not have any greater capacity than another for the expression of such traits. The known traits that are hereditary include neither punctuality nor loyalty nor persistence.[^fn21]
+
+[^fn21]: Vid. John Langdon-Davies for list of traits that respond to Mendelian law, *The New Age of Faith*, p. 209.
+
+[475]{.pagenum}
+<table class="big-table">
+<thead>
+  <tr>
+    <th>KIND OR CONTACT OR OBSERVATION UPON WHICH JUDGMENT OF TRAITS OF NEGROES WAS BASED</th>
+    <th>DISTINGUISHING MENTAL OR CHARACTER TRAITS WHICH NEGROES ARE BELIEVED TO POSSESS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+<td colspan="2">I. Personal Contact
+</tr>
+<tr>
+<td>
+<ol> 
+<li> With Negro servants
+</ol>
+</td>
+<td>
+<ol> 
+<li> Mentality fair; loyal to friends and industrious,
+<li> No traits of mentality that are distinguishable.
+<li> Superstitious, lazy, untrustworthy and greedy.
+<li> Not stable in character. Some Negro characters of  the older generation were loyal friends. 
+</ol>
+</td>
+</tr>
+  <tr>
+    <td>2. With Negro servants and students</td>
+    <td><ol> 
+    <li> Irresponsibility; not the same moral standards or values as white race,<li>  Traits of character rather than of mentality; interested in concrete rather than abstract things. 
+    <li> Inability of average to rise above the mental or moral level of children. There are of course striking exceptions.
+    </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>3. Negro School Children and Students and Race Leaders</td>
+    <td><ol> 
+    <li> Emotional; follow the course of least resistance; not inclined to be strict observers of the law. 
+    <li>  No traits of mentality as far as I can tell. Some traits of temperament, not well determined, such as interest in music. When given the same environment possessed by persons of other races the Negro develops the same way and manifests the same traits.
+    </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td>4. Personal observation of Negroes and acquaintance with them as clients and associates in law, medicine, social work and in the ministry</td>
+    <td><ol> 
+<li>All the traits that a white man has. The Negro is free from rancor, naturally, because of lack of training. *As a race* they have not the power of sustained mental effort and concentration or analysis.  
+<li>Some few Negroes show mentality equal to white man. The Negro is simple, imaginative and optimistic.  
+<li>Not certain that there are any traits of mentality or  character which *are solely the possession* of Negroes or whites. The average Negro is more courteous, fonder of the finer graces of life, and, on the whole more kindly and cheerful in adversity than the average white person. The Negro’s capacity for loyalty exceeds the white man’s; the average white person excels the average Negro in drive, persistence and punctuality. 
+Emotional and unreliable.  
+<li>All of the traits that other races possess.  
+<li>No distinguishable traits.  
+<li>Cannot distinguish between Negroes and other people of little training and opportunity. They are loyal and improvident.  
+<li>Physically, mentally and morally the Negro race is  quite different from the white race. When these differences are thoroughly understood by both races their relations are amicable. But the intermarriage of any black and white is disastrous to both races.
+    </ol>
+    </td>
+  </tr>
+  
+  <tr>
+<td colspan="2">II. Scientific Experimentation and Study  
+</tr>
+
+
+<tr>
+    <td>1. General reading of anthropoligical and statistical theory and summaries of Army Mental Tests and treatises by Galton, Pearson, etc., on individual and racial differences	</td>
+    <td>
+    <ol> 
+<li>Generally supposed to average less in intelligence and mentality than white. 
+<li>No traits of any absolutely distinguishable character. Am fairly convinced that the Negro is less intelligent than white. I am prepared to believe that emotional and artistic talent may be superior in Negroes.
+<li>The average mental power of Negroes I should not  consider as high as that of the white race. Their character I believe not to be stable. I am inclined to think that they are impelled to action by emotions and not inhibited by conventions as much as white people.
+<li>Opinions are not blanket ones applied to whole  group indiscriminately. In one sense the Negro possesses the same mental and character traits as all other races. In a quantitative sense they are on the average of limited “academic intelligence” although individual Negroes are found all along the scale from idiots to near genius. There is no reason to suppose a priori that they are any different from other races in capacity to be socialized, hence good citizens with proper training.  
+<li>None in kind; all in degree. There is probably more feeblemindedness among Negroes; less education and culture; less training in business and in ethics; less experience in adjustment. I do not believe these traits to be inherited. They are merely the result of environment and opportunity.  
+<li>Inferior mentally. Not all. I recall at least 4 of possibly a hundred who surpassed many of their white fellows.
+</ol>
+</td>
+</tr>
+
+<tr>
+    <td>2. Personal Application of Mental Tests</td>
+    <td>
+    <ol> 
+<li>As a class the Negro is of lower mental rank than white. Morality is less well founded than that of white.  
+<li>It has not been proved that there are qualitative differences; apparently good evidence that in general intellectual ability Negroes as a whole are somewhat inferior to American white people. Of course, there is much over-lapping in the range of mentality, many Negroes excelling whites in intelligence.  
+<li>All traits that are and would be possessed by individuals placed in similar environment. They do not vary innately from any other race as far as my knowledge goes. Psychological testing has never established its ability to test innate capacity.
+</ol>
+</td>
+</tr>
+
+
+  <tr>
+<td colspan="2">III. General Reading and Observation 
+<td></td>
+</tr>
+
+
+<tr>
+    <td>1. History, literature, and immigration and related sociological sources</td>
+    <td>
+    <ol> 
+<li> Docility, joviality, indolence. Not impressed with mentality of Negro students.
+<li> Mentality below that of average.
+<li> There are some limitations to mental development believed by psychologists to be racial. But the arrestive power of limited opportunity and economic handicap has not as yet been determined. Supposed to be light hearted, improvident and fond of clothes, kindly and generous.
+</ol>
+</td>
+</tr>
+
+
+<tr>
+<td>2. Slight observation and information from others interested in subject</td>
+<td>
+<ol> 
+<li> Highly emotional.
+<li> Joyousness and disposition to conform.
+
+</ol>
+</td>
+</tr>
+
+ <tr>
+<td colspan="2">No Contact or Experience of Consequence
+</tr>
+ <tr>
+ <td>
+ <td>
+ <ol>
+ <li>Do not know of distinguishing mental or character traits (5 replies).
+ </ol>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+[477]{.pagenum}
+From contact with Negro servants and with a limited number of Negro school children *instability of character, superstitious-ness, laziness, irresponsibility, moral laxity, mental inferiority, unreliability, naiveté, emotionalism, and incapacity for sustained mental effort are deduced as negroid traits by 9 out of a total of 18 persons*. Not only is this association which was restricted to servants inadequate as a logical basis for judging the mentality of Negroes as a race, but the conclusions based upon this limited contact are contradicted by the experience of 7 other persons who had employed Negroes; by that of 1 who knew Negroes intimately; and by that of another who taught Negroes in college and had associated with intellectual Negroes. None of the latter 9 persons had discovered mental differences or could distinguish between Negroes and other people of little training and opportunity.
+
+The second main classification “Scientific Experimentation and Study” comprises 9 persons, mainly college teachers, whose opinions were based almost wholly upon scientific studies, having themselves either administered mental tests to Negroes or studied the literature on racial and individual differences of mentality, and, the general anthropological and statistical theory involved in the subject. This classification may be roughly sub-divided under the three following headings:
+
+1. Those who from scientific study found no distinguishable traits of mentality among Negroes:
+2. Those who found distinguishable[478]{.pagenum} mental traits and believed them to be racial and inherent; and
+3. Those who found mental differences but attributed them to social environment rather than to heredity and race.
+
+In the first class there was only one person; in the second there were five; and in the third there were 3 persons---a wide variety of opinion among college professors and teachers all of whose opinions were based upon almost identical scientific data.
+
+
+The opinions outlined above pass as legal tender on “Race.”  They have gained wide currency, first, by the fabrication of fictions on Negro character and mentality; second, by the crystallization of these fictions into dogmas of racial, biological and psychological superiority and inferiority in justification of the status quo; third, by the constant exploitation of these dogmas by certain investigators whenever race difference has furnished easy explanation of phenomena, which, while readily lending themselves to an interpretation on the basis of race, have been shown by later less subjective inquiry to be caused by factors more social than racial; and above all, by the popularization of these things through press, pulpit, school and other media of popular education until racial fictions gain general acceptance and become intrenched social habit which by verbalization is translated into a public opinion on the Negro. This public opinion is not wholly the contemporary mind’s creation; it is a part of American heritage on race. It persists although the more flagrant aspects of its economic determinants have been obliterated. Its universality is felt in the arrangements of almost every social institution. Even in the labor movement color-caste feeling has determined the degree and manner of
+Negro affiliation. And the logic which teaches that the ultimate interests of socially disadvantaged whites and blacks are more coincidental than that of white capitalists and white wage-earners or of black capitalists and black wage-earners has not convinced either American white workers or Negroes of its soundness as the American Federation of Labor’s policy relative to the organization of Negro workers exemplifies. Aside from the operation of peculiar economic forces within the Federation to which should be ascribed its oscillating attitude toward the organization of Negroes, is the fact that the proletariat just as the bourgeoisie cuts its social cloth according to tradition-pattern.[^fn22]
+
+Another sidelight on the universality of the popular Negro stereotype is the opinions of the psychologists reflected in main classification II in the foregoing table. The psychologists are probably not entirely immune to its unconscious influence, despite their maturing habit of academic objectivity. An analysis of the mental tests and the judgment of Negro mentality based upon them, seems to reveal a prescience for discovering Negro inferiority. Nevertheless, Negro inferiority is Negro inferiority no matter by whom invented. For all of the labyrinthal technology western civilization has put at our disposal, we have done little more than confirm the pronouncements of Jefferson, Carroll, Calhoun and the rest of the sages of democracy who consigned the Negro to a menial station in American life.
+
+[^fn22]: Vid. “A White and Black World in American Labor and Politics” Abram L. Harris, *Social Forces* December 192.5. Also, “Negro Labor’s Quarrel with White Workingmen,” Abram L. Harris, *Current History*, September, 1916.

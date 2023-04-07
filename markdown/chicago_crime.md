@@ -1,0 +1,252 @@
+---
+charset: 'UTF-8'
+lang:    'en'
+
+title: "Crime Among the Negroes of Chicago: A Social Study"
+short_title: Chicago Crime
+
+author:
+- name: Monroe N. Work
+- affiliation: ""
+
+
+citation: "*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223"
+citation_title: "Crime Among the Negroes of Chicago: A Social Study"
+citation_journal_title: American Journal of Sociology
+citation_author: Work, Monroe N.
+citation_publication_date: 1900
+citation_volume: 6
+citation_issue: 2
+citation_firstpage: 204
+citation_lastpage: 223
+
+---
+
+[204]{.pagenum}
+This study was begun in the month of November, 1897, and was carried on during the month of December, 1897, and the months of January, February, and May, 1898. The writer has endeavored to ascertain the facts, and to present those facts in such a way that we may be able to see from them the trend of crime among the negroes of Chicago, i.e. whether it is increasing or decreasing, and how this crime compares with the crime among the other peoples of the city, and of the country in general.
+
+## The Negro and Crime in the United States
+
+Before taking up the study of crime among the negroes of Chicago, it is perhaps best to notice briefly their crime for the entire United States. From the census reports we see that the total number of prisoners in the United States in 1890 was 82,329; of these 24,277 were negroes. The negro prisoners were 29.49 per cent, of the entire number. When the different nationalities are considered, the negroes are found to be the third highest.
+
+A further fact that the Eleventh Census shows in respect to negro crime is that there is a greater number of negro prisoners, in proportion to the negro population, in the northern than in the southern states. The Eleventh Census gives the ratio of prisoners in the United States by division of states. From this we see that the ratio of negro prisoners for the United States in 1890 was three times as great as that of the whites; also that the highest ratio of the negro prisoners was in the western division --- 9,527 to the million of negro population. Further we see that in the south central, north Atlantic, and western divisions the ratio of negro prisoners is four times as great as that of the white. In the south Atlantic the ratio is six times as great, and in the north central the ratio of negro [205]{.pagenum} prisoners is eight times as great as that of the white. This would seem to indicate that in the north central states there is a greater difference in the proportion of crime among the whites and negroes than in any other part of the United States.
+
+A study of the Eleventh Census tables shows that the ratio of negro prisoners to the negro population is greatest in the northern and western states; also that the greatest difference in the proportion of crime between the whites and negroes is in the northern and western states; this seems to indicate that in these states the negro is more given to crime than in the southern states. When we come to notice the criminality of the negroes of Chicago, we shall see whether or not this is true.
+
+### Increase of Crime from South Toward the North
+
+Another fact that is shown by the Eleventh Census reports on crime is that, taking the states from the south toward the north, there is a gradual increase in the proportion of negro prisoners to the negro population. It appears from this that from the south toward the north there is a corresponding increase of crime among the negroes.
+
+Taking Mississippi in the south central states for one starting-point, and South Carolina in the south Atlantic states for another, and going toward the north from these two points, we have in each case a gradual increase in the ratio of negro prisoners to the negro population as we go from state to state. It is further seen that this gradual increase of crime has followed certain natural and well-defined lines of travel. This increase is along the two natural highways from the south toward the north, viz., the Mississippi valley and the Atlantic seaboard.
+
+## The Negro Population of Chicago
+
+Chicago, situated on Lake Michigan at the intersection of the great inland arteries of trade and travel, is one of the foremost industrial and commercial centers of the world. It is the second-largest city in the United States, and had, according to the school census of 1896, a population of 1,616,635. The negro population has during the last thirty-six years increased in the city in about [206]{.pagenum} the same proportion as the total population. The Chicago river and its north branch divide the city into three sections or divisions, known as the north, west, and south divisions. The negro population in 1896 was divided among these three sections as follows: north division, 700; west division, 2,606; south division, 19,436.
+
+### Occupation
+
+The majority of the men are employed as railroad porters, waiters, janitors, elevator and bell boys, saloon porters, dock laborers, foundrymen, house servants, and coachmen. There are a few in the trades as carpenters, painters, etc., but these are decreasing. Several are in the employ of the United States government as clerks and carriers in the post-office. A few hold political appointments in the various departments of the county and city government. In the professions are found several doctors, dentists, lawyers, teachers, and clergymen. The women are with few exceptions engaged in domestic service.^[The writer has not had opportunity to make a careful and systematic study of the industrial condition of the negroes of the city, and does not claim that the foregoing classification of occupations is correct in all its details. He feels safe, however, in saying that in the main it is correct.] There is a large class of unemployed negroes in the city, numbering several hundreds. Could a careful census of this class be taken, it would no doubt be found to reach into the thousands. From this class the ranks of the criminals are recruited. Mention of this class will be made later on in this study.
+
+### Nativity
+
+The negroes of Chicago are from all parts of the United States; but the majority are from the middle west and south central states, Kentucky, Tennessee, and Missouri furnishing the largest number.
+
+### Church
+
+There are in the city twenty-four negro church organizations, scattered among the following denominations : Baptist, Catholic, Episcopal, Methodist Episcopal, African Methodist Episcopal, African Methodist Episcopal Zion, Free Methodist, and Presbyterian. Of these different church organizations, ten own their [207]{.pagenum} property and worship in their own edifices. The others are what are popularly known as mission churches. These twenty-four places of worship have an approximate seating capacity of 10,000 persons. The membership is about 6,500 persons. The church attendance, including all casual attendants at funerals and like occasions, is about 12,000. This would leave some 10, 000 non-churchgoers among the negroes, out of a total population of 22,742, or 44 per cent.
+
+In all social studies of the negro the church must be considered, for it is one of the greatest factors in his social life. It is not only the religious, but also the moral, intellectual, and social center of his community. When the church removes from a district inhabited by negroes, nothing else comes in to take its place. Hence in this study we must notice the relation of the negro churches to the negro slum population.
+
+*The proximity of the negro churches to the negro slum population.*---The negro slum population of Chicago may be said to be comprised within two districts, viz., the levee district in the south division, and the seventeenth and eighteenth wards in the west division, or that part of them that is bounded on the east by Jefferson street, on the north by Grand avenue, on the west by Ann street, and on the south by Madison street. These two wards had in 1896 a negro population of 895. About 800 of these are found within the limits just defined.
+
+The negro slum population of the levee district is comprised within the following boundaries, viz.: Michigan avenue on the east, Van Buren street on the north, the Chicago river on the west as far south as Sixteenth street; from this point by Clark street to Twenty-second street; on the south by Twenty-second street. This district had in 1896 a negro population of 4,900. Adding to this the 800 in the west division, we have a total of about 5,700 negro persons living in the slums of Chicago in 1896.
+
+In the districts mentioned above there are no negro churches, excepting one or two struggling missions. These 5,700 persons are practically outside the influence of the church. Of the numerous social settlements located in Chicago, none are in localities where the negroes dwell in any large numbers; so that the [208]{.pagenum}
+negroes of the slum districts are practically untouched by the social settlements. Of all the peoples dwelling in Chicago’s slums the negroes are the most neglected. They are the ones that need the most done for them; for it is among them, as we shall see, that the largest proportion of crime is found.
+
+### The Negro Slum Population and the Total Negro Population
+
+The negro slum population, as we have seen, is about 5,700. The total negro population of the city is seen to be 22,742; 25 per cent., or one-fourth of the entire number, live within the slum districts. It is to be noticed, however, that there is a large migration of the negroes from the slum districts toward the more respectable parts of the city; *e.g.* the first ward of the city, which is comprised within the district mentioned as the levee, had in 1890 a negro population of 3,381; in 1896 the negro population of this ward was 1,983, a decrease of 1,398.
+
+The total population of the first, second, seventeenth, and eighteenth wards of the city, which comprise within their boundaries the districts mentioned as slums, was 106,527. The negro population of these wards was 7,052. Of the entire population of these wards the percentage of negroes was 6.62. Of the city at large we have seen that in 1896 it was 1.40. From this it appears that Chicago has a very large negro slum population when compared with the total number of negroes living in the city. The Seventh Special Report of the Commissioner of Labor, 1894, *Slums of Great Cities*, p. 27, shows that Chicago has a larger negro slum population than either Baltimore, New York, or Philadelphia.
+
+It is to be remembered that not all the negroes living in the districts which have been designated as slums in this work are disreputable or criminal. Many of the best negro families of the city live within these districts. But in speaking of the population of the slums, all persons living therein must be included.
+
+## Crime of Negroes in Chicago
+
+*Police arrests*.---The arrests made from year to year in the police departments of great cities may be regarded as an [209]{.pagenum}
+approximately true indicator of the criminal tendencies of the times; for almost all the inmates of prisons have passed through the hands of the police. On the records of the police department are placed data relating to the individual arrested and the nature of his crime. Because of the data thus obtainable the writer has made a special study of the police records of the city. The period covered by this study is the past twenty-six years, *i.e.*, from 1872 to 1898. The police records of arrests in the city were not obtainable for an earlier period than 1872. The yearly reports back to this time were obtainable with the exception of the year 1873 and a part of the report for 1874.
+
+*Ratio of Negro Arrests to the Total Number of Arrests*
+
+| Year | Ratio   | Year | Ratio   | Year  | Ratio  | Year | Ratio   |
+|------|---------|------|---------|-------|--------|------|---------|
+| 1872 | 1 to 33 | 1882 | 1 to 22 | 1892 | 1 to 8 | 1897 | 1 to 11 |
+
+
+By this comparison it is seen that during the past twenty-six years there has been a very large increase in the number of negro arrests in proportion to the whole number of arrests.
+
+*Ratio of Negro Population to Total Population, Compared with the Ratio of Negro Arrests to Total Arrests*
+
+| Year | Year                                           |         |
+|------|------------------------------------------------|---------|
+| 1872 | Ratio of negro population to total population  | 1 to 81 |
+|      | Ratio of negro arrests to total arrests        | 1 to 33 |
+| 1880 | Ratio of negro population to total population  | 1 to 77 |
+|      | Ratio of negro arrests to total arrests        | 1 to 17 |
+| 1890 | Ratio of negro population to total population  | 1 to 77 |
+|      | Ratio of negro arrests to total arrests        | 1 to 11 |
+| 1892 | Ratio of negro population to total population  | 1 to 72 |
+|      | Ratio of negro arrests to total arrests        | 1 to 8  |
+| 1894 | Ratio of negro population to total population  | 1 to 63 |
+|      | Ratio of negro arrests to total arrests        | 1 to 11 |
+| 1896 | Ratio of negro population to total population  | 1 to 71 |
+|      | Ratio of negro arrests to total arrests        | 1 to 10 |
+
+By this comparison we see that in 1872 the ratio of negro arrests to total arrests was two and a half times as great as the ratio of the negro population to the total population; in 1880 the ratio of arrests was four and a half times as great; in 1890 the ratio of arrests was seven times as great; in 1892 the ratio of arrests was nine times as great; in 1894 the ratio of arrests was five and three-fourths times as great; and in 1896 the ratio [210]{.pagenum}
+of negro arrests to the total arrests was seven times as great as the ratio of the negro population to the total population.
+
+*Ratio of Negro Arrests to the Negro Population, Compared with the Ratio of Total Arrests to the Total Population*
+
+| Year | Ratio of negro arrests | Ratio of total arrests | Year | Ratio of negro arrests | Ratio of total arrests |
+|------|-----------------------|------------------------|------|-----------------------|------------------------|
+| 1872 | 1 to 5.6              | 1 to 13                | 1892 | 1 to 1.9              | 1 to 16                |
+| 1880 | 1 to 4.7              | 1 to 19                | 1894 | 1 to 3                | 1 to 17                |
+| 1890 | 1 to 2.6              | 1 to 17                | 1896 | 1 to 2.4              | 1 to 16                |
+
+From this table we see that the ratio of negro arrests to the negro population is from three to nine times as great as the ratio of total arrests to the total population.
+
+The ratio of negro arrests to the negro population, compared with the ratio of foreign arrests to the foreign population, shows that the ratio of arrests for the foreign population and the ratio of arrests for the total white population is about the same. The proportion of arrests among the negroes is about six times as great as the proportion of arrests among the total foreign population.
+
+With the exception of the Chinese, Greeks, and Mexicans, the proportion of arrests among the negroes to the negro population is from two to eighteen times as great as the proportion of arrests among the different foreign peoples of the city.
+
+A comparison of the negro arrests, 1890-97, in Chicago with the negro arrests in New York city, Washington, D. C., Richmond, Va., and Charleston, S. C., shows that the ratio of negro arrests in Charleston is but slightly greater than the ratio of negroes in the total city population; in Richmond the ratio of negro arrests to the total arrests is one and one-fourth times greater than the ratio of the negro population to the total population; in Washington and New York the ratio is one and a half times as great; while in Chicago the ratio of negro arrests to the total arrests is seven times as great as the ratio of the negro population to the total population.
+
+The negro arrests in these cities compared with the negro population show that the proportion of negro arrests in Chicago is from two to five times as great as the proportion of negro arrests to negro population in these cities; e. g., in 1890 the [211]{.pagenum}
+ratio of negro arrests to negro population was: in New York, 1 to 12; Washington, 1 to 6; Richmond, 1 to 8; Charleston, 1 to 13.5; Chicago, 1 to 2.6. In 1897 the ratio of negro arrests to negro population was: in New York (1896), 1 to 7; Washington, 1 to 6.3; Richmond, 1 to 9.7; Chicago, 1 to 3. In New York, during 1890, the ratio of negro arrests to the negro population was one and a half times as great as the ratio of white arrests to the white population; in Washington, Richmond, and Charleston the ratio of negro arrests was twice as great as the ratio of white arrests; in Chicago the ratio of negro arrests to the negro population was six times as great as the ratio of white arrests to the white population.
+
+*Chicago house of correction*.---The proportion of negro prisoners sent each year to the Chicago house of correction has increased during the past twenty-five years; the proportion sent from 1890 to 1898 is from two to three times as great as the proportion sent each year from 1873 to 1890.
+
+From a comparison of the proportion of negroes in the city’s population with the proportion of negroes confined in the house of correction we see that in 1873 the proportion of negro prisoners confined in the Chicago house of correction was 2.7 as great as the proportion of the negro population to the total population of the city; in 1880 the proportion of negro prisoners was 2.5 times as great; in 1890 it was 6 times as great; in 1892 it was 8 times as great; in 1894 it was 9 times as great; and in 1896 the proportion of negro prisoners confined in the Chicago house of correction to the total number of prisoners confined therein was 8 times as great as the proportion of negroes in the total population of the city.
+
+*Cook county jail*.---The city of Chicago is in Cook county, 111. The jail for the county is located in this city. The United States census for 1890 showed that there were at that time 279 prisoners in the Cook county jail, of whom 31 were negroes. The writer visited the jail February 3, 1898. On that day there were 400 prisoners, of whom 45 were negroes. The writer also visited the same institution May 23, 1898. At this time there were 431 prisoners, of whom 50 were negroes. 
+
+[212]{.pagenum}
+From these figures we see that on the day the census for the Cook county jail was taken in 1890 one-ninth of the prisoners were negroes. On the days that the writer visited the jail in February and May of this year about one-ninth of the prisoners were negroes. These facts would seem to indicate that about one-ninth of the prisoners confined in the Cook county jail during the past eight years have been negroes.
+
+The population of Cook county in 1890 was 1,191,222. The negro population of the county was 14,910. The ratio of negro population in the county to total population was 1 to 79. The ratio of negro prisoners in the jail to total prisoners was 1 to 9 in 1890 and 1898. Therefore we can conclude that the proportion of prisoners furnished to the county jail by the negro population of Cook county during the past eight years was from eight to nine times as great as it should have been according to the number of the negroes in the county.
+
+*Social relations*.---The writer was permitted to have access to the records of the police arrests of the city. From them he selected the records for the months of January and May, 1897. The reports of the second, third, and fourth police precincts were examined. These precincts are in the slum districts of the city, and within their boundaries the majority of negro arrests are made. The records for sixteen days in May and ten days in January were gone over, *.i.e.*y from May 15-30 and January 1-10. The negro arrests for these periods were picked out and classified according to sex, age, occupation, conjugal relation, and the nature of the complaints lodged against them. Four hundred and twenty-seven negro arrests were thus examined; 272 from May 15-30, and 155 from January 1-10.
+
+The writer was also allowed to have access to the records of criminals as kept in the Bureau of Identification of Criminals. Here he was enabled to examine the records of negro persons who had been classed as criminals. The writer examined 217 identifications of negroes, and noted the age, sex, occupation, nativity, complexion, and crime of the persons thus recorded.
+
+At the county jail he was unable to obtain anything except the number and sex of negro prisoners and the charges for
+[213]{.pagenum}
+which they were held. At the house of correction he was also unable to secure any data relative to the social relations of the negro prisoners.
+
+*Sex*.---Of the 427 negro arrests examined for the months of May, and January, 1897, 242 were males and 185 were females. Of the arrests made during the sixteen days of May, 128 were of males and 144 of females. Of the arrests made during the ten days of January, 114 were of males and 41 of females. From this we see that in May the arrests among the females exceeded those among the males, while in January the arrests among the males were almost three times as many as those among the females. This would seem to indicate that the proportion of female arrests to the male arrests is greatest in the warmer months. The largest number of all arrests is made in the warm months of spring and summer, *e.g.*, the greatest number of arrests made during 1897 was in the month of May---9,620; the smallest number made during any one month was in February---4,000. This is true of all years.
+
+The ratio of negro female arrests to the total negro arrests is 1 to 2.3. The total arrests for the city for 1897 were 83,680; female arrests, 17,624, or 1 to 4. From this we may infer that the proportion of female arrests among the negro population is about twice as great as the proportion of female arrests among the total population of the city.
+
+An examination of the police reports of the city of New York from 1889 to 1896 shows that the average ratio of yearly negro female arrests to total yearly negro arrests is 1 to 2. Therefore we may conclude that the proportion of negro female arrests is about the same in the two cities. In Charleston, S. C., the ratio of negro female arrests to the total yearly negro arrests is as follows: 1890, 1891, 1896, and 1897, 1 to 5; during 1892, 1893, 1894, and 1895, 1 to 6. From this we see that the proportion of negro female arrests to the total negro arrests is from two to three times as great in Chicago as in Charleston.
+
+Of the total number of prisoners in the county jail at the time of the taking of the United States census in 1890, 1 in every 10 was a female. Of the negro prisoners at this time 1 in
+[214]{.pagenum}
+every 3 was a female. On May 23, 1898, 1 in every 16 of the total number of prisoners was a female, and 1 in every 4.5 of the negro prisoners was a female. From this we may conclude that the proportion of female negro prisoners is greatly in excess of the proportion of total female prisoners confined in the county jail.
+
+### Age
+
+*Ages of negroes under general police arrests.*---The average age of the 427 negro persons arrested by the police in May, and January, 1897, was twenty-six years. The average age of the males was 25.29; females, 26.70. The largest number of arrests is of persons from twenty to twenty-five years of age. From a comparison of the total arrests for 1897 with the negro arrests for January and May it would appear that the proportion of arrests for the total population and the negro population is about the same for persons between the ages of ten and twenty; that the proportion of negro arrests is greater for persons between the ages of twenty and thirty than the proportion of total arrests for persons of that age; and that the proportion of total arrests is greater for all persons over thirty years of age than the proportion of negro arrests for negro persons over that age.
+
+*Classification of ages by sex.*--- Classified by sex it is seen that the largest number of male arrests among the negroes was of persons from twenty to twenty-five years of age, and that the majority of male arrests were of persons less than twenty-five years of age. Also that there was a larger percentage of negro male arrests between the ages of ten and twenty than the percentage of total arrests between those ages.
+
+Comparing the male and female arrests of negroes, we see that there is a less proportion of female arrests under the age of twenty years than of males, the percentage of female arrests under twenty years of age being 10, male 22; also that there is a greater proportion of arrests among the females from twenty to twenty-five years of age than among the males for that period, the percentage of female arrests for that period being 41 per cent., male 30 per cent.; from twenty-five to thirty years of age the proportion of female arrests is also greater than the males, the
+[215]{.pagenum}
+percentage of arrests of females from twenty-five to thirty being 29 per cent., males 22 per cent.; after thirty years of age the proportion of arrests is greater among the males than among the females. Twenty-four per cent, of the male arrests were of persons over thirty years of age, 19 per cent, of the female arrests were of persons above that age.
+
+*Ages of negro criminals*.---The persons whose ages we have been considering come under the head of general police arrests, *.i.e.* those arrested for all causes. We will now notice those classed as criminals.
+
+The ages here given are of persons who have been recorded in the Bureau of Identification of Criminals, and are therefore said to belong to the criminal class. The records of 217 negro persons were examined; 120 were males and 97 were females. The average age of these 217 negro persons was twenty-four years; average age of males was 25.74; females, 22.63. From a classification of ages it appears that the majority of negro persons classed as criminals are between the ages of fifteen and twenty-five years; that the largest proportion of persons is between the ages of twenty and twenty-five. Taking the percentages, we see that 64 per cent, are between the ages of fifteen and twenty-five years, and that 43 per cent, are between the ages of twenty and twenty-five years, and that only 36 per cent, are above twenty-five years of age.
+
+From the classification of ages under general negro arrests we see that 52 per cent, of the negro arrests were of persons between the ages of fifteen and twenty-five years, 35 per cent, between the ages of twenty and twenty-five years, and 48 per cent, beyond the age of twenty-five years. From the ages under general arrests we have seen that the average age of negro persons thus arrested was twenty-six years; the average age of males was 25.29 years, females 26.70 years. From the classification just considered we see that the average age of negro persons classed as criminals was twenty-four, males 25.74, females 22.63 years. This would seem to indicate that the proportion of negro persons, between the ages of fifteen and twenty-five years, classed as criminals, to the total number so classed, is greater than the
+[216]{.pagenum}
+proportion of negroes of this same age in the general negro arrests to the total general negro arrests of the city.
+
+*Classification of ages by sex.*---Classified by sex it appears that the majority of negro criminals are between the ages of fifteen and twenty-five years, and that the largest number of these are between the ages of twenty and twenty-five; also that there is a larger percentage of negro females between the ages of fifteen and twenty-five classed as criminals, to the total number of negro females so classed, than of negro males between the ages of fifteen and twenty-five, classed as criminals, to the total number of negro males so classed. We see further that 90 per cent, of the negro females classed as criminals, and 71 per cent, of the males so classed, are between the ages of fifteen and thirty.
+
+This would seem to indicate that negro female criminals become so at an earlier age than negro male criminals, and that criminality among the negro females decreases after the age of twenty-five years. Criminality among the negro males decreases after the age of thirty years. From this we may conclude that the tendency to crime among the negroes decreases with advancing age. This same fact is noted in the United States census reports on *Crime, Pauperism, and Benevolence*, Part I, “Analysis of Statistics,” p. 167.^[The facts here shown of the tendency to crime at an early age, the proportion of crime between the males and females, and the ages of negro criminals, are found to agree essentially with what is said in the same connection in the United States census report on *Crime, Pauperism, and Benevolence*, Part I, “Analysis of Statistics,” p. 155-67.]
+
+
+*Marital relations*.---The writer was unable to ascertain the marital relations of any class of negroes connected with crime, except those coming under the head of general police arrests.
+
+Of the 427 general negro arrests made by the police of the city in January and May of 1897, 60 were of married persons and 367 were of single. The percentage of married persons was 14. Of the total arrests of the city for 1897, 24,608 were of married and 59,072 were of single; 29 per cent, of the total arrests of the city were of married persons. This would seem to indicate that the proportion of single negro persons arrested to the total
+[217]{.pagenum}
+negro arrests is much greater than the proportion of single persons arrested for the total arrests of the city.
+
+The United States Census Reports on Crime for 1890 give the following percentages for the marital relations of negro prisoners: single, 62.43; married, 33.51. The percentage for the marital relation for the total prisoners of all nationalities was: single, 63.68; married, 30.04. The percentage for the whites was: single, 64.25; married, 28.54. From these percentages it is seen that the negroes had the largest percentage of married persons. The small percentage of married persons among the arrests of negroes in Chicago is probably accounted for by the fact that there is an ever-increasing number of young and unmarried negro persons coming into the large cities from the country and small towns.
+
+*Occupations*.--- Of the 427 negro persons under general arrests, 329, or 75 per cent., had, or gave, no occupation. Of the total arrests of the city, 83,680, for the year 1897, 32,158, or 38 per cent., were arrests of persons without occupations. This great difference in the percentage of persons arrested without occupations would seem to indicate that the proportion of negroes in Chicago without occupation or unemployed is greater than the proportion of unemployed in the total population of the city.
+
+From the list of occupations given by those classed as criminals it is seen that a greater number had an occupation of some sort than those under the head of general police arrests. Also that there is a more varied list of occupations. Comparing those without occupations, classed as criminals, with those without occupations in the total general arrests in the city, we see that the negroes still have a larger number without occupations. Thirty-eight per cent, of the total arrests were of persons without occupations; 42 per cent, of negro criminal arrests were of persons without occupations. Previous mention has been made of the large number of unemployed negroes in the city, and it is now seen that from this class comes a large part of the negro arrests and crimes.
+
+*Nativity*.---The 217 persons classed as criminals were from twenty-seven different states of the United States, and two foreign countries. This is due to the fact, which has already
+[218]{.pagenum}
+been noted, that the negro population of Chicago is made up of negroes from all parts of the United States. The largest number of criminals are from Kentucky, Tennessee, and Missouri. It is from these states, as has already been stated, that the largest number of negroes in Chicago has come.
+
+### Offenses.
+
+*Offenses of negro persons under the head of general arrests.*--- Comparing offenses for May and January with offenses of total arrests, we see that the proportionate number of negroes arrested for assault and burglary is less than the proportionate number of total arrests for these offenses; that for larceny and vagrancy the proportionate number of negroes arrested is about the same as the proportionate number of total arrests for these offenses; and that the proportionate number of negroes arrested for disorderly conduct and robbery is greater than the proportionate total arrests for these offenses.
+
+Classification of offenses.--- Eighty per cent, of offenses were against society; 74 per cent, of the offenses against society were offenses against public peace; 11 per cent, of the offenses were against property, and 7 per cent, against the person.
+
+*Offenses of negro persons classed as criminals*.---The three offenses of larceny, burglary, and robbery predominate; the largest number of persons, as would be expected, committed larceny; 42 per cent, of all offenses were larceny; 16 per cent, of all persons committed or attempted burglary, and 18 per cent, committed or attempted robbery. From the Census Reports on Crime for 1890 it is seen that 28 per cent, of all negro persons then confined in prison had been committed for larceny, 11 per cent, for burglary, and 2.38 per cent, for robbery.
+
+Offenses by sex.--- Burglary, it appears, is an offense committed almost entirely by the males; also that the tendency to commit larceny and robbery is greater among the females than among the males. Fifty-eight per cent, of the total offenses committed by the females were of larceny, against 26 per cent, of the males for this same offense; 24 per cent, of the females committed robbery, against 12 per cent, of the males for this
+[219]{.pagenum}
+offense. It is further seen that 5.15 per cent, of the females committed murder, against 1.66 per cent, of the males.
+
+Classification of offenses.---All the offenses come under the two groups of offenses against the person and against property; 84 per cent, of the offenses are against property.
+
+Classification by sex.---The majority of both male and female offenses are against property. But there is a larger percentage of female offenses against property than of male offenses against property. Eighty-seven per cent, of the total female offenses are against property, and 81 per cent, of the male offenses.
+
+*Jail offenses.*--- Negroes confined in jail May 23,1898. Thirty-six per cent, of the offenses were larceny, 24 per cent, were for murder or attempted murder, 16 per cent, were for robbery. This high percentage of homicides or attempted homicide is to be noticed.
+
+Offenses by sex.--- The largest number of males committed larceny---38 per cent.; 27 per cent, of the females committed larceny. The largest number of the females committed robbery--- 36 per cent.; 10 per cent, of the male offenses were of robbery. Eighteen per cent, of the females were held for murder, and 5 per cent, of the males. We have already seen under the head of negroes classed as criminals that there was a larger percentage of females charged with robbery and murder than of males; therefore we may conclude that the negro females of Chicago have more of a tendency for robbery and homicide than the males.
+
+Classification of offenses.---The largest percentage of offenses is against property --- 68 per cent.; 28 per cent, of the offenses are against the person, and 4 per cent, against society.
+
+Comparing this classification with the classification of offenses under negroes classed as criminals, and with the census report on crime (1890), it is seen that there is a larger percentage of offenses against property than of any other offenses among the negroes of the United States. It is also seen that this tendency is more manifested among the negroes of Chicago than of the country at large.
+
+Classification by sex.--- Classified by sex, all the offenses of negro females examined under jail arrests fall under the head of
+[220]{.pagenum}
+person and property; the offenses against the person, 36 per cent., is greater than the per cent, of male offenses against the person, 25 per cent. An examination of negro female offenses under general arrests and of those classed as criminals shows that all the female offenses considered come under the head of person and property. For the country at large one-third of all offenses of negro females are against society. It is also seen that there is a larger per cent, of male offenses against society in the country at large than in Chicago; that there is a larger percentage of offenses against the person among the negroes of the country at large than of Chicago, and that offenses against property predominate among both male and female negroes in Chicago.
+
+*Complexion and offenses*.--- Of the 217 records examined it was found that 72 were of persons of black complexion, *.i.e.* the negro blood predominated; 145 were of light complexion or of mixed blood, *.i.e.*, Caucasian blood predominated. As to the crimes committed by these different-complexioned criminals, the blacks committed more of the offenses against the person and the mulattoes against property. Of the four cases of rape that have been noted two were by blacks and two were by mulattoes; of the seven murder cases noted six were by black persons, five females and one male.
+
+*Age and offenses.*--- Under the head of negroes classed as criminals there were thirty-seven persons between the ages of fifteen and twenty years. Considering the offenses of these persons, it is seen that larceny offenses have the largest percentage--- 43 per cent.; robbery comes next, 30 per cent.; then burglary, 21 per cent.; and assaults, 6 per cent. We may then conclude that with negro criminals under twenty years of age the tendency to commit offenses is in the following order: the greatest tendency is to commit larceny, then robbery, burglary, and assaults.
+
+By sex it is seen that the tendency to larceny and assault is greatest among the females under twenty years of age; that the tendency to robbery is about the same in each sex; and that burglary is exclusively confined to the males.
+
+[221]{.pagenum}
+Classifying the offenses, it is seen that 94.59 per cent, of the offenses are against property and 5.41 per cent, against the person; therefore we may say that the offenses of negro criminals under twenty years of age are very largely against property. By sexes it is seen that 100 per cent, of the male offenses were against property and 89 per cent, of the female are against property. We see that 11 per cent, of the female offenses are against the person; therefore we may conclude that the tendency to crime against the person is much stronger in negro females under twenty years of age than in negro males under that age.
+
+Of the seven murder cases noted under the head of negroes classed as criminals it was seen that five were by females and two by males. The ages of the females were respectively 22, 26, 27, 30, and 34 years. The ages of the males were 29 and 31 years. The average age of females is seen to be 27.80 years. The average age of the males is 30 years. This, with what we have already seen in connection with offenses committed by persons under twenty years of age, would seem to indicate that murder is not committed at as early an age as larceny, burglary, and robbery; it also appears that the females committed murder at an earlier age than the males.
+
+*Habits*.---The writer was unable to collect any data relative to the habits of negro criminals, beyond the fact that the opium habit is quite prevalent among them and is increasing.
+
+*Literacy and illiteracy*.--- Of the literacy and illiteracy of the negro criminals of Chicago no data were collected. It is to be presumed, however, because of the general educational advancement of the negro, and the fact that the majority of them are less than twenty-five years of age, that the greater number of the negro criminals of Chicago are literate.
+
+### Is Crime Increasing?
+
+During the past twenty-five years there has been a very great increase in the proportion of negroes arrested in the city, and the numbers confined in the jail and house of correction, to the proportion of negroes in the city’s population. The per cent, of negro arrests in the total arrests has increased slightly in the
+[222]{.pagenum}
+past five years, from 1893-7, over the previous five years, from 1888-92. The average per cent, of negro arrests in the total arrests of the city 1888-92 was 9.41; 1893-7 the average percentage was 9.50. The average percentage 1893-7 was 6.42. Judging from this, crime among the negroes of Chicago appears to be on the increase at the present time.
+
+## The Cause of this Excess of Crime
+
+The question now arises: Why this excess of crime among the negroes of Chicago and of the United States in general? Are they advancing or retrograding? F. L. Hoffman, in *Race Traits and Tendencies of the American Negro*, “Publication of American Economic Association,” Vol. XI, 1896, takes the position that the negro is retrograding. Since his emancipation he has made no real advancement in a moral or social way. The fact that his tendency is downward accounts for a large part of his excess of crime.
+
+If the American negro is degenerating, then his degeneracy does, in a large measure, account for his excess of crime. On the other hand, if he is not degenerating, but making progress in civilization, then his excess of crime must be accounted for on other grounds. Going on the hypothesis of his social advancement, may we not say that, since his emancipation, he has been in a transitional state---a transition from a state of slavery to one of freedom? During all these years he has been endeavoring to adjust himself to his new environment. He has had to endure the economic stress and strain attendant upon this transition. The fact that he is in this transitional state from a lower to a higher plane of development accounts for a part, at least, of his excess of crime. Within this transition the economic stress under which he has labored appears to be the main factor. In the South his economic condition is better in many ways than in the North. In those places where his economic condition is the best his rate of crime is the lowest. The reverse is also true: where his economic condition is poorest his rate of crime is the highest. His economic condition is poorer in Chicago than in the southern cities noted.
+
+[223]{.pagenum}
+There are other causes common to all races that enter into the life of the negro and tend to increase his criminality. These should not be overlooked. There are race characteristics peculiar to him that also help. But it appears to the writer that the fact of the negro being in a transitional state, and the economic phase of this transition, accounts for a large part of the excess of negro crime in the United States.

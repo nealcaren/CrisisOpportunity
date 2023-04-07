@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+
+$if(citation_journal_title)$
+  <meta name="citation_journal_title" content="$citation_journal_title$">
+$endif$
+$if(title)$
+  <meta name="citation_title" content="$title$">
+$endif$
+$if(citation_author)$
+  <meta name="citation_author" content="$citation_author$">
+$endif$
+$if(citation_publication_date)$
+  <meta name="citation_publication_date" content="$citation_publication_date$">
+$endif$
+$if(citation_volume)$
+  <meta name="citation_volume" content="$citation_volume$">
+$endif$
+$if(citation_issue)$
+  <meta name="citation_issue" content="$citation_issue$">
+$endif$
+$if(citation_firstpage)$
+  <meta name="citation_firstpage" content="$citation_firstpage$">
+$endif$
+$if(citation_lastpage)$
+  <meta name="citation_lastpage" content="$citation_lastpage$">
+$endif$
+
+
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+$if(quotes)$
+  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+$if(math)$
+  $math$
+$endif$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body>
+
+
+
+  <nav class="sticky-content">
+    <span class="publisher"><a href="../index.html">Crisis Horizon</a></span>
+    <span class="title">$short_title$</span>
+</nav>
+
+$for(include-before)$
+$include-before$
+$endfor$
+$if(title)$
+
+
+<h1 class="title">$title$</h1>
+
+
+$for(author)$
+<h2 class="author">$author.name$</h2>
+<p class="affilation"><em>$author.affiliation$</em></p>
+$endfor$
+
+
+$endif$
+$if(toc)$
+<nav id="$idprefix$TOC">
+$toc$
+</nav>
+$endif$
+
+$if(citation)$
+
+<p class="citation">$citation$</p>
+
+$endif$
+
+$if(abstract)$
+
+<p class="abstract"><strong>Abstract: </strong>$abstract$</p>
+
+$endif$
+<hr>
+
+
+$body$
+</body>
+</html>
