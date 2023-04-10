@@ -226,9 +226,13 @@ Address given at the First Sociological Club, ca. 1897.
 
 
 # Forthcoming
+* Harris, Abram L. "A White and Black World in American Labor and Politics."   *Social Forces*, Dec., 1925, Vol. 4, No. 2 (Dec., 1925), pp. 376-383
 * Miller, Kelly. "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." *American Negro Academy Occasional Papers,* No 1. 1897. 
-
+* Johnson, Charles S.  andå Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
+* Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
 * Reid, Ira De A. "Negro Immigration to the United States."  *Social Forces*, Mar., 1938, Vol. 16, No. 3 (Mar., 1938), pp. 411-417
+* Andrews, Norman P. "The Negro in Politics" *The Journal of Negro History* 1920 5:4, 420-436. 
+
 
 ::: center
 About [[Crisis *&* Opportunity]{.smallcaps}](about.html)
