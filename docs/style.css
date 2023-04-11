@@ -367,5 +367,7 @@ img.logol {
     vertical-align: middle;
     display: inline
   }
-
+  .motto {
+    text-align: center;
+}
 }

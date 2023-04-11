@@ -1,5 +1,5 @@
 
-[This site reprints inaccessible, ignored, or forgotten works of sociology by Black scholars written in the first part of the twentieth century.]{.motto}
+[Reviving forgotten sociology]{.motto}
 
 # Social Movements
 
