@@ -3,7 +3,8 @@
    Please leave this notice in place, along with any additional credits below.
    ---------------------------------------------------------------
    Title: Kultiad
-   Author: Peter Sziebig - @bigpe; Modified by Kieran Healy - @kjhealy
+   Author: Peter Sziebig - @bigpe; Modified by Kieran Healy - @kjhealy; 
+   Modified again by Neal Caren.
    Description: Easy to read. Pandoc style elements. 
 */
 
@@ -293,10 +294,10 @@ img.logol {
   }
 
 .title {
-    text-align: center;
+    text-align: left;
     font-family: "PT Serif","Calluna","Arno Pro",serif;
     font-variant: small-caps;
-    font-size: 2.8em;
+    font-size: 2.6em;
     font-weight: bold;
     line-height: .95;
     margin-bottom: 1rem;
@@ -324,6 +325,12 @@ h2 {
 }
 
 @media (min-width: 740px) {
+
+.title {
+        text-align: center;
+        font-size: 2.8em;
+    }
+
 body {
     max-width: 49rem;
     margin-left: auto;
