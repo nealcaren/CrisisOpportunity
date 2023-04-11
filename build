@@ -27,11 +27,8 @@ pandoc -s -o docs/articles/bleached.html --template=templates/article_html.templ
 pandoc -s -o docs/articles/unrest.html --template=templates/article_html.template markdown/unrest.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/chicago_crime.html --template=templates/article_html.template markdown/chicago_crime.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/race_traits.html --template=templates/article_html.template markdown/race_traits.md  --css="article_style.css?id=$v"
-
-
-
-pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css=style.css --metadata title="About"
-pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css=style.css --metadata title="C&O"
+pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css="style.css?id=$v" --metadata title="About"
+pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css="style.css?id=$v" --metadata title="C&O"
 
 
 
