@@ -320,7 +320,6 @@ h2 {
 }
 
 .motto {
-    display:inline-block;
     font-style: italic;
 }
 
@@ -345,12 +344,12 @@ h2 {
     font-weight: bold;
     margin: 0.1em 0;
 }
-.motto {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 6rem;
-    padding-right: 6rem;
-}
+    .motto {
+        margin: auto;
+        text-align: center;
+        display: block;
+        padding-right: 2rem;
+    }
 
 img.logol {
     width: 36px;
