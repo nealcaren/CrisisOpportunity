@@ -1,5 +1,31 @@
-
 [Reviving forgotten sociology]{.motto}
+
+# Labor
+
+
+::: article
+## [The Negro in Times of Industrial Unrest](articles/unrest.html)
+### Richard R. Wright, Jr.
+[![](Images/worker_2.png)](articles/unrest.html)
+<em>Charities,</em> 1905.
+:::
+
+
+::: article
+## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
+### Abram L. Harris
+[![](Images/worker_1.png)](articles/lilywhite.html)
+<em>Current History,</em> 1926.
+:::
+
+
+::: article
+## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
+### Ira De A. Reid
+[![](Images/factory_1.png)](articles/lilywhite.html)
+<em>Opportunity,</em> 1930.
+:::
+
 
 # Social Movements
 
@@ -74,7 +100,6 @@
 :::
 
 
-
 ::: article
 ## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
 ### E. Franklin Frazier
@@ -84,10 +109,17 @@
 
 
 ::: article
-## [Is the American Negro to Remain Black or Become Bleached?](articles/bleached.html)
+## [Is the American Negro to Remain Black?](articles/bleached.html)
 ### Kelly Miller
 [![](Images/econ_life.png)](articles/bleached.html)
 <em>South Atlantic Quarterly</em> 1926.
+:::
+
+::: article
+## &nbsp;<br>[Two Racial Islands in Alabama](articles/two_islands.html)
+### Horace Mann Bond
+[![](Images/two_islands.png)](articles/two_islands.html)
+<em>American Journal of Sociology</em> 1931.
 :::
 
 
@@ -109,34 +141,9 @@
 :::
 
 
-# Labor
 
 
-::: article
-## [The Negro in Times of Industrial Unrest](articles/unrest.html)
-### Richard R. Wright, Jr.
-[![](Images/worker_2.png)](articles/unrest.html)
-<em>Charities,</em> 1905.
-:::
-
-
-::: article
-## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
-### Abram L. Harris
-[![](Images/worker_1.png)](articles/lilywhite.html)
-<em>Current History,</em> 1926.
-:::
-
-
-::: article
-## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
-### Ira De A. Reid
-[![](Images/factory_1.png)](articles/lilywhite.html)
-<em>Opportunity,</em> 1930.
-:::
-
-
-# Great Migration
+# Great Migration and Urban Sociology
 
 ::: article
 ## [Negroes Move North: Departure from the South](articles/north_i.html)
@@ -145,15 +152,12 @@
 <em>The Survey,</em> May 1918.
 :::
 
-
 ::: article
 ## [The New Frontage of American Life](articles/frontage.html)
 ### Charles S. Johnson
 [![](Images/douglas_3.png)](articles/frontage.html)
 <em>The New Negro An Interpretation,</em> 1925.
 :::
-
-# Urban Sociology
 
 ::: article
 ## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
