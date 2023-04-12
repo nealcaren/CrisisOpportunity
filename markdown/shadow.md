@@ -10,6 +10,8 @@ author:
 - affiliation: ""
 
 
+documentclass: scrbook
+toc: true
 
 citation: "1934. University of Chicago Press."
 citation_title: Shadow of the Plantation
