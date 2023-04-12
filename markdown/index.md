@@ -67,28 +67,6 @@
 ::: 
 
 
-# White Racism
-::: article
-## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
-### Charles S. Johnson
-[![](Images/douglas_4.png)](articles/public_opinion.html)
-<em>Opportunity,</em> 1923.
-:::
-
-::: article
-## [Economic Foundations of American Race Division](articles/foundations.html)
-### Abram L. Harris
-[![](Images/political_2.png)](articles/political_2.html)
-<em>Social Forces,</em> 1927.
-:::
-
-
-::: article
-##  [The Pathology of Race Prejudice](articles/pathology.html)
-### E. Franklin Frazier
-[![](Images/douglas_2.png)](articles/pathology.html)
-<em>The Forum,</em> 1927.
-:::
 
 # Racial Identity
 
@@ -123,7 +101,8 @@
 :::
 
 
-# Racial Violence
+
+# White Racism and Racial Violence
 
 ::: article
 ## [Chicago and It's Eight Reasons](articles/chicago.html)
@@ -132,12 +111,36 @@
 <em>The Crisis,</em> 1919.
 :::
 
+::: article
+## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
+### Charles S. Johnson
+[![](Images/douglas_4.png)](articles/public_opinion.html)
+<em>Opportunity,</em> 1923.
+:::
+
 
 ::: article
 ## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago.html)
 ### Kelly Miller
 [![](Images/crowd_3.png)](articles/negro_in_chicago.html)
 <em>American Journal of Sociology,</em> 1924.
+:::
+
+
+
+::: article
+## [Economic Foundations of American Race Division](articles/foundations.html)
+### Abram L. Harris
+[![](Images/political_2.png)](articles/political_2.html)
+<em>Social Forces,</em> 1927.
+:::
+
+
+::: article
+##  [The Pathology of Race Prejudice](articles/pathology.html)
+### E. Franklin Frazier
+[![](Images/douglas_2.png)](articles/pathology.html)
+<em>The Forum,</em> 1927.
 :::
 
 
