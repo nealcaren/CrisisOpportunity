@@ -34,7 +34,7 @@ body{
 }
 
 body, textarea {
-    line-height: 1.4;
+    line-height: 1.25;
 }
 
 
@@ -369,4 +369,9 @@ img.logol {
   .motto {
     text-align: center;
 }
+body, textarea {
+    line-height: 1.4;
+}
+
+
 }
