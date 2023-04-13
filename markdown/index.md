@@ -1,4 +1,4 @@
-[Reviving forgotten sociology]{.motto}
+[&nbsp;]{.motto}
 
 # Labor
 
