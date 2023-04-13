@@ -27,6 +27,17 @@
 :::
 
 
+::: article
+## [Conflict of Caste and Class in an American Industry](articles/caste_and_class.html)
+### Charles S. Johnson
+[![](Images/migration_1.png)](articles/caste_and_class.html "Image inspired by Jacob Lawrence's 'The Migration of the Negro, Panel no. 1.'")
+<em>American Journal of Sociology,</em> 1936.
+:::
+
+
+
+
+
 # Social Movements
 
 ::: article
@@ -114,7 +125,7 @@
 ::: article
 ## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
-[![](Images/shout.png)](articles/public_opinion.html "Image inspired by Aaron Douglas's 'Toiler')
+[![](Images/shout.png)](articles/public_opinion.html "Image inspired by Aaron Douglas's 'Toiler'")
 <em>Opportunity,</em> 1923.
 :::
 
@@ -122,7 +133,7 @@
 ::: article
 ## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago.html)
 ### Kelly Miller
-[![](Images/city_sketch.png)](articles/negro_in_chicago.html "Image inspired by Allan Freelon's 'City Scene') 
+[![](Images/city_sketch.png)](articles/negro_in_chicago.html "Image inspired by Allan Freelon's 'City Scene'") 
 <em>American Journal of Sociology,</em> 1924.
 :::
 
@@ -151,14 +162,14 @@
 ::: article
 ## [Negroes Move North: Departure from the South](articles/north_i.html)
 ### George Edmund Haynes
-[![](Images/douglas_6.png)](articles/frontage.html)
+[![](Images/douglas_6.png)](articles/north_i.html)
 <em>The Survey,</em> May 1918.
 :::
 
 ::: article
 ## [The New Frontage of American Life](articles/frontage.html)
 ### Charles S. Johnson
-[![](Images/douglas_3.png)](articles/frontage.html)
+[![](Images/black_belts.png)](articles/frontage.html "Inspired by Archibald Motley's 'Black Belt'")
 <em>The New Negro An Interpretation,</em> 1925.
 :::
 
@@ -235,7 +246,7 @@ Address given at the First Sociological Club, ca. 1897.
 # Forthcoming
 * Harris, Abram L. "A White and Black World in American Labor and Politics."   *Social Forces*, Dec., 1925, Vol. 4, No. 2 (Dec., 1925), pp. 376-383
 * Miller, Kelly. "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." *American Negro Academy Occasional Papers,* No 1. 1897. 
-* Johnson, Charles S.  andå Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
+* Johnson, Charles S.  and Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
 * Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
 * Reid, Ira De A. "Negro Immigration to the United States."  *Social Forces*, Mar., 1938, Vol. 16, No. 3 (Mar., 1938), pp. 411-417
 * Andrews, Norman P. "The Negro in Politics" *The Journal of Negro History* 1920 5:4, 420-436. 
