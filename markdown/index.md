@@ -6,7 +6,7 @@
 ::: article
 ## [The Negro in Times of Industrial Unrest](articles/unrest.html)
 ### Richard R. Wright, Jr.
-[![](Images/work.png)](articles/unrest.html)
+[![](Images/work.png)](articles/unrest.html "Image inspired by Allan Freelon's 'Road Menders'")
 <em>Charities,</em> 1905.
 :::
 
@@ -81,7 +81,7 @@
 ::: article
 ## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
 ### E. Franklin Frazier
-[![](Images/trumpet.png)](articles/selfexpression.html)
+[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day')
 <em>Ebony and Topaz: A Collectanea,</em> 1927.
 :::
 
@@ -114,7 +114,7 @@
 ::: article
 ## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
-[![](Images/shout.png)](articles/public_opinion.html ")
+[![](Images/shout.png)](articles/public_opinion.html "Image inspired by Aaron Douglas's 'Toiler')
 <em>Opportunity,</em> 1923.
 :::
 
@@ -122,7 +122,7 @@
 ::: article
 ## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago.html)
 ### Kelly Miller
-[![](Images/city_sketch.png)](articles/negro_in_chicago.html)
+[![](Images/city_sketch.png)](articles/negro_in_chicago.html "Image inspired by Allan Freelon's 'City Scene') 
 <em>American Journal of Sociology,</em> 1924.
 :::
 
