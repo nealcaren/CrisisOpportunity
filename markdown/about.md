@@ -1,6 +1,6 @@
 &nbsp;
 
-[Crisis *&* Opportunity]{.smallcaps} is a compilation of largely-forgotten works by Black scholars in the early decades of sociology. These articles offer valuable insights into the evolution of sociology and its relevance to current social issues. Many of the selected works have been previously hard to access or ignored, and their republication aims to promote a more diverse and inclusive understanding of the discipline's history.
+[Crisis *&* Opportunity]{.smallcaps} is a compilation of largely-forgotten works by Black scholars from the early decades of sociology. These articles offer valuable insights into the evolution of sociology and its relevance to current social issues. Many of the selected works have been previously hard to access or ignored, and their republication aims to promote a more diverse and inclusive understanding of the discipline's history.
 
 Articles printed in [Crisis *&* Opportunity]{.smallcaps} reflect the interdisciplinary nature of early sociology, with sociologists publishing in a variety of outlets and scholars not formally trained in sociology publishing work in sociology journals or in dialogue with sociologists.  
 
