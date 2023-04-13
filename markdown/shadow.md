@@ -10,7 +10,7 @@ author:
 - affiliation: ""
 
 
-documentclass: scrbook
+documentclass: book
 toc: true
 
 citation: "1934. University of Chicago Press."
@@ -256,7 +256,7 @@ The state of Alabama is a country of extremes, from the rich Black Belt area, su
 
 The Black Belt begins along the line marked by Montgomery and includes eleven counties, among which is Macon, the focal point of these observations. This section has been historically the home of the planters. South of the Black Belt is the sandy stretch which has resisted cultivation and was little known throughout the early history of the state except to be dismissed with the designation of “Piney Woods.”
 
-[7]{.pagenum}
+[8]{.pagenum}
 As an important cotton-growing state Alabama utilized the plantation system to the fullest. It has always been even more agricultural than Virginia or Carolina. Importance as a cotton state was manifested for years in the state’s larger balance of exports of cotton over the southern states, and the dominance of the plantation system is marked historically in the fact that a bare 7 per cent of the population in 1860 owned 333,000 slaves.
 
 The cotton counties were the chief slave counties and are, consequently, the plantation counties. They are Dallas, Marengo, Greene, Sumter, Lowndes, Macon, and Montgomery. Sections of the state, poorer as well as less adapted to cotton cultivation, had an average of 1.4 slaves to the household. Madison County, in the northern part of the state, actually had over two families to each slave. The average number of slaves per plantation for the state was 4.5. However, in the cotton counties the large plantations set the prevailing patterns. In 1850 there were 790 owners of from 30 to 70 slaves; 550 owners with from 70 to 100 slaves; 312 with from 100 to 200; 24 with from 200 to 300; and 10 with from 300 to 500. Thus some 150,000 of the slaves were on plantations of 50 or more, even though only a third of the white people were directly interested in slavery.^[*Ibid*.]
@@ -314,14 +314,16 @@ According to the 1930 census there were 22,320 Negroes in the total population o
 The 612 families on which this study is based are located in eight settlements. These settlements as indicated do not conform to 
 po[15]{.pagenum}litical or administrative divisions. Although in some cases they have the same name as the precincts for the county, they represent more nearly the community to which the people feel they belong. Table I shows the number of families in each subcommunity included in this study.
 
-In the 612 families there were 2,432 persons, or slightly more than a tenth of the Negro population in the county in 1930. The age distribution of the Negro population in this county showed the deviations from the formal distribution which have been attribut-
+*Table I* 
+\tiny
 
-TABLE I
+| Location | Shorter | Hardeway | Milstead | Chesson | Liverpool | Tuskegee | Sambo | Cecil | Total |
+|----------|---------|----------|----------|---------|-----------|----------|-------|-------|-------|
+| Number   | 276     | 187      | 33       | 60      | 21        | 23       | 5     | 7     | 612   |
 
-Location	Shorter	Hardeway	MilUtead	Cheaaon	Liverpool	Tuakegee	Sambo	Cecil	Total
-Number		276	187	33	60	21	*3	5	7	6l2
+\normalsize
 
-ed to migration.^[See U.S. Census, II (1920), 150, for the following comment: “The age distribution of Negroes in urban and in rural areas is affected by the very considerable country-to-city migration of persons of this race in the active-age periods, and probably also by differences in birth and death rates between the two classes of communities."] It has also been recognized that these deviations from the normal distribution are due to errors in estimating ages.^[“The age distribution of males and females among the Negroes, as reported, presents a peculiar condition. According to the returns there was in 1920 a slight excess of females below the age of 15, a much larger excess of the age period from 15 to 34, and a small excess in the 35-44 period. From the ages of 45 to 69, however, there was a very great excess of men, followed by a moderate excess in the 70-79 periods and an excess of women in the ages above 79. The ratio of males to females for the Negroes in the period 45-49 (138.7 to 100) was higher than the foreign born white ratio for any age period. The number of Negro men enumerated as in this age period in 1920 (320,506) was almost exactly the same as the number reported for the age period 35-39 in 1910 (320,450). This, of course, is an impossibility, for the reason that, disregarding the slight effect of immigration, the group of Negro men 45 to 49 years of age in 1920 would be made up solely of the survivors of those in the 35-39 age period in 1910. Inconsistencies of this character are due, wholly or in large part, to errors in estimating ages which cannot be ascertained exactly by the enumerators’’ (*ibid*., pp. 147-48).]
+In the 612 families there were 2,432 persons, or slightly more than a tenth of the Negro population in the county in 1930. The age distribution of the Negro population in this county showed the deviations from the formal distribution which have been attributed to migration.^[See U.S. Census, II (1920), 150, for the following comment: “The age distribution of Negroes in urban and in rural areas is affected by the very considerable country-to-city migration of persons of this race in the active-age periods, and probably also by differences in birth and death rates between the two classes of communities."] It has also been recognized that these deviations from the normal distribution are due to errors in estimating ages.^[“The age distribution of males and females among the Negroes, as reported, presents a peculiar condition. According to the returns there was in 1920 a slight excess of females below the age of 15, a much larger excess of the age period from 15 to 34, and a small excess in the 35-44 period. From the ages of 45 to 69, however, there was a very great excess of men, followed by a moderate excess in the 70-79 periods and an excess of women in the ages above 79. The ratio of males to females for the Negroes in the period 45-49 (138.7 to 100) was higher than the foreign born white ratio for any age period. The number of Negro men enumerated as in this age period in 1920 (320,506) was almost exactly the same as the number reported for the age period 35-39 in 1910 (320,450). This, of course, is an impossibility, for the reason that, disregarding the slight effect of immigration, the group of Negro men 45 to 49 years of age in 1920 would be made up solely of the survivors of those in the 35-39 age period in 1910. Inconsistencies of this character are due, wholly or in large part, to errors in estimating ages which cannot be ascertained exactly by the enumerators’’ (*ibid*., pp. 147-48).]
 In addition to the smallness of the group between twenty and forty, there is also a smaller group of children under one than appears in the age distribution of the native white population.^[“The age distribution of the Negroes and Indians, which is practically unaffected by immigration, is roughly similar to that of native whites. Among the Negroes, however, the proportion of children under 5 is considerably smaller than in any of the native white classes, while the proportions in the age periods from 10-29 years are smaller than the corresponding ones for either the native whites of native parentage or those of foreign parentage’* (*ibid*. p. 146).] 
 The 612 families included in this study show the same abnormalities,
 [16]{.pagenum}
@@ -389,164 +391,120 @@ As a matter of fact, there has been practically no change in the farming methods
 [24]{.pagenum}
 can buy what you want. Dey puts it down on the book when you buy something. I jes tell de thing jes like it is. When you want a sack of flour or anything you go up dere and get it, but you don’t have no money to buy it with. De people last year ’vanced around $8.00 and $9.00 to de plow. Long bout dis time last year we got a draw and no more. Course I scuffles round here and works a little extra to keep from being worried so much.
 
-The man what owns dis place sold it and is living ’tween five and six
+> The man what owns dis place sold it and is living ’tween five and six
 miles of Montgomery. Mr. -------- stays	near	Montgomery.	His	men
-
-stays up yonder in the big house. He sold it to Mr.---. Mr.-------
-
+stays up yonder in the big house. He sold it to Mr. --------. Mr. --------
 was better than Mr--------. Mr. ------- never	did	’vance	anything.
-
-Mr.-------jes got tired of staying here and he sold to Mr.-. These
-
+Mr. -------- jes got tired of staying here and he sold to Mr. -------- These
 here people here is regular farmers. Dey get more land den anybody in Alabama. Got about 700 and some odd acres I guess. They got a lot of people on this place. I jes couldn’t tell you how many farmers is on dis place. Dey is all back across in here and way back over yonder.
 
 The acuteness of the struggle for a livelihood has issued from the effort to produce enough from the constantly weakening soil with the simple old tools of two generations ago. The reluctance to change has been bound up with the decreasing importance of the area itself as a cotton center, the increasing economic helplessness of the families, the high illiteracy, and the almost total absence of money. Even if these were different, there would remain to be overcome a group inertness and habituation to their status which was notable near the beginning of their new era of freedom, and about which the old people themselves remark in their stories of the past. For years after their emancipation they not only were unable to grasp the significance of their changed status, but automatically kept up the habits of earlier association in every detail and in spite of the assurance by their “white folks” that certain controls were no longer in operation.
 
-Even atta we was free, the niggers wouldn’t believe it. They kept going ter master and mistress atta passes to go off and they would say, “Steve, I don’t give no more passes now, dem days is over; you is as free as me.” The niggers couldn’t believe hit atta they heard hit. I’m tellin’ de truf. The niggers was still scared, too. You know the niggers and white folks b’longed ter de same church, and went ter de same church. The niggers would set behin’ de ’titions. The preacher would tell ’em slavery was over and ter come on in the church, but they wouldn’t.
+> Even atta we was free, the niggers wouldn’t believe it. They kept going ter master and mistress atta passes to go off and they would say, “Steve, I don’t give no more passes now, dem days is over; you is as free as me.” The niggers couldn’t believe hit atta they heard hit. I’m tellin’ de truf. The niggers was still scared, too. You know the niggers and white folks b’longed ter de same church, and went ter de same church. The niggers would set behin’ de ’titions. The preacher would tell ’em slavery was over and ter come on in the church, but they wouldn’t.
+[25]{.pagenum}
+Then the white folks got scared dat dem niggers might kill ’em. Dat de reason why niggers and white folks ain’t goin' ter de same church now. ’Cause mattered not how the preacher would say tain’t no mo’ master and mistress now come on inside, some of them niggers wouldn’t. They stood outside by them windows wid day heads stickin’ in. Yes, honey, I ’members dis all.
 
-24
+### Physical Survivals of the Past
 
-Original from UNIVERSITY OF MICHIGAN
+Memories of the past are reinforced by numerous physical features---the old and sagging cabins and the decaying splendor of the big house, the rotting remains of the old plank road, and occasionally the untouched breastworks of the Civil War itself, which changed their political status. Will Daniels reckoned that the house in which he lived was ninety years old, and gave this explanation in support of his speculation:
 
-Then the white folks got scared dat dem niggers might kill ’em. Dat de reason why niggers and white folks ain’t goin* ter de same church now. ’Cause mattered not how the preacher would say tain’t no mo’ master and mistress now come on inside, some of them niggers wouldn’t. They stood outside by them windows wid day heads stickin’ in. Yes, honey, I ’members dis all.
-
-Physical Survivals of the Past
-
-Memories of the past are reinforced by numerous physical features—the old and sagging cabins and the decaying splendor of the big house, the rotting remains of the old plank road, and occasionally the untouched breastworks of the Civil War itself, which changed their political status. Will Daniels reckoned that the house in which he lived was ninety years old, and gave this explanation in support of his speculation:
-
-There’s an old man ’round here who used to wait on Dr.-----and
-
+> There’s an old man ’round here who used to wait on Dr. ------ and
 he’s about ninety years old. The house was here when he was a boy. Old man Parker owned it in slavery times. The slave cabin was tore down when I moved here. The young Missus comes up here to see it sometimes now. She says she just likes to see the old place where she was raised. She showed us the print of the man’s hand that built it. It’s right there in the hall.
 
-Stability
+### Stability
 
 Year after year these families continue to live and move about within the county, but rarely leaving it. The tenant turnover is high. Their one outstanding means of asserting freedom is this mobility, although within an extremely narrow range. Planters can never tell which of their tenants will be with them the following year, but of one thing they can be fairly certain—that they will not leave the county, and in time, will rotate, of their own choice, back to the point of beginning. The past is thus kept ever alive, since it is never seriously broken. This restlessness is expressed in such statements as:
 
-We moved here in 1925. Getting time to move now, ain’t it? We been here too long now.
+> We moved here in 1925. Getting time to move now, ain’t it? We been here too long now.
 
-I just been here two months....I’ll just be here ’til the last of the
-
+> I just been here two months.... I’ll just be here ’til the last of the
 month and everything gets settlement.
 
-25
+[26]{.pagenum}
 
-Digitized by Google
+> We jest been moved out here from Montgomery this year, so my husband could get on his feet, but we expects ter move soon’s cotton time’s over.
 
-Original from UNIVERSITY OF MICHIGAN
+> When people ain’t got no home they move back from one place to the other.
 
-We jest been moved out here from Montgomery this year, so my husband could get on his feet, but we expects ter move soon’s cotton time’s over.
+> We moved here from Shorter, but ’fore we went ter Shorter we lived in La Place. We been farming all our lives ’cept two years when we was in town.
 
-When people ain’t got no home they move back from one place to the other.
-
-We moved here from Shorter, but ’fore we went ter Shorter we lived in La Place. We been farming all our lives ’cept two years when we was in town.
 
 The statistical evidence from the 612 families gives more exactness to these comments. About 60 per cent of the 400 husbands, or male heads of the families, were born in Macon County. About
-
-TABLE II
-
-Birthplace of the Male and Female Heads of 612 Negro Families in Macon County
-
-	Dead  or  Away	Border  State*	Some  Other  Southern  State	Same  State	Same  Place  .or Neighborhood	Unknown	Total
-Male heads of families	  Wives of female heads of	152	I	15	270	7	8	453
-families		33	O	II	354	7	2	407
-
 34 per cent of these men were born elsewhere in the state of Alabama, and only about 5 per cent were born in other southern states. In the case of the 579 wives, or female heads of families, about the same proportions were born on the place or in the neighborhood. This seems to correspond roughly with the general immobility of the residents of the state. For the United States as a whole, 67.2 per cent of the population were born in the state in which they reside while for Alabama 87.5 per cent.
 
-There were those who could point to the spot “where pappy was., sot free, right over yonder.” One old resident pointed his foot at the stove beside which his parent had died on the very plantation where he had served his master as a slave. The second generation was there, renting from the family of the former owner of his
+*Table II. Birthplace of the Male and Female Heads of 612 Negro Families in Macon County*
 
-26
+\tiny
 
-Digitized by Goode
+|                                   | Dead or Away | Border States | Some Other Southern State | Same State | Same Place Or Neighborhood | Unknown | Total |
+|-----------------------------------|--------------|---------------|---------------------------|------------|----------------------------|:-------:|-------|
+| Male heads of families            | 152          | 1             | 15                        | 270        | 7                          | 8       | 453   |
+| Wives of female heads of families | 33           | 0             | 11                        | 354        | 7                          | 2       | 407   |
 
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+\normalsize
+There were those who could point to the spot “where pappy was sot free, right over yonder.” One old resident pointed his foot at the stove beside which his parent had died on the very plantation where he had served his master as a slave. The second generation was there, renting from the family of the former owner of his
+[27]{.pagenum}
 father. Ann Weaver is living in the cabin given her by her white folks when they moved to Montgomery. “It's mine tel I die,” she said with triumph. “She went down ter de courthouse and had it done, so dat effen she die fo’ me they can’t take it.” One resident confided: “I’ve never been out of the state. Reason is, I wouldn’t know what way to go.”
 
-The Tradition of Dependence
+### The Tradition of Dependence
 
 For those still living in the county there is, it would appear, one unfailing rule of life. If they would get along with least difficulty, they should get for themselves a protecting white family. “We have mighty good white folks friends, and ef you have white folks for your friends, dey can’t do you no harm.”
 
 How this practical policy, so clearly a carry-over from the past, can extend to controlling advice on the most intimate matters is apparent in the domestic experience of Josh Walker, who sought the judgment of his white folks on the merits of his last wife.
 
-This last wife I had, she was a blizzard, ’cause she was no count no way. Hers was her way and my way was my way, and she quit me and carried off all the money I had. I had done saved $80. She carried hit all off. That was six years ago. She was too old ter draw water and ter cook, but she had the devil in her. Hit tuk four men to carry her away. She went off. Said I’d be wid my chillen an’ she gwine ter hers. White folks tole me that I better let that hussy go and atta she left I jes shouted.
+> This last wife I had, she was a blizzard, ’cause she was no count no way. Hers was her way and my way was my way, and she quit me and carried off all the money I had. I had done saved $80. She carried hit all off. That was six years ago. She was too old ter draw water and ter cook, but she had the devil in her. Hit tuk four men to carry her away. She went off. Said I’d be wid my chillen an’ she gwine ter hers. *White folks tole me that I better let that hussy go and atta she left I jes shouted.*
 
 The sense of dependence has crystallized into a sort of practical philosophy: “You know when you get where you can’t behave yourself you better move. You got to be loyal, ’cause you know this is a white man’s country.” And again: “You can’t do nothing with white folks agin you.” Nor should it be supposed that all of this dependence upon the whites is based upon fear. There is a solid and sympathetic paternalism among some of the white planters toward their Negro dependents which is felt by them. Max Wheeler, for example, was a stolid, illiterate, but hard-working head of a large family who experienced the perennial difficulty of breaking even. Year after year he went to his white planter friend. Times were hard in 1931. Max explained sympathetically: “He
-
-27
-
-Original from UNIVERSITY OF MICHIGAN
-
-said he had so many folks on his place to feed, it was hard, but he wanted to try to give all of us a little feed.” It worried Mandy Williams that she was “so sympathetic with white people.” Sarah Owens, now sixty-eight, achieved her own freedom from the sense of dependence by claiming her white folks as her own. “Honey, them’s my own good white folks. Done had me [in the family] since I been three weeks old and had my mother before me.” Booker T. Washington^ in a memorial address at Hampton Institute in 1893 on General Samuel Chapman Armstrong, was, no doubt, thinking of his neighbors back of Tuskegee when he asserted with vigor: “The greatest injury that slavery did my people was to deprive them of that sense of self-dependence, habits of economy, and executive power which are the glory and distinction of the Anglo-Saxon race.”
+[28]{.pagenum}
+said he had so many folks on his place to feed, it was hard, but he wanted to try to give all of us a little feed.” It worried Mandy Williams that she was “so sympathetic with white people.” Sarah Owens, now sixty-eight, achieved her own freedom from the sense of dependence by claiming her white folks as her own. “Honey, them’s my own good white folks. Done had me [in the family] since I been three weeks old and had my mother before me.” Booker T. Washington, in a memorial address at Hampton Institute in 1893 on General Samuel Chapman Armstrong, was, no doubt, thinking of his neighbors back of Tuskegee when he asserted with vigor: “The greatest injury that slavery did my people was to deprive them of that sense of self-dependence, habits of economy, and executive power which are the glory and distinction of the Anglo-Saxon race.”
 
 The older members of the community who find ample satisfaction in the old culture are aware of some queer difference manifesting themselves in the attitude of younger members who have been away from the section. Caleb Humphries went to Montgomery to try to adjust a matter of compensation due on the death of one of his sons in France. He tells the story now of how he was sitting in the Red Cross Office in Montgomery when a white man, whom he promptly assumed to be the governor of Alabama, came in. “He was tall as a tree, and I said ‘Good-morning, Master’—so uster slavery I still say hit. They [other Negroes] stopped me from hit ’cause dey say you don’t hafta treat white folks like dat dese days.”
 
 The community is being affected at present by at least four factors: migration of a portion of the younger generation away to other states and to the North; return of a small number of younger members who have been sent away to school in Tuskegee and Montgomery; the gradually increasing literacy of the group, beginning with the children; and the introduction of certain programs of welfare from the outside. The interplay of these new influences with the old habits of the community may be observed in some measure against the background of the present structure and functioning of the Negro family in this area.
 
-28
+[29]{.pagenum}
 
-Digitized by
+##  The People
 
-Original from UNIVERSITY OF MICHIGAN
-
-THE PEOPLE
-
-Father, mother, and their children are regarded by sociologists as constituting not only the elementary family but the fundamental social group. It is the universal pattern, and based on this primary structure, which, in our culture, places the father most commonly at the head of the group, principles are formulated regulating marriage, defining legitimacy, and determining what is respectable, even moral. The families of this area are, by this standard, considerably atypical. In the first place, the r61e of the mother is of much greater importance than in the more familiar American family group. This has some explanation in the slave origins of these families. Children usually remained with the mother; the father was incidental and could very easily be sold away. The role of the mother could be extended to that of “mammy” for the children of the white families.
+Father, mother, and their children are regarded by sociologists as constituting not only the elementary family but the fundamental social group. It is the universal pattern, and based on this primary structure, which, in our culture, places the father most commonly at the head of the group, principles are formulated regulating marriage, defining legitimacy, and determining what is respectable, even moral. The families of this area are, by this standard, considerably atypical. In the first place, the ro1e of the mother is of much greater importance than in the more familiar American family group. This has some explanation in the slave origins of these families. Children usually remained with the mother; the father was incidental and could very easily be sold away. The role of the mother could be extended to that of “mammy” for the children of the white families.
 
 The position of the Negro woman always gave her greater advantage in dealing with their white masters than the Negro men. Historically she has been the controlling influence over the children. Moreover, in the present economic arrangement, her earning power is only a fraction less than that of the male, and as a rule more sustained and dependable. She, thus, in large part escapes one of the most powerful factors influencing adversely the status of women generally in the American society.
 
 A second factor marking a difference is the free grouping of relatives and adopted children in the households. Although the households kept themselves strictly separated (92 per cent of the families or households lived under separate roofs), there were 30 per cent of the families with one to six relatives living with them. The families with children were the ones most likely to add relatives to their numbers. Over half of the families had other relatives in the household.
 
 In the third place, just about two-thirds of the families could be considered normal in the sense of having both parents living or living together with the children. To this circumstance is added another factor of the almost indiscriminate gathering under the
-
-29
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
+[30]{.pagenum}
 same roof of half-brothers and half-sisters from various marriages, and of adopted children taken freely into the home. The makeup of households which sociologically may be regarded as families often constitutes a confusing picture. Mary Grigsby, of Hardaway, is head of one of the oldest families of the county. She gives an account of the present structure of her household. It contains some of her own children, her children’s children, and half-brothers’ and sisters’ natural and legal children. It is, however, as stable as most of the others. As a matter of fact, it represents a sort of selection. Those members who find themselves too violently at variance with the codes by which the family is regulated move out and away, or are expelled.
 
-My mamma she said I was born on ole man Chum Crack's place on Boyd’s farm. After I married I left ’em, but I been here nigh on about forty years [in the neighborhood]. I been on this spot nigh about thirty years. My mamma died this year. She were about one hundred years old. This is my son and grandson. One of my sons he married and live over yonder, but this grandson lives with me.
+> My mamma she said I was born on ole man Chum Crack's place on Boyd’s farm. After I married I left ’em, but I been here nigh on about forty years [in the neighborhood]. I been on this spot nigh about thirty years. My mamma died this year. She were about one hundred years old. This is my son and grandson. One of my sons he married and live over yonder, but this grandson lives with me.
 
-Charlie [grandson] was born here. My daughter were in Birmingham, but she come on here. She went back for a while and stay with her husband, then she sent Charley back and give him to me.
+> Charlie [grandson] was born here. My daughter were in Birmingham, but she come on here. She went back for a while and stay with her husband, then she sent Charley back and give him to me.
 
-Richard was born in Montgomery, and Dave, my son who is Richard’s daddy, give him to me when he was three years old.
+> Richard was born in Montgomery, and Dave, my son who is Richard’s daddy, give him to me when he was three years old.
 
-Sam Burkes is Charley’s father. I don’t know where he at. His home, though, in Birmingham. Mary Burkes, my daughter, and Charley was married, though, right down there.
+> Sam Burkes is Charley’s father. I don’t know where he at. His home, though, in Birmingham. Mary Burkes, my daughter, and Charley was married, though, right down there.
 
-Lena Parsons was Richard’s mother. She and Dave wasn’t married.
+> Lena Parsons was Richard’s mother. She and Dave wasn’t married.
 
-I was the mother of fifteen children in all. I got six livin’. Some come live, but didn’t live no time, yet three got to be big chillen walkin’ ’bout fo’ dey dies. One boy got to be eighteen years old. He had that fever and from that spasms and spells and from the spells he fell in the fire and got burnt and never got over it. The other two just died with the fever.
+> I was the mother of fifteen children in all. I got six livin’. Some come live, but didn’t live no time, yet three got to be big chillen walkin’ ’bout fo’ dey dies. One boy got to be eighteen years old. He had that fever and from that spasms and spells and from the spells he fell in the fire and got burnt and never got over it. The other two just died with the fever.
 
-Charlie [another son], he goin’ on three years old when he died with the fever, too. With the others I go about five or six months and I lost ’em. I jest keep a losten em.
+> Charlie [another son], he goin’ on three years old when he died with the fever, too. With the others I go about five or six months and I lost ’em. I jest keep a losten em.
 
-That the last one I saved right there [pointing to another son], I had to work to save him. I had to go to the doctor. I got so weak I couldn’t hold ’em.
+> That the last one I saved right there [*pointing to another son*], I had to work to save him. I had to go to the doctor. I got so weak I couldn’t hold ’em.
 
-3°
 
-Digitized by
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-Gregory wasn’t the father of ’em all. He was the father of Janie and David [the oldest boy in Montgomery]. Robert Pitts is the father of the other four, Mary, Richard, Jessie, and Archie. I was married to Gregory by David Bracks. I wasn’t never married to Pitts.
+> [31]{.pagenum}Gregory wasn’t the father of ’em all. He was the father of Janie and David [the oldest boy in Montgomery]. Robert Pitts is the father of the other four, Mary, Richard, Jessie, and Archie. I was married to Gregory by David Bracks. I wasn’t never married to Pitts.
 
 A further fact about this community is that in almost half of the families one or more of the members of the original family group were away in other parts of the county or state, or in northern states. Of the 612 families there were only 317 with no members away, or about half, and those include the families with no children at all. In 295 families there were from 1 to 10 members absent. One hundred and twelve families had 1 person away; 70 had 2 persons away, 40 had 3 persons away, and 61 had 4 or more persons away. Moreover, those absent members when they leave the state are often cut off completely from the parent stock.
 
 In the case of the unlettered offspring, or even mates of the remaining family heads, the ties are sometimes carelessly allowed to break. It not infrequently happens, however, that children who leave push forward their education and become consciously separated by a vast cultural chasm. This had occurred in the case of the family in which the mother had remarried and given birth to three children by a second husband. Her two sons by a first marriage had left the county and begun their own education, which carried them through the State Normal School in Orangeburg, South Carolina. In her dreary two-room cabin, with one large bed as the only furniture, the fly-specked photographs of these two boys in collegiate cap and gown hung like strange, alien figures from the newspaper-covered walls. She did not know where they were or what they were doing. Nor had she seen them since they left. These photographs remained as almost mocking mementos of a separation as complete as death. Another family in similar circumstances had a son away who has become the head of a Negro educational institution, but who is likewise lost to them. Thus the community in throwing off its members escapes both the irritation of its disturbing miscreants and the elevating influence of its cultural misfits at the other extreme of the scale.
 
+[32]{.pagenum}
 
-
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
-Size of Families
+### Size of Families
 
 There were 1,344 children in these 612 families. Sixty-nine of these children were under one year of age and constituted 2.7 per cent of the 2,482 persons in all the families. This was higher than for the county as a whole. This age group constitutes 2.2 per cent of the entire population. Two hundred and twenty-nine of these children were under five years of age. This was 9 per cent of the entire group, or slightly less than the figure for the county as a whole, which was 10.0 per cent. Six hundred and thirty-two of the children were between the ages of five and fourteen and constituted 25.4 per cent of the 2,482 persons in these 612 families. This was
+slightly higher than the figure for the county as a whole, which was 23.9 per cent in 1920. If we take into consideration all the families, there are, on an average, 2.2 children to a family. But 189 of these families had no children, and if the average number of children for these families with children is calculated, there are 3.1 children to a family. Table III shows the distribution of these families according to the number of children.
 
 TABLE III
 
@@ -557,69 +515,36 @@ Children
 Families	0	1	%	3	4	5	6	7	8	9	10	11
 612		189	127	83	62	41	40	28	21	IO	6	3	2
 
-slightly higher than the figure for the county as a whole, which was 23.9 per cent in 1920. If we take into consideration all the families, there are, on an average, 2.2 children to a family. But 189 of these families had no children, and if the average number of children for these families with children is calculated, there are 3.1 children to a family. Table III shows the distribution of these families according to the number of children.
-
-Types of Family Structure
+### Types of Family Structure
 
 The environment has produced not one but many family types which, however, have numbers of traits in common. It is not immediately apparent just what have been the predominant influences in shaping their differences. There are families which are fairly stable and adjusted to the environment and its social codes. They have a distinct background, certain family traditions, a consciousness of integration, and they are sensitive to certain
-
-3^
-
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
+[33]{.pagenum}
 patterns of respectability which represent the more reflective moral sentiments of the group. These families appear among both the educated and the uneducated classes of the population and in varying proportions among owners, tenants, and croppers.
 
 The frequency in this community of the artificial or quasifamilies seems to warrant their classification as a type. They have the semblance of a normal and natural family, and function as one, but the members of the group are drawn into it by various circumstances rather than being a product of the original union. There are, again, those families which, though not bound by the formal sanctions, are held together for years by the strength of afFectional ties or the satisfactory character and mutual convenience of the arrangement. Multiple marriages are fairly common. Intransient family groups seem to be a product of the environment and are held together over periods by economic and other considerations of convenience. And just as these family forms are reflections of the environment, there have been developed physical adjustments with regard to both remarriage and the disposition of children. Equally important are the families whose organization and sentiments, though in accord with more advanced ideals of other communities, are in constant conflict with the dominant patterns of both the white and the Negro local community. Finally, there are those family groups which reflect definite disorganization as a result of the disintegration of traditional controls, and are yet unable or unwilling to adjust themselves to newer patterns of relations. All of these are affected in some degree by the social and cultural transition which the community is experiencing.
 
 The numerical distribution of these types of families can be suggested in these figures: in the 612 households there were 404 married couples or couples living together in common-law association. There was no male head in 152, or 25 per cent of these families. The male parent was either away or dead. The wife or female head of the household was absent from 33 of the families. About two-thirds of the families were normal family groupings. In 231 of the 404 couples married or living together the man and woman were each married or in marital association for the first time. In 24
-
-33
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+[34]{.pagenum}
 families the husband had been married more than once. In 74 families both man and woman had been married more than once. There were only 2 divorced persons who had not remarried. The community afforded no spinsters and extremely few bachelors.
 
-Stable Old Families with Strong Affectional Ties and a Family Tradition
+### Stable Old Families with Strong Affectional Ties and a Family Tradition
 
 The Haygood family was rooted in slavery, but father and mother, both illiterate, were married and had lived together over fifty years, reared children, established a family tradition of a sort, accumulated a little property, and retained their affection for each other. Ellen Haygood spoke thus of her background and relations with her husband until his very recent death:
 
-Yes, indeed, I may be old but I remember everything. I was born during slavery. Dem sho’ was bad times. If the niggers hadn’t been liberated by Abe Lincoln we’d still be the white folks’ niggers. The way them folks used to beat us was shameful. My white folks want rich. They was just good livers and they want so bad. I ain’t nebber forgotten my young mistress. She had the longest nose you ever seen, but she was
+> Yes, indeed, I may be old but I remember everything. I was born during slavery. Dem sho’ was bad times. If the niggers hadn’t been liberated by Abe Lincoln we’d still be the white folks’ niggers. The way them folks used to beat us was shameful. My white folks want rich. They was just good livers and they want so bad. I ain’t nebber forgotten my young mistress. She had the longest nose you ever seen, but she was sweet. Her name was S--------. All the niggers on the place called her
+“Miss Sis” and when I sees her now I calls her “Miss Sis.” She’s done got powerful old but she still lives right on the old place over yonder near Honey Cup. Yes’m right here in Shorters. Folks would raise the fence and put your end on one side and your head on the other and beat and beat them niggers. I was the onliest little nigger on the place when freedom come. The Yankees come through and said slavery’s done gone. Child, the niggers got to yelling and whooping all over the place. Some of ’em got kept in bondage as long as four years after freedom. The white folks jest wouldn’t loose us. Abe Lincoln touched a pen for the sign of freedom but all the niggers didn’t know. The Rebels didn’t tell us until some good white folks let the cat out of the bag. My husband he was off in the war. That was Jim. He done told me so much I ain’t nebber gonna forget. He got discharged right on Peach Street in Atlanta. Dere’s his picture on the wall. I gits here in my bed some night and puts on the flashlight on the picture and says, “I’m still all alone Jim---still your Ellen.” I know it ain’t gonna be long now ’fore I goes to him. He sho’ was a good husband. He used to cook and help me but we was married fifty-six years and I ain’t missed cooking his vittels but once. He got mad then and hit me. ... Then he was sad and said, “Scraps (used[35]{.pagenum} to call me Scraps), I hain’t nebber gonna hit you no mo; long’s I live,” and he sho didn’t. I loved that man.
 
-sweet. Her name was S--------. All the niggers on the place called her
+> The week ’fore he died he said, “Ellen, git my tax papers and all the pension papers. I’se gonna fix things so if I die you won’t have no trouble. I’se an old disable soldier and I’se gonna take care of you.” Well, we signed papers ’n’ all. Then he paid Miss Jessie $1.00 to come here and write all our names in the Bible in ink. See, I couldn’t write and Jim couldn’t but he’d been carryin’ all that in his head, and he knew if anything ever happen and it weren’t wrote down, it be hard for me. He was blind, too. Got blind from cooking so much. All that smoke was too much for his eyes. Well, I come nigh going blind too. Jim paid $100 for my eyes to get better. A white lady come here and tended like she was gonna do a heap for us and said she’d send some glasses but she ain’t done nothin.' After freedom I went to school ’till the one-legged man wrote me I couldn’t go no more without no money an’ we ain’t had nothin’ then. All we got we just cummulated. When my chilluns married I gave each one two sheets, three pillow cases, one half-dozen cups and saucers, and a piece of furniture. I treated ’em all the same. Just had to save to git all this, an’ if anybody knows how to save and scrape, I do. I gits all the slop ready for the chilluns and it don’t take much the way I fixes it. I done lost $700 in this Tuskegee bank when hit closed. I’se been saving that a long time and it sho’ got me bad.
 
-“Miss Sis” and when I sees her now I calls her “Miss Sis.” She’s done got powerful old but she still lives right on the old place over yonder near Honey Cup. Yes’m right here in Shorters. Folks would raise the fence and put your end on one side and your head on the other and beat and beat them niggers. I was the onliest little nigger on the place when freedom come. The Yankees come through and said slavery’s done gone. Child, the niggers got to yelling and whooping all over the place. Some of ’em got kept in bondage as long as four years after freedom. The white folks jest wouldn’t loose us. Abe Lincoln touched a pen for the sign of freedom but all the niggers didn’t know. The Rebels didn’t tell us until some good white folks let the cat out of the bag. My husband he was off in the war. That was Jim. He done told me so much I ain’t nebber gonna forget. He got discharged right on Peach Street in Atlanta. Dere’s his picture on the wall. I gits here in my bed some night and puts on the flashlight on the picture and says, “I’m still all alone Jim—still your Ellen.” I know it ain’t gonna be long now ’fore I goes to him. He sho’ was a good husband. He used to cook and help me but we was married fifty-six years and I ain’t missed cooking his vittels but once. He got mad then and hit me......Then he was sad and said, “Scraps (used
+> My husband died with the kidney trouble. He got drawed sores all on his legs. I got ’em now. Wait, I’m gonna show you. The children want me to go to Birmingham to the doctor. Dere’s a doctor there who can look plumb through you and see everything. Spects my heart is like this cause everything I got is dead but me and three chillun. I done had to stop breeding for six years on account of bad misfortune. I got a milk leg and a risen breast. The doctor is scared to lance it.
 
-34
+> Tain’t easy for me to keep up with all my spenses. I miss Jim for that. He sho’ could figure. Just two years ago next month he died. I make lines like this ... for dollars and circles for nickels. I send some of the money up North to the chilluns, but I done got careless and don’t keep it up.
 
-Digitized by Google
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-to call me Scraps), I hain’t nebber gonna hit you no mo* long’s I live,” and he sho didn’t. I loved that man.
-
-The week ’fore he died he said, “Ellen, git my tax papers and all the pension papers. I’se gonna fix things so if I die you won’t have no trouble. I’se an old disable soldier and I’se gonna take care of you.” Well, we signed papers ’n’ all. Then he paid Miss Jessie $1.00 to come here and write all our names in the Bible in ink. See, I couldn’t write and Jim couldn’t but he’d been carryin’ all that in his head, and he knew if anything ever happen and it weren’t wrote down, it be hard for me. He was blind, too. Got blind from cooking so much. All that smoke was too much for his eyes. Well, I come nigh going blind too. Jim paid $100 for my eyes to get better. A white lady come here and tended like she was gonna do a heap for us and said she’d send some glasses but she ain’t done nothin.* After freedom I went to school ’till the one-legged man wrote me I couldn’t go no more without no money an’ we ain’t had nothin’ then. All we got we just cummulated. When my chilluns married I gave each one two sheets, three pillow cases, one half-dozen cups and saucers, and a piece of furniture. I treated ’em all the same. Just had to save to git all this, an’ if anybody knows how to save and scrape, I do. I gits all the slop ready for the chilluns and it don’t take much the way I fixes it. I done lost $700 in this Tuskegee bank when hit closed. I’se been saving that a long time and it sho’ got me bad.
-
-My husband died with the kidney trouble. He got drawed sores all on his legs. I got ’em now. Wait, I’m gonna show you. The children want me to go to Birmingham to the doctor. Dere’s a doctor there who can look plumb through you and see everything. Spects my heart is like this cause everything I got is dead but me and three chillun. I done had to stop breeding for six years on account of bad misfortune. I got a milk leg and a risen breast. The doctor is scared to lance it.
-
-Tain’t easy for me to keep up with all my spenses. I miss Jim for that. He sho’ could figure. Just two years ago next month he died. I make lines like this .... for dollars and circles for nickels. I send some of the money up North to the chilluns, but I done got careless and don’t keep it up.
-
-Families with Strong Maternal Dominance and with Specific Moral Codes
+### Families with Strong Maternal Dominance and with Specific Moral Codes
 
 Frank Grice is forty-nine and his wife thirty-seven, and with their seven children, ranging in ages from eight to twenty years, they live in a five-room cottage which they are attempting to buy. All but one of the children are living at home. The house is old,
-
-35
-
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
-has never been painted, has half of the windows missing, and is, in the words of Mrs. Grice, “ 'bout to fall down.” They are cotton farmers and for the past three years have tried to make a living from thirty acres of questionable cotton land which they rent. Last year they raised two bales of cotton, both of which went to the white man from whom they had purchased a mule with which to do their plowing. Besides the cotton, however, Frank Grice raised three loads of corn, two hundred bundles of fodder, fifteen gallons of syrup, and three banks of potatoes, and this provided the food for the family and their total income in kind for the year.
+[36]{.pagenum}
+has never been painted, has half of the windows missing, and is, in the words of Mrs. Grice, “'bout to fall down.” They are cotton farmers and for the past three years have tried to make a living from thirty acres of questionable cotton land which they rent. Last year they raised two bales of cotton, both of which went to the white man from whom they had purchased a mule with which to do their plowing. Besides the cotton, however, Frank Grice raised three loads of corn, two hundred bundles of fodder, fifteen gallons of syrup, and three banks of potatoes, and this provided the food for the family and their total income in kind for the year.
 
 Jerry, next to the oldest boy, is the wanderer, and left home three years ago. They do not know where he is, and indeed have not heard from him since he left. But the family stands out as a distinct type in this neighborhood. Neither of the parents can read or write and none of the children has passed through the fourth grade in school. The parents wanted the children to be educated but even education was less important than “living decent.” The mother is the stronger element of the family, and has pronounced notions about morality and respectability. All the children but one, Jerry the wanderer, live quietly in the community and in marked social isolation. The attitude of the family is unique and important for its revolt against commonplace practices in the community.
 

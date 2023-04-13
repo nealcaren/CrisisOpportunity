@@ -6,7 +6,7 @@
 ::: article
 ## [The Negro in Times of Industrial Unrest](articles/unrest.html)
 ### Richard R. Wright, Jr.
-[![](Images/worker_2.png)](articles/unrest.html)
+[![](Images/work.png)](articles/unrest.html)
 <em>Charities,</em> 1905.
 :::
 
@@ -14,7 +14,7 @@
 ::: article
 ## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
 ### Abram L. Harris
-[![](Images/worker_1.png)](articles/lilywhite.html)
+[![](Images/marching_1.png)](articles/lilywhite.html)
 <em>Current History,</em> 1926.
 :::
 
@@ -22,7 +22,7 @@
 ::: article
 ## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
 ### Ira De A. Reid
-[![](Images/factory_1.png)](articles/lilywhite.html)
+[![](Images/crowd_3.png)](articles/lilywhite.html)
 <em>Opportunity,</em> 1930.
 :::
 
@@ -81,7 +81,7 @@
 ::: article
 ## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
 ### E. Franklin Frazier
-[![](Images/douglas_1.png)](articles/selfexpression.html)
+[![](Images/trumpet.png)](articles/selfexpression.html)
 <em>Ebony and Topaz: A Collectanea,</em> 1927.
 :::
 
@@ -107,14 +107,14 @@
 ::: article
 ## [Chicago and It's Eight Reasons](articles/chicago.html)
 ### Walter White
-[![](Images/riot_1.png)](articles/chicago.html)
+[![](Images/crowd_1.png)](articles/chicago.html)
 <em>The Crisis,</em> 1919.
 :::
 
 ::: article
 ## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
-[![](Images/douglas_4.png)](articles/public_opinion.html)
+[![](Images/shout.png)](articles/public_opinion.html ")
 <em>Opportunity,</em> 1923.
 :::
 
@@ -122,7 +122,7 @@
 ::: article
 ## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago.html)
 ### Kelly Miller
-[![](Images/crowd_3.png)](articles/negro_in_chicago.html)
+[![](Images/city_sketch.png)](articles/negro_in_chicago.html)
 <em>American Journal of Sociology,</em> 1924.
 :::
 
@@ -172,7 +172,7 @@
 ::: article
 ## &nbsp;<br>[Mirrors of Harlem](articles/mirrors_of_harlem.html) 
 ### Ira De A. Reid
-[![](Images/crowd_1.png)](articles/mirrors_of_harlem.html)
+[![](Images/lois_var.png)](articles/mirrors_of_harlem.html "Image inspired by Lois Mailou Jones's 'Self-Portrait'")
 <em>Social Forces,</em> 1927.
 :::
 
