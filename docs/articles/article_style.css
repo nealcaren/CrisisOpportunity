@@ -20,6 +20,16 @@ body {
   background: #fefefe;
 }
 
+.abstract {
+  color: #444343;
+  font-weight: normal;
+  font-family: "Fira Sans","Myriad Pro","Myriad",sans-serif;
+  font-size: 1.15rem;
+    line-height: 1.675rem;
+    padding-bottom: 1rem;
+  }
+
+}
 
 a {
   color: darkgrey;
