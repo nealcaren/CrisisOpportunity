@@ -315,13 +315,18 @@ The 612 families on which this study is based are located in eight settlements. 
 po[15]{.pagenum}litical or administrative divisions. Although in some cases they have the same name as the precincts for the county, they represent more nearly the community to which the people feel they belong. Table I shows the number of families in each subcommunity included in this study.
 
 *Table I* 
-\tiny
 
-| Location | Shorter | Hardeway | Milstead | Chesson | Liverpool | Tuskegee | Sambo | Cecil | Total |
-|----------|---------|----------|----------|---------|-----------|----------|-------|-------|-------|
-| Number   | 276     | 187      | 33       | 60      | 21        | 23       | 5     | 7     | 612   |
-
-\normalsize
+| Location  | Number |
+|-----------|--------|
+| Shorter   | 276    |
+| Hardeway  | 187    |
+| Milstead  | 33     |
+| Chesson   | 60     |
+| Liverpool | 21     |
+| Tuskegee  | 23     |
+| Sambo     | 5      |
+| Cecil     | 7      |
+| Total     | 612    |
 
 In the 612 families there were 2,432 persons, or slightly more than a tenth of the Negro population in the county in 1930. The age distribution of the Negro population in this county showed the deviations from the formal distribution which have been attributed to migration.^[See U.S. Census, II (1920), 150, for the following comment: “The age distribution of Negroes in urban and in rural areas is affected by the very considerable country-to-city migration of persons of this race in the active-age periods, and probably also by differences in birth and death rates between the two classes of communities."] It has also been recognized that these deviations from the normal distribution are due to errors in estimating ages.^[“The age distribution of males and females among the Negroes, as reported, presents a peculiar condition. According to the returns there was in 1920 a slight excess of females below the age of 15, a much larger excess of the age period from 15 to 34, and a small excess in the 35-44 period. From the ages of 45 to 69, however, there was a very great excess of men, followed by a moderate excess in the 70-79 periods and an excess of women in the ages above 79. The ratio of males to females for the Negroes in the period 45-49 (138.7 to 100) was higher than the foreign born white ratio for any age period. The number of Negro men enumerated as in this age period in 1920 (320,506) was almost exactly the same as the number reported for the age period 35-39 in 1910 (320,450). This, of course, is an impossibility, for the reason that, disregarding the slight effect of immigration, the group of Negro men 45 to 49 years of age in 1920 would be made up solely of the survivors of those in the 35-39 age period in 1910. Inconsistencies of this character are due, wholly or in large part, to errors in estimating ages which cannot be ascertained exactly by the enumerators’’ (*ibid*., pp. 147-48).]
 In addition to the smallness of the group between twenty and forty, there is also a smaller group of children under one than appears in the age distribution of the native white population.^[“The age distribution of the Negroes and Indians, which is practically unaffected by immigration, is roughly similar to that of native whites. Among the Negroes, however, the proportion of children under 5 is considerably smaller than in any of the native white classes, while the proportions in the age periods from 10-29 years are smaller than the corresponding ones for either the native whites of native parentage or those of foreign parentage’* (*ibid*. p. 146).] 
@@ -329,7 +334,7 @@ The 612 families included in this study show the same abnormalities,
 [16]{.pagenum}
 with the exception that the deficiency of males is noticeable at an earlier age period and the preponderance of females is greater. In the Negro population for the county there were, in 1930, 98 more males than females, while in our families the difference was much greater, being 146 for the 612 families. The deficiency of males in the population surveyed was almost entirely among those between the ages of fifteen and forty. The percentage of the population composed of boys between fifteen and nineteen was 1.4 per cent smaller than for the girls. This disproportion was even greater for men between twenty and thirty, and thirty and forty. The percentage in favor of the women amounted to 2.9 and 2.5, respectively, for these two age groups.
 
-### Survivals
+#### Survivals
 
 The essential observation of this study is that the Negro population of this section of Macon County has its own social heritage  which, in a relatively complete isolation, has had little chance for modification from without or within. Patterns of life, social codes, as well as social attitudes, were set in the economy of slavery. The political and economic revolution through which they have passed has affected only slightly the social relationships of the community or the mores upon which these relations have been based. The strength and apparent permanence of this early cultural set have made it virtually impossible for newer generations to escape the influence of the patterns of work and general social behavior transmitted by their elders.
 
@@ -345,7 +350,7 @@ exacting requirement of an obituary and death certificate. With the utmost casua
 
 The importance attached by the younger people to the keeping of one’s own age was one of the faint but important symbols of independent status. A young woman who had been reared by her grandmother from an infant said with some feeling: “The only thing I hate about my grandma is she wouldn’t tell me my age.” The old folks would observe that “people didn’t tell ages in dem days lak dey do now,” and make no effort to alter the easier arrangement of relying upon their white folks to supply this information when necessary. This continued reliance was only one of the numerous points of their dependent relationship. Occasionally there would be exhibited courage sufficient to doubt the estimate, even though made by their white folks, as in the case of Jennie Smith who gave this account of her age: “I am about seventy-seven years old this last gone February. I am satisfied I’m older’n this but that’s what the white folks gied me when I was freed, but if I don’t disremember that is my sister’s age. When the war was declared, and freedom come, I was nursing and working at the white folks’home. They just got us niggers mixed up. I remember well when the people was drilling to free the slaves. That’s why I know I’m older’n dat.”
 
-### Memories of Slavery
+#### Memories of Slavery
 
 The former slaves have not only retained memories of their earlier status, but have maintained a certain dignity and prestige for themselves by contrasting these memories with the pretensions to freedom of the younger generation. For these older ones it has been a part of the technique of survival to rationalize the social adjustments made. There are, at the same time, former slaves who, with a certain defiance, refer to slavery as an ill which they were fortunate and grateful to escape. This they do with vigor and
 [19]{.pagenum}
@@ -373,7 +378,7 @@ understand. For that reason she was accounted the equivalent of a radical in her
 
 > My master’s people? Some of them masters would take they slaves and lock ’em in the house all day and you couldn’t stick your head out of the door. We could lay on our porch and hear ’em hollering and working all night tel day. I seed ’em walk in sand tel they fell dead. Had been me I would been fightin’ now. I come from the fightin’ class, but I’m too old ter fight now. My master’s brother’s wife was so mean tel the Lord sent a peal of lightenin’ and put her to death. She was too mean ter let you go ter the well and git a drink of water, and God come long and “squshed” her head open. One of the other masters was so mean he made his slaves crow. Whenever he got ready ter go ter Prattville he had him a chariot fixed up wid eight horses. Lak we settin’ here done been two packs of hounds done passed chasing atta slaves and he had more slaves runned away.
 
-### “Salt-Water” Men
+#### “Salt-Water” Men
 
 Another class of Negroes in relation to whom there is retained, in the memory of the community, an active social distinction is the “salt-water nigger.” They were the freshly imported Negroes from Africa toward whom the Negro slaves felt a pronounced superiority. Cass Stewart, now over eighty-five years of age, could remember some of these. Said he: “I was wid de Africans. Dey couldn’t
 [23]{.pagenum}
@@ -381,7 +386,7 @@ understand what dey was saying deyselves. I seed dem salt-water niggers down my 
 
 The older slaves kept themselves aloof from the African, partly out of contempt and partly out of fear. In the community today there are contemptuous references to certain families as springing from “salt-water niggers.” This situation provides an unexpected link with Africa which might indeed yield traces of other transplanted culture traits.^[One old resident, in quoting remembered expressions of these Africans, used terms strikingly similar to the African West Coast pidgin English, which was all the more unusual because West Coast pidgin is not common in the dialect of the Negroes in this part of the South.]
 
-### Old Farming Methods Surviving
+#### Old Farming Methods Surviving
 
 The old people, despite differences of opinion on the matter of slavery, retained numerous traits in common as a part of their heritage from the institution. Most important among these was the method of farming. Sam Thomas, still feebly active, despite his nearly ninety years, and always able to raise some sort of crop, made an observation on the development of agriculture. The method they learned was for him the best method. He said: “The way they farmed here then was a hoss ter de plow and a hoss ter de hoe hand. They works dat way round here now. They had a leader and all lumped together in one hand master.”
 
@@ -404,14 +409,14 @@ The acuteness of the struggle for a livelihood has issued from the effort to pro
 [25]{.pagenum}
 Then the white folks got scared dat dem niggers might kill ’em. Dat de reason why niggers and white folks ain’t goin' ter de same church now. ’Cause mattered not how the preacher would say tain’t no mo’ master and mistress now come on inside, some of them niggers wouldn’t. They stood outside by them windows wid day heads stickin’ in. Yes, honey, I ’members dis all.
 
-### Physical Survivals of the Past
+#### Physical Survivals of the Past
 
 Memories of the past are reinforced by numerous physical features---the old and sagging cabins and the decaying splendor of the big house, the rotting remains of the old plank road, and occasionally the untouched breastworks of the Civil War itself, which changed their political status. Will Daniels reckoned that the house in which he lived was ninety years old, and gave this explanation in support of his speculation:
 
 > There’s an old man ’round here who used to wait on Dr. ------ and
 he’s about ninety years old. The house was here when he was a boy. Old man Parker owned it in slavery times. The slave cabin was tore down when I moved here. The young Missus comes up here to see it sometimes now. She says she just likes to see the old place where she was raised. She showed us the print of the man’s hand that built it. It’s right there in the hall.
 
-### Stability
+#### Stability
 
 Year after year these families continue to live and move about within the county, but rarely leaving it. The tenant turnover is high. Their one outstanding means of asserting freedom is this mobility, although within an extremely narrow range. Planters can never tell which of their tenants will be with them the following year, but of one thing they can be fairly certain—that they will not leave the county, and in time, will rotate, of their own choice, back to the point of beginning. The past is thus kept ever alive, since it is never seriously broken. This restlessness is expressed in such statements as:
 
@@ -434,19 +439,23 @@ The statistical evidence from the 612 families gives more exactness to these com
 
 *Table II. Birthplace of the Male and Female Heads of 612 Negro Families in Macon County*
 
-\tiny
 
-|                                   | Dead or Away | Border States | Some Other Southern State | Same State | Same Place Or Neighborhood | Unknown | Total |
-|-----------------------------------|--------------|---------------|---------------------------|------------|----------------------------|:-------:|-------|
-| Male heads of families            | 152          | 1             | 15                        | 270        | 7                          | 8       | 453   |
-| Wives of female heads of families | 33           | 0             | 11                        | 354        | 7                          | 2       | 407   |
+|                            | Male heads of families | Wives or female heads of families |
+|----------------------------|:----------------------:|:---------------------------------:|
+| Dead or Away               |           152          |                 33                |
+| Border States              |            1           |                 0                 |
+| Some Other Southern State  |           15           |                 11                |
+| Same State                 |           270          |                354                |
+| Same Place Or Neighborhood |            7           |                 7                 |
+| Unknown                    |            8           |                 2                 |
+| Total                      |           453          |                407                |
 
-\normalsize
+
 There were those who could point to the spot “where pappy was sot free, right over yonder.” One old resident pointed his foot at the stove beside which his parent had died on the very plantation where he had served his master as a slave. The second generation was there, renting from the family of the former owner of his
 [27]{.pagenum}
 father. Ann Weaver is living in the cabin given her by her white folks when they moved to Montgomery. “It's mine tel I die,” she said with triumph. “She went down ter de courthouse and had it done, so dat effen she die fo’ me they can’t take it.” One resident confided: “I’ve never been out of the state. Reason is, I wouldn’t know what way to go.”
 
-### The Tradition of Dependence
+#### The Tradition of Dependence
 
 For those still living in the county there is, it would appear, one unfailing rule of life. If they would get along with least difficulty, they should get for themselves a protecting white family. “We have mighty good white folks friends, and ef you have white folks for your friends, dey can’t do you no harm.”
 
@@ -464,7 +473,7 @@ The community is being affected at present by at least four factors: migration o
 
 [29]{.pagenum}
 
-##  The People
+###  The People
 
 Father, mother, and their children are regarded by sociologists as constituting not only the elementary family but the fundamental social group. It is the universal pattern, and based on this primary structure, which, in our culture, places the father most commonly at the head of the group, principles are formulated regulating marriage, defining legitimacy, and determining what is respectable, even moral. The families of this area are, by this standard, considerably atypical. In the first place, the ro1e of the mother is of much greater importance than in the more familiar American family group. This has some explanation in the slave origins of these families. Children usually remained with the mother; the father was incidental and could very easily be sold away. The role of the mother could be extended to that of “mammy” for the children of the white families.
 
@@ -501,21 +510,30 @@ In the case of the unlettered offspring, or even mates of the remaining family h
 
 [32]{.pagenum}
 
-### Size of Families
+#### Size of Families
 
 There were 1,344 children in these 612 families. Sixty-nine of these children were under one year of age and constituted 2.7 per cent of the 2,482 persons in all the families. This was higher than for the county as a whole. This age group constitutes 2.2 per cent of the entire population. Two hundred and twenty-nine of these children were under five years of age. This was 9 per cent of the entire group, or slightly less than the figure for the county as a whole, which was 10.0 per cent. Six hundred and thirty-two of the children were between the ages of five and fourteen and constituted 25.4 per cent of the 2,482 persons in these 612 families. This was
 slightly higher than the figure for the county as a whole, which was 23.9 per cent in 1920. If we take into consideration all the families, there are, on an average, 2.2 children to a family. But 189 of these families had no children, and if the average number of children for these families with children is calculated, there are 3.1 children to a family. Table III shows the distribution of these families according to the number of children.
 
-TABLE III
+*Table III. Number or Families with Stated Numbers of Children*
 
-Number or Families with Stated Numbers of Children
+| Children | Families |
+|----------|----------|
+| 0        | 189      |
+| 1        | 127      |
+| 2        | 83       |
+| 3        | 62       |
+| 4        | 41       |
+| 5        | 40       |
+| 6        | 28       |
+| 7        | 21       |
+| 8        | 10       |
+| 9        | 6        |
+| 10       | 3        |
+| 11       | 2        |
+|          | 612      |
 
-Children
-
-Families	0	1	%	3	4	5	6	7	8	9	10	11
-612		189	127	83	62	41	40	28	21	IO	6	3	2
-
-### Types of Family Structure
+#### Types of Family Structure
 
 The environment has produced not one but many family types which, however, have numbers of traits in common. It is not immediately apparent just what have been the predominant influences in shaping their differences. There are families which are fairly stable and adjusted to the environment and its social codes. They have a distinct background, certain family traditions, a consciousness of integration, and they are sensitive to certain
 [33]{.pagenum}
@@ -527,7 +545,7 @@ The numerical distribution of these types of families can be suggested in these 
 [34]{.pagenum}
 families the husband had been married more than once. In 74 families both man and woman had been married more than once. There were only 2 divorced persons who had not remarried. The community afforded no spinsters and extremely few bachelors.
 
-### Stable Old Families with Strong Affectional Ties and a Family Tradition
+#### Stable Old Families with Strong Affectional Ties and a Family Tradition
 
 The Haygood family was rooted in slavery, but father and mother, both illiterate, were married and had lived together over fifty years, reared children, established a family tradition of a sort, accumulated a little property, and retained their affection for each other. Ellen Haygood spoke thus of her background and relations with her husband until his very recent death:
 
@@ -540,7 +558,7 @@ The Haygood family was rooted in slavery, but father and mother, both illiterate
 
 > Tain’t easy for me to keep up with all my spenses. I miss Jim for that. He sho’ could figure. Just two years ago next month he died. I make lines like this ... for dollars and circles for nickels. I send some of the money up North to the chilluns, but I done got careless and don’t keep it up.
 
-### Families with Strong Maternal Dominance and with Specific Moral Codes
+#### Families with Strong Maternal Dominance and with Specific Moral Codes
 
 Frank Grice is forty-nine and his wife thirty-seven, and with their seven children, ranging in ages from eight to twenty years, they live in a five-room cottage which they are attempting to buy. All but one of the children are living at home. The house is old,
 [36]{.pagenum}
@@ -548,377 +566,232 @@ has never been painted, has half of the windows missing, and is, in the words of
 
 Jerry, next to the oldest boy, is the wanderer, and left home three years ago. They do not know where he is, and indeed have not heard from him since he left. But the family stands out as a distinct type in this neighborhood. Neither of the parents can read or write and none of the children has passed through the fourth grade in school. The parents wanted the children to be educated but even education was less important than “living decent.” The mother is the stronger element of the family, and has pronounced notions about morality and respectability. All the children but one, Jerry the wanderer, live quietly in the community and in marked social isolation. The attitude of the family is unique and important for its revolt against commonplace practices in the community.
 
-Yes, I's the mother of seven children and every last one of dem belongs to Frank Grice. I ain't stuck on dese stolen chillun; dat's why I married in my mother's house 'fore I broke my virtue. I just got oman-ish and nothin' would do me but to marry. Out of all of dem, I ain’t got but one bad un. He ain't just say bad, but he wanders away. Been away now 'bout three year, and the last time I heard from him he was in Union Springs. No, he don't get into no trouble, 'cept last year he got into trouble for carryin' a gun. He didn't shoot nobody, but hits 'gainst d law to have one. He got out of it all right because we have mighty good white friends.
+> Yes, I's the mother of seven children and every last one of dem belongs to Frank Grice. I ain't stuck on dese stolen chillun; dat's why I married in my mother's house 'fore I broke my virtue. I just got omanish and nothin' would do me but to marry. Out of all of dem, I ain’t got but one bad un. He ain't just say bad, but he wanders away. Been away now 'bout three year, and the last time I heard from him he was in Union Springs. No, he don't get into no trouble, 'cept last year he got into trouble for carryin' a gun. He didn't shoot nobody, but hits 'gainst d law to have one. He got out of it all right because we have mighty good white friends.
 
-No, hit's been sometime now since I's been to church. In my condition I can't go. I'm lookin for the baby in September. I's so shame to go to church lookin like dis. You know yourself everybody would be lookin' at me with my stomach so big. Maybe if I could get me a loose dress I’d go. I 'speck this will be my last time to come around. Eliza
+> No, hit's been sometime now since I's been to church. In my condition I can't go. I'm lookin for the baby in September. I's so shame to go to church lookin like dis. You know yourself everybody would be lookin' at me with my stomach so big. Maybe if I could get me a loose dress I’d go. I 'speck this will be my last time to come around. Eliza [37]{.pagenum} Rose, the midwife, tells me the time when my last child was born that I would have one more time to come, but she said, too, dey would be twins. I wish they would come twins, and den I knows I would be done for all time, ’cause I’s just about tired of having chillun. Every time I look out de door I’s like dis. Vs so thankful for one thing: my oldest boy is such a good child.
 
-36
+> Me and my family don’t never git into no trouble. De peoples right up dere next to me stole two pigs last year. Dey can’t git along wid nobody. No, I ain’t have no fuss wid ’em, ’cause I ain’t see no use. I just pray to the Lord and he takes care of everything.
 
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-Rose, the midwife, tells me the time when my last child was born that I would have one more time to come, but she said, too, dey would be twins. I wish they would come twins, and den I knows I would be done for all time, ’cause I’s just about tired of having chillun. Every time I look out de door I’s like dis. Vs so thankful for one thing: my oldest boy is such a good child.
-
-Me and my family don’t never git into no trouble. De peoples right up dere next to me stole two pigs last year. Dey can’t git along wid nobody. No, I ain’t have no fuss wid ’em, ’cause I ain’t see no use. I just pray to the Lord and he takes care of everything.
-
-Quasi-families: Female Heads of Assembled Families
+#### Quasi-families: Female Heads of Assembled Families
 
 The number of households with old women as heads and large numbers of children, although of irregular structure, is sufficiently important to be classed as a type requiring some explanation. The oldest generation is the least mobile; the children of these in the active ages move about freely and often find their own immediate offspring, while young, a burden, as they move between plantations. Marriages and remarriages bring increasing numbers of children who may be a burden to the new husband or a hindrance to the mother if she must become a wage-earner. The simplest expedient is to leave them with an older parent to rear. This is usually intended as a temporary measure, but it most often ends in the establishment of a permanent household as direct parental support dwindles down. The responsibility is accepted as a matter of course by the older woman and she thereafter employs her wits to keep the artificial family going. Charlotte Harris, in the subcommunity of Sambo, has such a family. When first visited she was in the field hoeing. On the way back to her cabin, Josephine, a small and grotesquely deformed girl-child of about twelve years of age, came reeling unsteadily down the path. She was groaning, moving her lips rapidly, and uttering unintelligible sounds. “She can’t talk,” explained the old woman. Then calling to the other children in the rear of the cabin, she commanded, “Come here, you chillun, and git de baby.” Two of them, a few years older, appeared and led the child away. The old woman then began to talk as she cooled herself:
 
-37
+[37]{.pagenum}
 
-Original from UNIVERSITY OF MICHIGAN
 
-I don’t know ’zackly how old I’m is. ’Bout fifty I guess. I ’member when slavery time was. The old marster uster have lunch up ter the big house every Sunday and call all his little niggers up to the house. No, they ain’t been all one family. He had lots of niggers and he liked to show his friends how many little niggers he had. I wan’t big enough to remember much.
+> I don’t know ’zackly how old I’m is. ’Bout fifty I guess. I ’member when slavery time was. The old marster uster have lunch up ter the big house every Sunday and call all his little niggers up to the house. No, they ain’t been all one family. He had lots of niggers and he liked to show his friends how many little niggers he had. I wan’t big enough to remember much.
 
 At this time Josephine came back to the house and attempted to get upon the steps, but could not lift her foot high enough. The children helped her up the steps. She went into the house and came back with an armful of rags, then sat on the porch, staring, groaning, sucking her tongue, and hugging the rags.
 
-I don’t know ’zackly how old Josephine is. I think she ’bout nine years old. She old ’nough to ’menstrate. She kinder like a young lady. Looka here, got a little breast coming. You know she old. She is my granddaughter’s child, who died the other day. Janie Lou and Ethel her chillun too, but I been had Josephine all her life. Dese other two just come since she dead. I ain’t know ’zackly what she died with. Charlotte died in the hospital in Montgomery. Left five chillun. James and the other boy live over dere with his father. Dis one here is ’nother child, belong to my other grandchild. Charlotte named for me. The doctor said she had an abscess in her stomach.
+> I don’t know ’zackly how old Josephine is. I think she ’bout nine years old. She old ’nough to ’menstrate. She kinder like a young lady. Looka here, got a little breast coming. You know she old. She is my granddaughter’s child, who died the other day. Janie Lou and Ethel her chillun too, but I been had Josephine all her life. Dese other two just come since she dead. I ain’t know ’zackly what she died with. Charlotte died in the hospital in Montgomery. Left five chillun. James and the other boy live over dere with his father. Dis one here is ’nother child, belong to my other grandchild. Charlotte named for me. The doctor said she had an abscess in her stomach.
 
-Josephine ain’t right bright. She ain’t crazy, though. Been like dat all her life. She don’t never git into no trouble. She burned her foot once but she ain’t fall in the fire. She stepped on the hot coal. When I went to the burial last week she wouldn’t go with me. I paid my brother Dan to stay here with the child ’cause I hates ter leave her here alone, but old people so contrary.
+> Josephine ain’t right bright. She ain’t crazy, though. Been like dat all her life. She don’t never git into no trouble. She burned her foot once but she ain’t fall in the fire. She stepped on the hot coal. When I went to the burial last week she wouldn’t go with me. I paid my brother Dan to stay here with the child ’cause I hates ter leave her here alone, but old people so contrary.
 
-No, Josephine ain’t foolish. Her mother said ’fore she was born that she stayed on the creek fishing too long. One day when she had been fishing, on her way back home somebody put a ground hog in the road. Somebody killed the ground hog and laid it on a sheet for her to pass, and it skeered her to death. Then when the baby was borned she started to walk but she ain’t walk, just crawled like a turtle. Tried to talk; says “mama” sometimes. She always plays wid rags and sticks; gathers ’em up in a pile.
+> No, Josephine ain’t foolish. Her mother said ’fore she was born that she stayed on the creek fishing too long. One day when she had been fishing, on her way back home somebody put a ground hog in the road. Somebody killed the ground hog and laid it on a sheet for her to pass, and it skeered her to death. Then when the baby was borned she started to walk but she ain’t walk, just crawled like a turtle. Tried to talk; says “mama” sometimes. She always plays wid rags and sticks; gathers ’em up in a pile.
 
-My husband been dead. I don’t know how come he died. When he died he jest hollered. He was a good Christian, though. Said he had pains and all the misery was in his head. He went so naked I said he died with the pneumonia. He didn’t wear no clothes atall. Yes, he had plenty of clothes, but too stingy to wear ’em. I don’t care how hot it is,
+> My husband been dead. I don’t know how come he died. When he died he jest hollered. He was a good Christian, though. Said he had pains and all the misery was in his head. He went so naked I said he died with the pneumonia. He didn’t wear no clothes atall. Yes, he had plenty of clothes, but too stingy to wear ’em. I don’t care how hot it is, [38]{.pagenum} clothes made for the flesh. During cotton-picking time I talked to him but it ain’t do no good. Had good clothes, den laid down and died and left ’em all here. After he died I called in the little boy and gie’d him a whole sack of clothes. I’d a worn ’em out to rags myself if I’d had dat many. Mine all full o' holes, but I does pretty well.
 
-38
+> I gits the house and patch for nothing. John Henry Davis, my granddaughter’s husband over there, lets me stay here. I he’ps him some wid his farm and then I takes care o’ the chillun. She gives me $2.00 a week, sometimes rations. Davis furnishes my food ’cause all of ’em been eating here since my granddaughter dies.
 
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
-clothes made for the flesh. During cotton-picking time I talked to him but it ain’t do no good. Had good clothes, den laid down and died and left ’em all here. After he died I called in the little boy and gie’d him a whole sack of clothes. I’d a worn ’em out to rags myself if I’d had dat many. Mine all full o* holes, but I does pretty well.
-
-I gits the house and patch for nothing. John Henry Davis, my granddaughter’s husband over there, lets me stay here. I he’ps him some wid his farm and then I takes care o’ the chillun. She gives me $2.00 a week, sometimes rations. Davis furnishes my food ’cause all of ’em been eating here since my granddaughter dies.
-
-I plum’ out of all the ’cieties now. Susie Williams was the president. I’ll have to join some others ’cause my overcoat [coffin] cost too much. I was b’long to the Home Mission. Just throw my money away joining the Union Aid. I hate to lose all dat money. Got to work now to pay the >30 to the overseer. He buried my husband. I’ll work till the Lord calls me, ’cause I ain’t paid the overseer back yet. He wouldn’t take my cow, ’cause he told me my cow was my living. He sure was good not to
-
-take my cow. The church give me $5.00. Mr. ---------- said	he	would
-
+> I plum’ out of all the ’cieties now. Susie Williams was the president. I’ll have to join some others ’cause my overcoat [coffin] cost too much. I was b’long to the Home Mission. Just throw my money away joining the Union Aid. I hate to lose all dat money. Got to work now to pay the $30 to the overseer. He buried my husband. I’ll work till the Lord calls me, ’cause I ain’t paid the overseer back yet. He wouldn’t take my cow, ’cause he told me my cow was my living. He sure was good not to take my cow. The church give me $5.00. Mr. ------ said he	would
 give me a chance. He wanted me to live on his place but I didn’t ’cept the offer ’cause I mighta taken sick and had nobody to wait on me. I come over here to be near my granddaughter after my husband died; and then she died.
 
-The Red Cross he’ped me once. Me an my brother Dan went over dere. The white folks was over der figuring and my brother looks like he wanted to talk imposin’ talk. They was handing out letters to the folks, but they ain’t had none for me. The white man got fretted so I pulled
+> The Red Cross he’ped me once. Me an my brother Dan went over dere. The white folks was over der figuring and my brother looks like he wanted to talk imposin’ talk. They was handing out letters to the folks, but they ain’t had none for me. The white man got fretted so I pulled Dan’s coat tail. Miss ------ told us not to blame her ’cause she only had letters for the people what give her they names.
 
-Dan’s coat tail. Miss------told us not to blame her ’cause she only had
+> I had one granddaughter to die with pellagacy. No, she ain’t died here. She stayed here all last winter then went to her husband in Montgomery and then died.
 
-letters for the people what give her they names.
+#### Quasi-families: Male Heads of Transient Families with Shifting Family Members
 
-I had one granddaughter to die with pellagacy. No, she ain’t died here. She stayed here all last winter then went to her husband in Montgomery and then died.
+Another and curious type of family is that in which the male head remains constant while various other types of relationship, including a succession of wives and their children by him, shift around him. The children and grandchildren and wives who fail to accommodate themselves to the pattern drift out and away, or are thrown off while others remain, constituting essentially a 
+fami[40]{.pagenum}ly organization. An example of this type is the family of Grants. The husband, who in this case is the pivotal figure, is fifty-two and his present wife thirty-eight. Besides them there are three children: Lulu Harris, eighteen, the unmarried daughter of the mother and her two-year-old child; and two sons of James Grant, by other wives, twenty-two and fifteen years old, respectively. He owns a small two-room frame house. In point of organization there is no difference between such an adjusted type of family and a natural one. It is, perhaps, even more efficient when pointed toward productive ends—a circumstance which lends cohesion to the natural family. As a matter of fact, in spite of its transient nature, the family changes are, realistically viewed, little different from those which occur in course of the growth of children. What is conspicuously lacking is a family tradition, and this lack is not, incidentally, wholly confined to the transient family.
 
-Quasi-families: Male Heads of Transient Families with Shifting Family Members
+> I’m about fifty-two years old, but I don’t remember how long I’ve been living here in this county. It’s been so far back. I just go by what the folks say. They say I was a little boy when I come here.
 
-Another and curious type of family is that in which the male head remains constant while various other types of relationship, including a succession of wives and their children by him, shift around him. The children and grandchildren and wives who fail to accommodate themselves to the pattern drift out and away, or are thrown off while others remain, constituting essentially a fami-
+> That’s my grandchild, Lilly Mae’s child. Will Jackson is the father. He don’t live here. You know just about how it come here. Lilly is my wife’s first husband’s child. He somewhere. She got a divorce. I mean she didn’t but her husband did.
 
-39
+> Yes, I got a divorce in Union Springs for my wife. Mrs. Murray, the lady we was working for, got the divorce, and I ain’t know how much it cost. This is my fourth wife. The first one died in Mississippi. I heered that she died and they fetched her back home in Mississippi. I ain’t leave the second one; she got away from me. The third one, I ain’t know where she is, and there is the fourth one right over there. I ain’t got no divorce from none of them. I got two sons and a daughter done left home. One son left home around the war when the people got all stirred up. I don’t know where he is. My other son and daughter, I don’t know where they is neither.
 
-Digitized by Google
+#### Stable Non-legal Unions
 
-Original from UNIVERSITY OF MICHIGAN
+Families cohere over a long period with all the semblance of stability, but without the legal sanctions. In the Johnson family are: Will Johnson, fifty-three; Mary Lucas, his common-law wife, thirty-five; Annie Lee, fifteen; Willie Lee, eight; Alice, five; Ma[41]{.pagenum}mie, three; Thomas, two; and Salina, five months. Two other children died in infancy, and two of the father’s children by a previous connection had been away in Montgomery about a year. The mother also has one girl from another unsanctioned alliance. Two of the children in the present household are able to work. The parents are unmarried, but this omission seems relatively unimportant. The arrangement is one of mutual convenience and desire, and has survived shocks sufficient to provoke permanent separation and divorce. Mary Lucas was muscular, large fisted, self-reliant, and not afraid to “hit the sun” in the field. Carelessness was added to poverty in their household and the children were unusually dirty and ragged. Will Johnson was vigorous but older. He had a heavy tangled beard, and one eye was missing. He would sit with his hand over his face and his evident self-consciousness suggested that the injury was not an old one. The mother spoke first:
 
-ly organization. An example of this type is the family of Grants. The husband, who in this case is the pivotal figure, is fifty-two and his present wife thirty-eight. Besides them there are three children: Lulu Harris, eighteen, the unmarried daughter of the mother and her two-year-old child; and two sons of James Grant, by other wives, twenty-two and fifteen years old, respectively. He owns a small two-room frame house. In point of organization there is no difference between such an adjusted type of family and a natural one. It is, perhaps, even more efficient when pointed toward productive ends—a circumstance which lends cohesion to the natural family. As a matter of fact, in spite of its transient nature, the family changes are, realistically viewed, little different from those which occur in course of the growth of children. What is conspicuously lacking is a family tradition, and this lack is not, incidentally, wholly confined to the transient family.
+> He is the father of all dese chillun. No, we ain’t married. I ain’t never been married. I’m the mother of seven chillun. The other one ain’t here. She is a girl. Ethel Harris is her name. She married now and lives over there in Hardaway somewhere. Dave Gregory is her father, and he is in Montgomery. I got two chillun dead. One died when it was a day old and the other one a few hours. Both of dem come too soon. Both of ’em was born alive with the eyes open. I knows they was alive ’cause they both cried. I fell out de wagon with the first one, and ain’t nothin’ wrong that I knows of wid the second one.
 
-I’m about fifty-two years old, but I don’t remember how long I’ve been living here in this county. It’s been so far back. I just go by what the folks say. They say I was a little boy when I come here.
+> [Man]{.smallcaps}: I been knowing her [Mary Lucas] a long time.
 
-That’s my grandchild, Lilly Mae’s child. Will Jackson is the father. He don’t live here. You know just about how it come here. Lilly is my wife’s first husband’s child. He somewhere. She got a divorce. I mean she didn’t but her husband did.
+> [Woman]{.smallcaps}: I was raised up under him. He lived ’bout half a mile from me. My mother knowed his mother ’fore she dies. They been well acquainted.
 
-Yes, I got a divorce in Union Springs for my wife. Mrs. Murray, the lady we was working for, got the divorce, and I ain’t know how much it cost. This is my fourth wife. The first one died in Mississippi. I heered that she died and they fetched her back home in Mississippi. I ain’t leave the second one; she got away from me. The third one, I ain’t know where she is, and there is the fourth one right over there. I ain’t got no divorce from none of them. I got two sons and a daughter done left home. One son left home around the war when the people got all stirred up. I don’t know where he is. My other son and daughter, I don’t know where they is neither.
+> [Man]{.smallcaps}: Yes, I’s been married once, and my wife, her name was Mary Hunter ’fore we married and then she named Mary Johnson, live now in Montgomery. Had two chillun and they with her in Montgomery. I don’t know how long they been gone. I thought of marryin’ Mary once. Just as soon as I git able I goin’ to get married. May be a good while and it may not.
 
-Stable Non-legal Unions
+> [Woman]{.smallcaps}:  I likes him all right.
 
-Families cohere over a long period with all the semblance of stability, but without the legal sanctions. In the Johnson family are: Will Johnson, fifty-three; Mary Lucas, his common-law wife, thirty-five; Annie Lee, fifteen; Willie Lee, eight; Alice, five; Ma-
+> [Man]{.smallcaps}: I likes her better than any other woman in a way [*speaking very hesitatingly*]. She understands the way we gits along. We done talked this thing over...
 
-4°
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
-mie, three; Thomas, two; and Salina, five months. Two other children died in infancy, and two of the father’s children by a previous connection had been away in Montgomery about a year. The mother also has one girl from another unsanctioned alliance. Two of the children in the present household are able to work. The parents are unmarried, but this omission seems relatively unimportant. The arrangement is one of mutual convenience and desire, and has survived shocks sufficient to provoke permanent separation and divorce. Mary Lucas was muscular, large fisted, self-reliant, and not afraid to “hit the sun” in the field. Carelessness was added to poverty in their household and the children were unusually dirty and ragged. Will Johnson was vigorous but older. He had a heavy tangled beard, and one eye was missing. He would sit with his hand over his face and his evident self-consciousness suggested that the injury was not an old one. The mother spoke first:
-
-He is the father of all dese chillun. No, we ain’t married. I ain’t never been married. I’m the mother of seven chillun. The other one ain’t here. She is a girl. Ethel Harris is her name. She married now and lives over there in Hardaway somewhere. Dave Gregory is her father, and he is in Montgomery. I got two chillun dead. One died when it was a day old and the other one a few hours. Both of dem come too soon. Both of ’em was born alive with the eyes open. I knows they was alive ’cause they both cried. I fell out de wagon with the first one, and ain’t nothin’ wrong that I knows of wid the second one.
-
-Man : I been knowing her [Mary Lucas] a long time.
-
-Woman : I was raised up under him. He lived ’bout half a mile from me. My mother knowed his mother ’fore she dies. They been well acquainted.
-
-Man: Yes, I’s been married once, and my wife, her name was Mary Hunter ’fore we married and then she named Mary Johnson, live now in Montgomery. Had two chillun and they with her in Montgomery. I don’t know how long they been gone. I thought of marryin’ Mary once. Just as soon as I git able I goin’ to get married. May be a good while and it may not.
-
-Woman: I likes him all right.
-
-Man: I likes her better than any other woman in a way [speaking very hesitatingly]. She understands the way we gits along. We done talked this thing over...
-
-The last time I went to the doctor it was fer my eye. I went to
-
-Original from UNIVERSITY OF MICHIGAN
-
-Dr.------and he charged me $24. It been ’bout three years ago. Dat
-
+> The last time I went to the doctor it was fer my eye. I went to [42]{.pagenum}
+Dr.------ and he charged me $24. It been ’bout three years ago. Dat
 woman over dere hit me in it.
 
-Woman : Dat what he say. I have to say like he say, and he said like it was. He hit me the fust lick. If he hadn’t hit me I wouldn’t a hit him. I hit him wid a stick. I didn’t mean to hit him in the eye. Tried to git around it. Didn’t mean to hit him in the face, let ’lone his eye.
+> [Woman]{.smallcaps}:  Dat what he say. I have to say like he say, and he said like it was. He hit me the fust lick. If he hadn’t hit me I wouldn’t a hit him. I hit him wid a stick. I didn’t mean to hit him in the eye. Tried to git around it. Didn’t mean to hit him in the face, let ’lone his eye.
 
-Non-agricultural Families
+#### Non-agricultural Families
 
 Some of the male heads of families are able to let their wives stay at home. The arrangement is easier where the man is engaged in work other than farming. Albert O’Neal is a laborer in a log mill, earning seven dollars a week. He has held this job for seven years, and he makes a point of keeping his wife at home. They have been married eight years and seem happy, although the wife has recently developed a keen interest in education, and confessed that if she were not married she would be going to school somewhere. Her husband is a hard-working man who seems to live for the happiness and comfort of his young wife. But she is bored with the life of the community. Said she:
 
-I love my husband but it seems like he has such a hard time keeping up his family. I married in 1923. I was going ter school and my father had died and I had ter take care of myself. My mother just died last year. She had pellagacy. I stayed with my godmother in Milstead. I never did stay with my mother. She left and went ter Louisiana and never did return. She left papa. She never could git along. I met my husband in Milstead and we married in Godmother’s house. We done been going tergether when we married ’bout three years. I uster like the farm all right tel they wasn’t gittin’ nothin’ for cotton.
+> I love my husband but it seems like he has such a hard time keeping up his family. I married in 1923. I was going ter school and my father had died and I had ter take care of myself. My mother just died last year. She had pellagacy. I stayed with my godmother in Milstead. I never did stay with my mother. She left and went ter Louisiana and never did return. She left papa. She never could git along. I met my husband in Milstead and we married in Godmother’s house. We done been going tergether when we married ’bout three years. I uster like the farm all right tel they wasn’t gittin’ nothin’ for cotton.
 
-We would be living in town but my husband can’t git nothin’ ter do up there. I gits tired out here sometimes. I wish I was in town. I’m tired of picnics and suppers and ball games. That’s ’bout all we hafta do. My husband goes ter work wid sunrise ever’ morning and works tel dark. I git up ’fo day and cooks his breakfast. He don’t come back home ter dinner ’cause hits so far. Hits ’bout seven miles from here. He comes home ’bout dark, half dead. Then we eat supper and ’round a hour he’s sleep.
+> We would be living in town but my husband can’t git nothin’ ter do up there. I gits tired out here sometimes. I wish I was in town. I’m tired of picnics and suppers and ball games. That’s ’bout all we hafta do. My husband goes ter work wid sunrise ever’ morning and works tel dark. I git up ’fo day and cooks his breakfast. He don’t come back home ter dinner ’cause hits so far. Hits ’bout seven miles from here. He comes home ’bout dark, half dead. Then we eat supper and ’round a hour he’s sleep.
 
-Stable Legal Unions
+#### Stable Legal Unions
 
 Domestic relations are rarely ever continually peaceful in the households, but the real test of the union is the ability to sustain
-
-Digitized by Google
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+[43]{.pagenum}
 the shocks of marital strife without following the easier path to separation. The Keys have been married twenty-seven years and have never separated. Their two sons and a daughter-in-law live with them in the household. Cotton farmers all, they raised not only three bales (1,270 lb.) of cotton which they sold for cash at eight cents a pound, but also 200 bushels of peas and 27 gallons of syrup. Together they raised chickens, had seven hogs, and, what is most important, have been buying their home for the past six years.
 
-We been married twenty-seven years and ain’t never parted. We fight and scratch and I stay right here. He has never fought me. I get mad, throw chairs, and stay home, ’cause if I ever left I would never
-
-come back.......We done lost much money in lodges, and it’s been so
-
+> We been married twenty-seven years and ain’t never parted. We fight and scratch and I stay right here. He has never fought me. I get mad, throw chairs, and stay home, ’cause if I ever left I would never
+come back. ... We done lost much money in lodges, and it’s been so
 long I can’t remember. My husband was a member of the American Workmen and I use to be a member of the Sons and Daughters of Job. The man what organized it called hisself the Grand Debit.
 
-I’s had two miscarriages. I toted some wood under my arm and mashed its head.
+> I’s had two miscarriages. I toted some wood under my arm and mashed its head.
 
-Disorganized Legal Unions
+#### Disorganized Legal Unions
 
 The influence of exposure to the city of one parent, while the other remains at home is marked in another type. In a more general sense, there is revealed a family organization in contact both with the culture of this isolated section and with certain externals of the culture of the city. In the family of Robinsons the organization remained stable as long as the husband remained in the county. Then he got a job as a section hand on the railroad and eventually got passes to town. Mr. and Mrs. Robinson have been married about eighteen years and have eight children, including the twins, Isaac and Isaiah. There have been four stillbirths. The mother comments on her family:
 
-Mary stays here wid us. She jest started here Friday. She and her sister’s husband can’t get along, and she and her sister neither. Bama ain’t no good. She named after me. She sick all the time wid her eyes, and I jest keeps her home. I don’t rent. They jest let me stay, in here; as long as they got work fer me ter do I work.
+> Mary stays here wid us. She jest started here Friday. She and her sister’s husband can’t get along, and she and her sister neither. Bama ain’t no good. She named after me. She sick all the time wid her eyes, and I jest keeps her home. I don’t rent. They jest let me stay, in here; as long as they got work fer me ter do I work.
 
-The children done all stopped school ’cause they had ter help take care of theyselves. I couldn’t support ’em by myself. I is a day laborer
-
-43
-
-Digitized by Goode
-
-Original from UNIVERSITY OF MICHIGAN
-
+> The children done all stopped school ’cause they had ter help take care of theyselves. I couldn’t support ’em by myself. I is a day laborer [44]{.pagneum}
 and makes 50 cents a day. Mariah works by the day and makes 50 cents a day to help. Lizzie [the oldest girl] ain’t here. She is in Detroit. She runned away and married and went there. She sent us some money but hit was stole out the letter. I got the letter but didn’t seed no money. I sho’ didn’t like hit fer her ter git married.
 
-We owes this man, and he gives us two $5.00 a week for working, and he takes half of it and we have ter live off the rest. I didn’t have nobody ter help me and I had ter go down there ter git stuff ’nuf ter live off at the end of the fall. My husband left us a year this July. Say after they laid him off the railroad he couldn’t find no job ter do and he wasn’t going ter work on no farm. He worked on the railroad with the Phillips gang, and when they cut him off he jest went ’bout his business. I aint’ heard of him, but the last concern I heard of him he was in Montgomery, and I knowed that ’bout all the far he could get. I ain’t going ter look fer dat man. He might have some rotten woman there who might jump on me. I’m jest going ter stay here and do the best I can. We was married in 1914, the fifteenth of July. He was an awful gambler and sold ever’ thing he could git his hands on. He even sold my clothes and the cows we had. I stayed wid him ’cause I cared for him. I uster worry over him, but I don’t think ’bout him now. Better leave this marrying business alone, Honey, ’cause these men will git you a house full of chillun den up and leave you.
+> We owes this man, and he gives us two $5.00 a week for working, and he takes half of it and we have ter live off the rest. I didn’t have nobody ter help me and I had ter go down there ter git stuff ’nuf ter live off at the end of the fall. My husband left us a year this July. Say after they laid him off the railroad he couldn’t find no job ter do and he wasn’t going ter work on no farm. He worked on the railroad with the Phillips gang, and when they cut him off he jest went ’bout his business. I aint’ heard of him, but the last concern I heard of him he was in Montgomery, and I knowed that ’bout all the far he could get. I ain’t going ter look fer dat man. He might have some rotten woman there who might jump on me. I’m jest going ter stay here and do the best I can. We was married in 1914, the fifteenth of July. He was an awful gambler and sold ever’ thing he could git his hands on. He even sold my clothes and the cows we had. I stayed wid him ’cause I cared for him. I uster worry over him, but I don’t think ’bout him now. Better leave this marrying business alone, Honey, ’cause these men will git you a house full of chillun den up and leave you.
 
 The mother and all the children were barefooted; and far into the day the beds in the two-room cabin were unmade, the bedding sticky and black with dirt, piled in the center of a corn-shuck mat-tress.
 
-Stable Families with Advanced Standards
+#### Stable Families with Advanced Standards
 
-There is the type of family which in organization and sentiment is out of harmony with its local environment. It takes its pattern and social codes from other and more advanced areas. While the family lives in the community, the members take but small part in its life. They are, however, not isolated even though contacts with the outside world are limited and rare. They are usually owners of both their homes and their farms, and are not dependent upon the prevailing economic system for their support or their ideals. Their homes are conspicuously out of place as Negro homes
+There is the type of family which in organization and sentiment is out of harmony with its local environment. It takes its pattern and social codes from other and more advanced areas. While the family lives in the community, the members take but small part in its life. They are, however, not isolated even though contacts with the outside world are limited and rare. They are usually owners of both their homes and their farms, and are not dependent upon the prevailing economic system for their support or their ideals. Their homes are conspicuously out of place as Negro homes 
 
-44
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
-and are readily mistaken by the stranger for the dwellings of one of the white planters. There is usually a reason for their remaining in the locality, and some extraordinary circumstance out of the line of normal development responsible for their independence.
+[45]{.pagenum} and are readily mistaken by the stranger for the dwellings of one of the white planters. There is usually a reason for their remaining in the locality, and some extraordinary circumstance out of the line of normal development responsible for their independence.
 
 The Hennings were born in Macon County and have lived in their present home for nineteen years. The father is fifty, the mother fifty-two, and there are three children—twenty-seven, twenty-five, and seventeen, respectively. Neither parent has been married before, and all of their children are with them at home. The five-room house is a frame cottage, well built. They own a small automobile and a piano, and subscribe to a daily and a weekly paper. The father is a machinist in the L. and N. Shops in Birmingham and comes home every two months for a week-end. All the children have been sent away to school: two to the Alabama State College in Montgomery and one to Fort Valley in Georgia. The living-room of the house is furnished in conventional style with duofold, bookcases (containing some two hundred or more volumes), and a phonograph. On their farm they raised during the year sixty bushels of corn, six and one-half bales of cotton, and a considerable quantity of peas, potatoes, and peanuts. They kept a budget and had exact figures on income and expenditures.
 
 The circumstances enabling this family to maintain a cultural level above that of the majority in this community are as follows: A grandfather, who had been an adventurous migrant, found his way to Oklahoma and before his death purchased some land on which oil was later found. At his death he willed a sum of money to each of his two sons and to his grandchildren. In the family to which the head of the present Henning family belonged there were six children, each of whom received $600. This was used to make one-half payment on the farm on which they now live. After a period he went to Birmingham for work and from his savings, while his children were still young, completed the payment on the house and farm.
 
 Sixty-one of the 612 families (about 10 per cent) owned or are buying their homes. Four hundred and forty-three families rented
-
-45
-
-Digitized by Google
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-as tenants or croppers, and 108 lived in cabins on plantations. Again, the majority of these families live in either two- or three-room cabins; there are 259 families (42 per cent) in two-room and 176 (28 per cent) in three-room cabins, and 59 families live in one-room cabins. In two of these one-room cabins there were seven and eight persons, but in most of them only one or two persons resided.
+[46]{.pagenum} as tenants or croppers, and 108 lived in cabins on plantations. Again, the majority of these families live in either two- or three-room cabins; there are 259 families (42 per cent) in two-room and 176 (28 per cent) in three-room cabins, and 59 families live in one-room cabins. In two of these one-room cabins there were seven and eight persons, but in most of them only one or two persons resided.
 
 46
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Chapter II
+## Chapter II: The Family
 
-THE FAMILY
+### Courtship and Marriage 
 
-COURTSHIP AND MARRIAGE
-
-BEFORE a child reaches the age of twelve there are duties de-1 manding, with the same insistence felt by his parents, his presence in the field. The routine of cotton cultivation has lent itself with a fatal pliancy to a division of labor capable of extension with each stage of growth from childhood to maturity. Where there are children there is always work to be done to earn the bare living they require. Where there are no children it is less possible to perform all the tasks required to earn enough to survive. Herein lies a first disorganizing factor in the family organization of the community. Immediate as well as remote survival imposes relentless demand for children’s labor and the exactions of an economic system of ever increasing severity impose a forced growth upon the children from the moment of birth. Every aspect of the life urges to the earliest possible attainment of adulthood. Where there is early maturity we have come to expect early marriages, especially for women. There is, as a rule, among Negro women generally a greater tendency to early marriage than among white families, and this tendency is accentuated in cities. In southern cities it is much more pronounced than in southern rural areas, but in this special group studied the tendency is considerably less than in other southern rural areas.
+Before a child reaches the age of twelve there are duties de-1 manding, with the same insistence felt by his parents, his presence in the field. The routine of cotton cultivation has lent itself with a fatal pliancy to a division of labor capable of extension with each stage of growth from childhood to maturity. Where there are children there is always work to be done to earn the bare living they require. Where there are no children it is less possible to perform all the tasks required to earn enough to survive. Herein lies a first disorganizing factor in the family organization of the community. Immediate as well as remote survival imposes relentless demand for children’s labor and the exactions of an economic system of ever increasing severity impose a forced growth upon the children from the moment of birth. Every aspect of the life urges to the earliest possible attainment of adulthood. Where there is early maturity we have come to expect early marriages, especially for women. There is, as a rule, among Negro women generally a greater tendency to early marriage than among white families, and this tendency is accentuated in cities. In southern cities it is much more pronounced than in southern rural areas, but in this special group studied the tendency is considerably less than in other southern rural areas.
 
 The trend in this community runs in an exactly opposite direction from that of the population in general. For the general population not only are there earlier marriages in the country, but, on the whole, more marriages. Ogburn and Groves explain this by observing that women are the ones most markedly affected by
-
-47
-
-Digitized by L,oogle
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+[48]{.pagenum}
 urban trends. They become dissatisfied with their rural economic and social status in a monotonous environment, and move to the city where there is more life and greater economic opportunity. This independence in time results in surplus of women at the marriageable ages in the cities. The men are more rooted in the soil.
 
 There is a population unbalance in the rural Negro group studied but the heavier migration has been on the part of the men. The women are the stable element. There is ample support of the statistical differences observed in the large number of women heads of families, their importance to the agriculture of this area, their approximation to economic equality with the men, and their present dominant role in the family.
 
 Other factors play an even more important part in accentuating this difference. The organization of the Negro families in this area to make it the most efficient economic unit tends to discourage early marriage of either men or women. When a young person marries the original family unit is seriously disturbed. The economic returns from the period of nurturing unproductive children come only when the children, male or female, reach an age which enables them to contribute to the support and earnings of the family group. Custom and practice recognize this situation. Young people are simply not expected to marry early, and, apart from the insecurity of such a venture, when such marriages occur they encounter a pronounced disapproval. When such early marriages occur the couple is expected to live in and become a part of the household of the parents of the boy or girl.
 
-The situation of economic independence of women in cities is reversed in this community, and is reflected rather strikingly in the economic independence on the part of the Negro women in the country. Their earning power is not very much less than that of men, and for those who do not plan independent work there is greater security in their own family organization where many hands contribute to the raising of cotton and of food than there is for them alone with a young and inexperienced husband. It is practically impossible for two young persons alone to attend all the details of cotton cultivation on a scale sufficient for adequate sup-
+The situation of economic independence of women in cities is reversed in this community, and is reflected rather strikingly in the economic independence on the part of the Negro women in the country. Their earning power is not very much less than that of men, and for those who do not plan independent work there is greater security in their own family organization where many hands contribute to the raising of cotton and of food than there is for them alone with a young and inexperienced husband. It is practically impossible for two young persons alone to attend all the details of cotton cultivation on a scale sufficient for adequate sup[49]{.pagenum}port of themselves. Likewise, it is extremely unlikely that any young man will be able to accumulate sufficiently to “get on his feet” before marrying.
 
-48
-
-Original from UNIVERSITY OF MICHIGAN
-
-port of themselves. Likewise, it is extremely unlikely that any young man will be able to accumulate sufficiently to “get on his feet” before marrying.
-
-The condition most favorable to early marriage of a girl is that in which the girl is being sought by a widower considerably her senior, who has had years of experience with the system and who, at the same time, has already some other persons in the household; or a condition in which a young girl is sought by a younger man who is working as a plantation hand with no personal responsibilities at all. In this latter case the addition of a wife, young or old, is welcome as an additional farm hand. The experience of one of these girl-brides will make this situation more real. “I married Tore I was fourteen years old. I run off and got married; no preacher ain’t married me. The man, Mr.--------, that my husband worked
-
-for, married us. He didn’t tell me to go back home, ’cause he knowed I was a good hand and then he could have me there too.”
+The condition most favorable to early marriage of a girl is that in which the girl is being sought by a widower considerably her senior, who has had years of experience with the system and who, at the same time, has already some other persons in the household; or a condition in which a young girl is sought by a younger man who is working as a plantation hand with no personal responsibilities at all. In this latter case the addition of a wife, young or old, is welcome as an additional farm hand. The experience of one of these girl-brides will make this situation more real. “I married Tore I was fourteen years old. I run off and got married; no preacher ain’t married me. The man, Mr. --------, that my husband worked for, married us. He didn’t tell me to go back home, ’cause he knowed I was a good hand and then he could have me there too.”
 
 The postponement of marriage in the section which has been noted does not preclude courtship, but accentuates it, and gives rise to other social adjustments based upon this obvious economic necessity. The active passions of youth and late adolescence are present but without the usual formal social restraints. Social behavior rooted in this situation, even when its consequences are understood, is lightly censured or excused entirely. Conditions are favorable to a great amount of sex experimentation. It cannot always be determined whether this experimentation is a phase of courtship, or love-making without the immediate intention of marriage, or recreation and diversion. Whether or not sexual intercourse is accepted as a part of courtship it is certain no one is surprised when it occurs. When pregnancy follows, pressure is not strong enough to compel the father either to marry the mother or to support the child. The girl does not lose status, perceptibly, nor are her chances for marrying seriously threatened. An incidental compensation for this lack of a censuring public opinion is the freedom for children thus born from warping social condemnation. There is, in a sense, no such thing as illegitimacy in this community.
 
-49
 
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
+[50]{.pagenum}
 
 The community tends to act upon the patterns of its own social heritage. This is true of sex relations as well as of economic relations. The tradition of the plantation in relation to morals, sex relations, and marriage never has conformed to that of the world outside. Unique moral codes may develop from isolation. It has happened elsewhere. Even in America there have developed patterns of sex relations among white communities not very different. In rustic villages of Bavaria, Austria, Norway, and Switzerland the presence of illegitimate children is not a handicap to women who wish to marry, but the conditions there have been different.
 
 In the families of this study the customary courtship period is observed, but in conformity with a tradition older than the county itself, when pregnancy follows this relationship it is not socially imperative that marriage follows. A woman may have several beaux but only one with whom she is intimate. This was more than once mentioned in the course of this study, as an approximate virtue. The character of the present concern about premarital relations is to some extent apparent in the comment of one of the women:
 
-The first man I ever courted got me in “family way.” I uster live on
-
-P-----*s place Yore I married. My baby was ten months old when me
-
+> The first man I ever courted got me in “family way.” I uster live on
+ P-----'s place Yore I married. My baby was ten months old when me
 and my husband married. I was trying to wait ’til he got on his feet and
-
-got something Yore we married, but he never did get nothin’......He
-
+got something Yore we married, but he never did get nothin’.... He
 knowed it was his child, ’cause he looked jest like his daddy, and after he was born we went on together jest like we was at first. I never did fool around [have sex relations] with nobody else but him, though I had other beaux and he knowed it. Then after a while me and him jest got married.
 
 Another woman, now the mother of five children and married to a man from one of the older families in the section, remarked casually and frankly: “Our first child was born before we was married. Then he wanted to marry me, so I married him.”
 
 Younger people may court, but their affairs are not often of long duration or binding. Church meetings, church suppers, festivals and frolics, and the Saturday trip to town are the occasions on which they usually meet. At the church suppers and other more public affairs the younger men and the younger women group
-
-5°
-
-Original from UNIVERSITY OF MICHIGAN
-
-separately. The men entertain themselves loudly with jokes and stories, frequently ribald, and with various actions to attract the attention of the girls or to provoke laughter. The young girls when together, whether experienced or not, affect shyness but are rarely, if ever, unaware of the b&ys. In the course of the evening a boy may take one of the girls aside for more intimate conversation which may then lead to a less decorous intimacy.
+[51]{.pagenum}
+separately. The men entertain themselves loudly with jokes and stories, frequently ribald, and with various actions to attract the attention of the girls or to provoke laughter. The young girls when together, whether experienced or not, affect shyness but are rarely, if ever, unaware of the boys. In the course of the evening a boy may take one of the girls aside for more intimate conversation which may then lead to a less decorous intimacy.
 
 The courtship of older couples is from the beginning a more serious adventure. When one of the older men is courting, either a young woman or one nearer to his age, a change is noted in his personal behavior. At public affairs he leaves off the familiar overalls and “dresses up.” The act conspicuously alters his personality. He escorts the young woman to parties and buys ice-cream or pigs’ feet or chicken or chitterlings for her. The relationship is thus noted by their friends. Where courting has gone on publicly apd the sanctions thus recorded, marriage tends most often to follow the legal and approved form, whether the divorce has been legal or not.
 
-In so general a condition of uncertainty and indifference about the legality of marriage or divorce the question is not often raised, but it is nevertheless true that for the particular ones—that is, those who have begun taking over the pattern of the new culture— the fact of legality is worth mentioning, with at least the expectation of approval.
+In so general a condition of uncertainty and indifference about the legality of marriage or divorce the question is not often raised, but it is nevertheless true that for the particular ones---that is, those who have begun taking over the pattern of the new culture---the fact of legality is worth mentioning, with at least the expectation of approval.
 
 Jealousy and the violent expressions of this passion are manifested by both men and women during the courtship period, by legally married couples and by companions in a common-law relationship. Because Ben Mason began courting Alice Harris’ daughter another woman shot him five times. But Ben Mason had not himself the best reputation. A few years earlier he had accidentally killed one girl while shooting at another who had spurned his attentions. The gossip of the community for the greater part of a month centered around the murder of a young woman at one of the frolics, by a man who came in a blind rage of jealousy to kill his wife because she was “running ’round with other men.” The story comes most vividly from the mother of the murdered girl:
 
-51
 
-Digitized by L,ooole
 
-Original from
+> My little gal got killed just one week ago today. [52]{.pagenum} She was a good chile. Never give no trouble. Yes, she was married and had a baby two years old. She and me went to one of those suppers the other night. I was sitting on the bed in one room and all of a sudden Jake Johnson run in and said, “Willa’s done been killed." I run out there and there she was all heaped on the bed---limp. The house was so full, but I just screamed and run to her. I picked her up in my arms and her brains was all shot out in her hair. When I put her down I was covered with blood and I couldn’t do nothing but scream. Some nigger come in there to kill his wife ’cause she was going running ’round with other men, but he missed her and put a steel bullet in my baby. This is the dress she got killed in. And I’m going to show you her wedding dress, too. The society I belongs to paid $40 for the burial. I didn’t lose nothing that way. That was such a good chile; she was a good wife. Her husband said he’d get that nigger yet, but they found him. The sheriff’s got him now at Tuskegee. I sure hopes they punish him good ’cause he’s caused me so much pain.
 
-UNIVERSITY OF MICHIGAN
+In one family the wife displayed a face grotesquely twisted. Her teeth protruded through a vicious slash in her upper lip. She said:
 
-My little gal got killed just one week ago today. She was a good chile. Never give no trouble. Yes, she was married and had a baby two years old. She and me went to one of those suppers the other night. I was sitting on the bed in one room and all of a sudden Jake Johnson run in and said, “Willa’s done been killed/* I run out there and there she was all heaped on the bed—limp. The house was so full, but I just screamed and run to her. I picked her up in my arms and her brains was all shot out in her hair. When I put her down I was covered with blood and I couldn’t do nothing but scream. Some nigger come in there to kill his wife ’cause she was going running ’round with other men, but he missed her and put a steel bullet in my baby. This is the dress she got killed in. And I’m going to show you her wedding dress, too. The society I belongs to paid $40 for the burial. I didn’t lose nothing that way. That was such a good chile; she was a good wife. Her husband said he’d get that nigger yet, but they found him. The sheriff’s got him now at Tuskegee. I sure hopes they punish him good ’cause he’s caused me so much pain.
-
-in one family the wife displayed a face grotesquely twisted. Her teeth protruded through a vicious slash in her upper lip. She said:
-
-My husband did it—jest jealous-hearted. He hit me right up there
-
-with a fence post and it wasn’t bout nothing...Lots of times we’d
-
-get to scrapping off of nothing. I used to could do as much wid him as he could wid me, tell he got me down, then I’d stop him. Folks used to say, “Carrie, you must be mighty bad.*’ But I tell ’em no I ain’t bad, and if they’d look at the starting of it they would see it was his fault. We hardly ever have any falling out now though. He said he didn’t believe I was doing all them things he ’cused me of, but he would git in behind me for fear.
+> My husband did it---jest jealous-hearted. He hit me right up there
+with a fence post and it wasn’t bout nothing.... Lots of times we’d
+get to scrapping off of nothing. I used to could do as much wid him as he could wid me, tell he got me down, then I’d stop him. Folks used to say, “Carrie, you must be mighty bad." But I tell ’em no I ain’t bad, and if they’d look at the starting of it they would see it was his fault. We hardly ever have any falling out now though. He said he didn’t believe I was doing all them things he ’cused me of, but he would git in behind me for fear.
 
 Older and more experienced men have decided that jealousy does not pay. It is a disturbing force capable of sapping the spirit of every activity.
 
-Husband: My wife and me, us been married, this coming Saturday, nigh forty years. I slapped her once since I been married. Any friends we know she meets ’em, kiss ’em, and we go right along. I ain’t going to let nothing disturb me but the Lord. When you jealous you don’t live long.
+ > [Husband]{.smallcaps}: My wife and me, us been married, this coming Saturday, nigh forty years. I slapped her once since I been married. Any friends we know she meets ’em, kiss ’em, and we go right along. I ain’t going to let nothing disturb me but the Lord. When you jealous you don’t live long.
 
-Wife: You be jealous and you may be up at the church but you can’t rest. The meeting won’t do you a bit of good; you may be thinking about that man riding with some woman.
+[Wife]{.smallcaps}: You be jealous and you may be up at the church but you can’t rest. The meeting won’t do you a bit of good; you may be thinking about that man riding with some woman.
 
-52
 
-Digitized by Goode
+[53]{.pagenum}
+Sex, as such, appears to be a thing apart from marriage. A distinction is very well drawn by one unmarried middle-aged woman with several children who said: “What I wants now is a husband not a man. I wants somebody to help me take keer of these chil-lun.” The legal relationship had little to do with her romantic life. Jealousy is manifested not so much when infidelity to the institution has been discovered as where there is evidence of a transfer of affection, whether it involves sexual intercourse or not. A woman came back from her parents' and found her husband with women in her own home. He became angry at her intrusion and began swearing. When she responded he struck her with a stick. She went home and considered herself permanently separated. The objection was not primarily to the irregularity of her husband’s association with women, but to the fact that he beat her.
 
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-Sex, as such, appears to be a thing apart from marriage. A distinction is very well drawn by one unmarried middle-aged woman with several children who said: “What I wants now is a husband not a man. I wants somebody to help me take keer of these chil-lun.” The legal relationship had little to do with her romantic life. Jealousy is manifested not so much when infidelity to the institution has been discovered as where there is evidence of a transfer of affection, whether it involves sexual intercourse or not. A woman came back from her parents* and found her husband with women in her own home. He became angry at her intrusion and began swearing. When she responded he struck her with a stick. She went home and considered herself permanently separated. The objection was not primarily to the irregularity of her husband’s association with women, but to the fact that he beat her.
-
-Tom Bright was my husband, but he fight me so I just couldn’t live with him. He treat me so bad. I didn’t do nothing a-tall. I uster cook his breakfast and he’d come home with a big stick and beat me. Said I didn’t have breakfast done. He drank but he wa’n*t drunk when he beat me. One time I went away to mamma’s and come back I found some women in my house. When I come in he got mad and went to cussin’, so I packed up and went back home.
+> Tom Bright was my husband, but he fight me so I just couldn’t live with him. He treat me so bad. I didn’t do nothing a-tall. I uster cook his breakfast and he’d come home with a big stick and beat me. Said I didn’t have breakfast done. He drank but he wa’n't drunk when he beat me. One time I went away to mamma’s and come back I found some women in my house. When I come in he got mad and went to cussin’, so I packed up and went back home.
 
 The comment of a woman of twenty-five who had been married twice suggests an attitude from the other side of the picture. The husband was jealous but trifling. The woman seemed to feel that he had no right to be jealous unless he was also useful.
 
-The first man [husband] wasn’t no good—just trifling. I soon got rid of him. First we kept separating and then going back. Then I met Major and my first old man started right away to getting jealous. So I left him, but I did right. I went down there to Montgomery and got my divorce. It cost me $32.50, but it was worth it, seein’ it ’liminated all his ’tach-ment to me.
+> The first man [husband] wasn’t no good---just trifling. I soon got rid of him. First we kept separating and then going back. Then I met Major and my first old man started right away to getting jealous. So I left him, but I did right. I went down there to Montgomery and got my divorce. It cost me $32.50, but it was worth it, seein’ it ’liminated all his ’tachment to me.
 
-Ceremonial recognition is more often given to weddings than to any other event in the life of the family. Even though this seldom occurs now, there are sufficient traces of an old custom to allow it to be revived when it is especially desired to give formal public sanction to marriage. On these occasions the nuptials are cele-
+Ceremonial recognition is more often given to weddings than to any other event in the life of the family. Even though this seldom occurs now, there are sufficient traces of an old custom to allow it to be revived when it is especially desired to give formal public sanction to marriage. On these occasions the nuptials are 
+cele[54]{.pagenum}brated with wine and cake and festivities, by the friends and relatives of the couple. Occasionally small tokens are exchanged. There has been a practice, tracing back several generations to slavery, of making this an occasion of festivity. Slaves, although not always encouraged to marry, and deprived of the civil sanction of a ceremony, when there was mutual desire, provided it was within the limits of the master’s circumstances, were allotted a cabin, given small tokens by the master and mistress, and a ceremony, conducted by a Negro preacher and patterned after the custom of the whites. It is spoken of now by some of the older members of the community, and little change is noted in the forms of the ceremony. Speaking of slavery, one said:
 
-53
-
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
-bra ted with wine and cake and festivities, by the friends and relatives of the couple. Occasionally small tokens are exchanged. There has been a practice, tracing back several generations to slavery, of making this an occasion of festivity. Slaves, although not always encouraged to marry, and deprived of the civil sanction of a ceremony, when there was mutual desire, provided it was within the limits of the master’s circumstances, were allotted a cabin, given small tokens by the master and mistress, and a ceremony, conducted by a Negro preacher and patterned after the custom of the whites. It is spoken of now by some of the older members of the community, and little change is noted in the forms of the ceremony. Speaking of slavery, one said:
-
-The folks married then jest like they do now. They did jump over a broomstick [a custom now abandoned] but the preacher had a Bible and married them. Sometimes the sheriff married them. If you and this
-
-sister come engaged you would ask Mr.-------for her and he would say,
-
+> The folks married then jest like they do now. They did jump over a broomstick [a custom now abandoned] but the preacher had a Bible and married them. Sometimes the sheriff married them. If you and this
+sister come engaged you would ask Mr.------- for her and he would say,
 “Do you love this nigger?” and he would go and ask if she loved you. Then, whatever place you stayed on your master would have to buy whichever one would come there.
 
-The Ideal Wife
+#### The Ideal Wife
 
 Young men when they marry want someone whose labor can help them “get on their feet.” Middle-aged men want younger women who can combine this labor with some of the feminine graces. Old men want companionship. A good woman, it is conceded, can be of moral assistance to a man.
 
-I always tell my old lady that every man ought to have a good woman to 'courage and help him. My old lady and me always says the young married folks gets along better. She and me, we don’t have no difficulties, but Lordy, you ought to a see that chile I married first! She was a pretty little thing, but she up and died and never had no chilluns.
+> I always tell my old lady that every man ought to have a good woman to 'courage and help him. My old lady and me always says the young married folks gets along better. She and me, we don’t have no difficulties, but Lordy, you ought to a see that chile I married first! She was a pretty little thing, but she up and died and never had no chilluns.
 
 A man of thirty-five, still unmarried, stipulated three conditions which a woman should meet before he would be willing to marry. She must be able to work, she must be nice looking, and she must be willing to acknowledge him as the head of the house.
 
 The most desirable mates for girls in those families ambitious to
-
-54
-
-Digitized by Goode
-
-Original from UNIVERSITY OF MICHIGAN
-
+[55]{.pagenum}
 maintain a stable unit are men who can assure further stability. Unfortunately for romantic love, the economic arrangement under which they live does not develop many eligibles for daughters of such families, and family authority is exerted, sometimes to the point of physical force, to keep the girls from marrying at all, because it would seriously disturb the economic balance of the original family unit. Elopements have been a means of escaping these complications.
 
-Me and my husband was courtin' a long time, and we jest 'cided to git married. Hit was on a Wednesday night and me and my brother went down ter my cousin's to carry a turkey hen, and I seed a light of a car and we got in the car and drove home. We stayed home 'bout half a hour, and I had done got my clothes and carried them over ter my girl friend’s house, then to my grandma's home. I set up till all went to bed. So I pretended I was going to set on the front porch, and I got my coat and started running. He was up the road. I got scared after I got out of the house 'cause I knowed papa would know my clothes wasn’t home, and if I went back he’d kill me. We got married, and I didn’t have time to drink no wine and cake, and we went over to his mother’s house. We heard the horn coming and runned in the house, and sho’ nuff it was papa, and he axed my husband's mother, “Is my little Gracey here?’’ He had a shot gun and he was so mad my husband’s mother told him I wasn't there, and he left. Reason I didn't ask papa, I knowed he wouldn’t give me away. Mamma done said it was all right with her, but papa always said no, ’cause he wouldn’t give my two oldest sisters away.
+> Me and my husband was courtin' a long time, and we jest 'cided to git married. Hit was on a Wednesday night and me and my brother went down ter my cousin's to carry a turkey hen, and I seed a light of a car and we got in the car and drove home. We stayed home 'bout half a hour, and I had done got my clothes and carried them over ter my girl friend’s house, then to my grandma's home. I set up till all went to bed. So I pretended I was going to set on the front porch, and I got my coat and started running. He was up the road. I got scared after I got out of the house 'cause I knowed papa would know my clothes wasn’t home, and if I went back he’d kill me. We got married, and I didn’t have time to drink no wine and cake, and we went over to his mother’s house. We heard the horn coming and runned in the house, and sho’ nuff it was papa, and he axed my husband's mother, “Is my little Gracey here?" He had a shot gun and he was so mad my husband’s mother told him I wasn't there, and he left. Reason I didn't ask papa, I knowed he wouldn’t give me away. Mamma done said it was all right with her, but papa always said no, ’cause he wouldn’t give my two oldest sisters away.
 
 The conflict here is between the basic requirement of the family group for the added value of the services of its grown children, the prospect of transferring this service to another family, and the imperatives of romantic love.
 
 Hodman Speeks was a widower about fifty-eight years old, and reputed to have saved some money over the years. He owned his home and was now ready to marry again, and felt that he could afford to select a wife without being bound by the usual economic considerations. He was not particular about the women of his community. He had seen too much of them. They not only were a disappointment, but failed also to respect sufficiently his own valuation of the advantages which he, as a husband, could bring. But
-
-55
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
-
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
-
+[56]{.pagenum}
 if a young and attractive woman came in from the outside he would attire himself in his old Prince Albert coat, a cane, and a high collar, and begin a round of visits in the neighborhood.
 
-I’m looking for a good woman right now [he confided to a visitor to the neighborhood]. You know a man gits filled with betterment after he gits a good wife. Now, I tells you, I’m this kind of a man. I feels that 'tain’t a man’s place to slave a woman to death. I’m going to take care of a wife. When my other wife got taken sick I had a doctor to her in less than fifteen minutes. I owns this home, but ’tain’t fit for a woman. I got some money and. I’d build a new house. I know something ’bout telephones, too. I’d see that they git a telephone put in here. My wife could have her own little patch and we’d be right happy together—she’n me. ’Tain’t meant for a man to be all alone in the world—reckon he gits too reckless with hisself.
+> I’m looking for a good woman right now [he confided to a visitor to the neighborhood]. You know a man gits filled with betterment after he gits a good wife. Now, I tells you, I’m this kind of a man. I feels that 'tain’t a man’s place to slave a woman to death. I’m going to take care of a wife. When my other wife got taken sick I had a doctor to her in less than fifteen minutes. I owns this home, but ’tain’t fit for a woman. I got some money and I’d build a new house. I know something ’bout telephones, too. I’d see that they git a telephone put in here. My wife could have her own little patch and we’d be right happy together---she’n me. ’Tain’t meant for a man to be all alone in the world---reckon he gits too reckless with hisself.
 
 Neither the young women of the country nor the old ones, however, were much impressed with the widower. As he passed the house of one of his neighbors a woman remarked, “Here comes that old man Speeks. He ain’t got good sense. He got more land than he knows what to do with, but he's so mean and foolish nobody goes near him.”
 
+#### The Ideal Husband
+
 When a very young woman marries it is usually for security. A more mature young woman marries to insure herself the exclusive attention and earning power of a man who is already or likely to be the father of her children. The middle-aged woman offers herself or accepts a husband on approximately equal terms of working value. An old woman, when she marries at all, seeks companionship and that shadowy security afforded by a man of her own age. Unlike the men, an old woman does not often marry a person younger than herself. A mother of a young girl set this ideal before her daughter: “I wants my daughter to marry a good man, so she won't haveter work in the field and be diggin' here and dere, like me.” Millie Williams had been married once, but was separated from her husband, who left the section and went to Pittsburgh to live. She was carefully considering remarriage, and thus described her ideal:
 
-The Ideal Husband
+[57]{.pagenum}
 
-56
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-Rubin is so good to me. He buys me groceries; sometimes $1.50 and sometimes $1.75 worth, every two weeks. You know he is jest a young man, only twenty-five years old, and a preacher, too. He is sure good to me. He works at the Veneer plant and gits $ 1.25 a day, and he sure sees after me. We going to git married pretty soon.
+> Rubin is so good to me. He buys me groceries; sometimes $1.50 and sometimes $1.75 worth, every two weeks. You know he is jest a young man, only twenty-five years old, and a preacher, too. He is sure good to me. He works at the Veneer plant and gits $ 1.25 a day, and he sure sees after me. We going to git married pretty soon.
 
 Although the young women frequently marry older men, they are sometimes brutally contemptuous of them once their earning power is affected. “That old man, if he could do something I could tell you how much we made. But he don't do no work. He's jest a lazy nigger." Another said: “Aw, my old man won't do. He ain't no count now nohow. He's so old he can't do nothing. Can't even see." This particular husband was about fifty and his wife thirty-seven.
 
@@ -926,174 +799,96 @@ Color consciousness plays a part in the selection of mates. On several occasions
 
 A man who has been unsuccessful in holding other wives is not regarded favorably as a prospect. “No, indeed, I don't want him. He done had two wives and couldn't keep 'em. Ain't nobody goin' to live wid dat man." Men who do women's work are similarly unpopular. “You know when a man's used to washing and cooking for hisself, jest like a woman, he's hard to git ’long wid." Physical strength, clogged industry, and a good disposition were the chief virtues hoped for in a husband. They took precedence over all considerations of possession of money, social position, education, physical attractiveness, or that kind of ambition which sought to abandon the familiar round of life.
 
-THE CHILDREN
+### The Children
 
-In a system which requires the labor of the entire family to earn a living, children of a certain age are regarded as an economic asset. They come fast, and there is little conscious birth control. The coming of children is “the Lord's will." The number of mis-
-
-57
-
-Digitized by
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-carriages and stillbirths is extraordinarily high and the infant mortality great. There is pride in large families. “Good breeders” are regarded with admiration. One woman quoted a doctor as explaining that she was “sickly” because she “needed to breed.” For men the size of the family is a test of virility and for women fecundity has tremendous weight in their valuation as mates. This was a conscious boast: “Course my wife she done been laid up with dead chillun until she marry me. She ain't never lost no chillun by me, but that other man she had made her chillun all die.” Interest in children and in large families, and the high fecundity rate, may indeed carry over from the period of slavery when social status among Negro slave women was in an important measure based upon their breeding power. Again it may reflect adjustment to a high mortality-rate which demands a correspondingly high birthrate to insure a balanced survival in the population. Assertion that a woman cannot have children by a man constitutes a slur. Some of the most cheerful women were those with large families. The contented comment of one very large and comfortably sprawling mother of thirteen children offers a good illustration of a sentiment not uncommon: “Lordy, I'm jest building up dis world wid babies, and can't help it. Well, dey says it's healthy to have chillun, so I jest goes on.”
+In a system which requires the labor of the entire family to earn a living, children of a certain age are regarded as an economic asset. They come fast, and there is little conscious birth control. The coming of children is “the Lord's will." The number of 
+mis[58]{.pagenum}carriages and stillbirths is extraordinarily high and the infant mortality great. There is pride in large families. “Good breeders” are regarded with admiration. One woman quoted a doctor as explaining that she was “sickly” because she “needed to breed.” For men the size of the family is a test of virility and for women fecundity has tremendous weight in their valuation as mates. This was a conscious boast: “Course my wife she done been laid up with dead chillun until she marry me. She ain't never lost no chillun by me, but that other man she had made her chillun all die.” Interest in children and in large families, and the high fecundity rate, may indeed carry over from the period of slavery when social status among Negro slave women was in an important measure based upon their breeding power. Again it may reflect adjustment to a high mortality-rate which demands a correspondingly high birthrate to insure a balanced survival in the population. Assertion that a woman cannot have children by a man constitutes a slur. Some of the most cheerful women were those with large families. The contented comment of one very large and comfortably sprawling mother of thirteen children offers a good illustration of a sentiment not uncommon: “Lordy, I'm jest building up dis world wid babies, and can't help it. Well, dey says it's healthy to have chillun, so I jest goes on.”
 
 Mary Harris, another mother of a large family, had been married to Jim only six years, but they had fifteen children. Jim's wife had been barren but Mary was not, and, although unmarried herself, she gave Jim ten children before his wife died. Then they married and she presented him with five more, and may yet present others.
 
-Children, in the average family group, once a part of the family are accepted good-naturedly and as a matter of course. There were indications of conflicting types of interest in children. The uncontrolled fecundity, the almost universal set for large families, and the acceptance of parents, mothers particularly, of the responsibility for supporting any number which they happened to have, point to a fundamental interest in children, whatever the motivation. This interest as expressed, however, was almost without ex-
+Children, in the average family group, once a part of the family are accepted good-naturedly and as a matter of course. There were indications of conflicting types of interest in children. The uncontrolled fecundity, the almost universal set for large families, and the acceptance of parents, mothers particularly, of the responsibility for supporting any number which they happened to have, point to a fundamental interest in children, whatever the motivation. This interest as expressed, however, was almost without 
+ex[59]{.pagenum}ception in “children.” There was little indication of individualization of attention, or recognition of separate personalities, and very imperfect expression of those sentiments of strong emotional attachment to separate child personalities which are noted in the more advanced families. The affectional relationship was manifest, but not emotionally stressed. Parents as a rule clung to their children as long as they could provide them subsistence. The harsh and frequent incidence of hard times created so many occasions for failure in this respect, particularly if one of the chief breadwinners withdrew, that passing over children for adoption was fairly common and the community had attempted to meet this need by making adoption a simple and natural procedure.
 
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-ception in “children.” There was little indication of individualization of attention, or recognition of separate personalities, and very imperfect expression of those sentiments of strong emotional attachment to separate child personalities which are noted in the more advanced families. The affectional relationship was manifest, but not emotionally stressed. Parents as a rule clung to their children as long as they could provide them subsistence. The harsh and frequent incidence of hard times created so many occasions for failure in this respect, particularly if one of the chief breadwinners withdrew, that passing over children for adoption was fairly common and the community had attempted to meet this need by making adoption a simple and natural procedure.
-
-Frequently there was confusion on the matter of names and ages of children. Numbers of mothers could not remember the names of all the children, unless they were looking at them. This may have been due to the habit of ignoring names of children, and supplying simple “pet names” for identification. Ages require a reflection and counting which is not always done accurately in communities of higher literacy. On a visit to the home of a family in which there were fifteen children the question of the ages of the children came up. The mother, squat, dark, and glistening with perspiration, sat on her porch, making her breast available alternately to an infant in arms and one about a year old. When asked about the names and ages of her children her first response was one of exasperation that she should be expected to remember a mass of details of this character. She shouted to one of the children, “Go in the house and git the Bible, ’cause God knows I don’t remember how old them chilluns is.” After a moment she said, “All dese you see here ain’t mine, but most of ’em is.” Actually, there were several adopted children in the group who were so completely incorporated into the family as to be considered her own. She had to separate, in her thinking, those whom she had “birthed” and those whom she had acquired by other means. The names and ages of seven were read from the Bible and she assented, and thought these were all. Then the name of Robert was mentioned, and she explained that she had forgotten to account for
-
-59
-
-Digitized by Goode
-
-Original from UNIVERSITY OF MICHIGAN
-
-him. Later three other names were mentioned by the children which had not been listed in the Bible. “All dem mine too/' she said. “Jest been having chillun all my life.”
+Frequently there was confusion on the matter of names and ages of children. Numbers of mothers could not remember the names of all the children, unless they were looking at them. This may have been due to the habit of ignoring names of children, and supplying simple “pet names” for identification. Ages require a reflection and counting which is not always done accurately in communities of high illiteracy. On a visit to the home of a family in which there were fifteen children the question of the ages of the children came up. The mother, squat, dark, and glistening with perspiration, sat on her porch, making her breast available alternately to an infant in arms and one about a year old. When asked about the names and ages of her children her first response was one of exasperation that she should be expected to remember a mass of details of this character. She shouted to one of the children, “Go in the house and git the Bible, ’cause God knows I don’t remember how old them chilluns is.” After a moment she said, “All dese you see here ain’t mine, but most of ’em is.” Actually, there were several adopted children in the group who were so completely incorporated into the family as to be considered her own. She had to separate, in her thinking, those whom she had “birthed” and those whom she had acquired by other means. The names and ages of seven were read from the Bible and she assented, and thought these were all. Then the name of Robert was mentioned, and she explained that she had forgotten to account for
+[60]{.pagenum}
+him. Later three other names were mentioned by the children which had not been listed in the Bible. “All dem mine too" she said. “Jest been having chillun all my life.”
 
 On another occasion when a large family was being visited, the father was trying unsuccessfully to name his children as his wife returned from the field. She scolded him for his ignorance and began naming them herself. When she failed it became a hilarious joke, and the husband fan into the yard rocking and roaring with laughter.
 
 The families cited in this connection are exceptional in the sense of having a large number of children still alive. The fecundity rate is very high, but the number of children who survive even the first period of infancy is comparatively small.
 
-I got so many chillun dead I don’t know how long they been dead, ’bout six of ’em. The first boy was a grown man, twenty years old. He died with consumption, but I ain’t had no consumption. The other girl I don’t know how come she died. There was one that I “overlaid.”1 I went to sleep and the child was nursing, and I give so much milk that she smothered. The other boy was four years old. We had a mule and Mensi-field [the husband] wanted to come to the master’s home. Louis [the son] was right smart so he jumped at the mule data way. I was in condition [pregnant] at that time. Said to him, “Mensy, don’t you spose dat mule kick you in de side?” It raised a knot on Louis* head. He tuck to his bed; had a hot fever, and died.
+> I got so many chillun dead I don’t know how long they been dead, ’bout six of ’em. The first boy was a grown man, twenty years old. He died with consumption, but I ain’t had no consumption. The other girl I don’t know how come she died. There was one that I “overlaid.”^[Accidentally smothered to death in a crowded bed.] I went to sleep and the child was nursing, and I give so much milk that she smothered. The other boy was four years old. We had a mule and Mensifield [the husband] wanted to come to the master’s home. Louis [the son] was right smart so he jumped at the mule data way. I was in condition [pregnant] at that time. Said to him, “Mensy, don’t you spose dat mule kick you in de side?” It raised a knot on Louis' head. He tuck to his bed; had a hot fever, and died.
 
-Jest one child I had had fits. She had two spasms, and I jest giver her a little pepper and salt and she ain’t had no more. She grown now and got a cowpen full of chillun herself.
+> Jest one child I had had fits. She had two spasms, and I jest giver her a little pepper and salt and she ain’t had no more. She grown now and got a cowpen full of chillun herself.
 
 The actual number of cases in which children were given away to other relatives or friends and the fact that adopted children taken into these families with such small distinction between them and the natural offspring suggest that the ties between parents and children, especially where the families are large, are as much influenced by the opinion current in the community as by the interests of the family as a separate unit. Parents hesitated to give away their children to non-relatives for adoption, although this
-
-1 Accidentally smothered to death in a crowded bed.
-
-6o
-
-Digitized by L.oogle
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+[61]{.pagenum}
 happened numbers of times, but very frequently turned them over to another relative, usually the grandparents of the children.
 
-In the economy of the family the relationship of members of the family to one another is not so strongly stressed as in families of the conventional type. Once out of immediate contact, the affec-tional basis of the relationship was perceptibly weakened. Interest frequently dwindled away and the child most often became a recognized and permanent part of the family of the grandparents. The fathers showed much less concern than the mothers when these physical ties were broken. This is the general situation pattern which fosters so considerable an amount of child adoption. The frequency of separations of families with children and the large number of children born outside of formal family relations normally throw a considerable burden of responsibility upon grandparents, and this responsibility, in turn, is accepted as a matter of course. Actually there was a marked sense of social obligation to children, expressed more by grandparents than by parents with numbers of children.
+In the economy of the family the relationship of members of the family to one another is not so strongly stressed as in families of the conventional type. Once out of immediate contact, the affectional basis of the relationship was perceptibly weakened. Interest frequently dwindled away and the child most often became a recognized and permanent part of the family of the grandparents. The fathers showed much less concern than the mothers when these physical ties were broken. This is the general situation pattern which fosters so considerable an amount of child adoption. The frequency of separations of families with children and the large number of children born outside of formal family relations normally throw a considerable burden of responsibility upon grandparents, and this responsibility, in turn, is accepted as a matter of course. Actually there was a marked sense of social obligation to children, expressed more by grandparents than by parents with numbers of children.
 
 Sadie Thompson not only had a family of her own, now practically grown, but had undertaken the rearing of some of the grandchildren and other adopted ones. She had enterprise and initiative and both virtues were required to keep up her household. There was in her solicitude for the children a feeling rarely expressed, whether experienced or not, by families regarding their own immediate offspring. And with this feeling there was mixed some appreciation of the economic value of the children themselves.
 
-I got these little motherless children here and got nothing to give them to eat. I never had a mouthful to give them yesterday and last night Mr. Walker just give them boys a dollar and I couldn’t buy nothing but a little meal and a spoonful of lard. These children got a father but he don’t give them nothing. These my dead daughter’s children. Sometimes I look at them and tears get in my eyes. We made fourteen bales of cotton last year, and didn’t get a penny for it. The little children was barefooted and didn’t have a thing. If they hadn’t had a little pig and I made some syrup I don’t know what the little things woulda done. Every time they go to the white man they say they can’t let you have nothing. Something
-
-61
-
-Original from UNIVERSITY OF MICHIGAN
-
+> I got these little motherless children here and got nothing to give them to eat. I never had a mouthful to give them yesterday and last night Mr. Walker just give them boys a dollar and I couldn’t buy nothing but a little meal and a spoonful of lard. These children got a father but he don’t give them nothing. These my dead daughter’s children. Sometimes I look at them and tears get in my eyes. We made fourteen bales of cotton last year, and didn’t get a penny for it. The little children was barefooted and didn’t have a thing. If they hadn’t had a little pig and I made some syrup I don’t know what the little things woulda done. Every time they go to the white man they say they can’t let you have nothing. Something
+[62]{.pagenum}
 is wrong somewhere but they ain't letting the nigger know where it is. I hate to go so far and not get nothing. “I don't reckon we will die," said one of my sons. But you will die 'cause every one of you all look sick in the eyes and it's cause you ain't had enough food. This is a starving
-
-land......This is the worst place I ever run on in my life. If you could
-
+land.... This is the worst place I ever run on in my life. If you could
 jest get out of it all you put in it you could live happy. This is good rich land, and you could make money if we was treated right. The mules ain't even got nothing to eat, and we have to pull up the little corn and feed it to them. I look at my children sometimes and I’m sorry I ever born a child in the world. I believe in living like people. My children is smart 'cause I taught them to work. Us never do hire no day hands. We all help one 'nother get through with the chopping. They busy all the time. How they hold up I can't see.
 
 Economic considerations almost without exception constitute the nexus which binds parents and children, and in the constant economic stress of the section it is what would be expected. “All my children is big enough to work, but three, and I got ten here. I got two children by my first wife and got ’bout two or three more ’sides that. I don’t know where they is.”
 
-It was, however, impossible to escape the observation that once separation came it was complete and final. Once children leave home they rarely return. There was, besides, the frequency of paternal desertion, the uncertainty of support for the children loaned to friends or relatives, the frequent confusion and indifference about their names and ages, and the failure to remember the dead. Children who had died were seldom referred to in terms which suggested emotional ties. They were merely lost children. It was as if the role of fate and numbers was blended with a dour philosophy which accepted these crises as inevitable incidents of the struggle for survival. Moreover, it was apparent that hopelessly crippled or deformed children, like the hopelessly decrepit old, were not objects of pathos or sentiment. They were tolerated with some fortitude despite the general economic strain as a phase of the mutualism of their community relations. A woman was asked if she had any crippled or deformed children. She responded promptly: “No, I ain't got no cripple chillun. If I had I ’spect I would uv kilt ’em.” This was probably an extreme expression, under a situ-
-
-62
-
-Digitized by
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
-ation of economic stress, of a very real sentiment. Actually there were few such children in the community. It would indeed be difficult for them to survive in a situation which made survival difficult even for normal children in infancy. Another woman was explaining the presence of a female relative in the home: “This lady who stays here is my husband’s cousin. She gonna have a baby soon. She got two more, but she gie’d dem away. She ain’t married; the child’s father he ’round here somewheres.” In this instance the responsibility of children would obviously be a burden to the woman. The family to which she had given her children regarded them freely and easily as their own, but their own children were regarded primarily as potential helpers in the severe struggle for existence. The comments about their children, and almost always about the adult ones, were followed by some such
-
-consideration: “She’s a good chile......She bring me something
-
+It was, however, impossible to escape the observation that once separation came it was complete and final. Once children leave home they rarely return. There was, besides, the frequency of paternal desertion, the uncertainty of support for the children loaned to friends or relatives, the frequent confusion and indifference about their names and ages, and the failure to remember the dead. Children who had died were seldom referred to in terms which suggested emotional ties. They were merely lost children. It was as if the role of fate and numbers was blended with a dour philosophy which accepted these crises as inevitable incidents of the struggle for survival. Moreover, it was apparent that hopelessly crippled or deformed children, like the hopelessly decrepit old, were not objects of pathos or sentiment. They were tolerated with some fortitude despite the general economic strain as a phase of the mutualism of their community relations. A woman was asked if she had any crippled or deformed children. She responded promptly: “No, I ain't got no cripple chillun. If I had I ’spect I would uv kilt ’em.” This was probably an extreme expression, under a 
+situ[63]{.pagenum}ation of economic stress, of a very real sentiment. Actually there were few such children in the community. It would indeed be difficult for them to survive in a situation which made survival difficult even for normal children in infancy. Another woman was explaining the presence of a female relative in the home: “This lady who stays here is my husband’s cousin. She gonna have a baby soon. She got two more, but she gie’d dem away. She ain’t married; the child’s father he ’round here somewheres.” In this instance the responsibility of children would obviously be a burden to the woman. The family to which she had given her children regarded them freely and easily as their own, but their own children were regarded primarily as potential helpers in the severe struggle for existence. The comments about their children, and almost always about the adult ones, were followed by some such
+consideration: “She’s a good chile.... She bring me something
 to eat when she can.” Or: “I can’t let dat boy marry. He all I got to help me.”
 
 Separations and divorce frequently divide the children or leave all of them with one parent. The natural handicaps, for illiterate people, of communication contribute to a stretching-out of filial ties, often to the vanishing-point. “My girl, Fannie Mae, is with her father in Pittsburgh. She been gone ’bout ten years. I ain’t heard ’bout her since Christmas ’fore last. I speck she still dere.” There are, on the other hand, examples of strong and more obvious attachment between parents and children above the age of dependence, who remain at home, and this is especially true of widowed mothers and their sons. One of the most extraordinary instances of parental devotion, however, was observed in the case of one family, incidentally one of the few farm-owners in the area, whose son had been prostrate and deformed from infantile paralysis for more than ten years. The father had made himself a character in the town, stalking about like one in a daze, and asking the white doctors with annoying persistence and regularity if the doctors outside (medical science) had discovered anything yet to cure his boy.
 
-63
+#### Pregnancy
 
-Original from
+[64]{.pagenum}Pregnancy is treated both in fact and in the verbal allusions to it occasionally with a moderate gesture of concealment, but just as frequently with practical matter-of-factness. A woman is “close to the bed,” or “cripple,” or in plain terms “ ’bout to have a baby,” or “stomach stickin’ out.” The situation of most of the women permits little opportunity in the period of pregnancy to experience exhilaration and consciousness of the psychic values of such functioning.
 
-UNIVERSITY OF MICHIGAN
-
-Pregnancy
-
-Pregnancy is treated both in fact and in the verbal allusions to it occasionally with a moderate gesture of concealment, but just as frequently with practical matter-of-factness. A woman is “close to the bed,” or “cripple,” or in plain terms “ ’bout to have a baby,” or “stomach stickin’ out.” The situation of most of the women permits little opportunity in the period of pregnancy to experience exhilaration and consciousness of the psychic values of such functioning.
-
-I's cripple and ain't able to lift nothing. When I says cripple dat means what you see, dat I's going to have a baby. I jest been spitting and heaving all over this house. Dis heat make it worse. Girls what ain't married don't never ought to get deyselves no rainbow. First thing she be so sick and heaving and all de man is gonna say is “You'll be better
-
-soon," and go 'long 'bout sumpin else....My mother is staying here
-
+> I's cripple and ain't able to lift nothing. When I says cripple dat means what you see, dat I's going to have a baby. I jest been spitting and heaving all over this house. Dis heat make it worse. Girls what ain't married don't never ought to get deyselves no rainbow. First thing she be so sick and heaving and all de man is gonna say is “You'll be better
+soon," and go 'long 'bout sumpin else.... My mother is staying here
 till my cripple is better. That what I done to git this here baby sho' ain't worth all this sufferin' and sickness.
 
 The economic consideration is evident even in the incidence of this temporary handicap. When John Edwards was asked why all of his six children were born in July, he said people teased him about this, but, whether intended or not, “It’s lucky for me, ’cause she [his wife] can hoe up till ’bout time and then she’s ready to pick when fall comes.”
 
-Adoption
+#### Adoption
 
 Adoption of children is a fairly common practice. Several factors appear to be responsible. Children after a certain age are, as indicated earlier, an economic asset. Childless couples, for whatever reason, have not the social standing in the community of families with children. The breaking-up of families, through desertion or migration, results in the turning-over of children to relatives or friends, and since little distinction in treatment enters, they soon are indistinguishable from the natural children, and assist them by dividing the load of heavy families. Moreover, adoption is related to illegitimacy, and frequently the children in families which are referred to as adopted are really the illegitimate offspring of
-
-64
-
-Original from
-
-UNIVERSITY OF MICHIGAN
-
+[65]{.pagenum}
 one’s own daughter or neighbor’s daughter. The child of an unmarried daughter becomes another addition to the children of the parents of the girl with all the obligations. Discipline is in the hands of the original parents and the young mother’s relationship to her son is in most respects the same as her relationship to her younger brother. These children call her by her first name and refer to their natural grandparents as “mama” and “papa.” It has happened that men have adopted into their legitimate families extra-legal children by other women, and with no apparent distinction that would make them unfavorably conspicuous among the other children. Again, children orphaned by any circumstances are spontaneously taken into childless families.
 
-This girl, we find here when us come down here. She be’s both orphan by mother and father, and nobody to look atta her. So we jest tuk her as one of the family, and don’t sho* no difference. We don’t tell no difference. This little boy is my sister’s boy. I can’t ’dopt him long as she live, ’cause I don’t want no dissatisfaction. But he won’t stay with her. She carry him home and have to bring him back.
+> This girl, we find here when us come down here. She be’s both orphan by mother and father, and nobody to look atta her. So we jest tuk her as one of the family, and don’t sho' no difference. We don’t tell no difference. This little boy is my sister’s boy. I can’t ’dopt him long as she live, ’cause I don’t want no dissatisfaction. But he won’t stay with her. She carry him home and have to bring him back.
 
 One way of getting rid of children of low mentality who are likely to become an economic burden is to give them to childless couples.
 
-His wife left him [the adopted son]. He’s my boy. He thinks I’m his mother. She give him to me when he was a baby, and I ain’t never told him no better. He’s not right bright, but he’s got sense nuff to treat you right, and he is so much help. His mother wasn’t right bright either. I kept him in school till he was twenty, but he never did finish the first grade. The teacher said I was doing my duty, but he jest couldn’t learn. Course, he can write and read, too. When he is away, he writes to me, and he can’t read his own letters. He’s jest sort of frenzy.
+> His wife left him [the adopted son]. He’s my boy. He thinks I’m his mother. She give him to me when he was a baby, and I ain’t never told him no better. He’s not right bright, but he’s got sense nuff to treat you right, and he is so much help. His mother wasn’t right bright either. I kept him in school till he was twenty, but he never did finish the first grade. The teacher said I was doing my duty, but he jest couldn’t learn. Course, he can write and read, too. When he is away, he writes to me, and he can’t read his own letters. He’s jest sort of frenzy.
 
 The ease with which the adoptions are made is interesting. There are few families, indeed, however poor, that would not attempt to rear a child left with them. Adoption, in a sense, takes the place of social agencies and orphans’ homes.
 
-No, I ain’t got no husband; he ain’t dead, I don’t guess. I ain’t seen him in eight years. He left me here wid these chillun, so I try to take keer of them. The girl is my niece. Her mother and father both dead.
+> No, I ain’t got no husband; he ain’t dead, I don’t guess. I ain’t seen him in eight years. He left me here wid these chillun, so I try to take keer of them. The girl is my niece. Her mother and father both dead.
 
-65
 
-Digitized by
+[66]{.pagenum}
 
-Original from UNIVERSITY OF MICHIGAN
+> Me and my wife been married thirty-two years. We ain’t got no chillun of our own. My wife ’dopted this little boy. He eleven years old. His mamma gie’d him ter my wife soon atta he was born. His mamma ’round here in Shorter somewhere. We don’t know nothing ’bout his daddy. His mamma ain’t never been married as we knows of.
 
-Me and my wife been married thirty-two years. We ain’t got no chil-lun of our own. My wife ’dopted this little boy. He eleven years old. His mamma gie’d him ter my wife soon atta he was born. His mamma ’round here in Shorter somewhere. We don’t know nothing ’bout his daddy. His mamma ain’t never been married as we knows of.
+#### Children and School
 
-Children and School
+This much is recognized---that when educating children is considered, the economic advantage of having them disappears. Almost unvaryingly, too, an interest in education goes along with landownership.
 
-This much is recognized—that when educating children is considered, the economic advantage of having them disappears. Almost unvaryingly, too, an interest in education goes along with landownership.
+> We moved here in 1905. My father started buying this place. Getting time to move now, ain’t it? I own 110 acres here. The rest of them chillun didn’t want to stay on the farm. They just got tired and moved different places. My father just worked this place up from the muscle. Nobody didn’t help him. He was a old slavery-time fellow, and lived to get about seventy-two years old. It’s about 166 acres in the whole place. I got four tenants. My brother was off when my father died but he was here when my mother died. He’s got I don’t know how many chillun. He’s most too smart for me. I ain't got but one and she cost me ’bout as much as his whole crowd, I reckon. She goes to Tuskegee. It costs a lot of money to educate children. She fell down in one study, and she is going to summer school to catch up in algebra. I have to pay her tuition and buy books and carry her to and from school every day. It costs something, I tell you.
 
-We moved here in 1905. My father started buying this place. Getting time to move now, ain’t it ? I own 110 acres here. The rest of them chillun didn’t want to stay on the farm. They just got tired and moved different places. My father just worked this place up from the muscle. Nobody didn’t help him. He was a old slavery-time fellow, and lived to get about seventy-two years old. It’s about 166 acres in the whole place. I got four tenants. My brother was off when my father died but he was here when my mother died. He’s got I don’t know how many chillun. He’s most too smart for me. I ain't got but one and she cost me ’bout as much as his whole crowd, I reckon. She goes to Tuskegee. It costs a lot of money to educate children. She fell down in one study, and she is going to summer school to catch up in algebra. I have to pay her tuition and buy books and carry her to and from school every day. It costs something, I tell you.
+#### Children Bom out of Wedlock
 
-Children Bom out of Wedlock
-
-The sexual unions resulting in the birth of children without the legal sanctions are of several types, and cannot properly be grouped together under the single classification of “illegitimate.” Children of common-law relationships are not illegitimate, from the point of view of the community or of their stability, for many of these unions are as stable as legally sanctioned unions. They hold together for twenty and thirty years, in some cases, and lack only the sense of guilt. Again, there are competent, self-sufficient women who not only desire children but need them as later aids in the struggle for survival when their strength begins to wane, but who want neither the restriction of formal marriage nor the con-
-
-66
-
-Digitized by Cjoooie
-
-Original from UNIVERSITY OF MICHIGAN
-
-stant association with a husband. They get their children not so much through weakness as through their own deliberate selection of a father. Sexual unions for pleasure frequently result in children. There is a term for children born under the two latter circumstances. They are called “stolen children.” “Stolen children,” observed one mother, “is the best.” A woman with children and who has been married though later separated from her husband may add other children to her family, without the benefit of the formal sanctions. These are “children by the way.” The youthful sex experimentation, which is in part related to the late marriages, often results in children. These are normally taken into the home of the girl's parents and treated without distinction as additions to the original family. Finally, there are the children who result from the deliberate philandering of young men who “make fool-ments” on young girls. They are universally condemned. These children, as circumstance directs, may be placed with the parents of the mother or father of the child, an uncle, sister, or grandmother. They are accepted easily into the families on the simple basis of life and eventually are indistinguishable from any of the other children. Even if there were severe condemnation for true “illegitimates,” confusion as to origin would tend both to mitigate some of the offenses and to obscure them all from specific condemnation.
+The sexual unions resulting in the birth of children without the legal sanctions are of several types, and cannot properly be grouped together under the single classification of “illegitimate.” Children of common-law relationships are not illegitimate, from the point of view of the community or of their stability, for many of these unions are as stable as legally sanctioned unions. They hold together for twenty and thirty years, in some cases, and lack only the sense of guilt. Again, there are competent, self-sufficient women who not only desire children but need them as later aids in the struggle for survival when their strength begins to wane, but who want neither the restriction of formal marriage nor the con[67]{.pagenum}stant association with a husband. They get their children not so much through weakness as through their own deliberate selection of a father. Sexual unions for pleasure frequently result in children. There is a term for children born under the two latter circumstances. They are called “stolen children.” “Stolen children,” observed one mother, “is the best.” A woman with children and who has been married though later separated from her husband may add other children to her family, without the benefit of the formal sanctions. These are “children by the way.” The youthful sex experimentation, which is in part related to the late marriages, often results in children. These are normally taken into the home of the girl's parents and treated without distinction as additions to the original family. Finally, there are the children who result from the deliberate philandering of young men who “make fool-ments” on young girls. They are universally condemned. These children, as circumstance directs, may be placed with the parents of the mother or father of the child, an uncle, sister, or grandmother. They are accepted easily into the families on the simple basis of life and eventually are indistinguishable from any of the other children. Even if there were severe condemnation for true “illegitimates,” confusion as to origin would tend both to mitigate some of the offenses and to obscure them all from specific condemnation.
 
 The sense of guilt may be noted in some of the more advanced families but within the community as a whole social censure is not severe, nor is there any notable loss of status because of “illegitimacy.” It does not appear to be regarded as severely as, for example, the use of certain artificial forms of birth control, or “being closed out,” which means having all of one's crops, stock, and tools taken over for debt.
 
-The church recognizes illegitimacy as a “sin of the mother,” and if the mother is brought into church meeting with other evidences of “sin,” like card-playing or frolicking, she may be “put out of church”; but readmission is possible with a solemn promise not to do it again. Actually, there is less stress placed by the churches
-
-67
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
+The church recognizes illegitimacy as a “sin of the mother,” and if the mother is brought into church meeting with other evidences of “sin,” like card-playing or frolicking, she may be “put out of church;” but readmission is possible with a solemn promise not to do it again. Actually, there is less stress placed by the churches
+[68]{.pagenum}
 upon illegitimacy as a “social sin” than upon card-playing and playing ball.
 
 The danger, from the point of view of health, is the promiscuity of relations and the passing-on of venereal infection. Some men in this section of the county have numerous children scattered about, as a result of their tireless love-making with single girls, married women with children of their own, and with widows.
@@ -1102,17 +897,9 @@ The sense of shame and lowered status follows illegitimacy when the family has, 
 
 An attempt was made to measure the extent of illegitimacy. One hundred and twenty-two women in 114 families had had 181 illegitimate children. The illegitimate children were present in all but 3 of these 114 families. It is necessary, however, to make clear, as far as possible, the condition under which illegitimacy was found in these families. In the case of 24 couples now married the wife had a child before marriage. In 14 of these 24 cases the father of these children was the present husband, and in 10 cases the woman had had the child by another man before marriage. In 2 cases the women, who had subsequently married the father of their illegitimate children, had had 4 children each. There were also 3 widowed women who had had illegitimate children since the death of their husbands. In 13 families the mother was living alone with her illegitimate children. Two of these mothers had 4 children, 2 had 3 children, and 4 had 2 children each.
 
-One unmarried mother of thirty-three years of age had 6 chil-
+One unmarried mother of thirty-three years of age had 6 chil[69]{.pagenum}dren of whom 4 were living. The oldest of those living was a girl of twenty-one and the youngest a girl of ten. The father of all of them was a man legally married, with a considerable family of his own. The oldest daughter was unmarried and had 2 children. Neither of the fathers of the children had offered any support and the women have not asked for it. The mother is a one-half-share cropper, and with the children she manages her farm about as successfully as the average family with a male head. There were 8 women, separated from their husbands, who had illegitimate children. In one case the separated woman was living with her mother. Illegitimate children were also found in the case of 10 common-law couples. In 8 of these cases the children were by the men with whom the wives were living, and in some cases there were 5 or 6 illegitimate children in the family. In 31 of the families a daughter had 1 or more illegitimate children, and in 1 family 2 daughters had an illegitimate child each. Illegitimate children were also found in 9 families in which the daughter, who was the mother of the children, was dead or away. In some cases the illegitimate children in the home had been adopted. This was found to be the case in 9 families. In 6 of the families the illegitimate child belonged to relatives, as, for example, a cousin, or a sister of the mother, or a nephew’s child outside of marriage. In 2 families a son’s illegitimate child had been taken into the home, and in one case the father’s illegitimate child had been taken in. In 5 of the families the illegitimate child belonged to a granddaughter or to a great granddaughter.
 
-68
-
-Digitized by Google
-
-Original from UNIVERSITY OF MICHIGAN
-
-dren of whom 4 were living. The oldest of those living was a girl of twenty-one and the youngest a girl of ten. The father of all of them was a man legally married, with a considerable family of his own. The oldest daughter was unmarried and had 2 children. Neither of the fathers of the children had offered any support and the women have not asked for it. The mother is a one-half-share cropper, and with the children she manages her farm about as successfully as the average family with a male head. There were 8 women, separated from their husbands, who had illegitimate children. In one case the separated woman was living with her mother. Illegitimate children were also found in the case of 10 common-law couples. In 8 of these cases the children were by the men with whom the wives were living, and in some cases there were 5 or 6 illegitimate children in the family. In 31 of the families a daughter had 1 or more illegitimate children, and in 1 family 2 daughters had an illegitimate child each. Illegitimate children were also found in 9 families in which the daughter, who was the mother of the children, was dead or away. In some cases the illegitimate children in the home had been adopted. This was found to be the case in 9 families. In 6 of the families the illegitimate child belonged to relatives, as, for example, a cousin, or a sister of the mother, or a nephew’s child outside of marriage. In 2 families a son’s illegitimate child had been taken into the home, and in one case the father’s illegitimate child had been taken in. In 5 of the families the illegitimate child belonged to a granddaughter or to a great granddaughter.
-
-How the Children Come
+#### How the Children Come
 
 I got so many chillun I don't know where they all is. I got four living
 
@@ -1130,7 +917,7 @@ got frost-bitten one time and I can’t 'member so well.
 
 69
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 The daughter emulated the mother. When asked about her daughter's child, she said:
 
@@ -1148,9 +935,9 @@ Twenty-four couples among the 612 families were living together without legal sa
 
 70
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 The frequency of children bom out of wedlock and the fact that no actual disgrace attaches to irregular birth occasionally work out to the advantage of the child. Adoption has been given increased importance. There is a demand for children to adopt, and an increased social status for families which adopt children.
 
@@ -1166,7 +953,7 @@ Divorce is one of the legal formalities introduced from the outside in regard to
 
 7i
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 from one county to another gave them the legal right to remarry. It was believed that crossing the “line” (Mason and Dixon) meant divorce. One such remarried woman exclaimed: “My husband done cross de line; don’t hear nothing. He may be living or dead. Ain’t dat divorce?” The simplest interpretation is that the act of separation is divorce.
 
@@ -1208,7 +995,7 @@ There were other individuals who believed that the act of remarriage of their sp
 
 72
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 ferred upon them the freedom to marry again. “You see, my other husband, when we separated, got married again first, so that divorced us.” A man and woman, aged forty-eight and forty-six, respectively, had been married eighteen years. It was the second marriage for both although neither had secured a divorce. Of her first husband the wife said: “My husband didn’t leave me, but he got into a little trouble about some cotton situation and went away. He wanted me to go too, but I didn’t want to leave my mother. He was gone a long time before I married again.” The husband explained: “My wife just went away, and she’s over in Cecil. I didn’t have to get a divorce, because she been gone a long time.”
 
@@ -1220,9 +1007,9 @@ There is indication that the mores are in process of change in
 
 73
 
-Digitized by Goode
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 the fact of the now serious and frequent discussion of the meaning and purpose of legal divorce. This discussion took place between a husband and wife and a visiting neighbor:
 
@@ -1240,7 +1027,7 @@ There are instances of use of the external pattern of divorce but without comple
 
 74
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Wife: This husband I got now bought me my divorce.
 
@@ -1258,9 +1045,9 @@ An underlying provocation to separation is the lack of functional balance, with 
 
 75
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 the families places a severe test upon this arrangement, and the weaknesses of the social restraints of the community encourage change. Separations which may be classed as desertions are, perhaps, the most numerous group and include among the underlying motives general dissatisfaction with the association, trifling or lazy husbands or wives, and such sentiments of resignation as “he jest liked some other woman better.”
 
@@ -1284,7 +1071,7 @@ Me and my fust wife separated. Don’t know where she is—me and her jest parte
 
 76
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 My husband lives in Bullock. Don’t know why he leave me. Jest picked up and left. He don’t give me nothing. I don’t know whether we separated or no. He jest lives over there and I lives over here. He got three of the children over there with him.
 
@@ -1315,7 +1102,7 @@ manifest in family discord. The tendency is emphatically in the direction of a w
 
 77
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 light on some of the indefinable dissatisfactions at the bottom of many of these separations:
 
@@ -1329,7 +1116,7 @@ A course of regular and unemotional breeding has been given as a cause of separa
 
 78
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Incompatibility, based upon color difference, has figured in the list of separations. “She was light-complected and nothing suited her. We jest couldn’t ’gree on nothing much, and so we quit.” In this instance there was another factor. The present wife chided the man about not telling all of the truth. “How come you don’t tell why you separated ? He caught her with a white man. I believe in telling the truth.”
 
@@ -1341,9 +1128,9 @@ What happens when there has been exposure to new standards is clear cut and unmi
 
 79
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 met every requirement. “If he [her husband] had never obtained a divorce he could never have married my daughter. Anybody marries my daughter’s got to plumb the line.”
 
@@ -1357,7 +1144,7 @@ It is important to point out first what seems to be a conformity to the conventi
 
 80
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 was that of the frontier, relying upon his ability to effect a personal settlement of differences which ordinarily are handled in the courts.
 
@@ -1371,11 +1158,9 @@ Community gossip exercises restraint, but in certain cases in which the question
 
 81
 
-Digitized by
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 standards of the group which are distilled from personal experience rather than from the abstractions of moral philosophy.
 
@@ -1385,11 +1170,9 @@ On the other hand, there is a strong current of approval of alliances, whether l
 
 82
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 [her daughter] marries or no. Willis [father of Alder’s child] is a smart man. Alder’s father asked me to marry him, but I tole him I don’ want no husband.”
 
@@ -1401,7 +1184,7 @@ If you ain’t married don’t you eber go git yourself no rainbow. First thing 
 
 83
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Ain’t nobody got nothing to give me but God, and if I don’t trust him I’m lost.
 
@@ -1419,7 +1202,7 @@ Quite apart from the question of sex, respectability has other concerns in this 
 
 84
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 frequent assertions in evidence of respectability is the fact that no one of the family has been in jail. The Boyd family is one of the oldest in the community. There are 26 children in the family, of whom 11 are still living—5 girls and 6 boys—all born since slavery. Said one of these: “Papa rents from the man what set him free. We have never been nowhere else but right here. Papa died right over there; all of us live on this plantation. None of us ever been in prison or in suits or nothing. We are always in hopes of getting something.” An old man who had several grown sons in the neighborhood gave this formula of success: “I works hard to keep out of lawsuits and trouble. Nobody don't bother me, and I don't bother nobody.”
 
@@ -1429,9 +1212,9 @@ Begging is, however, different from mutual assistance between neighbors. This is
 
 85
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 agencies for relief, despite their poverty. There is a common disposition to help one another with food and shelter. When they become more sophisticated they discover in these agencies a mysterious means of getting something for nothing, which holds dangers both to working habits and to self-respect.
 
@@ -1445,7 +1228,7 @@ Clearly enough, a transition from the imperatives of one cultural level to that 
 
 86
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 affront to decency than desertion following a forced marriage. Mary Blyden was conscious of a certain personal superiority over her neighbors. She attributes this advancement, of which she is pardonably proud, to the fact that she likes to associate with “cultured people.”
 
@@ -1459,9 +1242,9 @@ Freedom from the economic compulsions of the life of the community carries with 
 
 87
 
-Origirwl from
 
-UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 school in Russell County, has attended a summer session at Alabama State College. When the mother was asked about the marital status of her children, she said none of her girls was married, and added emphatically, “Neither of them has had any children either.” The remark, as well as the emphasis, was offered without prompting and reflected a new consciousness to the changing mores. The father in this family raised cotton but also did public work and hauling. By this means, and aided by his sons, he accumulated enough cash for a part payment of one thousand dollars on his house and farm. The family wore very good clothing but adhered to the custom of going barefoot. The family organization follows roughly the essential pattern of the community with respect to the family economic unit, but this has been modified in such a manner as to avoid the ordinary stresses of the system. The sons live in the household but cultivate plots which they rent from their father, paying him back in cotton.
 
@@ -1469,11 +1252,9 @@ Thomas Germany has lived in the county twenty-seven years. He owns his farm of o
 
 88
 
-Digitized by LiOocle
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 children is illegitimate and the family is miserably conscious of the sin of the daughter.
 
@@ -1487,11 +1268,9 @@ Despite the unevenness of life, the amount of sexual freedom, the frequency of s
 
 89
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 provisions for them, codes and conventions consistent with the essential routine of their lives do arise which represent a form of organization adapted to the total environment. Where social processes such as these proceed largely unconsciously, the surviving folk ways may reasonably be presumed to have a foundation in the fundamental needs of community and human nature. The marriage relation under slavery, despite its lack of the sanctions by the dominant society, had some seriousness of purpose for the slaves and was forced to accommodate itself to the convenience of the institution of slavery with respect to continuity, fertility, selection of mates, change of mates, the quasi-eugenic demands of the institution with respect to breeding, and similar circumstances.
 
@@ -1503,9 +1282,9 @@ The cabin of the Jenifers can be reached by a ragged and winding path half obscu
 
 9°
 
-Digitized by L.ooole
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 (Tramping through the cotton is something akin to vandalism.) When and if he is surer of you, he will point to the path under your eye and suggest that you follow it “a little piece over the way.”
 
@@ -1517,9 +1296,9 @@ Doorways lead off the dog-run into the two rooms. In one of these rooms, where F
 
 91
 
-Digitized by Goode
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 large bed with a double mattress, one of shucks, the other of feathers, and they are covered over with a quilt patched laboriously from an indeterminate variety of cloth scraps into an intricate pattern of squares. They call it, modestly, a “crazy quilt.” The bed is the outstanding piece of furniture. Besides this article there is a wooden box spread over with a newspaper, a rocking chair, and a small table on which stands a kerosene lamp with a broken chimney. Some pride of home has gone into the effort to select newspapers with colored pictures for the wall covering and to keep it reasonably fresh. There are no glass windows. For light and air a board window is pushed open. But this can be done comfortably only in spring and summer, and at other times the family contents itself with light from the open fireplace, where, incidentally, the cooking is also done. On any day when the window and door are closed, sharp slices of light, from the sides of the house and from the roof, spatter the room with shadows. When it rains or the winds blow cold, these interstices bring a great deal of inescapable discomfort.
 
@@ -1531,27 +1310,27 @@ The family is not a fictitious one but is taken directly from the largest group 
 
 92
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
+[]{.pagenum}
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
+
 
 OVER HALF OF THE 612 FAMILIES LIVE IN ONE- AND TWO-ROOM CABINS
 
 NEIGHBORS
 
-Digitized by
+
 
 Google
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 o
 74 per cent of them had been built more than sixteen years before. Few of the houses have glass windows, only blinds, and there were some with no window spaces at all. Many of those families who had windows in their cabins slept with both windows and doors tightly closed in summer and winter, professing variously to be afraid of prowlers, mosquitoes, night air, thieves, and ghosts. Five hundred and thirteen of the 6ia families, however, had small gardens. Seeds for these gardens had been distributed by the Red Cross during the year, and proved to be a most valuable contribution to this group.
@@ -1562,9 +1341,9 @@ Six hundred and eight dwellings were measured. A frame house, for example, which
 
 93
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Of these 608 homes in Macon County, the largest number, 185, or 30.4 per cent, rated between 30 and 40. The modal house was thus about a third of what would be expected for minimum efficiency. The mean score was 35, or slightly over the mode. The lowest score was 12 and the highest 60.
 
@@ -1591,11 +1370,9 @@ The low average of these scores not only corresponds closely with direct observa
 
 94
 
-Digitized by Goode
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 ly of small farms. It is one of the poorer sections of Tennessee, and has no tradition of the plantation since it has always been an area of small farmers. The Negro population is only 30 per cent
 
@@ -1607,9 +1384,9 @@ of the total, as compared with 82.3 per cent in Macon County, and 31 per cent of
 
 95
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 TABLE VI
 
@@ -1675,11 +1452,11 @@ I5-I9................... 2	O
 
 96
 
-Digitized by
+
 
 Google
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 =*!
 
@@ -1687,13 +1464,13 @@ o s.
 
 i 3
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
+
 
 Public Domain in the United States, Google-digitized / http://www.hathitrust.Org/access_use#pd-us-google
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 
 
@@ -1709,9 +1486,9 @@ The Jones family scores 56. Five months before the family had
 
 97
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 moved to their present quarters to “better conditions.’’ The age of the house was approximately fifteen years, but it had not been painted since erection. Floors, roof, steps, and porches were in good condition. Windows and doors were screened. There was an open privy but no bath. Kerosene lamps were used but there was no water on the place.
 
@@ -1729,9 +1506,9 @@ come fix us a place to live, but he ain’t come yit. When it rains we hafter gi
 
 98
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Another woman commented: “My house is so rotten you kin jest take up the boards in your hand and cromple ’em up. Everything done swunk about it.”
 
@@ -1749,11 +1526,9 @@ My health was good ’fore I come here. I had’t took no medicine from a doctor
 
 99
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 As to toilet facilities, 310 used open privies near by the house, 296 had no sewage disposal. Two hundred and fifty-eight used open wells for their water supply, 243 used well-pumps, 32 used springs, and 81 families had no water on the place at all.
 
@@ -1767,9 +1542,9 @@ We get a 24-pound sack of flour and that will last us two weeks. These boys won'
 
 100
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 in a while a can of “ramatoes.” I eat oatmeal regularly. The boys don’t like it, but I like it and when I can’t get milk, I just put sugar and water on it and eat it.
 
@@ -1795,11 +1570,11 @@ know we don’t suffer in the meat line but our bread’s out.
 
 IOI
 
-Digitized by Google
+
 
 Origirval from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 My husband makes a plenty something to eat all the time......We
 
@@ -1809,9 +1584,9 @@ On the Saturday trips to town they may be seen sitting around chatting and munch
 
 102
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Chapter III
 
@@ -1827,9 +1602,7 @@ Without the structure of slavery and the resources of new lands, it could not su
 
 IO3
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 labor in need of land and skilled supervision, the credit system and advances, the tradition of dependence upon planters on the part of the Negro tenants, and the tradition of dependence upon capital on the part of the planters. It is in itself a transitional phase of agriculture as the modes of life of the Negroes are a transitional phase of the culture. The waste of the soil, the overproduction of cotton, the constant involvement of the credit system, have brought on an inevitable stagnation, both for planters and for the Negroes whose lives are linked with its ever declining fortunes.
 
@@ -1854,9 +1627,7 @@ Nine-tenths of the Negro farmers are tenants. The census has distinguished three
 
 104
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Sixty-four of the 612 families (slightly over 10 per cent), or about the same proportion as found for the county as a whole, were owners of their farms. Landownership is, indeed, not so easily acquired. It means a break with the system and such meager security as it holds. One farmer explained:
 
@@ -1893,7 +1664,7 @@ Few outstanding Negro farm-owners were encountered among the families studied. S
 
 105
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 almost as onerous as tenantry. A fair average is suggested in a family consisting of man and wife and five children, two of whom were away, from whose experience a citation will be made. Their home is a frame structure of five rooms. While the frame building is badly in need of repair, it is evident there is some degree of stability and ambition to achieve the status of a property-owner. The family has lived in it for twenty-four years. It is inclosed by a fence. The green window blinds and the lightning rods on the roof can be seen from the road. Just in front of the house is a large fruit orchard with pears, plums, peaches, and apples growing, and in between are planted green vegetables. At the rear of the house is a small cabin which might have been occupied by the former owner’s servants. Said this farmer:
 
@@ -1911,11 +1682,11 @@ A detailed account of his earnings for the year, from all sources, is as follows
 
 106
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 0
 
@@ -1959,9 +1730,9 @@ n
 
 
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 0
 
@@ -1995,9 +1766,7 @@ b)	I been owning this place about thirty years, and I been farming all my days, 
 
 107
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 ’cause I had to work. I reckon I been ’round here in this community about fifty-two years. Been sick and ain’t able to do much work, but I buys all I kin. I paid $3.50 an acre for 75 J acres of land. I ain’t satisfied with the house, but I ain’t in no shape to do no better. It’s just a shame, an old hull, but I don’t seem to be able to make enough to do nothing.
 
@@ -2013,17 +1782,17 @@ Twelve of the sixty-four owners rented land in addition to their farms. In a few
 
 108
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 “I ASK LANDLORD TO VANCF. ME ER PAIR OF OVERALLS, AN' HE SAY HE NEED OVERALLS HISSELF"
 
-Digitized by Goo;
 
-Original from UNIVERSITY OF MICHIGAN
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
+[]{.pagenum}
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
+
 
 
 earnings at twenty-five dollars above his rent. Neither of them has been to school, but the husband can read and write, and takes a paper daily. The wife was divorced from her first husband, but this is the husband’s first marriage. They have two daughters living in Macon County. One of them lives near and owns her home. One daughter and one son live in Birmingham; one son in Ensly, Alabama, and one son in Chicago.
@@ -2042,9 +1811,9 @@ here five years ago and said he was going to fix this house up. All he’s give 
 
 109
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 b)	I ain’t got no children and me and my husband works a one-horse farm and we got ’bout thirty acres. Last year we made 6 bales of cotton and rented the thirty acres for $60; fifteen acres we used for cotton, the rest for corn. We kept the corn and didn’t sell none hardly. At ten cents a pound the six bales would bring $300. We has $10 advanced for four months. We turned it all over, and they took out the $40 advanced, $30 for fertilizer, and $60 rent. We got through and then they say we come out $72.43 in the hole.
 
@@ -2068,9 +1837,9 @@ Another type of tenant pays a good rental in cash and receives advances.
 
 110
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 We farms 60 acres and pays $150 for rent. That’s $75 to the plow. They Vances us $15 a month for five months. I come out jest $175 in the hole.
 
@@ -2092,9 +1861,9 @@ One daughter lived at home. Four boys were away living in cities in Alabama. One
 
 hi
 
-Digitized by Goosle
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Share-Croppers
 
@@ -2112,11 +1881,9 @@ We jest work by the day and pay $1.50 a month for this house. It’s jest a piec
 
 112
 
-Digitized by
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Course the boy stops and goes to school in the winter sometimes, but if he can git work to do, he works too.
 
@@ -2146,9 +1913,9 @@ I works for a hand’s share in the crop with the folks cross dere. My husband b
 
 113
 
-Digitized by Goo;
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 sister .... but I come back here, ’cause dese chillun kept worrying me to come on here to live wid them. It’s mighty tight on me to have to go working in dese fields half starved, and I ain’t had a bit of money to buy a piece of cloth as big as my hand since I been back. I washed fer white people in Birmingham, and dey was good to me. I am jest gitting long by the hardest. I works for dese people for a hand’s share in the crop. Dey gives me a load of corn and a load of potatoes. I gits some of all the other stuff what’s made, and when selling cotton dey give you a little money out of the seed. I don’t see no money on time. Dey gives me a little something to eat ’cause I works wid dem and dey gives me a little groceries. I never was in this fix before in my life. I had good money when I come from Birmingham. I had two fives and five single dollahs. I sho’ gonna git what I works for dis year.
 
@@ -2162,11 +1929,9 @@ The old man is eighty-four years old and has been married twice. His wife is sev
 
 114
 
-Digitized by Goo<
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Other Occupations
 
@@ -2191,9 +1956,9 @@ Nearly all of the women in these families assist on the farm. Only 31 of the 579
 
 ”5
 
-Digitized by Goode
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Not only does the wife engage in work on the farm, but the children and other members of the household also work. In 252 families, or 41.1 per cent of the total, there were two persons working; and in 67 families, or 10 per cent, there were four persons at work. In 89 families, or 14.5 per cent, there were from five to nine persons at work.
 
@@ -2216,9 +1981,9 @@ In many cases the arrangement between the landlord and the tenant or cropper inc
 
 116
 
-Digitized by Goo'
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 51.1 per cent, of the 450 children were at work. In the third and highest type of families there were 235, or 41.8 per cent, of the 562 children employed.
 
@@ -2244,9 +2009,9 @@ We made 10 bales last year but look like we poorer than ever. We didn’t get bu
 
 117
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 His first wife and her first husband are dead. They had one child to die from “thrash” at the age of nine months. His two children by his first wife live with his mother in Birmingham. They have one child by the second marriage.
 
@@ -2270,17 +2035,17 @@ For those who cannot own a mule or horse, it is possible to rent one. The cost v
 
 118
 
-Digitized by L,oo<rte
 
-Original from UNIVERSITY OF MICHIGAN
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
+[]{.pagenum}
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
+
+
+
 
 
 ments the type of which has been in service in the area for fifty or sixty years. As simple as these were, there were 299 families, or nearly half of them, who owned no farming implements at all. Table XV lists such as could be found. This table gives all of the tools actually owned by families. It is usually assumed that every farmer has a hoe and most of them a plow. This is not the case
@@ -2318,9 +2083,9 @@ When an owner or a tenant has borrowed cash or rations from the landlord or the 
 
 119
 
-Digitized by L,oosle
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 one who lives by the soil, and closing out a Negro tenant is not always a pleasant proceeding for the white landlord who has had dealings with these tenants. Sometimes they extend the credit. Sometimes they are forced by pressure against themselves to bear down upon the Negroes. Sometimes it is an impersonal procedure in which they are not aware of the suffering inflicted. When there is absentee ownership the blow descends swiftly and impersonally. But the bitterest complaints are against the cold process which relieves these tenants and small owners of their possessions because it can be done without fear of successful protest.
 
@@ -2338,18 +2103,18 @@ We had 60 acres last year and paid $200 for rent and made 13 bales of cotton and
 
 120
 
-Digitized by Goode
-
-Original from UNIVERSITY OF MICHIGAN
-
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
-
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
 
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
+[]{.pagenum}
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
+
+
+
+
+
+
 
 
 Singleton Thompson’s family, which included two married sons and their families, was renting from a woman planter. She sold them two mules, a wagon, and two plows, which were to be paid for in instalments. The first year they raised io bales of cotton, some corn, and hay for the mules. When the time for settlement came the woman took the io bales of cotton and presented a bill for $623.25, which they could not pay. She then took the mules and wagon, the hay, and 37 bushels of corn. The Thompsons moved and tried it again on another plantation.
@@ -2374,11 +2139,9 @@ what you doing, cutting wood ?” and I told him yes, that I had to do fust one 
 
 121
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 swamp and show him where I been cutting, and I carried him down there and then he said, “You closer to the line then you ought to be, ain’t you?” 1 told him that I bought that place and if I was close to the line I didn’t
 
@@ -2410,9 +2173,9 @@ was fixing to send you up to the penitentiary?” We went up to the
 
 122
 
-Digitized by LrOOQle
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 courthouse and called the case against E----R------, L----R-------, and
 
@@ -2440,11 +2203,9 @@ I don’t believe the white folks are doing right by these farms. We have no wat
 
 123
 
-Digitized by L.oo<rte
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Cash Earnings of Negro Farmers
 
@@ -2458,11 +2219,9 @@ A measure of refinement is brought to the figures on income by sources of income
 
 124
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 food; for clothing; for health; for education of the children; for church, lodge, and insurance dues; and for some amusement.
 
@@ -2495,9 +2254,9 @@ The weight of generations of habit holds the Negro tenant to his rut. Change is 
 
 125
 
-Digitized by boogie
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 for survival under the old modes. One intelligent old farmer had sensed an important element of the natural conservation of these tenants. He said:
 
@@ -2517,11 +2276,9 @@ It is evident that all is not exploitation. The high level of illiteracy at time
 
 126
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 of having it; if they stayed in the hole, it was only what they expected. “We always owe money and going to owe it, too; jest one month after another always something. That’s the way it goes^'
 
@@ -2535,9 +2292,7 @@ I know we been beat out of money direct and indirect. You see, they got a chance
 
 127
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 I don’t want them to hurt my feelings and I just have to take what they say, ’cause I don’t want to go to the mines [convict labor] and I do want to live.
 
@@ -2561,9 +2316,7 @@ But then my time will come to die.
 
 128
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Chapter IV
 
@@ -2577,7 +2330,7 @@ If figures can make the situation within this group clearer, 113, or 25 per cent
 
 129
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 little but cannot write, those who can figure a little but cannot read. The third category seems very broad, but remembering that but few have had more than eighth-grade training, the breadth is only apparent. Of the 460 male heads of families, for example, only 27 had more than eight years of schooling. The group of bare literates contained about half of the male heads of families, and those with five years or more of schooling amounted to 117, or about the same proportion as the illiterates. The women were, on the whole, a trifle more advanced in this respect than the men. Thirty per cent of them fell in the class of bare literates, as compared with 50 per cent of the men, and 35 per cent of them had five years or more of education as compared with 25 per cent of the men. No correlation was observed between the education of husband and wife. In 44 families both were illiterate.
 
@@ -2587,7 +2340,7 @@ Reading and writing are not a serious part of the routine of daily life for eith
 
 130
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 When I come along niggers didn’t know nothing ’bout writing. Arch [a fellow-slave] was the only nigger ’round who could write. He done learned carrying the white folks’ chillun to school. When Master found Arch could read he fainted. And he didn’t find out till after the war. He said, “Arch, you done been to war wid me, slept wid me, and eat wid me. If I’d a knowed you could read I woulda done had your arm tuk off.”
 
@@ -2603,7 +2356,7 @@ My folks wanted me to go to school, but I was scared of whuppings so J never wou
 
 I3I
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 All the others what went got good learning. Some of them school-teachers. The teacher whupped me once, and I didn’t want to go back no more. When my mother found out I wasn’t going she whupped me till I like to had spasms. She knocked a hole in my head. After that she kept me home and made me learn to cook, milk the cows, and sew for the other children.
 
@@ -2615,11 +2368,9 @@ The most pronounced change in attitude is now observed among the present parents
 
 132
 
-Digitized by L,ooQle
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 'cause I guess it’s your brains now what carries you through this world.......I used to think it was disgraceful for a married wom-
 
@@ -2633,11 +2384,9 @@ Although being registered in a school does not mean regular attendance, there we
 
 l33
 
-Digitized by Goo-
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 should be in school there were four whose grades could not be learned and three who though colored were allowed to attend a white school on one of the plantations. The interruption of school work as well as the character of instruction and for one reason or the other the inability of the children to be advanced in grades are suggested in the grade-standing of 553 children of various ages who are in school.
 
@@ -2679,9 +2428,9 @@ The usual period during which school is kept open is October to May. Attendance 
 
 134
 
-Digitized by Goo
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 the cost of books, the special fees to supplement the teachers’ pay—“for teacher’s board,” the families explain—keep the numbers down. The teachers, although practically dependent upon
 
@@ -2717,9 +2466,9 @@ these fees, do not always feel disposed to insist on them, particularly when it 
 
 J35
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 not have. The introduction of sanitation, for example, sometimes means payment by the families for the building of approved toilets. If the schools are fortunate enough to get a competent teacher with ideas and a program, the extra items, such as simple playground equipment, must be privately purchased by the community.
 
@@ -2733,9 +2482,9 @@ One of the ways in which isolation is broken down is by literacy. Formal schooli
 
 136
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 marking the life of the families in this community, it transpires that years of schooling provide an index of a sort for measuring important social differences, as well as changes. It is one of the striking observations of this study that parents* education is correlated with differences among families with respect to (i) size of family, (2) economic self-sufficiency, (3) the numbers of stillbirths and miscarriages, (4) infant mortality, (5) the amount of sickness, and (6) the attitudes of families toward themselves and toward life.
 
@@ -2757,9 +2506,7 @@ educational status of the husband or male head of the house had no appreciable e
 
 137
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 ered or 3.3 children to a family when only those families with children were used as a basis. The reason for the few children in the illiterate families is apparently the higher death-rate and the number of broken homes among the illiterate families.
 
@@ -2783,7 +2530,7 @@ most education had no children in school. A better comparison of these three typ
 
 138
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 part of the mother should insure the child greater care of its physical needs as well as hold the child to the family group.
 
@@ -2807,9 +2554,9 @@ In the case of 30 male farm-owners, 7 were illiterate, 11 had four years of scho
 
 *39
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 My husband make plenty of something to eat all the time. We spend right smart for clothes; I reckon we spent out $40 for clothes and shoes
 
@@ -2839,9 +2586,9 @@ anything but farm. He came up under the yoke of slavery. I went to Tuskegee and 
 
 140
 
-Digitized by LjOO
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Farm-ownership makes a difference in numbers of children in school and the number of years which these children are retarded. Children of owners make a better showing than the average for the schools. Then there are children who, though in families, are not in normal family units: grandchildren, adopted children, illegitimate children being reared by relations or friends of the mother, children from homes in which one parent is missing. Such children when separated from the totals make a poorer showing than the average.
 
@@ -2870,15 +2617,13 @@ Of 37 children of owners between six and nineteen years of age, only 2 were out 
 
 141
 
-Digitized by Goode
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 
 
@@ -2890,7 +2635,7 @@ The irony of the situation seems to be in the fact that the life of a tenant in 
 
 H3
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Occasionally a tragedy gives dramatic vividness to the conflict arising under the system. Henry Harding had tried for eighteen years to get somewhere. He studied and read and tried to apply his knowledge, but without effect. Every time he tried to help himself his situation tightened. But a tenant trying to support a family on fifteen acres and send some of his children to school has a small chance. He began to brood. His wife, Mary Harding, told briefly his story:
 
@@ -2900,7 +2645,7 @@ The influence of Tuskegee extended into the community and in an interesting mann
 
 144
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 stitution had registered at points, particularly around Shorter. The wife of a farmer in Shorter was just coming home on one of our visits. She had been out on one of the canning-club meetings. Said she: “You just come in time or I wouldn’t be here. I just come from the Farmers’ Canning Club. We sure had good eatin’s today. We done stuffed salads with beets, raw cabbage, and made this here mayonnaise to go on it. You know Miss D----, I reckon ?
 
@@ -2912,9 +2657,7 @@ Students from this section who had come back to live apparently found it extreme
 
 *45
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 cloth. But the five sons and four daughters slept in the two rooms. When Ralph came back from school he courted a young girl, and after a period a child was born. The young woman said nothing of marriage. She says it did not occur to her at the time. He was having some difficulty getting established in his trade. But it disturbed Ralph, and he urged her to marry him and she did. They have been living together pleasantly since. He has his blacksmith shop on the place and spends most of his time in it, although work is slow. Blacksmithing has been steadily declining and he has found it necessary to follow the pattern of the community in its economic life, by renting a plot of farm land, and for this he pays a rental of fifty dollars annually.
 
@@ -2922,11 +2665,11 @@ Thomas Woods “left off in Junior class in Tuskegee way back when it wasn’t b
 
 146
 
-Digitized by Google
+
 
 Origirval from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 from each other for more than a month during their entire married life of thirty years, for any reason. The wife said: “Only time I ever stayed away from my husband was a month I was in Dayton, Ohio. I just stayed that long ’cause they all said I wouldn’t stay.” Moses Green learned the trade of carpentry and bricklaying at Tuskegee, over twenty years ago. This is what he said about himself:
 
@@ -2946,11 +2689,11 @@ I worked with the Bradley Lumber Company from November to June of this year. Got
 
 147
 
-Digitized by C.OO
+
 
 Origirral from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Beyond the sense of sharing the new values of the Institute, there is indication of further social distance. The spirit of race consciousness has entered and identifies itself with color consciousness in a manner that places the Tuskegee school in a different world of relations. A man who hopes to send his son to school expressed some apprehensions about his ability to fit into the color scheme.
 
@@ -2974,15 +2717,15 @@ Children of parents who are zealous to have the mystery of letters mastered have
 
 148
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 page. “Come here, Markus,” a parent shouted, “and let the man hear how you can read.” It is the children who are now intrusted by their families to keep the ages, because “their minds are stronger.” They read the letters that occasionally come in from relatives in distant parts of the country, and bring home the gossip from the school. The children become, thus, a link with the new culture. New notions of sanitation and hygiene percolate into the old homes: the value of screening, the dangers of infection from careless and ignorant habits, the hazard of open wells and careless waste disposal. The slow rate of transition, generally, through this medium appears to be due quite as much to the inadequacy of the present local elementary schools as to the inability or unwillingness of the older members of the group to abandon their traditional ways.
 
 149
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Chapter V
 
@@ -3000,11 +2743,11 @@ The notable distinction in growths is between the church as a social center, the
 
 150
 
-Digitized by
+
 
 Google
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 first, there has been a pronounced development; with respect to the second, the church is less effective than in other communities with a different organization of Negro life; with respect to the last, there is a widening gap between doctrine and behavior which leaves the traditional doctrine empty and unconvincing in relation to the normal currents of life.
 
@@ -3014,7 +2757,7 @@ The community is predominantly Baptist. Methodists rank next in point of numbers
 
 *5!
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 the ecstatic shouting, screaming, falling, rolling, laughing, jerking, and even barking of mass hysteria under the stress of religious enthusiasm, now most commonly regarded as characteristically Negro emotionalism, came into vogue. Likewise, during this early period the sermon patterns of exhorting, with accompanying mannerisms, were first noted. Many of the stereotyped expressions which go to make up the common prayers may be traced to the vivid language of these early evangelists. These expressions, based largely upon scriptural language, are common to many parts of the country and are as fixed as ritual. Faris suggests the influence of these patterns on the Negro slave as a possible explanation of patterns of their own emotionalism in religion:
 
@@ -3032,7 +2775,7 @@ Andrew Polk Watson gathered a group of religious experiences of Negro former sla
 
 15a
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 forced in a relentless and more insistent manner than perhaps any others, and by their very strength and sanctity make difficult the development of new and more fitting controls. For example, venereal clinics3 have been established in several of the churches because they were the natural social centers, but the social implication of these clinics was nowhere recognized. This was important to the successful operation of the clinic, but a situation which would have been socially impossible where there was greater sophistication or where the church had translated this health problem in terms of social relations.
 
@@ -3044,9 +2787,9 @@ The Damascus Baptist Church stands at a far junction of the dusty and tortuous r
 
 3 A phase of the Rosenwald Fund demonstration in the mass control of syphilis.
 
-Digitized by Goo<
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 sagging shutters is a small cemetery with boards and short tombstones jutting up at odd angles to mark the mounds of departed members. Twelve mules and a horse are hitched to the oak trees, and farm wagons, still holding empty chairs and baskets, are scattered about the green. Besides these conveyances are fully a dozen Ford automobiles, worn and plastered with dry mud, and, lounging in these cars, engaged in conversation are men, young and old, carefree and serious. The principal cluster of women and small children is around a pump which stands midway between the church and the school. They are drinking with an easy leisure.
 
@@ -3058,9 +2801,9 @@ Lord our Father who art in Heaven, let your will be done on earth as it is in He
 
 J54
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Ghost for Jesus’ sake. Bless these our sisters and brethren, O Lord, our Heavenly Father, and we want dying men and women to know that besides you there is no other God before you, and they must know that they got to give account of all the deeds done in this body.
 
@@ -3086,7 +2829,7 @@ Lord, our Father, some have gone to the left and some have gone to the right; O 
 
 *55
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 There is now a more fitting mood for the minister. During the singing and praying he has been detached, sometimes rapt in abstraction, sometimes leaning over to whisper matters of practical concern over the business of the church. He is a stocky, dark, elderly man, well aware of his rank as a preacher. Now he is all attention, and with a heavy solemnity he approaches the pedestal.
 
@@ -3104,11 +2847,9 @@ way, and she greeted us wid a smile, and as far down the road as I saw
 
 156
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 her I could see the intelligence in her, and later when I talked wid her, I got acquainted wid her through her smile. That’s the way wid Jesus.
 
@@ -3122,7 +2863,7 @@ The words of the minister are not so impressive as the manner in which he intone
 
 *57
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 “Come, Holy Spirit, we need you now”; “Jesus comes by.” The imagery, which is most effective, is that which is enshrouded in the most impenetrable cloud of mystery.
 
@@ -3134,7 +2875,7 @@ When Paul got ’way down the road on his journey he fell down prostrate on the 
 
 i58
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Holy Ghost. Chillen, if you pray the world can't do you no harm. The first morning Paul went out he 'suited wid God. He met my friend, O God! Preached until men believed. When Paul started on his second missionary journey he said, “O God, who must I git ter go wid me?” and Jesus said, “Go on the outskirts of the city of Philippi. Believe I am the Son of God. A woman stays there; she is a po* woman, but she will give you room in her home. You stay there.” I can see, brothers— I can see, brothers—he began preaching the Gospel. I believe that Jesus Christ is the Son of God. People begin ter git on easy, but he preached on and on till they began ter believe and thirst for the word of God. But soon they tuk Paul and Silas and bound ’em in the jail.
 
@@ -3152,9 +2893,9 @@ The shouting has begun with sudden sharp groans of spiritual torture, then screa
 
 159
 
-Digitized by Goo*
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 ical demonstrations, while most of the audience responds in low accents. There is a phase of worship referred to as “helpin’ out” the preacher, in which a line will be repeated several times by the minister or even a leader from the floor, and the audience joins in with a low moan. “The mountain so high, but Fm coming on”; “Lord, I done started and I can’t turn back”; “Lord, I didn’t come here for to do no harm”; “Trouble done been here, calling us a long ways”; “Well, you talk about Jesus; he’s a friend of mine”; “Well, it’s all night long Fm on my knees”; “I jest come here, Lord, for to sing and pray”; “Well, I feel like moaning. . . . The preacher continues:
 
@@ -3178,7 +2919,7 @@ O my Heavenly Father, hit is again I done bowed on my knees ter give thanks fer 
 
 160
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Thee that we is working for a Kingdom not made wid hands. We are following you, Captain Jesus, ’cause you said your Kingdom last always. Sometimes, Jesus, you know the devil gits us by the hand, but we want you ter catch us by the hand and lead us out. Amen.
 
@@ -3202,7 +2943,7 @@ My friends, we done sung the songs of Zion; done broke ter you the bread of life
 
 161
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 The collection is lifted. Four young men stand before the pulpit and begin to sing, while two deacons stand by the table and persuade the members to come up and contribute.
 
@@ -3214,7 +2955,7 @@ Jesse Harding, although a landowner, was not well liked in the community. He bel
 
 162
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 At about three o’clock on Sunday the bell began to toll. It was the signal that the procession was moving to the church. The crowd that had been sitting around since the morning service, chatting and eating, jumped up and crowded around the windows and doors to watch the approach of the body and the mourners. Those who had been waiting outside began pushing in for seats, and there was much talking and gossiping, most of which was about the deceased. The preacher came in, showing traces of both excitement and anger. Mounting the rostrum, he raised his hands, but the tumult continued. Then he spoke: “Everybody hush your mouths. You ain’t at no frolic; you’re at a funeral. Now don’t nobody talk. We ain’t at no corn-shucking. You all talk like you at a moving-picture show.” His remarks had been ill chosen, for there was tittering over his reference to frolics and picture shows. He tried another appeal. “Be quiet, please. Don’t talk. Sh . . . . Who’s that talking over there, and I told them to stop talking? If white folks had a been in here you could a heard a pin drop.” This was not only a warning by suggestion; it was a confession. The shadow of the plantation extended even into their most intimate institutions.
 
@@ -3232,7 +2973,7 @@ There is rest for me.
 
 Origirial from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 The preacher spoke again. “I’m going to ask you all once more to please give the family all the front seats..”
 
@@ -3250,7 +2991,7 @@ He carried these last words smoothly into a spiritual:
 
 I want to be ready, I want to be ready. To walk in Jerusalem just like John.
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Wiley sensed this, and, after a brief allusion to the coldness, made a very perfunctory remark and sat down without further endangering his standing with the audience. He said: “This seems to be a mighty quiet funeral. You don’t find many of our funerals so quiet. We are here on a very sad occasion. I been knowing Brother Jesse for a long time, and we thought a lot of him in this community.” The preacher felt a challenge to his greatest skill in arousing this audience to the appropriate feeling for such an occasion. But he had great difficulty in finding words. His sermon offers a remarkable example of forced movement, from the platitudes of the beginning to the artificial “rousements.” “Friends, this is a very sad occasion,” he reminded them again. “Brother Jesse was converted under Rev. Dr. Banks, who has gone on to heaven.” Still getting his bearings: “Brother Wiley and Brother Saunders has given you some very good talks.” The chill of the audience bore down upon him, and he admitted, almost bargainwise: “Brother Jesse had his faults, like you and me. I talked with him at home and at the hospital.” He excused himself for not visiting him at the hospital oftener: “They had to ask me to not come to the hospital so much, ’cause there was so many sick folks just like Brother Jesse.” Everybody knew the deceased’s forthrightness and it could be mentioned again.
 
@@ -3262,9 +3003,9 @@ I know you all waiting to see what I’m going to say. Brother Jesse told me, an
 
 i65
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 There are other virtues implied in his life which came closer to the general community notions of respectability. “He died and left his wife in good shape. Left her his home; left her not begging; left her with something around her. She's crying now but she ain't crying 'cause she ain't got nothing to eat." It was this thrust by the preacher which brought the first response. The audience quieted for a while as if stunned, and the preacher indulged in a few easy personal reminiscences.
 
@@ -3276,9 +3017,9 @@ When we are about to build a house the architect makes out all the plans and sta
 
 166
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 to build. But that building is going to rot down; time is going to wear it out. Storms and rains is going to tear it down after a while. Jesse’s government sent him over in France. He got gassed and gas got all through his body, but he done it for me and you. He is saying, “All you can do for me, Mr. Hoover, now is give me a home over yonder. Got to go back and have a home when the government done signed up. Gonna need one after a while.”
 
@@ -3288,9 +3029,9 @@ God talked, and one thousand birds came from nowhere. He talked and the waters o
 
 167
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 France. Brother Jesse didn’t happen to fall in that crowd, but he had to stand in water up to his knees. He told me once he didn’t see how he got that disease, and I told him that he brought it back from France; that he caught it over there. I told him not only him but there was thousands of other boys in the came condition. He went in there one evening and got on the scales and he had lost seven or eight pounds, and the next week they put him on the scales again and he had lost about eight and a half pounds, and he said, “I can’t stay here long going away like this.” After a while he got to meet that monster Death. At the hospital they weigh you to see how you are getting along. All that is over with you now, boy. You ain’t gonna stand in line no more. We won’t see him no more going to see after the stock in the barn. O man, I will meet you after a while. I fancy Jesse talking to his father, and him asking about all of the children down here. O wife, you won’t have to walk around the bed giving him medicine no more. O Lord, O Lord! O Jesus, take care of us! I imagine I can see Jesse walking in Jerusalem just like John. Ain’t got on no soldier’s clothing, ain’t got on no gas mask; but he’s got on the helmet of salvation, sitting around God’s throne.
 
@@ -3306,7 +3047,7 @@ Don’t nobody go out. The undertaker will tell you which way to
 
 168
 
-Origirial from UNIVERSITY OF MICHIGAN
+Origirial from []{.pagenum}
 
 come up and see the body. This body has been embalmed so there ain’t nothing to be afraid of. We got a little debt on the pump, so you all put a nickel on the table as you pass to look at the body. Don’t talk. Pass quietly, please. Don’t talk. Don’t go outdoors. Go out behind the body.
 
@@ -3346,7 +3087,7 @@ I want to remind you also how necessary it is to keep up insurances so that you 
 
 169
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 As the body was lowered into the grave a brother of the deceased man leaned upon a woman mourner and wept aloud. Others waved their hands at the corpse crying, “Goodbye.” A woman standing back from the group of mourners screamed, “You said you wanted rest and now you got rest.”
 
@@ -3368,9 +3109,9 @@ We are going to have two subjects today. The first one is going to be delivered 
 
 170
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 The superintendent arose and put on his glasses to speak. He said:
 
@@ -3394,7 +3135,7 @@ Master of Ceremonies, Members, Pastor, and Friends: One way we will have a futur
 
 171
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 or woman who won’t let their children be brought up in the Sunday school. I mean from the Deacon Board on down. You can’t just turn them loose. If we never have no prayer service here we don’t know whether our boys can sing or not. We got to quit so much frolicking. Your son and daughter gonna do and say just what you do. You want your child to be able to say, “I want to be like mother or father.” Our only hope is to bring them to the Sabbath school, have prayer services so that child will be able to take^care of the future church.
 
@@ -3436,7 +3177,7 @@ We was scared to do anything. Just much difference in Sunday school now and then
 
 172
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 cated in your feet and in your eyes. That’s what it takes for the future church.
 
@@ -3452,11 +3193,9 @@ There is quite a change in now and years ago. There is quite a change in everyth
 
 l73
 
-Digitized by
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 can’t get one ain’t much of a man. It takes a hustler to get one. If I couldn’t get a dollar I would go to Europe or somewhere else and get one. I ain’t gonna stay no where I can’t get a dollar. Some of us ain’t got nothing and don’t want nothing. When he gets to the place where he doesn’t want nothing he is in a bad fix.
 
@@ -3480,7 +3219,7 @@ Any attack on the traditional ways is hazardous, and this minister approached th
 
 174
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 You can’t hardly change an old man from his ways; he is stubborn as the devil. You can change young folks. An old man is set in his ways. Brother, I am preaching now; you all better say “Amen.” I been talking this way for twenty years and I ain’t been put out yet. They might cuss me out, but they ain’t put me out. I will be like the monkey—“ain’t gwine nowhere.” I’m telling you now I ain’t gwine nowhere. Get this rich thought I am giving you this morning. It isn’t money—any fool know money will last only a short time. In his soul religion ought to be the strongest thing. Get love in your hearts. Wake up, Brother Swenny, you know you can’t sleep over me. You got to go somewhere else to sleep, ’cause I’m gonna wake you up. A man who can serve and won’t serve just needs to be born again, that’s all.
 
@@ -3490,7 +3229,7 @@ We don’t want no deacons on the board who won’t serve. I am thinking the tim
 
 *75
 
-Origirval from UNIVERSITY OF MICHIGAN
+Origirval from []{.pagenum}
 
 of Alexander. Preachers used to wear long-tailcoats and beaver hats, but now they wear whatever they want. I am going to wear the kind of hat and shoes, too, I want to wear. There ain't no need to be dead. I wouldn't give a dime for a teacher who come to class all drawn and dead. We want plenty of pep in them. I believe that teachers who teach our children ought to be Christians. I believe a man teaching Sunday school ought to be a Christian and a man teaching psychology or anything else ought to be a Christian. About sixty-some-odd years ago we didn't have teachers like we do now. You folks back there will have to be still and quit getting up and going out.......I can't preach with all that noise.
 
@@ -3502,7 +3241,7 @@ My friends, by faith the children walked down in the Red Sea on dry ground. Any 
 
 176
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 God will come back. I want to ride up one of these mornings; I want to say I've kept the faith. I wonder if the church will meet me on that morning? Since that time sixty years ago somebody has said, “I have kept the faith.” I got a mother over yonder, and I hope to meet her some day.
 
@@ -3550,11 +3289,9 @@ When Jesus fixed, when Jesus fixed this heart of mine.
 
 in
 
-Digitized by VjOO*
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 I haven't got time to tell you what I want to tell you; seem like you all are in a hurry. I hope the rain will run you all back in. Don’t nobody leave till we show them what Macedonia folks can do.
 
@@ -3570,15 +3307,15 @@ In so simple a society the range of the unknown fell far into the field of ordin
 
 178
 
-Origirval from UNIVERSITY OF MICHIGAN
+Origirval from []{.pagenum}
 
 family, to the acuteness of hard times, to tragedy, and to the prospect of personal death and damnation is “seeking.” And such seeking partakes of all the fears which make up life. It probably accounts for the frequent “visions” and dreams so colored by the workaday world, and for the ecstasies of the release. It seems just as true of the religious experiences of this group as of other similarly naive Negro groups of which it has been observed that they were not converted to God, but converted God to themselves.
 
 *79
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Chapter VI
 
@@ -3600,17 +3337,17 @@ There are notable conflicts in the community with respect to certain sports. The
 
 180
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 F
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 0
 
@@ -3652,11 +3389,11 @@ This is the great feature of the rural recreation. These affairs begin as dances
 
 181
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 quently, in the most wanton merrymaking. In this respect they are characteristic of all peasant merrymaking, a reaction to, and escape from, the other extreme of their life-cycle. The frolics and “parties,” held on Saturday nights, were mentioned by practically all the younger members of the community. The churches inveighed against them as an incident of the evil of dancing. They are held from house to house; there is usually an abundance of corn whiskey available, and they not infrequently end in violence. The houses are small and ill lighted and couples make little secret of the character and intensity of their love-making under the wide-flung blanket of darkness. One old woman referred thus to these affairs: “Now my son, he has lots of entertainment. He goes to all dem dances on Saturday nights. I ain’t feeling so favorable to that. Dere’s so much cutting and killing going on, but he’s got to look out for hisself now; he’s a man like everybody else, I ’spects.” Church members are not expected to attend these affairs on penalty of expulsion, but many of them do, and in listing their recreations included frolics along with the church.
 
@@ -3670,7 +3407,7 @@ There was, occasionally, the franker listing by individual men of sexual interco
 
 182
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 programs. Those who do not like what is offered by the community may “piddle around the house/' “set on the porch and rock/' “lay down and sleep," “wallow around the house," “play with t^ie cat," “walk about and visit," or “jest set down."
 
@@ -3688,7 +3425,7 @@ Some of the insurance companies operating in the neighborhood have adjusted thei
 
 183
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Wells” to the “Sons and Daughters of I Will Arise.” There has been a loss of confidence in most of these recently, owing to frequent financial failures, the inability to meet sickness and death payments, and the widespread exploitation by both whites and Negroes from the outside. One man said: “I was in the American
 
@@ -3710,9 +3447,9 @@ There are no radios, but 76 families had victrolas, bought on the instalment pla
 
 184
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 the families, and most of these were out of repair; but playing provided some amusement. Both the organs and the pianos were in the homes of owners.
 
@@ -3720,7 +3457,7 @@ There is being introduced, with some prospect of better control, a new form of r
 
 185
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Chapter VII
 
@@ -3732,9 +3469,9 @@ One of the unexplained circumstances in the number of Negro deaths for 1929 may 
 
 186
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 officer know what proportion of the total was registered. There is some evidence that the number of Negro births registered is less than the actual number of births. In our 612 families, which might be taken as an average, there were 69 children under one year of age. These were 2.7 of the total population. If this rate may be assumed for the entire population, it would be expected that 600 of the children born during a given twelve months' period would be alive. Such an estimate, however, would not take into account those who were born and died during the first few months of the year. If these were included it would point to a somewhat greater discrepancy. Since the fecundity rate is known to be high, a situation exists which emphasizes the high infant mortality rate as well as the rate for stillbirths and nonviable abortions.
 
@@ -3744,7 +3481,7 @@ The only index to sickness among the families studied was the non-technical one 
 
 187
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 more families, or about 5 per cent of them, some of the children and one or both parents had been treated. Twenty-eight of the families, or 4 per cent, reported that some of the children had been treated. In 212 families, or 43.6 per cent, there was no record of treatment for malaria. This does not measure the extent of malarial infection. Pellagra is similarly a common malady as indicated by the scaly, cracking skins, but there was no medical appraisal of the extent, since this would have required professional examination. Forty-one families were receiving, or had received, some treatment for pellagra. With respect to syphilis, however, the opportunity for determining the extent was unparalleled for studies of this type.
 
@@ -3752,9 +3489,7 @@ The Julius Rosenwald Fund, in co-operation with the United States Public Health 
 
 188
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 fourth with only 12 per cent positives on a basis of 10,196 examinations. The average for the 30,000 serological examinations was 20 per cent positives.
 
@@ -3774,9 +3509,9 @@ There is a tradition of violence which seems to mark personal relations to a hig
 
 189
 
-Digitized by LjOO-
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 cides. The violence of life was an inescapable fact in a large number of families of the county. In another connection reference has been made to the violence attending jealousy in sex relations, but violence is not confined to love affairs. The large amount resulting in death in this group of 612 families may be considered simply another index to its cultural status. A woman who was asked about sleeping with her windows open replied that “people do’s so much killin' round here; I'se scared to leave 'em open." Another, referring to their recreation, explained why they stopped attending the dances: “Dere's so much cutting and killing going on." One notes either casualness or fatalism in recounting deaths in the family by violence.
 
@@ -3798,7 +3533,7 @@ Absent Sons
 
 My boy got killed in Birmingham. They say he got shot—I don’ know. 190
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 A White Gentleman Shot Him
 
@@ -3816,9 +3551,9 @@ Woofter reports an interesting situation among St. Helena Negroes, who live rela
 
 191
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 their own extra-legal machinery centered largely in the church. The local magistrates, recognizing this, encourage settlements through their own agencies. Cases of violence are thus very often avoided. A consequence is that there is very little crime and extremely few civil suits. Out of a population of about five thousand there were only about thirty-five cases annually brought before the local magistrate and most of these were cases of nonresidents.
 
@@ -3834,11 +3569,11 @@ All that another mother knew about her infant’s death was that “he just keep
 
 192
 
-Digitized by L^OO
+
 
 Origiral from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 them for another of her patients. Then came this accident, which left a heavy memory for the mother:
 
@@ -3864,7 +3599,7 @@ My girl is sick too. The boy ain’t sick as the girl. He only gits that way whe
 
 193
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 This mother had thirteen children, and most of them had had trouble with “indijestus.” The family gave evidence of being wracked with tuberculosis without the least suspicion of the lethal character of the ailment. Each successive death was an accidentally ill effect of “indijestus.” Other descriptions of ailments suggest serious maladies, but in the absence of both diagnosing physicians or adequate treatment of these disorders they usually take this fatal issue, and perhaps affect others through contagion.
 
@@ -3886,9 +3621,9 @@ My boy there [aged eleven] he had tumors—you know, a risin’ come out on his 
 
 194
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 friend and she tole me herself they jest feeled around and couldn’t find the tumor so they jest out and out and cut the wrong vescicule.
 
@@ -3916,7 +3651,7 @@ I done all I could. Then one of them nurses in Tuskegee says to me I weren’t d
 
 J95
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 more castoria and worked on the baby and here she am—well and healthy. It sho’ was a miraculous sent from God.
 
@@ -3932,7 +3667,7 @@ The fee for an office consultation is $2.50 and #3.00. Fees for rural calls appe
 
 196
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 sometimes amounting to $12. A curious practice of using proxies in the diagnosis of disease is noted in the following case:
 
@@ -3963,9 +3698,9 @@ They just gets all our money when we is sick. A poor nigger has a hard time. You
 
 197
 
-Digitized by Goo'
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 Adjustments are made around the necessity for doctors. One woman, in speaking of her husband, said:
 
@@ -3991,7 +3726,7 @@ The role of the midwife and her method can be best understood in the account of 
 
 198
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 How Training Was Acquired
 
@@ -4017,9 +3752,9 @@ I always cut the cord with scissors and when I get through I just slip them unde
 
 199
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 charge before you hit a lick of work. These folks don't want to pay you
 
@@ -4045,9 +3780,9 @@ There is a weed grows out here called “white flannel" that is mighty good for 
 
 200
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 How To Reduce Water
 
@@ -4069,7 +3804,7 @@ In the entire 612 families interviewed there was not a single expression which s
 
 201
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 reflected no relation to transmitted infection. In one instance only was “bad blood” associated with heredity. “I knowed I had bad blood ’cause my mamma had scrofula when I was born.” In but few instances was “bad blood” associated with syphilis as a venereal disease. Where there were obvious physical manifestations of the disease the persons were referred to as being afflicted, but this was generalized. Often n6 distinction was made between complaints and the symptoms of “bad blood.” Accordingly, treatments for bad blood were expected to cure headaches, indigestion, pellagra, sterility, sores of various sorts, and general run-down condition.
 
@@ -4085,7 +3820,7 @@ The extent of sickness among the Negro families and the hope of relief without c
 
 202
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 with the method of giving “shots” by physicians for which comparatively large sums were paid had given them a “set” for the demonstration. Free “shots” were taken as a boon. The fitting of “salves” and red medicine of the old clinic into old habits of getting relief gave confidence. Some of the persons attempted to get the salves for general complaints, even though their blood was reported “good.” “They said my blood was good. You don't get no treatment if your blood is good, but sometimes I wish it was bad 'cause they gives away a salve up there and I wanted some of it so bad.” The “shots” were indeed expected to cure all complaints.
 
@@ -4113,9 +3848,9 @@ I tell you dem doctors done de people a whole lot of good 'cause heap of people 
 
 203
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 ’cause heaps of dem was in a bad fix. The doctors done git tight on de people since dese clinics been through here. They won’t come to see you less you got the money or will pay something. See these folks is knocking them. They charge seven, eight, nine, and ten dollars ’cording how far they have to come.
 
@@ -4133,9 +3868,9 @@ The first man I liked real well give me a baby. My grandmother made me leave hom
 
 204
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 come back home after Fd done run away and he kept putting me off. He promised to marry me the next morning. I never would a run off with him if he hadn’t promised to marry me, but kept putting me off and I wanted to go back to grandma, but she told me not to come- back there less she tell me, so I just had to stay. I stayed there with his sister three years and got these other two chillen. His mother kept the oldest boy and raised him.
 
@@ -4149,7 +3884,7 @@ Just when I thought I got my chillen well, my oldest boy died. He just rotted to
 
 205
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 when we took him to him and he said it was pellagacy but I ain’t seed where it done him a bit of good. He told one man down here that it was the curriest pellagacy he ever seed in his life, and he told'somebody up there that he didn’t know what it was; but he told me it was pellagacy. Well, that boy would run away and I’d hear him calling way up on the hill. He just come unjointed. It all just rotted off—all his hands and arms. He bit one* of his fingers off and he never was in his right mind after he first went crazy. He would take the bed down and when you ask him what he was doing it for, he’s say he wanted to put it up on a hill. He swold up and just come in two. He died in two weeks.
 
@@ -4163,9 +3898,9 @@ It was evident, however, that the dependent relationship of the Negro tenants to
 
 206
 
-Digitized by Co
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 put on I paid out over fifteen hundred dollars to doctors for medical service. This year I have had a doctor on the place only twice and those were for new babies. The men work better...................”
 
@@ -4175,7 +3910,7 @@ As in other respects, the most far-reaching changes in habits are proceeding at 
 
 207
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Chapter VIII
 
@@ -4187,11 +3922,9 @@ It has been impossible to escape the force of tradition, as represented in the c
 
 208
 
-Digitized by Google
 
-Original from
 
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 The social results of the economic system in this area, past and present, have been positive and unmistakable. The tradition, supported by what remains of the plantation structure, has given a measure of equilibrium to the social relations existing within the structure. From the nature of the external conditions determining the early social organization of this group it has taken form, naturally, outside the dominant current of the American culture. At the same time, and unfortunately, the very fact of this cultural difference presents the danger of social disorganization in any sudden attempt to introduce new modes of living and conceptions of values. The situation is one clearly of isolation and cultural lag. Changes are occurring slowly, however, and it is possible to observe and to measure them.
 
@@ -4203,7 +3936,7 @@ There is strong indication that the social relations which evolved
 
 209
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 under this structure, largely as a phase of control, are responsible for both the cultural backwardness of the labor force and the ro-. man tic efforts, against the logic of economics, to preserve the structure itself. The feature of the plantation development in this country, which had most persistent and compelling influence upon the social life of the Negroes, probably began with the requirement of mobility in the labor, as a result of the vicissitudes of the first staple crop. The cultivation of tobacco resulted in such rapid and wasteful exhaustion of the soil as to require constant movement in search of new lands. Such mobility demanded attachment to the person rather than to the soil. It is obvious that a contingency of this character would favor slavery over the status of simple serfdom, as the old world knew it. Moreover, there was the problem of property inheritance which, in the new world, was more conspicuously and profitably a matter of labor than of land. These factors in themselves helped to fix the logic of slavery, and to fix it within the plantation economy. And, although the industrial system itself might be considered, in a sense, a plantation economy, it has never invoked, as did slavery, the complete dependence of labor upon the proprietor of the plantation. The plantation technique, on the side of administration, was most efficient in respect to discipline and policing, and this technique has survived, more or less, despite the formal abolition of the institution of slavery.
 
@@ -4211,9 +3944,7 @@ The objective of this study has been, so far as possible, to portray realistical
 
 210
 
-Original from
-
-UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 In 1930 there were 164 counties with preponderant Negro populations. The number of such counties after i860 first increased then slowly declined, and not until 1920 did the number fall below the level of i860. In that year there were 244 counties in which half or more of the population was Negro, and in 1880 there were 300. Throughout this period of seventy years since slavery the areas of heaviest Negro population concentration have remained practically the same.
 
@@ -4225,9 +3956,9 @@ The frequency of active affectional relations between parents and children creat
 
 211
 
-Digitized by Google
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 pattern of family life. Moreover, in these landowning areas the fathers play a stronger r61e in the family, and the children away from home more often maintain contact and remain a functioning part of the social unit of the family.
 
@@ -4239,9 +3970,9 @@ The surplus of cotton grown in the South has already forced the desperate expedi
 
 212
 
-Digitized by
 
-Original from UNIVERSITY OF MICHIGAN
+
+[]{.pagenum}
 
 INDEX
 
@@ -4287,11 +4018,11 @@ Education: and the church, 175; expenditures for, 136; and ownership, 141; of pa
 
 213
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
 
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
+
+
 
 Elopements, 55 Emotionalism, 152
 
@@ -4335,11 +4066,11 @@ Survivals Mortgages, 128 Mother, the r61e of, 29 Moving, reasons for, 117 Mulatt
 
 Non-legal and legal unions, 40-44, 51. See also Marriage Nutritional disorders, 207. See also Diet; Pellagra
 
-Digitized by
+
 
 Google
 
-Original from UNIVERSITY OF MICHIGAN
+[]{.pagenum}
 
 Obituary, an, 164 Occupations, see Labor, division of Overcrowding, 100
 
@@ -4396,71 +4127,3 @@ Women: economic independence of, 48; fast, 82; the position of, 114; workers, 11
 Workers: child, 116-18; number of, 116; women, 115-16. See also Labor
 
 
-
-Digitized by
-
-Original from UNIVERSITY OF MICHIGAN
-
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
-
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
-
-0  IQ.	er  01
-	jn
-O  O  00	j  -4  33  in
-	ro  O
-
-04
-
-	no  GO
-
-	7112
-Original from UNIVERSITY OF MICHIGAI	
-
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
-
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
-
-D
-
-iQ
-
-£
-
-o
-
-o
-
-°£L
-
-Generated at University of North Carolina at Chapel Hill on 2023-04-10 17:40 GMT /	https://hdl.handle.net/2027/mdp.39015005242246
-
-Public Domain in the United States, Google-digitized / http://www.hathitrust.0rg/access_use#pd-us-g00gle
-
-0
-
-10’
-
-S
-
-z
-
-o
-
-o
-
-00
-
-a
-
-a
-
-o
-
-n
-
-x
-
-CD
-
->

@@ -29,7 +29,12 @@ pandoc -s -o docs/articles/chicago_crime.html --template=templates/article_html.
 pandoc -s -o docs/articles/race_traits.html --template=templates/article_html.template markdown/race_traits.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/two_islands.html --template=templates/article_html.template markdown/two_islands.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/caste_and_class.html --template=templates/article_html.template markdown/caste_and_class.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/flight.html --template=templates/article_html.template markdown/flight.md  --css="article_style.css?id=$v"
 
+
+pandoc -s -o docs/books/shadow.html  markdown/shadow.md  --css="style.css?id=$v"
+pandoc -s -o docs/books/shadow.pdf  markdown/shadow.md  
+pandoc -s -o docs/books/shadow.epub  markdown/shadow.md  
 
 
 pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css="style.css?id=$v" --metadata title="About"

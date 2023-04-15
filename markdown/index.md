@@ -167,6 +167,15 @@
 :::
 
 ::: article
+## [How Much is the Migration a Flight from Persecution?](articles/flight.html)
+### Charles S. Johnson
+[![](Images/city.png)](articles/flight.html "Inspired by James Lesesne Wells  'Looking Upward'")
+<em>Opportunity,</em> 1923.
+:::
+
+
+
+::: article
 ## [The New Frontage of American Life](articles/frontage.html)
 ### Charles S. Johnson
 [![](Images/black_belts.png)](articles/frontage.html "Inspired by Archibald Motley's 'Black Belt'")
