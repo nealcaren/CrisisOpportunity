@@ -23,7 +23,7 @@ citation_lastpage: 73
 
 coins: <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=After%20Garvey%E2%80%94What%3F&amp;rft.jtitle=Opportunity%3A%20A%20Journal%20of%20Negro%20Life&amp;rft.volume=1&amp;rft.issue=8&amp;rft.aufirst=Charles%20S.&amp;rft.aulast=Johnson&amp;rft.au=Charles%20S.%20Johnson&amp;rft.date=1923&amp;rft.pages=231%E2%80%93233&amp;rft.spage=231&amp;rft.epage=233'></span>
 
-
+pdf_URL: "PDFS/Wright_1905_Unrest.pdf"
 citation: <em>Charities,</em> vol XV, no. 1, Oct. 1905, pp.  69--73.
 ---
 [69]{.pagenum}

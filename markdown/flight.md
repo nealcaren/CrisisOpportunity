@@ -22,6 +22,8 @@ citation_issue: 9
 citation_firstpage: 272
 citation_lastpage: 274
 
+pdf_URL: "PDFS/Johnson_1923_Flight.pdf"
+
 
 ---
 

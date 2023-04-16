@@ -21,6 +21,8 @@ citation_firstpage: 8
 citation_lastpage: 11
 
 citation: <em>Opportunity,</em> vol 1, no. 6, Jun. 1923, pp. 8--11.
+pdf_URL: "PDFS/McDougald_1923_Schools.pdf"
+
 ---
 
 [8]{.pagenum}

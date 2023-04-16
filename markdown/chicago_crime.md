@@ -20,6 +20,8 @@ citation_issue: 2
 citation_firstpage: 204
 citation_lastpage: 223
 
+pdf_URL: "PDFS/Work_1900_Crime.pdf"
+
 ---
 
 [204]{.pagenum}

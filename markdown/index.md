@@ -222,6 +222,16 @@
 *American Journal of Sociology*, 1900.
 :::
 
+# Family
+::: article
+## [Three Scourges of the Negro Family](articles/scourges.html)
+### E. Franklin Frazier
+[![](Images/cityscape.png)](articles/scourges.html "Inspired by Charles Alston's 'Cityscape at Night")
+*Opportunity*, 1926.
+::: 
+
+
+
 # Demography
 
 ::: article
