@@ -6,7 +6,7 @@
   <meta name="generator" content="pandoc">
 $for(author-meta)$
   <meta name="author" content="$author-meta$">
-  <meta name="DC.creator" content="$author-meta$">
+  <meta name="dc.creator" content="$author-meta$">
 
 $endfor$
 
@@ -16,12 +16,12 @@ $endif$
 
 $if(citation_journal_title)$
   <meta name="citation_journal_title" content="$citation_journal_title$">
-  <meta name="DC.publisher" content="$citation_journal_title$">
+  <meta name="dc.publisher" content="$citation_journal_title$">
 
 $endif$
 $if(title)$
   <meta name="citation_title" content="$title$">
-  <meta name="DC.title" content="$title$">
+  <meta name="dc.title" content="$title$">
 
 <meta name="dc.Type" content="research-article"/>
 
@@ -31,7 +31,7 @@ $if(citation_author)$
 $endif$
 $if(citation_publication_date)$
   <meta name="citation_publication_date" content="$citation_publication_date$">
-   <meta name="DC.date" content="$citation_publication_date$">
+   <meta name="dc.date" content="$citation_publication_date$">
 $endif$
 $if(citation_volume)$
   <meta name="citation_volume" content="$citation_volume$">
@@ -45,7 +45,9 @@ $endif$
 $if(citation_lastpage)$
   <meta name="citation_lastpage" content="$citation_lastpage$">
 $endif$
-
+$if(pdf_URL)$
+<meta name="citation_pdf_url" content="https://www.crisisopportunity.org/articles/$pdf_URL$">
+$endif$
 
   <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
   <style type="text/css">code{white-space: pre;}</style>
