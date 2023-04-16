@@ -74,12 +74,13 @@
 ## [Tactics and Programs of Minority Groups](articles/critical_analysis.html)
 ### Ralph J. Bunche
 [![](Images/marching_2.png)](articles/critical_analysis.html)
-<em>The Journal of Negro Education,</em> 1935.
+<em>Journal of Negro Education,</em> 1935.
 ::: 
 
 
 
 # Racial Identity
+
 
 ::: article
 ## [The Task of Negro Womanhood](articles/womanhood.html)
@@ -127,6 +128,13 @@
 ### Charles S. Johnson
 [![](Images/shout.png)](articles/public_opinion.html "Image inspired by Aaron Douglas's 'Toiler'")
 <em>Opportunity,</em> 1923.
+:::
+
+::: article
+## [Taking Stock of the Race Problem](articles/stock.html)
+### Monroe N. Work
+[![](Images/douglas_5.png)](articles/stock.html)
+<em>Opportunities,</em> 1923.
 :::
 
 
