@@ -231,6 +231,16 @@
 *The Scientific Monthly*, 1922.
 :::
 
+# Education
+::: article
+## [Schools and the Vocational Life of Negroes](articles/schools.html)
+### Elise Johnson McDougald
+[![](Images/numbers.png)](articles/schools.html "Inspired by Jacob Lawrenc's 'Great Numbers'")
+*Opportunity*, 1923.
+
+:::
+
+---
 
 <!--
 ::: article
