@@ -32,6 +32,8 @@ pandoc -s -o docs/articles/caste_and_class.html --template=templates/article_htm
 pandoc -s -o docs/articles/flight.html --template=templates/article_html.template markdown/flight.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/schools.html --template=templates/article_html.template markdown/schools.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/scourges.html --template=templates/article_html.template markdown/scourges.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/stock.html --template=templates/article_html.template markdown/stock.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/prey.html --template=templates/article_html.template markdown/prey.md  --css="article_style.css?id=$v"
 
 
 
