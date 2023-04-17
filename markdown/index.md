@@ -190,6 +190,12 @@
 <em>The New Negro An Interpretation,</em> 1925.
 :::
 
+::: article
+## &nbsp;<br>[Where Is the Negro’s Heaven?](articles/heaven.html)
+### Kelly Miller
+[![](Images/douglas_city2.png)](articles/heaven.html)
+<em>Opportunity,</em> 1926.
+:::
 
 ::: article
 ## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
