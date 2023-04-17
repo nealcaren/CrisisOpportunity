@@ -261,7 +261,7 @@
 ## [Schools and the Vocational Life of Negroes](articles/schools.html)
 ### Elise Johnson McDougald
 [![](Images/numbers.png)](articles/schools.html "Inspired by Jacob Lawrence's 'Great Numbers'")
-*Opportunity*, 1923.*
+*Opportunity*, 1923.
 :::
 
 
@@ -271,7 +271,7 @@
 ## &nbsp;<br>[Let Us Prey!](articles/prey.html)
 ### Ira De A. Reid
 [![](Images/church.png)](articles/prey.html "Inspired by Jacob Lawrence's 'There are many churches'")
-*Opportunity*, 1926.*
+*Opportunity*, 1926.
 :::
 
 
