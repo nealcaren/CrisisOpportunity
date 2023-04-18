@@ -10,6 +10,12 @@
 <em>Charities,</em> 1905.
 :::
 
+::: article
+## [White and Black World in American Labor and Politics](articles/american_labor.html)
+### Abram L. Harris
+[![](Images/douglas_5.png)](articles/american_labor.html)
+<em>Social Forces,</em> 1925.
+:::
 
 ::: article
 ## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
@@ -133,7 +139,7 @@
 ::: article
 ## [Taking Stock of the Race Problem](articles/stock.html)
 ### Monroe N. Work
-[![](Images/douglas_5.png)](articles/stock.html)
+[![](Images/lcity.png)](articles/stock.html "Image inspired by Jacob Lawrence's 'The City'")
 <em>Opportunities,</em> 1923.
 :::
 
@@ -298,8 +304,8 @@ Address given at the First Sociological Club, ca. 1897.
 
 
 # Forthcoming
-* Harris, Abram L. "A White and Black World in American Labor and Politics."   *Social Forces*, Dec., 1925, Vol. 4, No. 2 (Dec., 1925), pp. 376-383
 * Miller, Kelly. "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." *American Negro Academy Occasional Papers,* No 1. 1897. 
+* Thompson, Anna J. "A Survey of Crime among Negroes in Philadelphia." *Opportunity* Vol 4, July-Sept.
 * Johnson, Charles S.  and Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
 * Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
 * Reid, Ira De A. "Negro Immigration to the United States."  *Social Forces*, Mar., 1938, Vol. 16, No. 3 (Mar., 1938), pp. 411-417
