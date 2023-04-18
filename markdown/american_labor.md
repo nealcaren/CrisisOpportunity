@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "A White and Black World in American Labor and Politics"
-short_title: American Labor
+short_title:  Labor
 
 author:
 - name: Abram L. Harris
@@ -12,8 +12,8 @@ author:
 date: 1925
 citation: <em>Social Forces,</em> vol 4, no. 2, Mar. 1927, pp. 376--383.
 citation_title: "A White and Black World in American Labor and Politics"
-citation_journal_title: Social Forces
 citation_author: Harris, Abram L.
+citation_journal_title: Social Forces
 citation_publication_date: 1925
 citation_volume: 4
 citation_issue: 2
