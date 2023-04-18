@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "A White and Black World in American Labor and Politics"
-short_title:  Labor
+short_title: Labor
 
 author:
 - name: Abram L. Harris

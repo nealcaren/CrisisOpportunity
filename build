@@ -34,6 +34,8 @@ pandoc -s -o docs/articles/schools.html --template=templates/article_html.templa
 pandoc -s -o docs/articles/scourges.html --template=templates/article_html.template markdown/scourges.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/stock.html --template=templates/article_html.template markdown/stock.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/prey.html --template=templates/article_html.template markdown/prey.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/heaven.html --template=templates/article_html.template markdown/heaven.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/american_labor.html --template=templates/article_html.template markdown/american_labor.md  --css="article_style.css?id=$v"
 
 
 
