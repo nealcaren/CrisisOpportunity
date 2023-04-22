@@ -42,7 +42,7 @@ $endfor$
 
 <h1 class="title">
 <img src="Images/logo1.png" alt="logo" class="logol" />
-Crisis <em>&</em> Opportunity
+Crisis <span class="spin">&</span> Opportunity
 <img src="Images/logo4.png" alt="logo" class="logor" />
 </h1>
 
