@@ -116,19 +116,19 @@ h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-top: 2em;
+  font-size: 1.8rem;
+  margin-top: 1em;
 }
 
 h2 {
-  font-size: 1.75rem;
-  margin-top: 3rem;
+  font-size: 1.6rem;
+  margin-top: 2rem;
   margin-bottom: .5rem;
 }
 
 h3 {
-  font-size: 1.5rem;
-  margin-top: 2rem;
+  font-size: 1.4rem;
+  margin-top: 1.4rem;
   margin-bottom: 0rem;
 }
 
@@ -323,7 +323,7 @@ table th[colspan="3"] {
 }
 
 .author {
-  font-size: 1.2em;
+  font-size: 1.4rem;
   text-align: center;
 }
 
@@ -445,6 +445,18 @@ margin-top: .5;
 padding-top: 0;
 margin-top: 0;
 }
+
+.footnote-back {
+  font-size: 1rem;
+
+}
+[id^="fn"] {
+  font-size: 1rem;
+  line-height: 1.4rem;
+
+
+}
+
 
 .pad2 {
   padding-left: 2em;
