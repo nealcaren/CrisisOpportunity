@@ -77,7 +77,7 @@ $endfor$
 
 
   <nav class="sticky-content">
-    <span class="publisher"><a href="../index.html">Crisis <em>&</em> Opportunity</a></span>
+    <span class="publisher"><a href="../index.html">Crisis <span class="spin">&</span> Opportunity</a></span>
     <span class="title"><a href="#top">$short_title$</a></span>
 </nav>
 

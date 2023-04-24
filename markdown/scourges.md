@@ -24,7 +24,6 @@ citation_lastpage: 234
 
 pdf_URL: "PDFS/Frazier_1926_Scourges.pdf"
 
-
 ---
 
 [210]{.pagenum}

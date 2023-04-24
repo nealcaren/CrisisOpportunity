@@ -2,29 +2,29 @@
 charset: 'UTF-8'
 lang:    'en'
 
-title: A Review of Hoffman's *Race&nbsp;Traits and Tendencies of the American Negro*
-short_title: Race Traits
+title: "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." 
+citation_title: "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*."
+short_title: "Race Traits"
 
 author:
 - name: Kelly Miller
 - affiliation: ""
 
-date: 1897
 
-citation: <em>The American Negro Academy,</em> Occasional Papers, No 1, 1897.
+citation: "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*.  *American Negro Academy Occasional Papers,* No 1. 1897."
 
 
-citation_title: A Review of Hoffman's Race Traits and Tendencies of the American Negro
-citation_journal_title: The American Negro Academy
+citation_journal_title: American Negro Academy Occasional Papers
 citation_author: Miller, Kelly
 citation_publication_date: 1897
-citation_issue: 1
+citation_volume: 1
 citation_firstpage: 1
-citation_lastpage: 40
+citation_lastpage: 36
 
 ---
 
-[[3]{#Page_3}]{.pagenum}
+
+[3]{.pagenum}
 
 In August, 1896, there was published, under the auspices of the American
 Economic Association, a work entitled "Race Traits and Tendencies of the
@@ -54,7 +54,8 @@ has presented. Indeed, it would seem that his conclusion was reached
 from *a priori* considerations and that facts have been collected in
 order to justify it.
 
-[[4]{#Page_4}]{.pagenum}The main conclusion of the work is that
+[4]{.pagenum}
+The main conclusion of the work is that
 the Negro race in America is deteriorating physically and morally in
 such manner as to point to ulterior extinction, and that this decline is
 due to "race traits" rather than to conditions and circumstances of
@@ -64,8 +65,8 @@ notes and quotations, in the general drift of cited references, and
 between the lines. In order to give the clearest possible statement of
 the author's position his own words will be used.
 
-> The conditions of life therefore \... would seem to be of less
-importance than race and heredity."^[Page 51.]
+> The conditions of life therefore ... would seem to be of less
+importance than race and heredity.^[Page 51.]
 
 > It is not the *conditions of life* but in *the race traits and
 tendencies* that we find the causes of the excessive
@@ -90,27 +91,29 @@ quotations, he will peruse the book itself as well as this review with
 greater ease and facility.
 
 
-## Chapter I
+## Chapter I.
 
-*Subject.* Population.
+::: tablenoborder
 
-*Gist.* "For some generations the colored element may continue to make
-decennial gains, but it is very probable that the next thirty years will
-be the last to show total gains, and then the decrease will be slow but
-sure until final disappearance."^[Frederick L. Hoffman, in the Arena,
-April, 1892.]
+|   |     |
+|--:|----------|
+| **Subject**: | Population|
+| **Gist**: | *For some generations the colored element may continue to make decennial gains, but it is very probable that the next thirty years will be the last to show total gains, and then the decrease will be slow but sure until final disappearance.* ^[Frederick L. Hoffman, in the Arena, April, 1892.] |
+
+:::
+
 
 I have taken this quotation from another work by the same author as it
 represents more clearly than any other condensed statement the substance
-of the present chapter. This proposition is a most
-[[5]{#Page_5}]{.pagenum} important one, and therefore its establishment
+of the present chapter. This proposition is a most[[\[
+5\]]{#Page_5}]{.pagenum} important one, and therefore its establishment
 needs to be inquired into with the greatest particularity. If a race
 does not possess the requisite physical stamina, it is impossible for it
 to maintain a high degree of moral and intellectual culture or compete
 with its more vigorous rivals in the race of civilization.
 
-"All the elements of society are conserved in its physical basis, the
-social population."^[Giddings' "Principles of Sociology,"
+> All the elements of society are conserved in its physical basis, the
+social population.^[ Giddings' "Principles of Sociology,"
 page 79.]
 
 Since the author relies mainly upon the eleventh census for facts to
@@ -120,7 +123,9 @@ before it can be admitted in evidence.
 
 The following quotation from Senator Mills reflects the opinion of many
 eminent students of public problems as to the accuracy of this
-enumeration: "The announcement that our population is only 62,662,250
+enumeration: 
+
+> The announcement that our population is only 62,662,250
 was a genuine surprise, not only to those who looked for the dark side
 of the picture, but also to those whose faith in the administration and
 its census bureau had never for a moment wavered. The census of 1880
@@ -129,13 +134,13 @@ which is at the rate of 24.86 per cent. That this number is not even
 approximately correct may be seen by comparing the increase in this
 decade with the gain in others which have preceded it. Any alleged fact
 that is without the pale of probability stands impeached at the very
-threshold of the inquiry, and must be verified by competent evidence."
+threshold of the inquiry, and must be verified by competent evidence.
+
 Basing his estimates upon the school census, the Senator continues: "The
 state of Texas is deprived, by the incorrect returns, of at least three
 representatives in Congress. Alabama loses 240,000, Tennessee and North
 Carolina 170,000 each, and Virginia, Kentucky, and Louisiana 100,000
-each."^[Senator Roger Q. Mills, in the Forum,
-April, 1891.] Whatever force there
+each."[[\[10\]](#f10){#f10.1 .pginternal}]{.small} Whatever force there
 may be in the protest of the eloquent Texas Senator, applies with
 special emphasis to the colored element; for it goes without saying that
 errors in enumeration in the South would be confined mainly to the Negro
@@ -147,42 +152,26 @@ The following table exhibits the development of the colored population
 for the last one hundred years, as well as its decennial rates of
 increase and percentage of the total population.
 
-[[6]{#Page_6}]{.pagenum}
+[[\[6\]]{#Page_6}]{.pagenum}
+
+::: wide_table_container
 
 #### *Colored Population of the United States.*
+| Year.    | Colored Population. | Decennial Increase. | Increase per cent in 10 years. | Per cent of total population. |
+|----------|--------------------:|--------------------:|-------------------------------:|------------------------------:|
+| 1790     |             757,208 |                     |                                |                         19.27 |
+| 1800     |           1,002,037 |             244,829 |                          32.33 |                         18.88 |
+| 1810     |           1,377,808 |             375,771 |                          37.50 |                         19.03 |
+| 1820     |           1,771,656 |             393,848 |                          28.50 |                         18.39 |
+| 1830     |           2,328,642 |             556,986 |                          31.44 |                         18.10 |
+| 1840     |           2,873,648 |             545,006 |                          23.44 |                         16.84 |
+| 1850     |           3,638,808 |             765,169 |                          26.63 |                         15.69 |
+| 1860     |           4,441,830 |             803,022 |                          22.07 |                         14.13 |
+| 1870^[Estimated by General Francis A. Walker, *Forum*, July, 1891.] |           5,391,000 |             949,170 |                          21.37 |                         13.84 |
+| 1880     |           6,580,793 |           1,189,793 |                          22.07 |                         13.12 |
+| 1890     |           7,470,040 |             889,247 |                          13.51 |                         11.93 |
 
-  ---------------------------- -------------- ------------- -------------- ------------ -------------- ---------- -------------- -------------
-  Year.                        [ ]{.spacer}     Colored\    [ ]{.spacer}    Decennial\  [ ]{.spacer}    Increase  [ ]{.spacer}     Per cent\
-                                               Population.                  Increase.                  per cent\                   of total\
-                                                                                                         in 10                    population.
-                                                                                                         years.                  
-
-                                                                                                                                 
-
-  1790                                           757,208                    \...\.....                   \.....                      19.27
-
-  1800                                          1,002,037                    244,829                     32.33                       18.88
-
-  1810                                          1,377,808                    375,771                     37.50                       19.03
-
-  1820                                          1,771,656                    393,848                     28.50                       18.39
-
-  1830                                          2,328,642                    556,986                     31.44                       18.10
-
-  1840                                          2,873,648                    545,006                     23.44                       16.84
-
-  1850                                          3,638,808                    765,169                     26.63                       15.69
-
-  1860                                          4,441,830                    803,022                     22.07                       14.13
-
-  1870^[Estimated by General Francis A.
-Walker, Forum, July, 1891.]                  5,391,000                    949,170                     21.37                       13.84
-                                                                                                         
-
-  1880                                          6,580,793                   1,189,793                    22.07                       13.12
-
-  1890                                          7,470,040                    889,247                     13.51                       11.93
-  ---------------------------- -------------- ------------- -------------- ------------ -------------- ---------- -------------- -------------
+:::
 
 If we begin with 1810, the first census year after the constitutional
 suppression of the slave trade, we see from this table that the growth
@@ -208,9 +197,9 @@ upon it. As has been shrewdly remarked by an able reviewer, "It would
 seem incumbent on him (Mr. Hoffman) further to prove that these race
 traits, after being held in abeyance for at least a century, first took
 decisive action in the decade 1880 to 1890."^[W. E. B. Du Bois, Ph. D., in the
-American Academy of Political Science, January, 1897.]
+*American Academy of Political Science*, January, 1897.]
 
-[[7]{#Page_7}]{.pagenum}In 1810 there were 1,377,808 Negroes in
+[[\[7\]]{#Page_7}]{.pagenum}In 1810 there were 1,377,808 Negroes in
 the United States. In 80 years this number had swollen to at least
 7,470,040, and that, too, without reinforcement from outside
 immigration. It more than quintupled itself in eight decades. Does it
@@ -249,9 +238,11 @@ large New England centers to the race degeneracy of the Puritan, while
 ignoring the proper cause---the influx of the Celt.
 
 Mr. Hoffman's conclusions as to the Negro population are not generally
-accepted by students of social problems. Their position[[
-8]{#Page_8}]{.pagenum} is more clearly stated in a recent notice of
-the work now under review. "Concerning the first of these chapters
+accepted by students of social problems. Their position[[\[
+8\]]{#Page_8}]{.pagenum} is more clearly stated in a recent notice of
+the work now under review. 
+
+> Concerning the first of these chapters
 dealing with population he (Mr. Hoffman) reaches conclusions very
 different from those generally held by those who have discussed the
 subject on *a priori* grounds. The general impression has been that the
@@ -260,8 +251,8 @@ whites, owing both to the greater number of children born and also to
 the fact that all children of a mixed race were counted as blacks. From
 such a condition of affairs it would naturally be assumed that the race
 to which all half-breeds were credited would, especially if prolific,
-rapidly gain upon the other race."^[Miles Menander Dawson, in the
-Quarterly Publications of the American Statistical Association,
+rapidly gain upon the other race.^[Miles Menander Dawson, in the
+*Quarterly Publications of the American Statistical Association*,
 September-December, 1896, page 142.]
 
 On the appearance of each census since emancipation, there has been some
@@ -286,28 +277,23 @@ and force. It is interesting to know that there are 13 cities in which
 the colored population exceeds 20,000, and 23 in which it exceeds
 10,000, and that the rate of increase of the colored element in these
 centers is enormous---more than 30 per cent. The concentration of the
-colored population in certain sections of [[
-9]{#Page_9}]{.pagenum}cities is quite suggestive. The following table
+colored population in certain sections of [[\[
+9\]]{#Page_9}]{.pagenum}cities is quite suggestive. The following table
 will disclose some of the striking features which Mr. Hoffman has
-exhibited at length.[[14](#f14){#f14.1 .pginternal}]{.small}
+exhibited at length.^[Page 14.]
 
-  -------------- -------------- ------------- -------------- -------- -------------- ------------- -------------
-      City.      [ ]{.spacer}     Colored\    [ ]{.spacer}     No.    [ ]{.spacer}     Colored\    
-                                 population.                  Wards.                  population\  
-                                                                                       in wards.   
+::: wide_table_container
 
-                                                                                                   
+| City         | Colored  population | No. Wards | Colored population in wards |
+|--------------|--------------------:|----------:|----------------------------:|
+|              |                     |           |                             |
+| Chicago      |              14,271 |        34 |            9,122 in 3 wards |
+| Philadelphia |              39,371 |        34 |             8,891 in 1 ward |
+| Boston       |               8,125 |        25 |             2,547 in 1 ward |
+| New York     |              23,601 |        24 |           13,008 in 3 wards |
+| Brooklyn     |              10,287 |        26 |            3,100 in 2 wards |
 
-     Chicago                       14,271                       34                       9,122      in 3 wards.
-
-   Philadelphia                    39,371                       34                       8,891        " 1     "
-
-      Boston                        8,125                       25                       2,547        " 1     "
-
-     New York                      23,601                       24                      13,008        " 3     "
-
-     Brooklyn                      10,287                       26                       3,100        " 2     "
-  -------------- -------------- ------------- -------------- -------- -------------- ------------- -------------
+::: 
 
 This tendency to concentration in undesirable places is found to be
 greater in Northern than in Southern cities. Every large city has its
@@ -327,23 +313,26 @@ with an aggregate area of over 50,000 square miles in which the colored
 population outnumbers the white nearly three to one. The general
 conviction is that the Negroes will be gathered into black settlements
 scattered throughout the Gulf states. The superintendent of the tenth
-census writes on this subject: "I entertain a strong conviction that the
+census writes on this subject: 
+
+> I entertain a strong conviction that the
 further course of our (Negro) population will exhibit that tendency in a
 continually growing force; that this element will be more and more
 drained off from the higher and colder lands into the low, hot regions
-bordering on the Gulf of Mexico."[[15](#f15){#f15.1
-.pginternal}]{.small}
+bordering on the Gulf of Mexico."^[General Francis A. Walker, *Forum8,
+July, 1891.]
 
-Commenting on this subject Mr. Hoffman says: "This tendency if persisted
+Commenting on this subject Mr. Hoffman says: 
+
+> This tendency if persisted
 in will probably in the end prove disastrous to the advancement of the
 colored race, since there is but the slightest prospect that the race
 will be lifted to a higher plane of civilization except by constant
-contact with the white race."[[16](#f16){#f16.1
-.pginternal}]{.small}
+contact with the white race."^[Page 20.]
 
 It is undoubtedly true that the Negro has not the initiative power of
-civilization. What race has? Civilization is not an original[[
-10]{#Page_10}]{.pagenum} process with any race or nation known to
+civilization. What race has? Civilization is not an original[[\[
+10\]]{#Page_10}]{.pagenum} process with any race or nation known to
 history. The torch has been passed from race to race and from age to
 age. Where else can the Negro go? The white race at present has the
 light. This concession is no reproach to the Negro race, nor is it due
@@ -352,15 +341,14 @@ to any peculiar race trait or tendency.
 There is a stretch of country extending from southern Pennsylvania to
 northern Alabama, containing sections of Maryland, West Virginia,
 Virginia, North Carolina, South Carolina, Georgia, Tennessee, Kentucky,
-and Alabama, and [embracing]{.underline} the Appalachian system of
+and Alabama, and embracing the Appalachian system of
 mountains. This section contains a population of nearly 3,000,000 souls.
 They belong for the most part to the most thrifty element of our complex
 population---an element whose toughness of moral and mental fiber is
 proverbial. The Scotch-Irish are famed the world over for their manly
 and moral vigor. And yet this people have sunken to the lowest depth of
 poverty and degradation---a depth from which, without the assistance of
-outside help, they can be lifted nevermore.[[17](#f17){#f17.1
-.pginternal}]{.small} Is this condition of depravity and inability of
+outside help, they can be lifted nevermore.^[See *New York Evangelist*, June, 1897.] Is this condition of depravity and inability of
 self-initiative due to "race traits and tendencies?"
 
 Then, supposing the Negroes to be concentrated in the black belts, as
@@ -375,27 +363,23 @@ section of this country can remain long in an uncivilized state or
 relapse into barbarism that has in its midst a Hampton Institute or a
 Booker T. Washington.
 
- 
 
- 
+## Chapter 2
 
-------------------------------------------------------------------------
+::: tablenoborder
 
-## Chapter II
+|   |     |
+|--:|----------|
+| **Subject**: | Vital Statistics |
+| **Gist**: | *The vitality of the Negro may well be considered the most important phase of the so-called race problem, for it is a fact which can and will be demonstrated by indisputable evidence that of all races for which statistics are obtainable and which enter at all into the consideration of economic problems as factors the Negro shows the least power of resistance in the struggle for life.*^[Page 37.] |
 
-*Subject.* Vital Statistics.
+:::
 
-*Gist.* "The vitality of the Negro may well be considered the most
-important phase of the so-called race problem, for it is a fact which
-can and will be demonstrated by indisputable evidence that of all races
-for which statistics are obtainable and which enter at all into the
-consideration of economic problems as factors the Negro shows the least
-power of resistance in the struggle for life."[[18](#f18){#f18.1
-.pginternal}]{.small}
 
-[[11]{#Page_11}]{.pagenum}
 
-### Death Rate
+
+
+### Death Rate  [[\[11\]]{#Page_11}]{.pagenum}
 
 Statistics are collected from ten of the largest cities with the result
 that the death rate among the whites is 20.12 per 1000, and among the
@@ -404,14 +388,12 @@ the colored death rate is due to infant mortality. This fact of itself
 would suggest that the real cause is condition rather than race traits.
 This truth shall be established out of the mouth of Mr. Hoffman's own
 witness. "Fifty per cent of the (Negro) children who die never receive
-medical attention."[[19](#f19){#f19.1 .pginternal}]{.small}
+medical attention."^[The Health Officer of Savannah,
+quoted by Mr. Hoffman, page 62.]
 
 "The indifference to medical attendance in cases of illness of their
-children is due to ignorance."[[20](#f20){#f20.1
-.pginternal}]{.small} To the ordinary mind this would imply the most
+children is due to ignorance."^[Page 63.] To the ordinary mind this would imply the most
 unfortunate condition.
-
- 
 
 ### Birth Rate
 
@@ -420,8 +402,7 @@ rate is equally important. Mr. Hoffman concedes, with reluctant
 reservation, that the colored birth rate may be greater than that of the
 whites. "That the birth rate of the Negroes is in excess of that of the
 white population is probably true even at the present time, at least as
-compared with the native whites."[[21](#f21){#f21.1
-.pginternal}]{.small} This is indeed a very feeble admission of a very
+compared with the native whites."^[Page 33.] This is indeed a very feeble admission of a very
 obvious fact. Mr. Hoffman contends that the death rate of the Negro race
 is much greater than that of the whites. It has already been shown that,
 leaving immigration out of account, the increase in the Negro population
@@ -436,14 +417,16 @@ is not familiar with the investigation of Dr. Billings. Let the reader
 compare the following quotation as to the relative birth rate of the
 races, and, noting date of data upon which the conclusion is based,
 decide for himself as to the ingenuousness of Mr. Hoffman's reluctant
-admission: "Dr. Billings, in his luminous report on the vital statistics
-of the United States (1886) shows that 1000 colored women (age from 15
-to 49) give birth to 164 children,[[12]{#Page_12}]{.pagenum} and
-1000 white women to only 127, yearly; that is to say, three colored
-women have as many children as four white."[[22](#f22){#f22.1
-.pginternal}]{.small}
+admission: 
 
- 
+> Dr. Billings, in his luminous report on the vital statistics
+of the United States (1886) shows that 1000 colored women (age from 15
+to 49) give birth to 164 children,[[\[12\]]{#Page_12}]{.pagenum} and
+1000 white women to only 127, yearly; that is to say, three colored
+women have as many children as four white."^[M. G. Mulhall, F. S. S., in *North
+American Review*, July, 1897.]
+
+
 
 ### Is the Negro Threatened with Extinction
 
@@ -451,7 +434,7 @@ Before Mr. Hoffman's conclusion as to the threatening aspect of the high
 death rate of the Negro race can be accepted, several questions must be
 answered by him.
 
-1\. Is the death rate of the colored race higher than that of a
+1. Is the death rate of the colored race higher than that of a
 corresponding class of whites subject to the same moral and social
 environment? The general opinion is that it is not; nor does the author
 attempt to prove the contrary. In discussing this question Dr. John S.
@@ -459,9 +442,8 @@ Billings states: "If we could separate the vital statistics of the poor
 and ignorant whites, the tenement house population of our Northern
 cities, from those of the mass of the white population we should
 undoubtedly find a high rate of mortality in this class, and especially
-in infancy and childhood."[[23](#f23){#f23.1 .pginternal}]{.small}
-
-2\. Is the high death rate for the cities sustained throughout the
+in infancy and childhood."^[Tenth Census, Vol. XI, p. xxxviii.]
+2. Is the high death rate for the cities sustained throughout the
 country at large? Luckily the census of 1880 gives a complete answer to
 this question. The death rate of the United States in 1880 was 15.09 per
 1000; South Carolina 15.80; Alabama 14.20; Mississippi 12.89; Georgia
@@ -474,26 +456,24 @@ the death rate of the Negro in the country at large is much in excess of
 that of the whites. "In the rural districts the mortality of the Negro
 is not excessive; it is in the cities and towns where he is brought into
 close contact with the evils and vices of civilization that he dies so
-rapidly."[[24](#f24){#f24.1 .pginternal}]{.small}
-
-3\. Is the death rate, even in the cities, so great as to foreshadow
+rapidly."^[Dr. John S. Billings' comments upon
+*Vital Statistics of the Tenth Census*, Vol. XI, p. xxxviii.]
+3. Is the death rate, even in the cities, so great as to foreshadow
 extinction? Nothing is great or small except by comparison. The death
 rate among the Negroes in the large cities at present is not as great as
 it was among the whites forty years ago; that is, if we may rely upon
 the statistics which Mr. Hoffman himself has presented.
 
-[[13]{#Page_13}]{.pagenum}
+[[\[13\]]{#Page_13}]{.pagenum}
 
-#### *Mortality among Whites in Southern Cities.*[[25](#f25){#f25.1 .pginternal}]{.small}
+#### *Mortality among Whites in Southern Cities.*^[Pages 53 and 54.]
 
-  ------------------- -------------- ----------- -------------- -------------
-         City.        [ ]{.spacer}     Period.   [ ]{.spacer}    Death rate.
-                                                                
-     Mobile, Ala.                     1852-1855                     54.39
-   Charleston, S. C.                  1851-1860                     29.79
-     Savannah, Ga.                    1856-1860                     37.19
-   New Orleans, La.                   1849-1860                     59.60
-  ------------------- -------------- ----------- -------------- -------------
+| City             |   Period  | Death rate |
+|------------------|:---------:|-----------:|
+| Mobile, Ala.     | 1852-1855 |      54.39 |
+| Charleston, S.C. | 1851-1860 |      29.79 |
+| Savannah, Ga.    | 1856-1860 |      37.19 |
+| New Orleans, La. | 1849-1860 |      59.60 |
 
 Under improved sanitary regulations these rates have been lowered until
 at present they are not at all alarming. May not the same improvement in
@@ -502,23 +482,13 @@ his environment effect similar changes in the death rate of the Negro?
 Let us compare the death rate of the Negro race with that of the Germans
 as presented in the census of 1880.
 
-  ------------ -------------- ---------- -------------- ------------ -------------- ----------
-     City.     [ ]{.spacer}    Colored\  [ ]{.spacer}      City.     [ ]{.spacer}     Death
-                                death                                                 rate.
-                                rate.                                               
-
-                                                                                    
-
-   Washington                   32.60                    Konigsberg                   31.50
-
-   Baltimore                    32.81                      Munich                     33.40
-
-    Richmond                    28.48                     Breslau                     31.60
-
-   Louisville                   30.73                     Cologne                     27.00
-
-  New Orleans                   30.42                    Strasburg                    29.60
-  ------------ -------------- ---------- -------------- ------------ -------------- ----------
+| City        | Colored death rate | City       | Death rate |
+|-------------|:------------------:|------------|:----------:|
+| Washington  |        32.60       | Konigsberg |    31.50   |
+| Baltimore   |        32.81       | Munich     |    33.40   |
+| Richmond    |        28.48       | Breslau    |    31.60   |
+| Louisville  |        30.73       | Cologne    |    27.00   |
+| New Orleans |        30.42       | Strasburg  |    29.60   |
 
 This high death rate of the American Negro does not exceed that of the
 white race in other parts of the civilized globe. If race traits are
@@ -526,47 +496,39 @@ playing such havoc with the Negroes in America, what direful agent of
 death, may we ask the author, is at work in the cities of his own
 fatherland?
 
-4\. Does the death rate among Negroes show a tendency to increase? In
+4. Does the death rate among Negroes show a tendency to increase? In
 the District of Columbia there has been a gradual decline in the death
 rate of the Negro population from 40.78 in 1876 to 29.54 in
-1896.[[26](#f26){#f26.1 .pginternal}]{.small}
+1896.^[Report of the Health Officer of the
+District of Columbia, 1896, page 7.]
 
 Again, Mr. Hoffman's statistics will show a steady improvement in
 Southern cities for the last twenty years.
 
-#### *Death rate among Negroes in Southern Cities.*[[27](#f27){#f27.1 .pginternal}]{.small}
+::: wide_table_container
 
-  ------------- -------------- ----------- -------------- -------- -------------- ----------- -------------- --------
-      City.     [ ]{.spacer}    Periods.   [ ]{.spacer}    Death\  [ ]{.spacer}    Periods.   [ ]{.spacer}    Death\
-                                                           rate.                                              rate.
+#### *Death rate among Negroes in Southern Cities.*^[Pages 53 and 55.]
+| City             |  Periods  | Death rate |  Periods  | Death rate |
+|------------------|:---------:|:----------:|:---------:|:----------:|
+| Mobile, Ala.     | 1876-1880 |    39.74   | 1891-1893 |    30.91   |
+| Charleston, S.C. | 1876-1885 |    43.83   | 1886-1894 |    44.06   |
+| Savannah, Ga.    | 1876-1880 |    51.66   | 1891-1894 |    32.26   |
+| New Orleans, La. | 1880-1884 |    52.35   | 1890-1894 |    39.42   |
 
-                                                                                                             
+:::
 
-  Mobile, Ala.                  1876-1880                  39.74                   1891-1893                  30.91
-
-   Charleston,                  1876-1885                  43.83                   1886-1894                  44.06
-      S. C.                                                                                                  
-
-  Savannah, Ga.                 1876-1880                  51.66                   1891-1894                  32.26
-
-  New Orleans,                  1880-1884                  52.35                   1890-1894                  39.42
-       La.                                                                                                   
-  ------------- -------------- ----------- -------------- -------- -------------- ----------- -------------- --------
-
-[[14]{#Page_14}]{.pagenum}A recent report of the Labor Bureau
+[[\[14\]]{#Page_14}]{.pagenum}A recent report of the Labor Bureau
 throws much light on the subject.
 
-#### *Annual Death Rate of the Colored Race for three quinquennial periods.*[[28](#f28){#f28.1 .pginternal}]{.small}
+#### *Annual Death Rate of the Colored Race for three quinquennial periods.*^[*Bulletin of the Department of Labor*, No. 10, May, 1897, page 286.]
 
-  ------------ -------------- ------------ -------------- ------------ -------------- ------------
-     City.     [ ]{.spacer}    1880-1885.  [ ]{.spacer}    1885-1890.  [ ]{.spacer}    1890-1895.
-                                                                                      
-    Atlanta                      37.96                       33.41                       32.76
-   Baltimore                     36.15                       30.52                       32.47
-   Charleston                    44.08                       46.74                       41.43
-    Memphis                      43.01                       29.35                       21.11
-    Richmond                     40.34                       38.83                       34.91
-  ------------ -------------- ------------ -------------- ------------ -------------- ------------
+| City       | 1880-1885 | 1885-1890 | 1890-1895 |
+|------------|:---------:|:---------:|:---------:|
+| Atlanta    |   37.96   |   33.41   |   32.76   |
+| Baltimore  |   36.15   |   30.52   |   32.47   |
+| Charleston |   44.08   |   46.74   |   41.43   |
+| Memphis    |   43.01   |   29.35   |   21.11   |
+| Richmond   |   40.34   |   38.83   |   34.91   |
 
 This table shows an unmistakable decrease in the death rate for the
 successive quinquennial periods.
@@ -577,13 +539,13 @@ condition and is subject to sanitary check and control.
 In further confirmation of the fact that the death rate among Negroes is
 on the decline, the Army records will afford valuable testimony.
 
-#### *Death rate of Colored Soldiers in the U. S. Army.*[[29](#f29){#f29.1 .pginternal}]{.small}
+#### *Death rate of Colored Soldiers in the U. S. Army.*^[*Surgeon General's Report*, 1896, TableXII.]
 
-  --------------------------- -------------- ------
-  Average from 1883 to 1892   [ ]{.spacer}   9.07
-  Average in 1894                            6.26
-  Average in 1895                            5.03
-  --------------------------- -------------- ------
+  ---------------------------  ------
+  Average from 1883 to 1892    9.07
+  Average in 1894             6.26
+  Average in 1895            5.03
+  --------------------------- ------
 
 In 1895 it is lower than that of the white soldiers. The same general
 law of a gradually decreasing death rate is here revealed.
@@ -593,28 +555,30 @@ that of corresponding classes of whites; if the records of the census
 for the country at large do not show it to be in excess of other
 classes; if the highest rates are not above those of the whites a half
 century ago, nor higher than those of other civilized
-[communities]{.underline} of the Caucasian race at the present time; and
+communities of the Caucasian race at the present time; and
 if this rate is constantly decreasing under more favorable sanitary
 appliances---it is hard to justify the author's position as to the low
 vital powers of the race, or to reach the conclusion that extinction
 will be its ultimate fate.
 
- 
+
 
 ### The Northern Negroes
 
 In further proof of the low vitality of the Negro race the author shows
-at great length that the race cannot thrive in the North. For [[
-15]{#Page_15}]{.pagenum}every Northern community for which statistics
+at great length that the race cannot thrive in the North. For [[\[
+15\]]{#Page_15}]{.pagenum}every Northern community for which statistics
 are available it appears that the death rate is in excess of the birth
 rate. It does not seem to have occurred to the author that economic and
 social environment may lead to this deplorable result. Dr. Walker, in a
-publication which has already been referred to, states: "The industrial
+publication which has already been referred to, states: 
+
+> The industrial
 *raison d'etre* of the Negro is here (in the South) found at its
 maximum. In the Northern states this *raison d'etre* wholly disappears.
 There is nothing, aside from a few kinds of personal service, which the
 Negro can do which the white man cannot do as well or perhaps
-better."[[30](#f30){#f30.1 .pginternal}]{.small}
+better."^[Dr. Francis A. Walker, in the *Forum*, July, 1891.]
 
 In the North the Negro race lives in industrial and social captivity;
 not being in sufficient numbers to form an independent constituency,
@@ -639,22 +603,26 @@ addition to infant mortality, which has already been noticed,
 consumption, pneumonia, and vicious taints of blood are the most
 alarming ones. With gloomy forebodings we are reminded that: "Its (the
 Negro race) extreme liability to consumption alone would suffice to seal
-its fate as a race."[[31](#f31){#f31.1 .pginternal}]{.small}
+its fate as a race."^[Page 148.]
 
 The following citation will express the truth of the situation as
-clearly as it is possible to do: "From close personal observation,
+clearly as it is possible to do: 
+
+> From close personal observation,
 embracing a professional life of nearly forty years among the Negroes
 and from data obtained from professional brethren in different sections
 of the South, I have no hesitancy in declaring that insanity and
-tuberculosis were rare diseases among the Negroes of the South [[
-16]{#Page_16}]{.pagenum}prior to emancipation. Indeed, many
+tuberculosis were rare diseases among the Negroes of the South [[\[
+16\]]{#Page_16}]{.pagenum}prior to emancipation. Indeed, many
 intelligent people of observation and full acquaintance of the Negro
 have stated to me that they never saw a crazy or consumptive Negro of
 unmixed blood until these latter years. The fact of their comparative
 exemption from these ailments prior to emancipation is so well
-established\..."[[32](#f32){#f32.1 .pginternal}]{.small}
+established ..."^["The Effects of Emancipation upon the
+Mental and Physical Health of the Negro," by Dr. J. F. Miller,
+Superintendent Eastern Hospital, Goldsboro, N. C., page 2.]
 
-"Man is an organized being, and is subject to certain laws which he
+> Man is an organized being, and is subject to certain laws which he
 cannot violate with impunity. These laws affect him in the air he
 breathes, the food he eats, the clothes he wears, and (in) every
 circumstance surrounding his habilitation. In the wholesale violation of
@@ -663,7 +631,7 @@ of the degeneration of the physical and mental condition of the Negro.
 Licentiousness left its slimy trail of sometimes ineradicable disease
 upon his physical being, and neglected bronchitis, pneumonia, and
 pleurisy lent their helping hand toward lung
-degeneration."[[33](#f33){#f33.1 .pginternal}]{.small}
+degeneration.^[Ibid., page 6.]
 
 It will be noticed that Dr. Miller accepts all the facts alleged by our
 author, but places the causes squarely upon the ground of conditions,
@@ -685,7 +653,7 @@ admit abundant ventilation, will be subject to pulmonary weakness. Now
 take the same people and transplant them to the large cities of a colder
 climate, subject them to pursuits which do not call for a high degree of
 bodily energy, crowd them into alley tenements where the windows are
-used only for ornament and to keep [[17]{#Page_17}]{.pagenum}out
+used only for ornament and to keep [[\[17\]]{#Page_17}]{.pagenum}out
 the "night air," and a single door must serve for entrance, exit, and
 ventilation, and lung degeneration is the inevitable result. The cause
 of the evil suggests the remedy. The author in a previous chapter points
@@ -709,29 +677,31 @@ treatment and are subject to the same diet, work, and social habits. "It
 is to be noted, also," says the Surgeon General, "that during the past
 two years the rates for consumption among the colored troops have fallen
 so as to be much lower than those for the whites, whereas formerly they
-were much higher."[[34](#f34){#f34.1 .pginternal}]{.small}
+were much higher."^[*Report of Surgeon General of the Army*, August, 1896, page 89.]
 
 The following table prepared by Mr. Hershaw, shows plainly the gradual
 decrease of the death rate from consumption in Southern cities for the
 past fifteen years.
+::: wide_table_container
 
-#### *Death rate per 1000 among Negroes from Consumption.*[[35](#f35){#f35.1 .pginternal}]{.small} 
+#### *Death rate per 1000 among Negroes from Consumption.*^[L. M. Hershaw, Esq., in *Atlanta University Bulletin*, No. 2. page 16.]
 
-  ------------ -------------- ----------- -------------- ------- -------------- ----------- -------------- ------- -------------- ----------- -------------- -------
-     City.     [ ]{.spacer}     Period.   [ ]{.spacer}    Rate.  [ ]{.spacer}     Period.   [ ]{.spacer}    Rate.  [ ]{.spacer}     Period.   [ ]{.spacer}    Rate.
-                                                                                                                                                             
+  ------------  -----------  -------  -----------  -------  -----------  -------
+     City.         Period.      Rate.     Period.     Rate.     Period.      Rate.
+                                                           
     Atlanta                    1882-1885                  50.20                  1886-1890                  45.88                  1891-1895                  43.48
    Baltimore                     1886                     58.65                    1887                     55.42                    1892                     49.41
    Charleston                  1881-1884                  72.20                  1885-1889                  68.08                  1890-1894                  57.66
     Memphis                    1882-1885                  65.35                  1886-1890                  50.30                  1891-1895                  37.78
     Richmond                   1881-1885                  54.93                  1886-1890                  41.63                  1892-1895                  34.74
-  ------------ -------------- ----------- -------------- ------- -------------- ----------- -------------- ------- -------------- ----------- -------------- -------
+  ------------  -----------  -------  -----------  -------  -----------  -------
+:::
 
 It appears that the total death rate as well as that due to consumption
 among Negroes reached the maximum about 1880 and has been on the gradual
 decline ever since.
 
-[[18]{#Page_18}]{.pagenum}Consumption is only one of the
+[[\[18\]]{#Page_18}]{.pagenum}Consumption is only one of the
 contributing causes of the total death rate. It has been shown that the
 death rate from all causes does not necessarily point to the extinction
 of the race. This being so, there is no need of unnecessary alarm over a
@@ -766,20 +736,21 @@ and the numerous ills which flesh is heir to, it can be safely claimed
 that he does not establish his main proposition set forth in the
 beginning of the chapter, and that at least a Scotch verdict is
 demanded: "not proven."
-
-
-------------------------------------------------------------------------
-
+ 
 ## Chapter III
 
-*Subject.* Anthropometry.
+::: tablenoborder
 
-*Gist.* "In vital capacity, the most important of all physiological
-characteristics, the tendency of the race has been
-downward."[[36](#f36){#f36.1 .pginternal}]{.small}
+|   |     |
+|--:|----------|
+| **Subject**: | Anthropometry |
+| **Gist**: | *In vital capacity, the most important of all physiological characteristics, the tendency of the race has been downward.*^[Page 176.] |
+
+:::
+
 
 Ample statistics are presented to show that in proportion to
-structure[[19]{#Page_19}]{.pagenum} the Negro is heavier than the
+structure[[\[19\]]{#Page_19}]{.pagenum} the Negro is heavier than the
 white man. This fact, the author tells us, is ordinarily considered
 favorable to a healthy development and freedom from pulmonary weakness.
 "The elaborate investigations of the medical department of the New York
@@ -787,12 +758,12 @@ Mutual Life, in 1874, of the Washington Life, in 1886, the Prudential
 Insurance Company of America, in 1895, and the New York Mutual Life, in
 1895, prove conclusively that low weight in proportion to age and
 stature is a determining factor in the susceptibility of an individual
-to consumption."[[37](#f37){#f37.1 .pginternal}]{.small}
+to consumption."^[Page 149.]
 
 In order to explain away this apparent advantage in favor of the Negro,
 the author has invented a unique physiological principle, viz: "A
 physiological law may hold good for one race and not for
-another."[[38](#f38){#f38.1 .pginternal}]{.small} It is noticeable
+another."^[Page 158.] It is noticeable
 that the author applies this principle only when it suits his
 convenience but withholds it whenever it runs across his theory.
 
@@ -814,7 +785,7 @@ nor convinced by the other. But the author's judgment must be justified.
 The gloomy warning comes with Catonian regularity at the end of each
 chapter. Listen to his last words: "A combination of these traits and
 tendencies must in the end cause the extinction of the
-race."[[39](#f39){#f39.1 .pginternal}]{.small}
+race."^[Page 176.]
 
 If the Negro is inferior in vital function and power to the Caucasian,
 he will be a public benefactor who scientifically demonstrates the fact.
@@ -822,23 +793,20 @@ But the colored race most stubbornly refuses to be argued out of
 existence on an insufficient induction of data and unwarranted
 conclusions deduced therefrom.
 
- 
 
- 
+[[\[20\]]{#Page_20}]{.pagenum}
 
-------------------------------------------------------------------------
-
-[[20]{#Page_20}]{.pagenum}
 ## Chapter IV
 
-*Subject.* Amalgamation.
+::: tablenoborder
 
-*Gist.* "The crossing of the Negro race with the white has been
-detrimental to its true progress and has contributed more than anything
-else to the excessive and increasing rate of mortality from the most
-fatal disease, as well as to its consequent inferior social efficiency
-and diminishing power as a force in American national
-life."[[40](#f40){#f40.1 .pginternal}]{.small}
+|   |     |
+|--:|----------|
+| **Subject**: | Amalgamation |
+| **Gist**: | *IThe crossing of the Negro race with the white has been detrimental to its true progress and has contributed more than anything else to the excessive and increasing rate of mortality from the most fatal disease, as well as to its consequent inferior social efficiency and diminishing power as a force in American national life.*^[Page 188.] |
+
+:::
+
 
 The importance of this proposition is apparent when we consider that the
 Negroes in this country are a thoroughly mixed people. The pure African
@@ -857,9 +825,7 @@ side of the contention with all the ardor of a retained advocate.
 
 Three points are sought to be established.
 
- 
-
-### I. The Mulatto is Physically Inferior to both Parent Races
+### I. The Mulatto is Physically Inferior to both Parent Races.
 
 The opinions of examining surgeons during the civil war are quoted which
 quite unanimously show that the Mulatto is strongly inclined to
@@ -878,8 +844,8 @@ full of interest:
   --------------------- -------------- --------------------- -------------- --------------------- -------------- ---------------------
 
 It appears from this table that in the most important vital organs and
-functions the Mulatto is inferior to both parent stocks. This [[
-21]{#Page_21}]{.pagenum}opinion is almost or quite universal among
+functions the Mulatto is inferior to both parent stocks. This [[\[
+21\]]{#Page_21}]{.pagenum}opinion is almost or quite universal among
 competent authorities upon this subject. And yet the last word of
 science has not been uttered on this question. There is no subject in
 all the domain of social science which offers a more interesting or more
@@ -889,7 +855,7 @@ scientific methods of inquiry can throw much light upon this subject.
 
  
 
-### 2. The Mulatto is Morally Inferior to the Blacks
+### 2. The Mulatto is Morally Inferior to the Blacks.
 
 This alleged inferiority is attributable to the fact as well as to the
 manner of generation. Strangely enough Mr. Hoffman does not employ the
@@ -913,18 +879,18 @@ her sins are greater, is it not because her temptations are greater
 also? The following quotation from a distinguished Southerner is
 significant; "There was little improper intercourse between white men
 and Negresses of the original type in the period before emancipation
-(after the creation of the Mulatto class)."[[41](#f41){#f41.1
-.pginternal}]{.small} Every time a Negro woman is indicted on this score
+(after the creation of the Mulatto class)."^["Plantation Negro as a Freeman," by
+Phillip A. Bruce, pages 53 and 54.] Every time a Negro woman is indicted on this score
 some white man is inculpated. The reproach hurled against colored women
 from such sources reminds us very much of the lines in Butler's
 Hudibras:
 
-The selfsame thing they will abhor,\
-One way, and long another for.
+> The selfsame thing they will abhor,     
+> One way, and long another for.
 
- [[22]{#Page_22}]{.pagenum}
+ [[\[22\]]{#Page_22}]{.pagenum}
 
-### 3. The Mulatto is Intellectually Superior to the Blacks but Inferior to the Whites
+### 3. The Mulatto is Intellectually Superior to the Blacks but Inferior to the Whites.
 
 In substantiation of this proposition it is claimed that the greater
 number of Negroes who have attained distinction have been those of mixed
@@ -959,7 +925,7 @@ basis on which to predicate intellectual superiority.
 The author lays great stress upon the following table made out by Dr.
 Hunt.
 
-#### *Weight of the Brain of White and Colored Soldiers*.[[42](#f42){#f42.1 .pginternal}]{.small}
+#### *Weight of the Brain of White and Colored Soldiers*.^[Page 185.]
 
   --------------- -------------- --------------------- -------------- ------------------ ----------
    No. of cases.  [ ]{.spacer}     Degree of color.    [ ]{.spacer}    Weight of brain.  
@@ -973,7 +939,7 @@ Hunt.
   --------------- -------------- --------------------- -------------- ------------------ ----------
 
 Twenty-four cases are taken to represent fifty million people, and
-[[23]{#Page_23}]{.pagenum}the law of averages thus obtained is
+[[\[23\]]{#Page_23}]{.pagenum}the law of averages thus obtained is
 confidently relied upon. Nor are we informed as to what methods were
 employed to ascertain the exact composition of blood of the 22 cases
 that are rated as one-sixteenth white. But, supposing we accept this
@@ -992,17 +958,17 @@ upon the shape and size of skull. Investigations have shown that facial
 angle and capacity of cranium and cephalic index afford no certain
 criterion of thought power or susceptibility to culture. The latest word
 on this subject is given by Prof. Ripley, in a series of articles on
-"Racial Geography of Europe," in Appleton's Popular Science Monthly for
+"Racial Geography of Europe," in Appleton's *Popular Science Monthly8 for
 1897.
 
-"An important point to be noted in this connection is that this shape of
+> An important point to be noted in this connection is that this shape of
 the head seems to bear no direct relation to intellectual power or
 intelligence. Posterior development of the cranium does not imply a
-corresponding backwardness in culture\.... Europe offers the best
+corresponding backwardness in culture. ... Europe offers the best
 refutation of the statement that the proportions of the head mean
-anything intellectual\.... In our study of the proportions of the head,
+anything intellectual. ... In our study of the proportions of the head,
 therefore, we are measuring merely race, and not intelligence in any
-sense\.... Equally unimportant to the anthropologist is the absolute
+sense. ... Equally unimportant to the anthropologist is the absolute
 size of the head. It is grievous to contemplate the waste of energy
 when, during our civil war, over one million of soldiers had their heads
 measured in respect to this absolute size, in view of the fact that
@@ -1010,14 +976,15 @@ today anthropologists deny any considerable significance attaching to
 this characteristic. Popularly a large head with beetling eyebrows
 suffices to establish a man's intellectual credit, but like all other
 credit it is entirely dependent upon what lies on deposit
-elsewhere."[[43](#f43){#f43.1 .pginternal}]{.small}
+elsewhere.^[Appleton's *Popular Science Monthly*,
+March, 1897.]
 
 A still more renowned authority tells us: "The development of the
 intellectual faculties of man is to a great extent independent of the
 capacity of the cranium and the volume of the
-brain."[[44](#f44){#f44.1 .pginternal}]{.small}
+brain."^[A. De Quatrefages' "Human Species," chapter XXX.]
 
-[[24]{#Page_24}]{.pagenum}The question of the relative
+[[\[24\]]{#Page_24}]{.pagenum}The question of the relative
 intellectual capacity of the different races is one of much speculative
 interest. I am giving the matter more attention than it would seem to
 warrant, because the author makes the supposed mental inferiority of the
@@ -1028,25 +995,25 @@ demanded so as to bring the treatment in harmony with the capabilities
 of the lower race. Several authorities will be cited which, I think,
 will be more than sufficient to offset Mr. Hoffman's insistent opinion.
 
-"There are hundreds if not thousands of black men in this country who in
+> There are hundreds if not thousands of black men in this country who in
 capacity are to be ranked with the superior persons of the dominant
 race; and it is hard to say that in any evident feature of mind they
 characteristically differ from their white fellow
-citizens."[[45](#f45){#f45.1 .pginternal}]{.small}
+citizens."^[Prof. N. S. Shaler, *Arena*, December, 1890.]
 
 Prof. Shaler is himself a Southerner, a professor in Harvard University,
 and a noted student of current problems.
 
-"Granting the present inferiority of the Negro, we affirm that it has
+> Granting the present inferiority of the Negro, we affirm that it has
 never been proved; nor is there any good reason to suppose that he is
 doomed forever to maintain his present relative position, or that he is
 inferior to the white man in any other sense than as some white races
-are inferior to others."[[46](#f46){#f46.1 .pginternal}]{.small}
+are inferior to others.^[Wm. Matthews, LL. D., on Negro Intellect, *North American Review*, July, 1889.]
 
-"Yet the Negro children exhibit no intellectual inferiority; they make
+> Yet the Negro children exhibit no intellectual inferiority; they make
 just the same progress in the subjects taught as do the children of
 white parents, and the deficiency they exhibit later in life is of quite
-a different kind."[[47](#f47){#f47.1 .pginternal}]{.small}
+a different kind.^[Benjamin Kidd's "Social Evolution," page 295.]
 
 Mr. Hoffman compels us once more to combat the arguments of the slave
 holding class: that is, that the Negro is intellectually and morally an
@@ -1056,12 +1023,12 @@ nature can be improved. The progress along these lines which the race
 has made even under the severest disadvantages is sufficient answer to
 this argument.
 
-If I'm designed yon lordling's slave,\
-[By nature's law designed,]{style="margin-left: 1em;"}\
-Why was an independent wish\
-[E'er planted in my mind?]{style="margin-left: 1em;"}
+> If I'm designed yon lordling's slave,\
+> [By nature's law designed,]{style="margin-left: 1em;"}\
+> Why was an independent wish\
+> [E'er planted in my mind?]{style="margin-left: 1em;"}
 
-[[25]{#Page_25}]{.pagenum}The Negro's intellectual and social
+[[\[25\]]{#Page_25}]{.pagenum}The Negro's intellectual and social
 environments hang as a millstone about his neck; and when he is cast
 upon the sea of opportunity he is reproached with everlasting
 inferiority because he does not swim an equal race with those who are
@@ -1090,22 +1057,24 @@ A study of the fertility of such marriages and the physical, moral, and
 intellectual stamina of the progeny would furnish valuable sociological
 data.
 
- 
-
- 
-
-------------------------------------------------------------------------
 
 ## Chapter V
 
-*Subject:* Social Conditions.
 
-*Gist:* "Immorality is a race trait."[[48](#f48){#f48.1
-.pginternal}]{.small}
 
- 
+::: tablenoborder
 
-### Religion and Education
+|   |     |
+|--:|----------|
+| **Subject**: | Social Conditions |
+| **Gist**: | *Immorality is a race trait.*^[Page 95.] |
+
+:::
+
+
+
+
+### Religion and Education.
 
 Under the sub-heads of religion and education statistics are presented
 showing the progress of the race along these lines. A total church
@@ -1115,15 +1084,17 @@ There were 1,288,736 pupils in the common schools and 34,129 in the
 higher schools, colleges, and universities. Ordinarily these facts are
 regarded as the most wonderful evidences of progress which the world has
 ever witnessed on the part of a backward people. But not so with Mr.
-Hoffman; the necessities of his [[
-26]{#Page_26}]{.pagenum}theories compel him to explain away every
+Hoffman; the necessities of his [[\[
+26\]]{#Page_26}]{.pagenum}theories compel him to explain away every
 apparent advantage in favor of the Negro. The author announces with an
-implied negative response to the suppressed question: "It remains to be
+implied negative response to the suppressed question: 
+
+> It remains to be
 shown whether the educational process which the race has undergone
 during the past quarter of a century and the additional efforts and
 opportunities for religious instruction have materially raised the race
 from its low social and economic condition at the time of
-emancipation."[[49](#f49){#f49.1 .pginternal}]{.small}
+emancipation.^[Page 216.]
 
 This statement needs no refutation, for it will fall beneath the
 ponderous weight of its own absurdity.
@@ -1135,7 +1106,7 @@ ponderous weight of its own absurdity.
 The following table, if unexplained, tells a startling tale of the
 Negro's criminal propensity:
 
-#### *Prisoners in the United States, 1890.*[[50](#f50){#f50.1 .pginternal}]{.small}
+#### *Prisoners in the United States, 1890.*^[Page 218.]
 
   ------------ -------------- ---------- -------------- ---------- -------------- ----------
                [ ]{.spacer}     Total.   [ ]{.spacer}     Male.    [ ]{.spacer}    Female.
@@ -1175,13 +1146,13 @@ this relative showing. In order to escape the charge of slander, I will
 use the words of a distinguished Virginian who boasts of "my southern
 ancestry, birth, rearing, residence and interest."
 
-"And is not the law the same for all, and does it make any distinction
+> And is not the law the same for all, and does it make any distinction
 between rich and poor, white and black? Literally, the law is the same
 for all. Then what more can be desired? The trouble is not that the laws
 are partial, through some of its enactments, namely, the whipping-post,
 chain-gang, and poll-tax laws, were aimed principally against the Negro;
 but the trouble is with the interpretation of the laws by the juries,
-who merely voice the [[27]{#Page_27}]{.pagenum}public sentiment,
+who merely voice the [[\[27\]]{#Page_27}]{.pagenum}public sentiment,
 which is superior to the law itself. The average jury is a whimsical
 creature, subject to all kinds of influences, though mostly of a
 sentimental character. In criminal matters where whites are concerned,
@@ -1195,7 +1166,7 @@ jail where it ought to say penitentiary; or one year where it ought to
 say ten; and ten years where it ought to pronounce death. But the Negro
 has none of these sentimental advantages. Too poor to employ competent
 counsel, his liberty and life are necessarily committed to incompetent
-hands, when the proverb of 'poor pay, poor preach' becomes reality \...
+hands, when the proverb of 'poor pay, poor preach' becomes reality. ...
 But are Negroes treated unfairly by juries and public opinion? Yes, and
 the experience and observation of every fair-minded man will confirm the
 assertion. One cardinal proof is that a white man seldom receives
@@ -1217,10 +1188,10 @@ the latter if the homicide is not declared murder---when courts of
 justice, though sure to inflict the highest penalty in his case, are
 found to be too slow, and he is dragged forth and slain, unshrived and
 unshriven, as if he were a monstrous wild beast of whose presence earth
-could not be rid too quickly."[[51](#f51){#f51.1
-.pginternal}]{.small}
+could not be rid too quickly.^["The Prosperity of the South
+Dependent upon the Elevation of the Negro," L. H. Blair, pages 55-58.]
 
-[[28]{#Page_28}]{.pagenum}The social degradation of the Negro is
+[[\[28\]]{#Page_28}]{.pagenum}The social degradation of the Negro is
 the greatest factor contributive to this high criminal record. We
 naturally associate poverty, ignorance, and crime as being indissolubly
 connected. The Negroes represent the stratum of society which commits
@@ -1251,7 +1222,9 @@ take the city of Washington, one-third of whose population are Negroes,
 and compare its police reports with those of Boston, whose Negro element
 is a negligible fraction. It will be conceded, I think, that the
 enforcement of law in both cities is rigid. The major of police for the
-District of Columbia, in his last report remarks: "Those familiar with
+District of Columbia, in his last report remarks: "
+
+> Those familiar with
 the conduct of police affairs in this country generally contend that
 there is a constant increase of crime; that it keeps pace with the
 growing population. While such may be true of the principal cities of
@@ -1260,12 +1233,12 @@ department that in this respect the District of Columbia occupies a
 distinct standing of its own. Its comprehensive moral status is above
 that of most communities. Were it not for the depredations chargeable to
 theft, there would be comparatively little crime to chronicle. This
-offense must always exist[[29]{#Page_29}]{.pagenum} here, unless
+offense must always exist[[\[29\]]{#Page_29}]{.pagenum} here, unless
 through some unexpected agency a complete change should be effected in
 the social conditions which prevail. The abiding place of a large class
 of idle, illiterate, and consequently vicious persons, it is but
 reasonable that the respectable element should be preyed upon to a
-considerable extent."[[52](#f52){#f52.1 .pginternal}]{.small}
+considerable extent.^[*Report of Metropolitan Police Department* for the year 1896, page 11.]
 
 The percentage of arrests for Boston during 1896 was 9.37, whereas for
 Washington it was only 8 and a fraction. These facts would seem to
@@ -1273,7 +1246,7 @@ furnish sufficient evidence that crime adheres to circumstances and
 condition and not to race and color.
 
 But, says the author, in the North (where legal processes are
-acknowledgly fair so far as the Negro is concerned) the race shows a
+acknowledgedly fair so far as the Negro is concerned) the race shows a
 criminal record which is out of all proportion to its numerical
 strength. In Pennsylvania 2.23 per cent of its population commit 16.16
 per cent of the crimes; in Chicago 1.30 of the population are
@@ -1287,7 +1260,7 @@ only natural.
 It is also true that where numbers are small proportions are high. The
 startling criminal showing of the Northern Negro can be accounted for
 largely on this principle. Suppose that there were but one Chinaman in a
-community, and coming, as he [naturally]{.underline} would, into hostile
+community, and coming, as he naturally would, into hostile
 contact with a wide area, he should be arrested and convicted. The
 criminal records of that community would show that one hundred per cent
 of the Chinese population belonged to the criminal class.
@@ -1308,7 +1281,7 @@ conditions will be reversed.
    Mississippi                      2,498                        1,783
   ------------- -------------- ---------------- -------------- ----------
 
-[[30]{#Page_30}]{.pagenum}If, on the other hand, we select those
+[[\[30\]]{#Page_30}]{.pagenum}If, on the other hand, we select those
 states in which the Negro element is small and the foreign element large
 the result is very decidedly to the disadvantage of the Negro.
 
@@ -1317,7 +1290,6 @@ proportion to his numerical strength, but is two or three times as great
 as that of his black brothers in the South. It is hard to see how "race
 traits" could account for this discrepancy.
 
- 
 
 ### Rape and Lynching
 
@@ -1327,9 +1299,9 @@ the alleged assaults upon white women by colored men have done more than
 all other causes combined to give the race an evil reputation and make
 it loathsome in the eyes of mankind. "It throws over every colored man a
 mantle of odium and sets upon him a mark for popular hate more
-distressing than the mark set upon the first murderer \... It has cooled
-our friends and heated our enemies."[[53](#f53){#f53.1
-.pginternal}]{.small}
+distressing than the mark set upon the first murderer  ... It has cooled
+our friends and heated our enemies."^[Frederick Douglass' "Lessons of the
+Hour," page 8.]
 
 The alleged culprit in such cases, especially if he be a colored man and
 the victim a white woman, is almost certain to die without due process
@@ -1351,31 +1323,37 @@ rape are coextensive is misleading and unjust.
 
 So the effort to show that rapeful assaults are due to "race traits"
 can, I think, be clearly disproved. In a pamphlet which is certainly
-[[31]{#Page_31}]{.pagenum}not flattering to the Negro, a learned
-medical authority tells us: "I might remark in passing that,
+[[\[31\]]{#Page_31}]{.pagenum}not flattering to the Negro, a learned
+medical authority tells us: 
+
+I might remark in passing that,
 notwithstanding the horrible crimes perpetrated under the influence of
 the *furor sexualis* by the Negro, I believe that he compares quite
 favorably as regards sexual impulses---taking all abnormalities into
 consideration---with the white race. The more I see of white men in
 so-called refined society, the more contempt have I for quite a large
-proportion of male humanity."[[54](#f54){#f54.1
-.pginternal}]{.small}
+proportion of male humanity.^["Sexual Crimes among the Southern Negroes," by Drs. Hunter McGuire and G. Frank Lydstron, page 8.]
 
 To summarize the points of the argument, showing that rape is not
 peculiarly characteristic of the Negro:
 
 1. Rape has been practiced among all races and nations.
+
 2. The committal of rape by white men is by no means an infrequent
-occurrence. Two instances of white men committing [heinous]{.underline}
+occurrence. Two instances of white men committing heinous
 assaults upon white children occurred in Washington during the
 preparation of this article.
+
 3. In Africa rape is so severely punished that it is comparatively
 unknown.
+
 4. In the British Islands and in South America where the Negroes live
 in greatest relative abundance, the crime is unheard of.
+
 5. When the care and safety of the white women of the South were
 entrusted to the keeping of the slaves, they returned inviolable all
 that had been entrusted to their hands.
+
 6. Of the hundreds of lady missionaries of the North who have trusted
 their lives and virtue to the emancipated race whom they came to uplift,
 not a single case of violation has been reported to their friends at the
@@ -1393,8 +1371,8 @@ quoted and remarked upon. These are facts of record and cannot be
 gainsaid or denied. According to the opinion of medical men and others
 in positions to observe, these figures if anything fall short of the
 truth. It is also probable that the other large cities of the country,
-if as closely studied, would make as startling a showing. [[
-32]{#Page_32}]{.pagenum}The only alarming feature of the situation is
+if as closely studied, would make as startling a showing. [[\[
+32\]]{#Page_32}]{.pagenum}The only alarming feature of the situation is
 the constant *increase* in the illegitimate rates. That twenty-five per
 cent of the births among Negroes are illegitimate will not alarm anyone
 where it is considered that even this low moral status represents a gain
@@ -1415,7 +1393,7 @@ table showing this excess for the cities whose colored population is
 over 20,000.
 
 #### *Colored population.*
-
+::: wide_table_container
   -------------- -------------- ------------ -------------- ----------- -------------- ----------- -------------- ---------
       City.      [ ]{.spacer}     Colored\   [ ]{.spacer}    Colored\   [ ]{.spacer}   Excess of\  [ ]{.spacer}    Number
                                    males.                    females.                   females.                     of\
@@ -1458,14 +1436,16 @@ over 20,000.
       Total                       228,099                     273,952                    45,875                      120
   -------------- -------------- ------------ -------------- ----------- -------------- ----------- -------------- ---------
 
+::: 
+
 Such a disproportion between the sexes can forbode no good to society.
 In the West, where the male element predominates over the female among
 the white population, the evil effect on society is painfully apparent.
 If every colored man in Washington were married and every male minor had
-a mate selected for him, there would[[33]{#Page_33}]{.pagenum}
+a mate selected for him, there would[[\[33\]]{#Page_33}]{.pagenum}
 still be left Negro females enough to form a manless community larger
 than Annapolis, Md. Now, no one should wonder at the moral corruption
-under these circumstances. These 8000 females, for whom marriage is
+under these circumstances. These 8,000 females, for whom marriage is
 impossible, be it remembered, are not restrained by the inhibitory
 influence of pride, station, and self-esteem. This is no doubt the
 greatest evil which threatens the social integrity of Negro life, and
@@ -1478,21 +1458,21 @@ of sin and uncleanliness. The author tells us that immorality is a race
 trait. This is sadly too true, but it is a human race trait, and is
 limited to no particular variety thereof.
 
- 
 
- 
-
-------------------------------------------------------------------------
 
 ## Chapter VI
 
-*Subject:* Economic Conditions.
 
-*Gist:* "As a general conclusion it may be said that the Negro has not
-yet learned the first element of Anglo-Saxon
-thrift."[[55](#f55){#f55.1 .pginternal}]{.small}
 
- 
+::: tablenoborder
+
+|   |     |
+|--:|----------|
+| **Subject**: | Economic Conditions |
+| **Gist**: | *As a general conclusion it may be said that the Negro has not yet learned the first element of Anglo-Saxon thrift.*^[Page 307.] |
+
+:::
+
 
 ### The Negro as a Farm Hand
 
@@ -1515,16 +1495,18 @@ industrial efficiency of the Negro have shown results not unfavorable to
 him. The recent discharge of white workmen in the cotton mills of
 Charleston, and the substitution of colored workmen in their places, is
 quite significant. The hindrances which the Negro has to meet in the
-industrial field are fully suggested in the address to [[
-34]{#Page_34}]{.pagenum}the public of the discharged white employes of
-the Charleston establishment: "If the colored man's status precludes him
+industrial field are fully suggested in the address to [[\[
+34\]]{#Page_34}]{.pagenum}the public of the discharged white employees of
+the Charleston establishment: 
+
+> If the colored man's status precludes him
 from competing with the office-holder, it should exclude him from
 competing with our wives, sons, and daughters in the light pursuits of
 the country. We affirm, by our physical powers and brave hearts, not to
 sit supinely by and witness this Negro horde turned loose upon the
 pursuits of our mothers, our wives, our widows, our daughters, our
-sisters, and rob them of their living."[[56](#f56){#f56.1
-.pginternal}]{.small}
+sisters, and rob them of their living.^[*The Literary Digest*, July 24, 1897,
+page 361.]
 
 This is the solemn declaration of 800 workmen in the metropolis of South
 Carolina, and represents fairly the white labor sentiment of the South.
@@ -1543,20 +1525,15 @@ philanthropy.
 ### Accumulation of Property
 
 The accumulation of property on the part of the blacks shows that in
-Georgia they own \$12,941,230, in North Carolina \$8,018,446, and in
-Virginia \$13,933,908. The land held by the colored people in Virginia
+Georgia they own $12,941,230, in North Carolina $8,018,446, and in
+Virginia $13,933,908. The land held by the colored people in Virginia
 alone has an area nearly equal to that of the State of Rhode Island.
 These facts make a decidedly favorable showing.
 
- 
-
- 
-
-------------------------------------------------------------------------
 
 ## Chapter VII
 
-Conclusion.
+### Conclusion
 
 The need of this chapter is hardly apparent, for the author's conclusion
 is as clearly set forth in the beginning as at the close of the
@@ -1565,12 +1542,14 @@ harmony with the general opinion prevalent among students of the Negro
 problem, but is also strangely inconsistent with his former self. The
 same author who in 1896, wrote: "It is not in the condition of life, but
 in the race traits and tendencies, that we find the cause of excessive
-mortality,"[[57](#f57){#f57.1 .pginternal}]{.small} in 1892
-affirmed: "The colored [[35]{#Page_35}]{.pagenum}population is
+mortality,"^["Race Traits and Tendencies," by
+Frederick L. Hoffman, page 95.] in 1892
+affirmed: "The colored [[\[35\]]{#Page_35}]{.pagenum}population is
 placed at many disadvantages which it cannot very well remove. The
 unsanitary condition of their dwellings, their ignorance of the laws of
 health, and general poverty are the principal causes of their high
-mortality."[[58](#f58){#f58.1 .pginternal}]{.small} The Frederick L.
+mortality."^["Vital Statistics of the Negro," by
+Frederick L. Hoffman, *Arena*, April, 1892.] The Frederick L.
 Hoffman of 1892, according to the general judgment, is much nearer the
 true analysis than the Frederick L. Hoffman of 1896.
 
@@ -1579,9 +1558,11 @@ sound theory.
 
 1. It is based upon disputed data. The accuracy of the eleventh census
 is not acceptable either to the popular or the scientific mind.
+
 2. It is not based upon a sufficient induction of data. The arguments
 at most apply to the Negroes in the large cities, who constitute less
 than 12 per cent of the total population.
+
 3. It does not account for the facts arranged under it as
 satisfactorily as can be done under a different hypothesis. The author
 fails to consider that the discouraging facts of observation may be due
@@ -1605,8 +1586,8 @@ must always result in misconduct. The Jews in Egypt labored under
 circumstances remarkably similar to those of the American Negro. After
 their emancipation, it required them forty years to make the progress
 which the scientific process would have required them to make in forty
-days. Such was their moral and physical degeneracy, that only [[
-36]{#Page_36}]{.pagenum}two persons of all the hosts who left the land
+days. Such was their moral and physical degeneracy, that only [[\[
+36\]]{#Page_36}]{.pagenum}two persons of all the hosts who left the land
 of Egyptian bondage survived to reach the Promised Land forty years
 afterward. Luckily for the Hebrews, there were no statisticians in those
 days. Think of the future which an Egyptian philosopher would have
