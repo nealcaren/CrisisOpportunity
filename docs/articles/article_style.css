@@ -149,7 +149,7 @@ h6 {
 blockquote {
   color: #666666;
   margin: 0;
-  padding-left: 2rem;
+  padding-left: 1rem;
   border-left: none;
 }
 
@@ -485,6 +485,10 @@ margin-top: .5;
     display: block;
     color: #666666;
     }
+    blockquote {
+      padding-left: 2rem;
+    }
+
 }
 @media print {
   * {
