@@ -1,89 +1,5 @@
 [&nbsp;]{.motto}
 
-# Labor
-
-
-::: article
-## [The Negro in Times of Industrial Unrest](articles/unrest.html)
-### Richard R. Wright, Jr.
-[![](Images/work.png)](articles/unrest.html "Image inspired by Allan Freelon's 'Road Menders'")
-<em>Charities,</em> 1905.
-:::
-
-::: article
-## [White and Black World in American Labor and Politics](articles/american_labor.html)
-### Abram L. Harris
-[![](Images/douglas_5.png)](articles/american_labor.html)
-<em>Social Forces,</em> 1925.
-:::
-
-::: article
-## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
-### Abram L. Harris
-[![](Images/marching_1.png)](articles/lilywhite.html)
-<em>Current History,</em> 1926.
-:::
-
-
-::: article
-## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
-### Ira De A. Reid
-[![](Images/crowd_3.png)](articles/lilywhite.html)
-<em>Opportunity,</em> 1930.
-:::
-
-
-::: article
-## [Conflict of Caste and Class in an American Industry](articles/caste_and_class.html)
-### Charles S. Johnson
-[![](Images/migration_1.png)](articles/caste_and_class.html "Image inspired by Jacob Lawrence's 'The Migration of the Negro, Panel no. 1.'")
-<em>American Journal of Sociology,</em> 1936.
-:::
-
-
-
-
-
-# Social Movements
-
-::: article
-## &nbsp;<br>[After Garvey---What?](articles/after_garvey.html)
-### Charles S. Johnson
-[![](Images/garvey_1.png)](articles/after_garvey.html)
-<em>Opportunity,</em> 1923
-<!--<em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.-->
-:::
-
-::: article
-## [The Negro Problem as Viewed by Negro Leaders](articles/problem.html)
-### Abram L. Harris
-[![](Images/political_1.png)](articles/after_garvey.html)
-<em>Current History,</em> 1923
-:::
-
-::: article
-##  &nbsp;<br>[The Garvey Movement](articles/garvey.html)
-### E. Franklin Frazier
-[![](Images/garvey.png)](articles/garvey.html)
-<em>Opportunity,</em> 1926.
-:::
-
-::: article
-## [Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)
-### Maurice Gates
-[![](Images/challenge.png)](articles/students_challenge.html)
-<em>The Crisis,</em> 1935.
-::: 
-
-
-::: article
-## [Tactics and Programs of Minority Groups](articles/critical_analysis.html)
-### Ralph J. Bunche
-[![](Images/marching_2.png)](articles/critical_analysis.html)
-<em>Journal of Negro Education,</em> 1935.
-::: 
-
-
 
 # Racial Identity
 
@@ -121,6 +37,13 @@
 
 
 # White Racism and Racial Violence
+
+::: article
+## [A Review of Hoffman's *Race Traits*](articles/race_traits.html)
+### Kelly Miller
+[![](Images/douglas_4.png)](articles/race_traits.html)
+<em>American Negro Academy,</em> 1897.
+:::
 
 ::: article
 ## [Chicago and It's Eight Reasons](articles/chicago.html)
@@ -217,6 +140,90 @@
 <em>Social Forces,</em> 1927.
 :::
 
+
+# Labor
+
+::: article
+## [The Negro in Times of Industrial Unrest](articles/unrest.html)
+### Richard R. Wright, Jr.
+[![](Images/work.png)](articles/unrest.html "Image inspired by Allan Freelon's 'Road Menders'")
+<em>Charities,</em> 1905.
+:::
+
+::: article
+## [White and Black World in American Labor and Politics](articles/american_labor.html)
+### Abram L. Harris
+[![](Images/douglas_5.png)](articles/american_labor.html)
+<em>Social Forces,</em> 1925.
+:::
+
+::: article
+## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
+### Abram L. Harris
+[![](Images/marching_1.png)](articles/lilywhite.html)
+<em>Current History,</em> 1926.
+:::
+
+
+::: article
+## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
+### Ira De A. Reid
+[![](Images/crowd_3.png)](articles/lilywhite.html)
+<em>Opportunity,</em> 1930.
+:::
+
+
+::: article
+## [Conflict of Caste and Class in an American Industry](articles/caste_and_class.html)
+### Charles S. Johnson
+[![](Images/migration_1.png)](articles/caste_and_class.html "Image inspired by Jacob Lawrence's 'The Migration of the Negro, Panel no. 1.'")
+<em>American Journal of Sociology,</em> 1936.
+:::
+
+
+
+
+
+# Social Movements
+
+::: article
+## &nbsp;<br>[After Garvey---What?](articles/after_garvey.html)
+### Charles S. Johnson
+[![](Images/garvey_1.png)](articles/after_garvey.html)
+<em>Opportunity,</em> 1923
+<!--<em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.-->
+:::
+
+::: article
+## [The Negro Problem as Viewed by Negro Leaders](articles/problem.html)
+### Abram L. Harris
+[![](Images/political_1.png)](articles/after_garvey.html)
+<em>Current History,</em> 1923
+:::
+
+::: article
+##  &nbsp;<br>[The Garvey Movement](articles/garvey.html)
+### E. Franklin Frazier
+[![](Images/garvey.png)](articles/garvey.html)
+<em>Opportunity,</em> 1926.
+:::
+
+::: article
+## [Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)
+### Maurice Gates
+[![](Images/challenge.png)](articles/students_challenge.html)
+<em>The Crisis,</em> 1935.
+::: 
+
+
+::: article
+## [Tactics and Programs of Minority Groups](articles/critical_analysis.html)
+### Ralph J. Bunche
+[![](Images/marching_2.png)](articles/critical_analysis.html)
+<em>Journal of Negro Education,</em> 1935.
+::: 
+
+
 # Women and Work
 
 ::: article
@@ -304,7 +311,6 @@ Address given at the First Sociological Club, ca. 1897.
 
 
 # Forthcoming
-* Miller, Kelly. "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." *American Negro Academy Occasional Papers,* No 1. 1897. 
 * Thompson, Anna J. "A Survey of Crime among Negroes in Philadelphia." *Opportunity* Vol 4, July-Sept.
 * Johnson, Charles S.  and Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
 * Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
