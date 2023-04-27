@@ -37,6 +37,8 @@ pandoc -s -o docs/articles/prey.html --template=templates/article_html.template 
 pandoc -s -o docs/articles/heaven.html --template=templates/article_html.template markdown/heaven.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/american_labor.html --template=templates/article_html.template markdown/american_labor.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/race_traits.html --template=templates/article_html.template markdown/race_traits.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/durham.html --template=templates/article_html.template markdown/durham.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/social_bonds.html --template=templates/article_html.template markdown/social_bonds.md  --css="article_style.css?id=$v"
 
 
 

@@ -45,12 +45,7 @@
 <em>American Negro Academy,</em> 1897.
 :::
 
-::: article
-## [Chicago and It's Eight Reasons](articles/chicago.html)
-### Walter White
-[![](Images/crowd_1.png)](articles/chicago.html)
-<em>The Crisis,</em> 1919.
-:::
+
 
 ::: article
 ## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
@@ -97,9 +92,18 @@
 # Great Migration and Urban Sociology
 
 ::: article
+## [Social Bonds in the "Black&nbsp;Belt" of Chicago](articles/social_bonds.html)
+### Fannie Barrier Williams
+[![](Images/douglas_6.png)](articles/social_bonds.html)
+<em>Charities,</em> Oct. 1905.
+:::
+
+
+
+::: article
 ## [Negroes Move North: Departure from the South](articles/north_i.html)
 ### George Edmund Haynes
-[![](Images/douglas_6.png)](articles/north_i.html)
+[![](Images/douglas_5.png)](articles/north_i.html)
 <em>The Survey,</em> May 1918.
 :::
 
@@ -162,7 +166,7 @@
 ::: article
 ## [White and Black World in American Labor and Politics](articles/american_labor.html)
 ### Abram L. Harris
-[![](Images/douglas_5.png)](articles/american_labor.html)
+[![](Images/crowd_1.png)](articles/american_labor.html)
 <em>Social Forces,</em> 1925.
 :::
 
@@ -316,6 +320,14 @@ Address given at the First Sociological Club, ca. 1897.
 [![](Images/reaches.png)](articles/reaches.html)
 <em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
 :::
+
+::: article
+## [Chicago and It's Eight Reasons](articles/chicago.html)
+### Walter White
+[![](Images/crowd_1.png)](articles/chicago.html)
+<em>The Crisis,</em> 1919.
+:::
+
 -->
 
 
