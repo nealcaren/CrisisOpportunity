@@ -13,6 +13,9 @@ date: 1925
 
 citation: "<em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382."
 
+pdf_URL: "PDFS/McDougald_1925_Task.pdf"
+
+
 ---
 
 <span class="pagenum">369</span>

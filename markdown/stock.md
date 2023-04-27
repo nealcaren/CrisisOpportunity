@@ -37,7 +37,7 @@ The 1920 census reported the Negro population of the nation to be 10,463,131, or
 
 The rate of increase of the Negro population, 6.5 per cent in 1920, as compared with 11.2 per cent increase for 1910 would appear to indicate that the Negro population is rapidly approaching a stationary state. It is of interest to note that for the decade 1860-1870 the rate of increase was 9.9 per cent, almost as low as for 1920.^[The census estimate of omissions of Negroes in Southern States in census count of 1870 is 512,000. See Vol. II., p. 15, of 1920 census report.] The rate of increase for Negroes, 1850-1920, shows great fluctuation, part of which is explained by census revisions. The greater part of the difference between the rates of increase in 1850, 1860 and 1870 is due to the sudden change in the status of the Negro as a result of emancipation. The Negro was released from the soil and permitted to move about with a freedom and facility which he had not heretofore possessed. A somewhat similar state existed in the five years, 1916-1920. During this period there occurred the greatest economic and social change which the Negro had experienced since emancipation. This change was almost as sudden as that of emancipation and was accompanied by an even greater movement of population. The results in both periods because of this sudden change and great movement of population were that many Negroes were probably not enumerated in the census and that birth and death rates were both affected.
 
-*Per Cent Increase of White and Negro Population, 1850-1920*
+Table: Per Cent Increase of White and Negro Population, 1850-1920
 
 | Census Years | White |   Negroes      |
 |------------ |-----------------:|-------:|
@@ -73,7 +73,7 @@ The so-called migration to the North is a part of the movement of Negroes to cit
 
 [42]{.pagenum}
 
-*Number	and Per Cent of Negroes	in United States Living in Urban and Rural Communities, 1890-1920*
+Table: Number	and Per Cent of Negroes	in United States Living in Urban and Rural Communities, 1890-1920
 
 | Year  | Number Urban |     Rural | Per Cent Urban | Rural |
 |-------|-------------:|----------:|---------------:|------:|
@@ -89,7 +89,7 @@ The white population of the South is increasing at a more rapid rate than the Ne
 
 The most recent available information indicates that the health of Negroes is improving. The death rates for Negroes are considerably higher than those for whites. Mortality statistics indicate that the death rates for both races are decreasing.
 
-*Death Rate per 1,000 for the Registration Area*
+Table: Death Rate per 1,000 for the Registration Area
 
 |          | 1910 | 1911 | 1912 | 1916 | 1920 | 1921 |
 |----------|------|------|------|------|------|------|
@@ -139,9 +139,9 @@ Organization is an indication of the growth of racial consciousness. This means 
 
 Another phase of the growth of race consciousness is that the Negro is developing a literature of his own. Through his numerous newspapers, periodicals, books, and articles he is becoming more and more able to set forth his own needs, to state his own case, and to champion his own cause.
 
-[44]{.pagenum}
 
-### Race Relations 
+
+### Race Relations [44]{.pagenum}
 
 Since the Negro and the white man live as two separate groups the relations of these groups present a situation that has become a matter of vital importance to both races. The main facts about race relations are that prejudice and discriminations continue. There are lynchings and occasional riots. There is an apparent growth and spread of both tolerance and intolerance. This is a result of a wider and a more continued contact which the Negro group is establishing with the white group. The friendly relations of the two groups are being furthered by the inter-racial cooperation movement which is bringing representatives of the two groups into working relations with each other. The spirit of inter-racial cooperation appears to be growing. There is more and more of a disposition for the white people of the South to aid in efforts for the betterment of conditions among Negroes. Another phase of race relations is that the Negro group is tending to share to a larger degree in the community life. Its importance as a part of the community is being more and more recognized and community activities are being extended to this group. This group is also being asked to participate in the community activities, and as a result, the Negro group is tending to take a more active part in community life.
 

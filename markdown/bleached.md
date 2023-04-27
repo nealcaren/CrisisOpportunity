@@ -20,6 +20,9 @@ citation_issue: 3
 citation_firstpage: 240
 citation_lastpage: 252
 
+pdf_URL: "PDFS/Miller_1926_Bleached.pdf"
+
+
 ---
 
 

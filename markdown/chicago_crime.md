@@ -79,16 +79,18 @@ It is to be remembered that not all the negroes living in the districts which ha
 *Police arrests*.---The arrests made from year to year in the police departments of great cities may be regarded as an [209]{.pagenum}
 approximately true indicator of the criminal tendencies of the times; for almost all the inmates of prisons have passed through the hands of the police. On the records of the police department are placed data relating to the individual arrested and the nature of his crime. Because of the data thus obtainable the writer has made a special study of the police records of the city. The period covered by this study is the past twenty-six years, *i.e.*, from 1872 to 1898. The police records of arrests in the city were not obtainable for an earlier period than 1872. The yearly reports back to this time were obtainable with the exception of the year 1873 and a part of the report for 1874.
 
-*Ratio of Negro Arrests to the Total Number of Arrests*
+Table: Ratio of Negro Arrests to the Total Number of Arrests
 
-| Year | Ratio   | Year | Ratio   | Year  | Ratio  | Year | Ratio   |
-|------|---------|------|---------|-------|--------|------|---------|
-| 1872 | 1 to 33 | 1882 | 1 to 22 | 1892 | 1 to 8 | 1897 | 1 to 11 |
-
+| Year | Ratio   |
+|------|---------|
+| 1872 | 1 to 33 | 
+| 1882 | 1 to 22 | 
+| 1892 | 1 to 8 |
+| 1897 | 1 to 11 |
 
 By this comparison it is seen that during the past twenty-six years there has been a very large increase in the number of negro arrests in proportion to the whole number of arrests.
 
-*Ratio of Negro Population to Total Population, Compared with the Ratio of Negro Arrests to Total Arrests*
+Table: Ratio of Negro Population to Total Population, Compared with the Ratio of Negro Arrests to Total Arrests
 
 | Year | Year                                           |         |
 |------|------------------------------------------------|---------|
@@ -108,7 +110,7 @@ By this comparison it is seen that during the past twenty-six years there has be
 By this comparison we see that in 1872 the ratio of negro arrests to total arrests was two and a half times as great as the ratio of the negro population to the total population; in 1880 the ratio of arrests was four and a half times as great; in 1890 the ratio of arrests was seven times as great; in 1892 the ratio of arrests was nine times as great; in 1894 the ratio of arrests was five and three-fourths times as great; and in 1896 the ratio [210]{.pagenum}
 of negro arrests to the total arrests was seven times as great as the ratio of the negro population to the total population.
 
-*Ratio of Negro Arrests to the Negro Population, Compared with the Ratio of Total Arrests to the Total Population*
+Table: Ratio of Negro Arrests to the Negro Population, Compared with the Ratio of Total Arrests to the Total Population
 
 | Year | Ratio of negro arrests | Ratio of total arrests | Year | Ratio of negro arrests | Ratio of total arrests |
 |------|-----------------------|------------------------|------|-----------------------|------------------------|
@@ -195,7 +197,7 @@ From the list of occupations given by those classed as criminals it is seen that
 [218]{.pagenum}
 been noted, that the negro population of Chicago is made up of negroes from all parts of the United States. The largest number of criminals are from Kentucky, Tennessee, and Missouri. It is from these states, as has already been stated, that the largest number of negroes in Chicago has come.
 
-### Offenses.
+### Offenses
 
 *Offenses of negro persons under the head of general arrests.*--- Comparing offenses for May and January with offenses of total arrests, we see that the proportionate number of negroes arrested for assault and burglary is less than the proportionate number of total arrests for these offenses; that for larceny and vagrancy the proportionate number of negroes arrested is about the same as the proportionate number of total arrests for these offenses; and that the proportionate number of negroes arrested for disorderly conduct and robbery is greater than the proportionate total arrests for these offenses.
 

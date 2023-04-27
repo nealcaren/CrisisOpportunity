@@ -79,7 +79,7 @@ and federal unions. They, the labor leaders, undoubtedly felt that such an organ
 
 There is no doubt that the A.F. of L. enjoyed a measure of success in organizing Negro workers through the medium of local unions until 1923. In December, 1911, there wrere 11 Negro local and federal unions with 309 members affiliated to that body. In 1919, the number of locals had increased to 169. In 1929 there were 21 locals. In 1911 there were three salaried Negro workers employed as organizers; in 1929 there was none. When the National Urban League broached the question of Negro organizers to the Executive Council of the Federation in 1926, that body decided that it was impossible to add a Negro organizer at that time, despite the fact that outside sources were willing to pay half of the salary of such a person. The relative and absolute decline of Negro local unions is shown in the following table:
 
-*Local Trade and Federal Labor Unions Composed Exclusively of Negro Workers and Per Cent of Negro Unions in Total for Selected Years, 1919---1929*
+Table: Local Trade and Federal Labor Unions Composed Exclusively of Negro Workers and Per Cent of Negro Unions in Total for Selected Years, 1919---1929
 			
 |  |  | Total Locals | Negro Locals  | Per cent Negro |
 |-------|----------|:------:|:-------:|:---------:|

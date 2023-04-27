@@ -21,6 +21,10 @@ citation_firstpage: 119
 citation_lastpage: 121
 
 citation: "<em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 119-121"
+
+pdf_URL: "PDFS/Frazier_1927_Racial.pdf"
+
+
 ---
 
 

@@ -31,7 +31,7 @@ impos[169]{.pagenum}sible to check the accuracy of the count by the ordinary sta
 
 It is conceded that the enumerations of 1860, 1880, 1900 and 1910 were accurate within the allowable limit of error. According to these enumerations, the growth was more or less normal and regular, and conformed to the requirements of statistical expectation. But the enumerations of 1870, 1890 and 1920 are so flagrantly discrepant as to demand special explanation and correction. A miscount at one enumeration upsets the balance for two decades. If it be an undercount, it makes the increase too small for the preceding decade and too large for the succeeding one. Accordingly, the only consecutive decades upon which we can rely for accuracy concerning the growth of the Negro population would be the 1850-1860 and 1900-1910. In order to escape obvious absurdities, the figures for the other decades must be supplied by reasoned interpolations. The mere exhibit of the several enumerations by the Census Office will convince the student of their inherent improbability.
 
-<p class="table-title"> Negro Population at Each Census, and Decennial Increase, 1860-1920</p>
+Table: Negro Population at Each Census, and Decennial Increase, 1860-1920
 
 | Year     |     Number | Decennial Increase | Per cent of Increase |
 |-----------|-----------:|-------------------:|---------------------:|
@@ -58,7 +58,7 @@ omissions at the census of 1890 cannot be accurately determined, but it would se
 
 By making the estimated corrections for acknowledged error in the counts of 1870 and 1890, decadal growth from 1880 to 1890 would be reduced and from 1890 to 1900 increased, so as to produce reasonable conformity with the laws of normal growth. A gradual decline in the rate of growth from 22.3 per cent, to 11.2 per cent, in 60 years will prove that the Negro element conforms to the regular law of human population. This decline would appear even more gradual if we consider that the rate of 22.1 from 1850 to 1860 was contributed, in considerable measure, by African importation. The Census Bureau offers the following table with corrected numbers for 1870 and 1890:
 
-<p class="table-title">Negro Population:	Decennial	Increases,	with Estimated	Allowances for 1870 and 1890</p>
+Table: Negro Population:	Decennial	Increases,	with Estimated	Allowances for 1870 and 1890
 
 | Year        |       Number |  Decennial Increase | Per cent of Increase |
 |-------------|-------------:|--------------------:|--------------------:|
@@ -98,7 +98,7 @@ On examining the data on which this conclusion is based, we find that they are w
 [174]{.pagenum}
 
 
-<p class="table-title">Birth Bate of Negro Population in Specified Registration States, 1900 and 1919 (Comparative)</p>
+Table: Birth Bate of Negro Population in Specified Registration States, 1900 and 1919 (Comparative)
 
 | State and Color|  Birth Rate 1900 |  Birth Rate 1919 |
 |------------------|-------:|------:|
@@ -131,7 +131,7 @@ It is well understood that these states, except South Carolina,
 [175]{.pagenum}
 have shown a comparatively slow rate of increase in Negro population for 30 years preceding the census in question. The facts are indicated in the following table:
 
-<p class="table-title">Decennial Rate of Increase of the Negro Population in Certain Registration States: 1880 to 1910</p>
+Table: Decennial Rate of Increase of the Negro Population in Certain Registration States: 1880 to 1910
 
 |                         |      1890 | 1900 | 1910 |
 |-------------------------|----------:|-----:|-----:|
@@ -148,7 +148,7 @@ From the table it will be seen that the increase in Negro population in the sout
 
 The low birth rate revealed by the census in these states is due to the migration of the Negro population of reproductive age from those states within the registration area. This, of course, does not affect necessarily the birth rate of Negro population as a whole. A better view of the birth rate of the Negro population may be secured by considering the growth of this population in the more typical southern states not so much affected by migration during the same period.
 
-<p class="table-title">Decennial Rate of Increase or the Negro Population in Certain Nonregistration States: 1880-1910</p>
+Table: Decennial Rate of Increase or the Negro Population in Certain Nonregistration States: 1880-1910
 
 
 |                         |      1890 | 1900 | 1910 |
