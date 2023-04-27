@@ -120,6 +120,15 @@
 :::
 
 ::: article
+## [Durham: Capital of the Black Middle Class](articles/durham.html)
+### E. Franklin Frazier
+[![](Images/douglas_nn.png)](articles/durham.html)
+<em>The New Negro An Interpretation</em> 1925.
+:::
+
+
+
+::: article
 ## &nbsp;<br>[Where Is the Negro’s Heaven?](articles/heaven.html)
 ### Kelly Miller
 [![](Images/douglas_city2.png)](articles/heaven.html)
