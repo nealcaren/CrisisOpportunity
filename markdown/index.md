@@ -130,7 +130,13 @@
 <em>The New Negro An Interpretation</em> 1925.
 :::
 
+::: article
+## [Negro Migration in New York State](articles/migration.html)
+### Eugene Kinckle Jones
+[![](Images/abstract_2.png)](articles/migration.html)
+<em>Opportunity,</em> 1926.
 
+::: 
 
 ::: article
 ## &nbsp;<br>[Where Is the Negro’s Heaven?](articles/heaven.html)
