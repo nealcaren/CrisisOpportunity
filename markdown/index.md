@@ -277,6 +277,12 @@
 *Opportunity*, 1926.
 ::: 
 
+::: article
+## [Is the Negro Family a Unique Sociological Unit?](articles/unique.html)
+### E. Franklin Frazier
+[![](Images/Alston_Restaurant_Scene.png)](articles/unique.html "Inspired by Charles Alston's 'Restaurant Scene")
+*Opportunity*, 1927.
+::: 
 
 
 # Demography
