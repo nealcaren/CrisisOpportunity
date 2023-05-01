@@ -11,7 +11,6 @@ author:
 
 date: 1905
  
-citation_title: Social Bonds in the \"Black Belt\" of Chicago
 citation_journal_title: Charities
 citation_author: Williams, Fannie Barrier
 citation_publication_date: 1905
@@ -20,7 +19,7 @@ citation_issue: 1
 citation_firstpage: 40
 citation_lastpage: 44
 
-
+citation_title: Social Bonds in the \"Black Belt\" of Chicago
 pdf_URL: "PDFS/Williams_1905_Bonds.pdf"
 citation: <em>Charities,</em> vol XV, no. 1, Oct. 1905, pp.  40--44.
 ---

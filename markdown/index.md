@@ -302,6 +302,13 @@
 *Opportunity*, 1923.
 :::
 
+::: article
+## [The Etiquette of Race Relations](articles/etiquette.html)
+### Bertram W. Doyle
+[![](Images/freelon_summer_morning-min.png)](articles/etiquette.html "Inspired by 'Summer Morning, Gloucester' by Allan Randall Freelon")
+*The Journal of Negro Education*, 1936.
+:::
+
 
 # Religion
 
