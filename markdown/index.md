@@ -199,6 +199,12 @@
 <em>American Journal of Sociology,</em> 1936.
 :::
 
+::: article
+## [Social Organization of the Negro&nbsp;Community and the Union Movement](articles/social_organization.html)
+### Horace R. Cayton and George S. Mitchell
+[![](Images/scott_rainy_night.png)](articles/social_organization.html "Image inspired by William Edouard Scott's 'Rainy Night '")
+<em>Black Workers and the New Unions,</em> 1939.
+::: 
 
 
 
