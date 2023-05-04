@@ -16,7 +16,7 @@
 ::: article
 ## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
 ### E. Franklin Frazier
-<!---[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day'")--->
+[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day'")
 <em>Ebony and Topaz: A Collectanea,</em> 1927.
 :::
 
