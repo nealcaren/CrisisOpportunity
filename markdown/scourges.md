@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Three Scourges of the Negro Family
-short_title: Scourges
+short_title: Frazier
 author:
 - name: E. Franklin Frazier
 - affiliation: ""

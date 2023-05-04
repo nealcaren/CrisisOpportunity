@@ -4,7 +4,7 @@ lang:    'en'
 
 title: Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations
 citation_title: "Review: Review: The Negro in Chicago. by Chicago Commission on Race Relations"
-short_title: Chicago
+short_title: Miller
 
 author:
 - name: Kelly Miller

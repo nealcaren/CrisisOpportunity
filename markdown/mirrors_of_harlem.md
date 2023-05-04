@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community
-short_title: Mirrors
+short_title: Reid
 
 author:
 - name: Ira De A. Reid

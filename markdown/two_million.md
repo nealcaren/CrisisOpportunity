@@ -6,7 +6,7 @@ title: "Two Million Negro Women at Work"
 short_title: Work
 
 author:
-- name: Elizabeth Ross Haynes
+- name: Ross
 - affiliation: ""
 
 date: 1922

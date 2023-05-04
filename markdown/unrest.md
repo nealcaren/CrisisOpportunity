@@ -4,7 +4,7 @@ lang:    'en'
 
 
 title: The Negro in Times of Industrial Unrest
-short_title: Unrest
+short_title: Wright
 
 author:
 - name: Richard R. Wright, Jr.

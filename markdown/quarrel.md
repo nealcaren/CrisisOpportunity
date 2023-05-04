@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "Negro Labor's Quarrel with White Workingmen"
-short_title: Quarrel
+short_title: Harris
 
 author:
 - name: Abram L. Harris

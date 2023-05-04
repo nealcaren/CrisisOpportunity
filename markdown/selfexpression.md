@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Racial Self-Expression
-short_title: Self-Expression
+short_title: Frazier
 
 author:
 - name: E. Franklin Frazier

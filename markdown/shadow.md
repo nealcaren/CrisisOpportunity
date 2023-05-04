@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Shadow of the Plantation
-short_title: Shadow
+short_title: Johnson
 
 author:
 - name: Charles S. Johnson

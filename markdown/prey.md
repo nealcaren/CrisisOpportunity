@@ -4,7 +4,7 @@ lang:    'en'
 
 
 title: "Let Us Prey!"
-short_title: Prey
+short_title: Reid
 
 author:
 - name: Ira De A. Reid

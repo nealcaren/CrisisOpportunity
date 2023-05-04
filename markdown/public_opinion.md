@@ -4,7 +4,7 @@ lang:    'en'
 
 
 title: Public Opinion and The&nbsp;Negro
-short_title: Public Opinion
+short_title: Johnson
 
 author:
 - name: Charles S. Johnson

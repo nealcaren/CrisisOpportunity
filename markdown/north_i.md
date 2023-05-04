@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "Negroes Move North:<br>Their Departure from the South"
-short_title: North
+short_title: Haynes
 
 author:
 - name: George Edmund Haynes

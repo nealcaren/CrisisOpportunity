@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "The Negro Problem as Viewed by Negro Leaders "
-short_title: Problem
+short_title: Harris
 
 author:
 - name: Abram L. Harris

@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Negro Students Challenge Social&nbsp;Forces
-short_title: Students Challenge
+short_title: Gates
 
 author:
 - name: Maurice Gates

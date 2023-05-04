@@ -4,7 +4,7 @@ lang:    'en'
 
 
 title: "Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923"
-short_title: Taking Stock
+short_title: Work
 
 author:
 - name: Monroe N. Work

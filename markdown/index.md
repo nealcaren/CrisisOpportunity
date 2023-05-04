@@ -7,6 +7,7 @@
 ::: article
 ## [The Task of Negro Womanhood](articles/womanhood.html)
 ### Elise Johnson McDougald
+<!---*To answer these questions, one must have in mind not any one Negro woman, but rather a colorful pageant of individuals, each differently endowed.*--->
 [![](Images/women.png)](articles/womanhood.html)
 <em>The New Negro An Interpretation</em> 1925.
 :::
@@ -15,7 +16,7 @@
 ::: article
 ## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
 ### E. Franklin Frazier
-[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day'")
+<!---[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day'")--->
 <em>Ebony and Topaz: A Collectanea,</em> 1927.
 :::
 

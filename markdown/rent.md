@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Mrs. Bailey Pays the Rent
-short_title: Rent
+short_title: Reid
 
 author:
 - name: Ira De A. Reid

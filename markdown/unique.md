@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Is the Negro Family a Unique Sociological Unit?
-short_title: Unique
+short_title: Frazier
 author:
 - name: E. Franklin Frazier
 - affiliation: ""

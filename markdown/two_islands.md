@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Two Racial Islands in Alabama
-short_title: Racial Islands 
+short_title: Bond
 
 author:
 - name: Horace Mann Bond

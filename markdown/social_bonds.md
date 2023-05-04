@@ -6,7 +6,7 @@ title: Social Bonds in the \"Black Belt\" of Chicago
 short_title: Social Bonds
 
 author:
-- name: Fannie Barrier Williams
+- name: Barrier
 - affiliation: ""
 
 date: 1905

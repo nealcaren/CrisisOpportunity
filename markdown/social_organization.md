@@ -4,10 +4,10 @@ lang:    'en'
 
 
 title: "The Social Organization of the Negro&nbsp;Community and Its Relation to the Union Movement"
-short_title: Social Organization
+short_title: Cayton
 
 author:
-- name: Horace R. Cayton and George S. Mitchell
+- name: Horace R. Cayton and George&nbsp;S.&nbsp;Mitchell
 - affiliation: ""
 
 date: 1939

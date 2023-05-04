@@ -4,7 +4,7 @@ lang:    'en'
 
 title: Negro Women in Our Economic&nbsp;Life
 citation_title: Negro Women in Our Economic Life
-short_title: Negro Women
+short_title: Alexander
 
 author:
 - name: Sadie T. M. Alexander

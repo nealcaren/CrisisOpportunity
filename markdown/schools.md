@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "The Schools and the Vocational Life of Negroes"
-short_title: Work
+short_title: McDougald
 
 author:
 - name: Elise Johnson McDougald

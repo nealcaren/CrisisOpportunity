@@ -4,7 +4,7 @@ lang:    'en'
 
 title: "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*." 
 citation_title: "A Review of Hoffman's *Race Traits and Tendencies of the American Negro*."
-short_title: "Race Traits"
+short_title: Miller
 
 author:
 - name: Kelly Miller
