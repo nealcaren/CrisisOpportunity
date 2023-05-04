@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: How Much is the Migration a Flight from Persecution?
-short_title: Flight
+short_title: Johnson
 author:
 - name: Charles S. Johnson
 - affiliation: ""

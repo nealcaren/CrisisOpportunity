@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: A Critical Analysis of the Tactics and Programs of Minority Groups
-short_title: Critical Analysis
+short_title: Bunche
 
 author:
 - name: Ralph J. Bunche

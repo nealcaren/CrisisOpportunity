@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Chicago and Its Eight&nbsp;Reasons
-short_title: Chicago
+short_title: White
 
 author:
 - name: Walter White

@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "Durham: Capital of the Black Middle Class"
-short_title: Durham
+short_title: Frazier
 
 author:
 - name: E. Franklin Frazier

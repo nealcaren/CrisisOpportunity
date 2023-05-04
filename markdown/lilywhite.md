@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Lily-White Labor
-short_title: Lily-White
+short_title: Reid
 
 author:
 - name: Ira De A. Reid

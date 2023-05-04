@@ -4,7 +4,7 @@ lang:    'en'
 
 title: Enumeration Errors in Negro&nbsp;Population
 citation_title: Enumeration Errors in Negro Population
-short_title: Enumeration
+short_title: Miller
 
 author:
 - name: Kelly Miller

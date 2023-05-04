@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Garvey Movement
-short_title: Garvey Movement
+short_title: Frazier
 author:
 - name: E. Franklin Frazier
 - affiliation: ""

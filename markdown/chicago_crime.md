@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "Crime Among the Negroes of Chicago: A Social Study"
-short_title: Chicago Crime
+short_title: Work
 
 author:
 - name: Monroe N. Work

@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Where Is the Negro’s Heaven?
-short_title: Heaven
+short_title: Miller
 author:
 - name: Kelly Miller
 - affiliation: ""

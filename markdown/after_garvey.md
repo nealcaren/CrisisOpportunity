@@ -4,7 +4,7 @@ lang:    'en'
 
 
 title: After Garvey—What?
-short_title: After Garvey
+short_title: Johnson
 
 author:
 - name: Charles S. Johnson

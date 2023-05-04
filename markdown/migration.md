@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Negro Migration in New York State
-short_title: Public Opinion
+short_title: Jones
 
 author:
 - name: Eugene Kinckle Jones

@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Conflict of Caste and Class in an American Industry
-short_title: Caste and Class
+short_title: Johnson
 
 author:
 - name: Charles S. Johnson

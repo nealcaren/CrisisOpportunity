@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: Is the American Negro to Remain Black or Become Bleached?
-short_title: Bleached
+short_title: Miller
 
 author:
 - name: Kelly Miller

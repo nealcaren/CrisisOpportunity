@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The New Frontage of American&nbsp;Life
-short_title: Frontage
+short_title: Johnson
 
 author:
 - name: Charles S. Johnson

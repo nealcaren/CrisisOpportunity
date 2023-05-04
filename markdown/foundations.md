@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: "Economic Foundations of American Race Division"
-short_title: Foundations
+short_title: Harris
 
 author:
 - name: Abram L. Harris
