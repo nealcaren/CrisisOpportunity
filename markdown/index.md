@@ -1,361 +1,274 @@
 [&nbsp;]{.motto}
 
-
 # Racial Identity
 
-
 ::: article
-## [The Task of Negro Womanhood](articles/womanhood.html)
+## [&nbsp;<br>The Task of Negro Womanhood](articles/womanhood)
 ### Elise Johnson McDougald
-<!---*To answer these questions, one must have in mind not any one Negro woman, but rather a colorful pageant of individuals, each differently endowed.*--->
-[![](Images/women.png)](articles/womanhood.html)
-<em>The New Negro An Interpretation</em> 1925.
+[![](Images/poster.png)](articles/womanhood "Charles Clarence Dawson, *poster*, 1934") 
+*The New Negro An Interpretation*, 1925.
 :::
 
-
 ::: article
-## &nbsp;<br>[Racial Self-Expression](articles/selfexpression.html)
+## [&nbsp;<br>Racial Self-Expression](articles/selfexpression)
 ### E. Franklin Frazier
-[![](Images/trumpet.png)](articles/selfexpression.html "Image inspired by Aaron Douglas's 'The Judgement Day'")
-<em>Ebony and Topaz: A Collectanea,</em> 1927.
+[![](Images/ascent-of-ethiopia.png)](articles/selfexpression "Lois Mailou Jones, *Ascent of Ethiopia*, 1932") 
+*Ebony and Topaz: A Collectanea*, 1927.
 :::
 
-
 ::: article
-## [Is the American Negro to Remain Black?](articles/bleached.html)
+## [Is the American Negro to Remain Black?](articles/bleached)
 ### Kelly Miller
-[![](Images/econ_life.png)](articles/bleached.html)
-<em>South Atlantic Quarterly</em> 1926.
+[![](Images/the-new-negro.png)](articles/bleached "Allan Randall Freelon, *The New Negro*, 1949") 
+*South Atlantic Quarterly*, 1926.
 :::
 
 ::: article
-## &nbsp;<br>[Two Racial Islands in Alabama](articles/two_islands.html)
+## [&nbsp;<br>Two Racial Islands in Alabama](articles/two_islands)
 ### Horace Mann Bond
-[![](Images/two_islands.png)](articles/two_islands.html)
-<em>American Journal of Sociology</em> 1931.
+[![](Images/the-wash.png)](articles/two_islands "Horace Pippin, *The Wash*, 1940") 
+*American Journal of Sociology*, 1931.
 :::
-
-
-
 # White Racism and Racial Violence
 
 ::: article
-## [A Review of Hoffman's *Race Traits*](articles/race_traits.html)
+## [A Review of Hoffman's *Race Traits*](articles/race_traits)
 ### Kelly Miller
-[![](Images/douglas_4.png)](articles/race_traits.html)
-<em>American Negro Academy,</em> 1897.
+[![](Images/study-in-black-and-white.png)](articles/race_traits "Walter Sanford, *Study in Black and White*, 1949") 
+*American Negro Academy*, 1897.
 :::
 
-
-
 ::: article
-## &nbsp;<br>[Public Opinion and the Negro](articles/public_opinion.html)
+## [&nbsp;<br>Public Opinion and the Negro](articles/public_opinion)
 ### Charles S. Johnson
-[![](Images/shout.png)](articles/public_opinion.html "Image inspired by Aaron Douglas's 'Toiler'")
-<em>Opportunity,</em> 1923.
-:::
-
-::: article
-## [Taking Stock of the Race Problem](articles/stock.html)
-### Monroe N. Work
-[![](Images/lcity.png)](articles/stock.html "Image inspired by Jacob Lawrence's 'The City'")
-<em>Opportunities,</em> 1923.
-:::
-
-
-::: article
-## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago.html)
-### Kelly Miller
-[![](Images/city_sketch.png)](articles/negro_in_chicago.html "Image inspired by Allan Freelon's 'City Scene'") 
-<em>American Journal of Sociology,</em> 1924.
-:::
-
-
-
-::: article
-## [Economic Foundations of American Race Division](articles/foundations.html)
-### Abram L. Harris
-[![](Images/political_2.png)](articles/political_2.html)
-<em>Social Forces,</em> 1927.
-:::
-
-
-::: article
-##  [The Pathology of Race Prejudice](articles/pathology.html)
-### E. Franklin Frazier
-[![](Images/douglas_2.png)](articles/pathology.html)
-<em>The Forum,</em> 1927.
-:::
-
-
-
-
-# Great Migration and Urban Sociology
-
-::: article
-## [Social Bonds in the "Black&nbsp;Belt" of Chicago](articles/social_bonds.html)
-### Fannie Barrier Williams
-[![](Images/douglas_6.png)](articles/social_bonds.html)
-<em>Charities,</em> Oct. 1905.
-:::
-
-
-
-::: article
-## [Negroes Move North: Departure from the South](articles/north_i.html)
-### George Edmund Haynes
-[![](Images/douglas_5.png)](articles/north_i.html)
-<em>The Survey,</em> May 1918.
-:::
-
-::: article
-## [How Much is the Migration a Flight from Persecution?](articles/flight.html)
-### Charles S. Johnson
-[![](Images/city.png)](articles/flight.html "Inspired by James Lesesne Wells  'Looking Upward'")
-<em>Opportunity,</em> 1923.
-:::
-
-
-
-::: article
-## [The New Frontage of American Life](articles/frontage.html)
-### Charles S. Johnson
-[![](Images/black_belts.png)](articles/frontage.html "Inspired by Archibald Motley's 'Black Belt'")
-<em>The New Negro An Interpretation,</em> 1925.
-:::
-
-::: article
-## [Durham: Capital of the Black Middle Class](articles/durham.html)
-### E. Franklin Frazier
-[![](Images/douglas_nn.png)](articles/durham.html)
-<em>The New Negro An Interpretation</em> 1925.
-:::
-
-::: article
-## [Negro Migration in New York State](articles/migration.html)
-### Eugene Kinckle Jones
-[![](Images/abstract_2.png)](articles/migration.html)
-<em>Opportunity,</em> 1926.
-
-::: 
-
-::: article
-## &nbsp;<br>[Where Is the Negro’s Heaven?](articles/heaven.html)
-### Kelly Miller
-[![](Images/douglas_city2.png)](articles/heaven.html)
-<em>Opportunity,</em> 1926.
-:::
-
-::: article
-## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
-### Ira De A. Reid
-[![](Images/crowd1.png)](articles/rent.html)
-<em>Ebony and Topaz: A Collectanea,</em>  1927.
-:::
-
-::: article
-## &nbsp;<br>[Mirrors of Harlem](articles/mirrors_of_harlem.html) 
-### Ira De A. Reid
-[![](Images/lois_var.png)](articles/mirrors_of_harlem.html "Image inspired by Lois Mailou Jones's 'Self-Portrait'")
-<em>Social Forces,</em> 1927.
-:::
-
-
-# Labor
-
-::: article
-## [The Negro in Times of Industrial Unrest](articles/unrest.html)
-### Richard R. Wright, Jr.
-[![](Images/work.png)](articles/unrest.html "Image inspired by Allan Freelon's 'Road Menders'")
-<em>Charities,</em> 1905.
-:::
-
-::: article
-## [White and Black World in American Labor and Politics](articles/american_labor.html)
-### Abram L. Harris
-[![](Images/crowd_1.png)](articles/american_labor.html)
-<em>Social Forces,</em> 1925.
-:::
-
-::: article
-## [Negro Labor's Quarrel with White Workingmen](articles/quarrel.html)
-### Abram L. Harris
-[![](Images/marching_1.png)](articles/lilywhite.html)
-<em>Current History,</em> 1926.
-:::
-
-
-::: article
-## &nbsp;<br>[Lily-White Labor](articles/lilywhite.html)
-### Ira De A. Reid
-[![](Images/crowd_3.png)](articles/lilywhite.html)
-<em>Opportunity,</em> 1930.
-:::
-
-
-::: article
-## [Conflict of Caste and Class in an American Industry](articles/caste_and_class.html)
-### Charles S. Johnson
-[![](Images/migration_1.png)](articles/caste_and_class.html "Image inspired by Jacob Lawrence's 'The Migration of the Negro, Panel no. 1.'")
-<em>American Journal of Sociology,</em> 1936.
-:::
-
-::: article
-## [Social Organization of the Negro&nbsp;Community and the Union Movement](articles/social_organization.html)
-### Horace R. Cayton and George S. Mitchell
-[![](Images/scott_rainy_night.png)](articles/social_organization.html "Image inspired by William Edouard Scott's 'Rainy Night '")
-<em>Black Workers and the New Unions,</em> 1939.
-::: 
-
-
-
-
-# Social Movements
-
-::: article
-## &nbsp;<br>[After Garvey---What?](articles/after_garvey.html)
-### Charles S. Johnson
-[![](Images/garvey_1.png)](articles/after_garvey.html)
-<em>Opportunity,</em> 1923
-<!--<em>Opportunity,</em> vol 1, no. 8, Aug. 1923, pp.  231--233.-->
-:::
-
-::: article
-## [The Negro Problem as Viewed by Negro Leaders](articles/problem.html)
-### Abram L. Harris
-[![](Images/political_1.png)](articles/after_garvey.html)
-<em>Current History,</em> 1923
-:::
-
-::: article
-##  &nbsp;<br>[The Garvey Movement](articles/garvey.html)
-### E. Franklin Frazier
-[![](Images/garvey.png)](articles/garvey.html)
-<em>Opportunity,</em> 1926.
-:::
-
-::: article
-## [Negro Students Challenge Social&nbsp;Forces](articles/students_challenge.html)
-### Maurice Gates
-[![](Images/challenge.png)](articles/students_challenge.html)
-<em>The Crisis,</em> 1935.
-::: 
-
-
-::: article
-## [Tactics and Programs of Minority Groups](articles/critical_analysis.html)
-### Ralph J. Bunche
-[![](Images/marching_2.png)](articles/critical_analysis.html)
-<em>Journal of Negro Education,</em> 1935.
-::: 
-
-
-# Women and Work
-
-::: article
-## [Two Million Negro Women at Work](articles/two_million.html)
-### Elizabeth Ross Haynes
-[![](Images/farm_1.png)](articles/two_million.html)
-<em>The Southern Workman,</em> 1922.
-:::
-
-::: article
-## [Negro Women in Our Economic&nbsp;Life](articles/negro_women.html)
-### Sadie T.M. Alexander
-[![](Images/factory_2.png)](articles/negro_women.html)
-<em>Opportunity</em>, 1930.
-:::
-
-
-# Crime
-
-::: article
-## [Crime Among the Negroes of Chicago: A Social Study](articles/chicago_crime.html)
-### Monroe N. Work
-[![](Images/chicago_1.png)](articles/chicago_crime.html)
-*American Journal of Sociology*, 1900.
-:::
-
-# Family
-::: article
-## [Three Scourges of the Negro Family](articles/scourges.html)
-### E. Franklin Frazier
-[![](Images/cityscape.png)](articles/scourges.html "Inspired by Charles Alston's 'Cityscape at Night")
-*Opportunity*, 1926.
-::: 
-
-::: article
-## [Is the Negro Family a Unique Sociological Unit?](articles/unique.html)
-### E. Franklin Frazier
-[![](Images/Alston_Restaurant_Scene.png)](articles/unique.html "Inspired by Charles Alston's 'Restaurant Scene")
-*Opportunity*, 1927.
-::: 
-
-
-# Demography
-
-::: article
-## [Enumeration Errors in Negro Population](articles/enumeration.html)
-### Kelly Miller
-[![](Images/census.png)](articles/enumeration.html)
-*The Scientific Monthly*, 1922.
-:::
-
-# Education
-::: article
-## [Schools and the Vocational Life of Negroes](articles/schools.html)
-### Elise Johnson McDougald
-[![](Images/numbers.png)](articles/schools.html "Inspired by Jacob Lawrence's 'Great Numbers'")
+[![](Images/dancers.png)](articles/public_opinion "Charles Alston, *Dancers*, 1949") 
 *Opportunity*, 1923.
 :::
 
 ::: article
-## [The Etiquette of Race Relations](articles/etiquette.html)
-### Bertram W. Doyle
-[![](Images/freelon_summer_morning-min.png)](articles/etiquette.html "Inspired by 'Summer Morning, Gloucester' by Allan Randall Freelon")
-*The Journal of Negro Education*, 1936.
+## [Taking Stock of the Race Problem](articles/stock)
+### Monroe N. Work
+[![](Images/flight-into-egypt.png)](articles/stock "Henry Ossawa Tanner, *Flight Into Egypt*, 1922") 
+*Opportunity*, 1923.
 :::
 
-
-# Religion
+::: article
+## [Review of <em>The&nbsp;Negro&nbsp;in&nbsp;Chicago,</em>](articles/negro_in_chicago)
+### Kelly Miller
+[![](Images/the-wanderer.png)](articles/negro_in_chicago "Norman Lewis, *The Wanderer*, 1933") 
+*American Journal of Sociology*, 1924.
+:::
 
 ::: article
-## &nbsp;<br>[Let Us Prey!](articles/prey.html)
-### Ira De A. Reid
-[![](Images/church.png)](articles/prey.html "Inspired by Jacob Lawrence's 'There are many churches'")
+## [Economic Foundations of American Race Division](articles/foundations)
+### Abram L. Harris
+[![](Images/the-judgement-day.png)](articles/foundations "Aaron Douglas, *The Judgement Day*, 1939") 
+*Social Forces*, 1927.
+:::
+
+::: article
+## [The Pathology of Race Prejudice](articles/pathology)
+### E. Franklin Frazier
+[![](Images/mob-victim-meditation.png)](articles/pathology "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
+*The Forum*, 1927.
+:::
+# Great Migration and Urban Sociology
+
+::: article
+## [Social Bonds in the "Black&nbsp;Belt" of Chicago](articles/social_bonds)
+### Fannie Barrier Williams
+[![](Images/looking-upward.png)](articles/social_bonds "James Lesesne Wells, *Looking Upward*, 1928") 
+*Charities*, 1905.
+:::
+
+::: article
+## [Negroes Move North: Departure from the South](articles/north_i)
+### George Edmund Haynes
+[![](Images/going-to-church.png)](articles/north_i "William H. Johnson, *Going to Church*, 1941") 
+*The Survey*, 1918.
+:::
+
+::: article
+## [How Much is the Migration a Flight from Persecution?](articles/flight)
+### Charles S. Johnson
+[![](Images/barry-place.png)](articles/flight "James Lesesne Wells, *Barry Place*, 1932") 
+*Opportunity*, 1923.
+:::
+
+::: article
+## [The New Frontage of American Life](articles/frontage)
+### Charles S. Johnson
+[![](Images/black-belt.png)](articles/frontage "Archibald Motley, *Black Belt*, 1934") 
+*The New Negro An Interpretation*, 1925.
+:::
+
+::: article
+## [Durham: Capital of the Black Middle Class](articles/durham)
+### E. Franklin Frazier
+[![](Images/harlem-street.png)](articles/durham "William H. Johnson, *Harlem Street*, 1941") 
+*The New Negro An Interpretation*, 1925.
+:::
+
+::: article
+## [Negro Migration in New York State](articles/migration)
+### Eugene Kinckle Jones
+[![](Images/the-migration-of-the-negro-panel-1.png)](articles/migration "Jacob Lawrence, *The Migration of the Negro Panel 1*, 1941") 
 *Opportunity*, 1926.
 :::
 
-
----
-
-<!--
 ::: article
-## [A Program for a Sociological Society](articles/program.html)
-### W.E.B. Du Bois
-Address given at the First Sociological Club, ca. 1897.
-:::
--->
-
-<!--* "[The African Roots of War.](articles/african_roots_of_war.html)" <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.-->
-
-<!-- 
-::: article
-## [The Negro Mind Reaches Out](articles/reaches.html)
-### W.E.B. Du Bois<br>
-[![](Images/reaches.png)](articles/reaches.html)
-<em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 385--414.
+## [&nbsp;<br>Where Is the Negro’s Heaven?](articles/heaven)
+### Kelly Miller
+[![](Images/church-on-lennox-avenue.png)](articles/heaven "William H. Johnson, *Church on Lennox Avenue*, 1940") 
+*Opportunity*, 1926.
 :::
 
 ::: article
-## [Chicago and It's Eight Reasons](articles/chicago.html)
-### Walter White
-[![](Images/crowd_1.png)](articles/chicago.html)
-<em>The Crisis,</em> 1919.
+## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent)
+### Ira De A. Reid
+[![](Images/blues.png)](articles/rent "Archibald Motley, *Blues*, 1929") 
+*Ebony and Topaz: A Collectanea*, 1927.
 :::
 
--->
+::: article
+## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem)
+### Ira De A. Reid
+[![](Images/domino-players.png)](articles/mirrors_of_harlem "Horace Pippin, *Domino Players*, 1943") 
+*Social Forces*, 1927.
+:::
+# Labor
 
+::: article
+## [The Negro in Times of Industrial Unrest](articles/unrest)
+### Richard R. Wright, Jr.
+[![](Images/factory.png)](articles/unrest "Allan Randall Freelon, *Factory*, N.D.") 
+*Charities*, 1905.
+:::
+
+::: article
+## [White and Black World in American Labor and Politics](articles/american_labor)
+### Abram L. Harris
+[![](Images/builders.png)](articles/american_labor "James Lesesne Wells, *Builders*, 1929") 
+*Social Forces*, 1925.
+:::
+
+::: article
+## [Negro Labor's Quarrel with White Workingmen](articles/quarrel)
+### Abram L. Harris
+[![](Images/the-negro-worker.png)](articles/quarrel "James Lesesne Wells, *The Negro Worker*, 1938") 
+*Current History*, 1926.
+:::
+
+::: article
+## [&nbsp;<br>Lily-White Labor](articles/lilywhite)
+### Ira De A. Reid
+[![](Images/building-more-stately-mansions.png)](articles/lilywhite "Aaron Douglas, *Building more Stately Mansions*, 1944") 
+*Opportunity*, 1930.
+:::
+
+::: article
+## [Conflict of Caste and Class in an American Industry](articles/caste_and_class)
+### Charles S. Johnson
+[![](Images/garmin.png)](articles/caste_and_class "Augusta Savage, *Garmin*, 1929") 
+*American Journal of Sociology*, 1936.
+:::
+
+::: article
+## [Social Organization of the Negro&nbsp;Community and the Union Movement](articles/social_organization)
+### Horace R. Cayton and George S. Mitchell
+[![](Images/a-step-in-the-right-direction.png)](articles/social_organization "Charles Alston, *A Step in the Right Direction*, 1943") 
+*Black Workers and the New Unions*, 1939.
+:::
+# Women and Work
+
+::: article
+## [Two Million Negro Women at Work](articles/two_million)
+### Elizabeth Ross Haynes
+[![](Images/jennie.png)](articles/two_million "Lois Mailou Jones, *Jennie*, 1943") 
+*The Southern Workman*, 1922.
+:::
+
+::: article
+## [Negro Women in Our Economic&nbsp;Life](articles/negro_women)
+### Sadie T.M. Alexander
+[![](Images/sharecropper.png)](articles/negro_women "Elizabeth Catlett, *Sharecropper*, 1952") 
+*Opportunity*, 1930.
+:::
+# Social Movements
+
+::: article
+## [&nbsp;<br>After Garvey---What?](articles/after_garvey)
+### Charles S. Johnson
+[![](Images/meeting-place.png)](articles/after_garvey "Norman Lewis, *Meeting Place*, 1941") 
+*Opportunity*, 1923.
+:::
+
+::: article
+## [The Negro Problem as Viewed by Negro Leaders](articles/problem)
+### Abram L. Harris
+[![](Images/tabu.png)](articles/problem "Walter Sanford, *Tabu*, 1951") 
+*Current History*, 1923.
+:::
+
+::: article
+## [&nbsp;<br>The Garvey Movement](articles/garvey)
+### E. Franklin Frazier
+[![](Images/negro-in-african-setting.png)](articles/garvey "Aaron Douglas, *Negro in African Setting*, 1934") 
+*Opportunity*, 1926.
+:::
+
+::: article
+## [Tactics and Programs of Minority Groups](articles/critical_analysis)
+### Ralph J. Bunche
+[![](Images/pool-parlor.png)](articles/critical_analysis "Jacob Lawrence, *Pool Parlor*, 1942") 
+*Journal of Negro Education*, 1935.
+:::
+# Crime
+
+::: article
+## [Crime Among the Negroes of Chicago: A Social Study](articles/chicago_crime)
+### Monroe N. Work
+[![](Images/untitled.png)](articles/chicago_crime "Norman Lewis, *Untitled*, 1943") 
+*American Journal of Sociology*, 1900.
+:::
+# Education
+
+::: article
+## [The Etiquette of Race Relations](articles/etiquette)
+### Bertram W. Doyle
+[![](Images/cocktails.png)](articles/etiquette "Archibald Motley, *Cocktails*, 1926") 
+*The Journal of Negro Education*, 1936.
+:::
+
+::: article
+## [Schools and the Vocational Life of Negroes](articles/schools)
+### Elise Johnson McDougald
+[![](Images/the-photographer.png)](articles/schools "Jacob Lawrence, *The Photographer*, 1942") 
+*Opportunity*, 1923.
+:::
+# Family
+
+::: article
+## [Three Scourges of the Negro Family](articles/scourges)
+### E. Franklin Frazier
+[![](Images/sorrow.png)](articles/scourges "Meta Vaux Warrick Fuller, *Sorrow*, 1934") 
+*Opportunity*, 1926.
+:::
+
+::: article
+## [Is the Negro Family a Unique Sociological Unit?](articles/unique)
+### E. Franklin Frazier
+[![](Images/harriet-tubman-series.png)](articles/unique "Jacob Lawrence, *Harriet Tubman Series*, 1940") 
+*Opportunity*, 1927.
+:::
+# Demography
+
+::: article
+## [Enumeration Errors in Negro Population](articles/enumeration)
+### Kelly Miller
+[![](Images/new-york-cityscape.png)](articles/enumeration "Charles Alston, *New York Cityscape*, 1948") 
+*The Scientific Monthly*, 1922.
+:::
 
 # Forthcoming
 * Thompson, Anna J. "A Survey of Crime among Negroes in Philadelphia." *Opportunity* Vol 4, July-Sept.
@@ -363,7 +276,6 @@ Address given at the First Sociological Club, ca. 1897.
 * Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
 * Reid, Ira De A. "Negro Immigration to the United States."  *Social Forces*, Mar., 1938, Vol. 16, No. 3 (Mar., 1938), pp. 411-417
 * Andrews, Norman P. "The Negro in Politics" *The Journal of Negro History* 1920 5:4, 420-436. 
-
 
 ::: center
 About [[Crisis *&* Opportunity]{.smallcaps}](about.html)

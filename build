@@ -48,6 +48,7 @@ pandoc -s -o docs/articles/social_organization.html --template=templates/article
 
 pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css="style.css?id=$v" --metadata title="About"
 pandoc -s   -o docs/index.html --template=templates/html.template markdown/index.md  --css="style.css?id=$v" --metadata title="C&O"
+pandoc -s   -o docs/art.html --template=templates/html.template markdown/art.md  --css="style.css?id=$v" --metadata title="Art"
 
 
 #pandoc -s -o docs/books/shadow.html  markdown/shadow.md  --css="style.css?id=$v"
