@@ -21,6 +21,8 @@ citation_issue: 7
 citation_firstpage: 201
 citation_lastpage: 205
 
+pdf_URL: Johnson_1923_Public_Opinion.pdf
+
 citation: <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
 ---
 

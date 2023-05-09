@@ -21,6 +21,7 @@ citation_volume: 29
 citation_issue: 4
 citation_firstpage: 499
 citation_lastpage: 503
+pdf_URL: Miller_1924_Negro_in_Chicago.pdf
 
 ---
 

@@ -66,7 +66,7 @@ other parasitic and semi-parasitic classes that go to make up a modern
 community. With the rise of a middle-class, the race was able to support
 a professional and leisure class; previously the educated Negro was an
 idler and a parasite. The isolation of the race forced Negroes to depend
-upon their own educated men and so made a place for such men.^[1. Edward Byron Reuter, *The Mulatto in the United, States*, p. 359.]
+upon their own educated men and so made a place for such men.^[Edward Byron Reuter, *The Mulatto in the United, States*, p. 359.]
 
 
 In Chicago, for example, there had always been a few Negro professional
@@ -80,7 +80,7 @@ building would have been here today if it had not been for those Negroes
 who came from the South. In less than thirty-eight years we have
 increased from five to two hundred and fifty doctors. We are living in
 better homes, and have more teachers in the schools; and nearly every
-colored church has benefited.^[2. E. Franklin Frazier, *The Negro Family in Chicago*, pp. 108-9.]
+colored church has benefited.^[E. Franklin Frazier, *The Negro Family in Chicago*, pp. 108-9.]
 
 
 Thus the wave of plantation Negro migrants to the cities definitely
@@ -143,7 +143,7 @@ distinction among the race by fostering, and catering to, the Negro's
 morbid interest in and superstitious fear of death and love of vulgar
 funeral display. But whether they guide and help the black man or fatten
 on his gullibility, they are in every respect the prominent men of the
-race and the leaders in the race's social affairs.^[4. Reuter, *op. cit*., p. 361.]
+race and the leaders in the race's social affairs.^[Reuter, *op. cit*., p. 361.]
 
 These persons, who, before they were able to occupy this position "on
 top of the Negro community," were restless and arrogantly resentful
@@ -336,7 +336,7 @@ many "educated" Negroes holding positions of trust and leadership in
 their respective communities. Their reactions to the labor drive
 [381]{.pagenum}seemed to range from sheer ignorance of the issues involved
 to active co-operation with the efforts of employers to halt the
-workers' bid for power and protection.^[7. *Ibid*.]
+workers' bid for power and protection.^[*Ibid*.]
 
 In the recent organizational drive of the C.I.O., it was found that in
 almost every locality the Negro professional and business groups opposed
@@ -349,16 +349,16 @@ preachers and professional men are against the U.A.W. and openly in
 favor of the Ford Motor Company. Dependent upon the masses for their
 livelihood, they fear that if the Ford Negroes espouse the union cause
 they will ultimately lose their jobs which would be a major disaster for
-Detroit.^[8. September 2, 1937.]
+Detroit.^[September 2, 1937.]
 
 In St. Louis it was reported that only two preachers out of hundreds had
 taken any favorable interest in the unions. "... one reason advanced for
 the indifference or hostility of most of the Negro preachers to
 organized labor is that they are constantly begging small sums from
-various business concerns, and so feel indebted to them."^[9. *Ibid*., September 9, 1937.] In Chester, Pennsylvania, "Rev. Barbour severely scored the 'better' Negroes for
+various business concerns, and so feel indebted to them."^[*Ibid*., September 9, 1937.] In Chester, Pennsylvania, "Rev. Barbour severely scored the 'better' Negroes for
 their reaction-ism and slave psychology. 'They do not lift a finger,' he
 said, 'to protect the masses of their people. They have the utmost
-contempt for the masses.' "^[10. *Ibid*., August 12, 1937.] The situation was no different in
+contempt for the masses.' "^[*Ibid*., August 12, 1937.] The situation was no different in
 Indianapolis, Indiana, "The attitude of the rest of the leading Negroes
 allegedly runs from indifference to hostility."
 
@@ -431,7 +431,7 @@ influence and importance in the colored community.
 Negro social workers were first introduced into the steel industry in
 1918 at the insistence of the Pittsburgh Urban League. At that time,
 eighteen Negro welfare workers were placed in the eleven plants which
-hired the majority of the Negro laborers in the industry.^[12. Spero and Harris, *The Black Worker*, p. 258.] The
+hired the majority of the Negro laborers in the industry.^[Spero and Harris, *The Black Worker*, p. 258.] The
 appointment of a Negro to such a position gave him an estimable status
 in his community. The fact that he was received in the front office, had
 a desk in the employment superintendent's department, and talked
@@ -469,7 +469,7 @@ they are off duty.
 off duty, through the welfare worker. By this means we are able to catch
 up the loafer, thus ridding the community of undesirables. ... Through
 our welfare worker, we were able to trace out disorderly houses and
-close them up promptly.^[15. *Ibid*.]
+close them up promptly.^[*Ibid*.]
 
 Such pronouncements indicate the extent to which the Negro community is
 under the control and constant surveillance of the steel companies.
@@ -695,7 +695,7 @@ found that this church had lost a donation of \$2,500 from the Steel
 Corporation for allowing me to speak. They had tried to block my speech
 to these colored workers in Pittsburgh. Whenever it's a question of a
 donation to a poor, struggling church like that, we know what usually
-happens."^[16. *The Negro in Chicago*, p. 427.]
+happens."^[*The Negro in Chicago*, p. 427.]
 
 A preacher in Gary analyzed in realistic terms the relationship existing
 between many Negro churches and the United States Steel Corporation.
@@ -793,7 +793,7 @@ Y.M.C.A.'s, glee clubs, and athletic clubs are encouraged and
 supported by employers as a substitute for a form of organization which
 they cannot control. The subsidizing of social movements and churches is
 regarded as one of the means employed by large employers to insure this
-reserve of strike breakers.^[18. *The Negro in Chicago*, p. 427.]
+reserve of strike breakers.^[*The Negro in Chicago*, p. 427.]
 
 The Wabash Avenue \[Negro\] branch of the Y.M.C.A. in Chicago
 coöperated with a number of industrial firms in developing the so-called
@@ -841,7 +841,7 @@ discharged, especially Negroes, or they would refuse to return to their
 jobs. \[Interview (Chicago, Ill.) August 7, 1934.\]
 
 Another caption, in a Norfolk paper ran "New York Saleslady Made Victim
-of Racial Prejudice by Labor Union."^[20. *Journal and Guide*, June 23, 1935.] Any discriminatory act on the
+of Racial Prejudice by Labor Union."^[*Journal and Guide*, June 23, 1935.] Any discriminatory act on the
 part of the American Federation of Labor is considered to have great
 news value. Under the caption, "Urban League Condemns Jim Crow in Labor
 Ranks," the [394]{.pagenum}*Journal and Guide* reported the entire
@@ -871,7 +871,7 @@ thinking that this is the way to employment.
 If Detroit had been a union city, there would not be 4,600 Negroes
 employed at the Ford Motor Company, Mr. Marshall stated. The unions
 would control the shops, and he would not have been in a position to
-have hired the Negro laborer.^[21. January 13, 1934.]
+have hired the Negro laborer.^[January 13, 1934.]
 
 These articles present but one side of the union question to the Negro
 community. Many of the papers, like the reform organizations, are
@@ -895,14 +895,14 @@ will strike as readily, stay out as long and picket as regularly as
 anybody else, but all of the time he will want to know that he is not
 being made the "goat" to be cast aside; discriminated against by the
 white union when the battle is won. White labor has been in the habit of
-doing that.^[22. June 9, 1934.]
+doing that.^[June 9, 1934.]
 
 The *Afro-American* of Baltimore, Maryland, noted:
 
 > Unless the A.F. of L. is able to make its locals throughout the country
 open their doors to colored members in all crafts, it may be necessary
 for colored labor to organize and join in a country-wide fight on the
-unions.^[23. April 19, 1934.]
+unions.^[April 19, 1934.]
 
 What would seem to be a more progressive attitude appears in an
 editorial in another leading Negro newspaper:
@@ -914,7 +914,7 @@ proletarians, which is far more important. That some unions practice
 segregation and discrimination is no more reason for completely washing
 our hands of them than it is for not dealing with the Y.M.C.A., the
 Y.W.C.A., the Catholic and Protestant churches, bankers,
-industrialists and merchants.^[24. *Pittsburgh Courier*, April 14, 1934.]
+industrialists and merchants.^[*Pittsburgh Courier*, April 14, 1934.]
 
 Although most of the lack of attention paid to labor and the bias
 against labor organizations arises honestly as a reaction of an
@@ -934,7 +934,7 @@ paradoxically plutocratic and communistic principles of the American
 Federation of Labor with which the Pullman Porters were affiliated. In
 fact, the argument ran, most labor unions were not free of "Kleagles and
 Goblins of the Ku Klux Klan" and furthermore the Pullman Porters'
-organization did not believe in God.^[25. October 15, 1925.] These arguments were answered
+organization did not believe in God.^[October 15, 1925.] These arguments were answered
 by A. Philip Randolph in the *Messenger*.
 
 > You know and everybody else knows ... that you are not opposing the
@@ -1041,7 +1041,7 @@ Conditions among Negroes in the City of New York." In the interests of
 economy, these groups were merged in 1911 to form the "National Urban
 League." All of these organizations had arisen as attempts to
 [399]{.pagenum}deal with the acute problems affecting the Negro population
-in New York.^[29. Paul E. Baker, *Negro-White Adjustment*, p. 21.] These problems were largely a function of the migration
+in New York.^[Paul E. Baker, *Negro-White Adjustment*, p. 21.] These problems were largely a function of the migration
 of large numbers of Negroes from the rural South to a metropolis (and
 the adjustments which this change involved) and the segregation of
 Negroes in New York into crowded, unhealthy residence districts in the
@@ -1074,7 +1074,7 @@ as follows:
 to better conditions among the Negroes of Harlem, or San Juan Hill, or
 Brooklyn, we seek also to make a better New York City for everybody to
 live in and to help in some measure towards a truer realization of the
-ideals of sound community living in our great republic.^[31. Baker, *op. cit*., p. 22.]
+ideals of sound community living in our great republic.^[Baker, *op. cit*., p. 22.]
 
 The aspirations of the League were set forth more explicitly perhaps by
 the national officers two decades ago.
@@ -1087,7 +1087,7 @@ and train Negro social workers; to make studies of the industrial,
 economic, social and spiritual conditions among Negroes, and in general
 to promote, encourage, assist and engage in any and all kinds of work
 for improving the industrial, economic, social and spiritual conditions
-among Negroes.^[32. "A Regional Conference Memorandum for Local Secretaries," p. I.]
+among Negroes.^["A Regional Conference Memorandum for Local Secretaries," p. I.]
 
 The original purpose of the League, then, was primarily to engage in
 social work. Its early activities were more or less confined to that
@@ -1223,7 +1223,7 @@ secretaries often saw no reason to sacrifice their program and the
 financial support of their branch to the idealistic principles of trade
 unionism. "The character of the League differed from city to city, but
 everywhere the outstanding characteristic of its policy was
-opportunism."^[39. Spero and Harris, *The Black Worker*, p. 140.] The League, existing largely by virtue of the
+opportunism."^[Spero and Harris, *The Black Worker*, p. 140.] The League, existing largely by virtue of the
 financial support of the employing class and at the same time trying to
 maintain [404]{.pagenum}its face with labor organizations, has on several
 occasions made verbal statements in support of trade unions and then
@@ -1240,7 +1240,7 @@ speaking for the whole Urban League or merely expressing his personal
 viewpoint." The Chicago officers explained that the National League had
 no control over the various branches nor did it attempt to dictate their
 policy. After this clarifying statement "the Pullman Company made its
-contribution."^[40. *Ibid*., pp. 141-42.]
+contribution."^[*Ibid*., pp. 141-42.]
 
 The branches of the League have often justified injudicious interference
 in strikes on the grounds that they could not in any event have
@@ -1259,7 +1259,7 @@ that no force, social or otherwise, could have saved the situation to
 the union. If the statements of the stock yards officials may be
 accepted, the strikebreakers were about equally divided between white
 and colored men who preferred the danger of a strikebreakers' position
-to the suffering incident to unemployment.^[ William L. Evans, "The Negro in Chicago Industries," *Opportunity*,
+to the suffering incident to unemployment.^[William L. Evans, "The Negro in Chicago Industries," *Opportunity*,
 I (February, 1923), 15-16.]
 
 [405]{.pagenum}The important aspect of this case is that Negroes were members of the
@@ -1377,7 +1377,7 @@ group and plays the management against the remaining workers, he will
 get more thereby.
 
 > I would go further and even suggest Negroes go in as strikebreakers,
-provided they were retained when the strike was over.^[45. *Ibid*.]
+provided they were retained when the strike was over.^[*Ibid*.]
 
 [408]{.pagenum}
 The secretary outlined the program of the League, which doubtless meant
@@ -1387,7 +1387,7 @@ the Negro Workers' Councils of the National Urban League, as follows:
 feel that the Negro should go along with the company this time.
 
 > I am organizing Councils of Steel Workers in order to advise and help
-them advance as much as possible in the industry.^[ *Ibid*, The Workers' Councils of the Urban League are referred to in [Chapter XX].]
+them advance as much as possible in the industry.^[*Ibid*, The Workers' Councils of the Urban League are referred to in [Chapter XX].]
 
 The industrial secretary of the branch wrote to the Secretary of Labor
 as follows:
@@ -1472,11 +1472,11 @@ stated:
 
 > I can assure you ... wholehearted support of our national organization
 \[the Urban League\], and that we are with you 100 per cent in this
-drive to get Negroes into the Steel Workers' Union.^[49. *Steel Labor*, II (February 20, 1937), 5.]
+drive to get Negroes into the Steel Workers' Union.^[*Steel Labor*, II (February 20, 1937), 5.]
 
 On the important question of racial discrimination, a national officer
 of the League stated: "We have not been able to observe instances of
-discrimination against Negro membership in the C.I.O."^[50. Letter to the author, December 29, 1937 (from Reginald A. Johnson).] However, Hill
+discrimination against Negro membership in the C.I.O."^[Letter to the author, December 29, 1937 (from Reginald A. Johnson).] However, Hill
 stated that he thought that the C.I.O. might "go in a little deeper for
 Negro members than it has."
 
@@ -1487,7 +1487,7 @@ means of getting more Negro members.
 
 > So far as the National Urban League is concerned, we are wholeheartedly
 in favor of Negro organization and are in many directions working to
-bring this about.^[51. *Pittsburgh Courier*, August 19, 1937.]
+bring this about.^[*Pittsburgh Courier*, August 19, 1937.]
 
 Also there has been a decidedly more coöperative attitude demonstrated
 toward the C.I.O. and its attempt to organize the steel workers by the
@@ -1502,7 +1502,7 @@ inform and guide the bewildered Negro [411]{.pagenum}workers in the field
 of union organization. As one observer stated: "The Negro educated
 class, as a whole, is lying low, indifferent or out-spokenly anti-union.
 By comparison, the Urban League of this city is radical in its labor
-interests and activities."^[52. *Ibid*.]
+interests and activities."^[*Ibid*.]
 
 Branches of the League in other cities have shown a varying amount of
 interest and activity in the problem of organizing Negro workers under
@@ -1559,7 +1559,7 @@ organization. It is unlikely that the Association could function in the
 labor movement in any way other than to influence public opinion in both
 Negro and white communities. Its administrative equipment is inadequate;
 the paid staff consists of only twenty-six workers. All other officers
-in the 325 branches are volunteers.^[54. Baker, *op. cit*., p. 44.] None of these people have been
+in the 325 branches are volunteers.^[Baker, *op. cit*., p. 44.] None of these people have been
 trained in labor work and are for the most part upper class Negro
 citizens who are not directly interested in organizing Negro laborers.
 
@@ -1629,7 +1629,7 @@ deals that have been given Negro labor by the A. F. of L. to get out and
 shout from the housetops to Negro workers urging them to affiliate. At
 the same time we realize that affiliation would be best for all
 concerned provided one did not have just as great a battle after getting
-in the union as one had on the outside.^[56. Correspondence with the author, October 30, 1934.]
+in the union as one had on the outside.^[Correspondence with the author, October 30, 1934.]
 
 The growth of the C.I.O. resulted in the development of two rather
 opposed points of view within the Association. As the C.I.O. did not
@@ -1687,7 +1687,7 @@ leaders to the cause of the Congress. The participation of church,
 civic, political, and labor groups was solicited.
 
 [416]{.pagenum}The objectives of the proposed Congress were outlined in a pamphlet by
-Davis, entitled "Let Us Build A National Negro Congress."^[58. Washington, D. C, 1935.] Attention
+Davis, entitled "Let Us Build A National Negro Congress."^[Washington, D. C, 1935.] Attention
 was called in this publication to the problems confronting Negro
 domestics, farmers, and laborers. Injustices under the N.R.A. were
 described and the invasion of Ethiopia was cited as "another problem of
@@ -1708,7 +1708,7 @@ justice for the Negro."
 action and the tremendous value of working together, as they come
 through such united action to a clearer and more friendly understanding
 of each other, we may expect to see the National Negro Congress become
-increasingly useful in the struggles of the Negro people in America.^[59. *Ibid*.]
+increasingly useful in the struggles of the Negro people in America.^[*Ibid*.]
 
 As Randolph stated, the movement was really a "united front against
 Fascism and repression of the rights of Negroes."
@@ -1861,7 +1861,7 @@ former professor at Howard University, stated:
 
 > The Conference must steer clear of Communism or of any brand of
 radicalism out of harmony with the spirit and genius of American
-institutions.^[61. *Chicago Bee*, February 13, 1936.]
+institutions.^[*Chicago Bee*, February 13, 1936.]
 
 In the issue following the meeting of the Congress, Miller stated:
 
