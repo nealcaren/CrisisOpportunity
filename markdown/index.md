@@ -10,17 +10,17 @@
 :::
 
 ::: article
-## [&nbsp;<br>Racial Self-Expression](articles/selfexpression.html)
-### E. Franklin Frazier
-[![](Images/ascent-of-ethiopia.png)](articles/selfexpression "Lois Mailou Jones, *Ascent of Ethiopia*, 1932") 
-*Ebony and Topaz: A Collectanea*, 1927.
-:::
-
-::: article
 ## [Is the American Negro to Remain Black?](articles/bleached.html)
 ### Kelly Miller
 [![](Images/the-new-negro.png)](articles/bleached "Allan Randall Freelon, *The New Negro*, 1949") 
 *South Atlantic Quarterly*, 1926.
+:::
+
+::: article
+## [&nbsp;<br>Racial Self-Expression](articles/selfexpression.html)
+### E. Franklin Frazier
+[![](Images/ascent-of-ethiopia.png)](articles/selfexpression "Lois Mailou Jones, *Ascent of Ethiopia*, 1932") 
+*Ebony and Topaz: A Collectanea*, 1927.
 :::
 
 ::: article
@@ -136,13 +136,20 @@
 [![](Images/domino-players.png)](articles/mirrors_of_harlem "Horace Pippin, *Domino Players*, 1943") 
 *Social Forces*, 1927.
 :::
-# Labor
+# Labor and Economics
 
 ::: article
 ## [The Negro in Times of Industrial Unrest](articles/unrest.html)
 ### Richard R. Wright, Jr.
 [![](Images/factory.png)](articles/unrest "Allan Randall Freelon, *Factory*, N.D.") 
 *Charities*, 1905.
+:::
+
+::: article
+## [Economic Future of the Negro American](articles/economic.html)
+### W.E.B. Du Bois and Augustus Granville Dill
+[![](Images/gloucester-harbor.png)](articles/economic "Allan Randall Freelon, *Gloucester Harbor*, 1929") 
+*The Negro American Artisan*, 1912.
 :::
 
 ::: article
@@ -241,17 +248,17 @@
 # Education
 
 ::: article
-## [The Etiquette of Race Relations](articles/etiquette.html)
-### Bertram W. Doyle
-[![](Images/cocktails.png)](articles/etiquette "Archibald Motley, *Cocktails*, 1926") 
-*The Journal of Negro Education*, 1936.
-:::
-
-::: article
 ## [Schools and the Vocational Life of Negroes](articles/schools.html)
 ### Elise Johnson McDougald
 [![](Images/the-photographer.png)](articles/schools "Jacob Lawrence, *The Photographer*, 1942") 
 *Opportunity*, 1923.
+:::
+
+::: article
+## [The Etiquette of Race Relations](articles/etiquette.html)
+### Bertram W. Doyle
+[![](Images/cocktails.png)](articles/etiquette "Archibald Motley, *Cocktails*, 1926") 
+*The Journal of Negro Education*, 1936.
 :::
 # Family
 
