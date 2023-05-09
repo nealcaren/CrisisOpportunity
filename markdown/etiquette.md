@@ -3,7 +3,7 @@ charset: 'UTF-8'
 lang:    'en'
 
 title: The Etiquette of Race Relations — Past, Present, and Future
-short_title: Etiquette
+short_title: Doyle
 author:
 - name: Bertram W. Doyle
 - affiliation: ""
