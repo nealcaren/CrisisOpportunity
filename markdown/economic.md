@@ -39,11 +39,11 @@ A fact of great importance in regard to the economic conditions of the Negro Ame
 1.	The divorce of the Negro from the soil.
 2.	The trend of the Negro to industrial and commercial centers.
 3.	Secondary or individual causes:
-  a. 	Attractiveness of urban centers.
-  b.	Labor legislation.
-  c.	Desire for economic improvement.
-  d. 	Family relationships.
-  e.	Desire to escape from restrictive and oppressive legislation and social customs.
+    a. 	Attractiveness of urban centers.
+    b.	Labor legislation.
+    c.	Desire for economic improvement.
+    d. 	Family relationships.
+    e.	Desire to escape from restrictive and oppressive legislation and social customs.
 
 This means an intensifying of the urban economic problem. This group of 2,689,229 town Negroes presents preeminently all of the economic problems outside of those connected with land holding and agriculture.
 

@@ -376,10 +376,11 @@ nav {
   position: sticky;
   top: 0;
   z-index: 10;
-  background-color: #ffffff;
+  background-color:#fefefe;
   padding-left: 0rem;
   padding-right: .5rem;
-  padding-bottom: .75rem;
+  padding-bottom: .25rem;
+  border-bottom: thin solid #e2e2e2;
 }
 .sticky-content-title {
   margin: 0;
