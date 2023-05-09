@@ -43,6 +43,7 @@ pandoc -s -o docs/articles/migration.html --template=templates/article_html.temp
 pandoc -s -o docs/articles/unique.html --template=templates/article_html.template markdown/unique.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/etiquette.html --template=templates/article_html.template markdown/etiquette.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/social_organization.html --template=templates/article_html.template markdown/social_organization.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/incidence.html --template=templates/article_html.template markdown/incidence.md  --css="article_style.css?id=$v"
 
 
 

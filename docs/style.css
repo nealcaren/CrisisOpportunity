@@ -260,9 +260,9 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
   margin-top: 1em;
   margin-bottom: 0;
   padding-bottom:0;
-  padding-top:0.5em;
+  padding-top:0.25em;
   line-height: 0;
-  font-size:1.4em;
+  font-size:1.3em;
 }
 
 .date {
@@ -384,7 +384,7 @@ img.logol {
     text-align: center;
 }
 body, textarea {
-    line-height: 1.4;
+    line-height: 1.25;
 }
 
 

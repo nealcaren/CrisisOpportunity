@@ -11,7 +11,7 @@ The name [Crisis *&* Opportunity]{.smallcaps} is inspired by two prominent perio
 
 Given the prominence of W.E. B. Du Bois today, this compilation prioritizes republishing works by other Black scholars.
 
-Credits for each art work on the front page are visible if you hover over the image. Each was created by an African American artist during the first half of the twentieth century. 
+Images on the front page are cropped versions of work created by African American artist during the first half of the twentieth century. Credits for each are visible if you hover over the image. 
 
 Each article on this site is believed to be in the public domain. Feel free to copy, share, repurpose, and remix. All works published more than 95 years ago are now in the public domain, and many academic articles from the 1930s and 1940s did not have their copyright renewed. If you think we've made a mistake, let [me](mailto:neal.caren@unc.edu) know.
 
