@@ -260,6 +260,13 @@
 [![](Images/cocktails.png)](articles/etiquette "Archibald Motley, *Cocktails*, 1926") 
 *The Journal of Negro Education*, 1936.
 :::
+
+::: article
+## [Negro Elementary School and the Cultural Pattern](articles/pattern.html)
+### Horace Mann Bond
+[![](Images/congolaise.png)](articles/pattern "Nancy Elizabeth Prophet, *Congolaise*, 1931") 
+*Journal of Educational Sociology*, 1940.
+:::
 # Family
 
 ::: article
