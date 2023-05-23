@@ -901,45 +901,31 @@ One unmarried mother of thirty-three years of age had 6 chil[69]{.pagenum}dren o
 
 #### How the Children Come
 
-I got so many chillun I don't know where they all is. I got four living
-
-and one dead that Mr.---------is the father of. I been married once, but
-
-me and him separated. They tell me he lives some place there near Tus-kegee. I ain’t get no divorce. Don’t know whether he left me or no;
-
-we jest ’cided to depart, and it’s been a good while ago. C------ B-----
-
+> I got so many chillun I don't know where they all is. I got four living
+and one dead that Mr. ------ is the father of. I been married once, but
+me and him separated. They tell me he lives some place there near Tuskegee. I ain’t get no divorce. Don’t know whether he left me or no;
+we jest ’cided to depart, and it’s been a good while ago. C------ B------
 was the father of two of my children. I ain’t know nothing else ’bout the father of any of the rest of them, aside from them that he [pointing to
-
-Mr.--------] been the father of. I can’t 'member nothing ’bout them. I
-
+Mr. ------] been the father of. I can’t 'member nothing ’bout them. I
 got frost-bitten one time and I can’t 'member so well.
 
-69
-
-[]{.pagenum}
+[69]{.pagenum}
 
 The daughter emulated the mother. When asked about her daughter's child, she said:
 
-How can I know who is the father of Corinne’s baby? We done had her over there in school, and she come back and brought the baby. Whoever he is, he don’t do nothing for the baby.
+> How can I know who is the father of Corinne’s baby? We done had her over there in school, and she come back and brought the baby. Whoever he is, he don’t do nothing for the baby.
 
-These is Carrie’s chillun. She ain’t married. She was jest sixteen when the oldest child was born. Jimmie Hall is Leonard’s daddy, and Ernest Watts is Leroy’s.
+> These is Carrie’s chillun. She ain’t married. She was jest sixteen when the oldest child was born. Jimmie Hall is Leonard’s daddy, and Ernest Watts is Leroy’s.
 
-No, sir, they ain’t all got the same father! Them three is, but these two darkest ones ain’t. I ain’t seen the daddy of the first ones since year ’fore last. He married and don’t give no help. I love him but I don’t want to marry him. We started going together when I was a girl and jest kept it up. I ain’t seen these others’ daddy since before this last one was born. They tell me he over the creek, but I don’t know and I ain’t worrying myself none about him. He ain’t like Hall. I like Hall and we jest kept on going together till bad luck happened. If my mind keep on like it is, I’m going to marry a man and trust him to take care of the children.
+> No, sir, they ain’t all got the same father! Them three is, but these two darkest ones ain’t. I ain’t seen the daddy of the first ones since year ’fore last. He married and don’t give no help. I love him but I don’t want to marry him. We started going together when I was a girl and jest kept it up. I ain’t seen these others’ daddy since before this last one was born. They tell me he over the creek, but I don’t know and I ain’t worrying myself none about him. He ain’t like Hall. I like Hall and we jest kept on going together till bad luck happened. If my mind keep on like it is, I’m going to marry a man and trust him to take care of the children.
 
-I wasn’t married to the boy’s father. We was engaged to marry but he done some shooting and had to leave and he never did come back till my boy was a big boy, so I jest didn’t care ’bout marrying him then. I been married to somebody else now ’bout twelve years.
+> I wasn’t married to the boy’s father. We was engaged to marry but he done some shooting and had to leave and he never did come back till my boy was a big boy, so I jest didn’t care ’bout marrying him then. I been married to somebody else now ’bout twelve years.
 
 On one plantation a group of Negro women were living openly with white men. Their children were mulattoes. One of the women interviewed stated that the white man for whom she had been housekeeper recently died and just left her with the house. Her job had been ringing the bell for the other Negroes to go to work, and she had been greatly disliked by the other Negro women on the plantation. In still another situation the woman and a mulatto daughter cooked for a group of white men. Said she: “They come here three times a day to eat. They provide my clothing, food, and this house." Neighbors said they were the men’s “women."
 
 Twenty-four couples among the 612 families were living together without legal sanction, in a first association. The time which these couples had been together varied from one to more than thirty years.
 
-70
-
-
-
-[]{.pagenum}
-
-The frequency of children bom out of wedlock and the fact that no actual disgrace attaches to irregular birth occasionally work out to the advantage of the child. Adoption has been given increased importance. There is a demand for children to adopt, and an increased social status for families which adopt children.
+[70]{.pagenum}The frequency of children bo out of wedlock and the fact that no actual disgrace attaches to irregular birth occasionally work out to the advantage of the child. Adoption has been given increased importance. There is a demand for children to adopt, and an increased social status for families which adopt children.
 
 Adoption in turn is commonly a convenience for children without the protection of a family organization of their own. A motherly old woman said: “These chillun here, they mother in Plaza. They father somewhere ’bout near here. They all got the same mother but different fathers. The two oldest ones was born Tore they mother married. I tuk them all soon atta they was born.”
 

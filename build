@@ -47,6 +47,7 @@ pandoc -s -o docs/articles/incidence.html --template=templates/article_html.temp
 pandoc -s -o docs/articles/economic.html --template=templates/article_html.template markdown/economic.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/pattern.html --template=templates/article_html.template markdown/pattern.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/community.html --template=templates/article_html.template markdown/community.md  --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/health.html --template=templates/article_html.template markdown/health.md  --css="article_style.css?id=$v"
 
 
 pandoc -s   -o docs/about.html --template=templates/html.template markdown/about.md  --css="style.css?id=$v" --metadata title="About"

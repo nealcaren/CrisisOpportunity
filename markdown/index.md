@@ -32,13 +32,6 @@
 # White Racism and Racial Violence
 
 ::: article
-## [A Review of Hoffman's *Race Traits*](articles/race_traits.html)
-### Kelly Miller
-[![](Images/study-in-black-and-white.png)](articles/race_traits.html "Walter Sanford, *Study in Black and White*, 1949") 
-*American Negro Academy*, 1897.
-:::
-
-::: article
 ## [&nbsp;<br>Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
 [![](Images/dancers.png)](articles/public_opinion.html "Charles Alston, *Dancers*, 1949") 
@@ -110,16 +103,16 @@
 :::
 
 ::: article
-## [Negro Migration in New York State](articles/migration.html)
-### Eugene Kinckle Jones
-[![](Images/the-migration-of-the-negro-panel-1.png)](articles/migration.html "Jacob Lawrence, *The Migration of the Negro Panel 1*, 1941") 
+## [&nbsp;<br>Where Is the Negro’s Heaven?](articles/heaven.html)
+### Kelly Miller
+[![](Images/church-on-lennox-avenue.png)](articles/heaven.html "William H. Johnson, *Church on Lennox Avenue*, 1940") 
 *Opportunity*, 1926.
 :::
 
 ::: article
-## [&nbsp;<br>Where Is the Negro’s Heaven?](articles/heaven.html)
-### Kelly Miller
-[![](Images/church-on-lennox-avenue.png)](articles/heaven.html "William H. Johnson, *Church on Lennox Avenue*, 1940") 
+## [Negro Migration in New York State](articles/migration.html)
+### Eugene Kinckle Jones
+[![](Images/the-migration-of-the-negro-panel-1.png)](articles/migration.html "Jacob Lawrence, *The Migration of the Negro Panel 1*, 1941") 
 *Opportunity*, 1926.
 :::
 
@@ -208,6 +201,28 @@
 [![](Images/sharecropper.png)](articles/negro_women.html "Elizabeth Catlett, *Sharecropper*, 1952") 
 *Opportunity*, 1930.
 :::
+# Health and Populations
+
+::: article
+## [A Review of Hoffman's *Race Traits*](articles/race_traits.html)
+### Kelly Miller
+[![](Images/study-in-black-and-white.png)](articles/race_traits.html "Walter Sanford, *Study in Black and White*, 1949") 
+*American Negro Academy*, 1897.
+:::
+
+::: article
+## [The South and the Health of Negroes](articles/health.html)
+### Monroe N. Work
+[![](Images/war-scene.png)](articles/health.html "Henry Ossawa Tanner, *War Scene*, 1914") 
+*Southern Sociological Congress*, 1915.
+:::
+
+::: article
+## [Enumeration Errors in Negro Population](articles/enumeration.html)
+### Kelly Miller
+[![](Images/portrait-of-a-baby.png)](articles/enumeration.html "Augusta Savage, *Portrait of a Baby*, 1942") 
+*The Scientific Monthly*, 1922.
+:::
 # Social Movements
 
 ::: article
@@ -288,14 +303,6 @@
 ### Charles S. Johnson
 [![](Images/hallie-s-red.png)](articles/community.html "William Edouard Scott, *Hallie's Red*, 1920") 
 *Race and Culture Contacts*, 1934.
-:::
-# Demography
-
-::: article
-## [Enumeration Errors in Negro Population](articles/enumeration.html)
-### Kelly Miller
-[![](Images/portrait-of-a-baby.png)](articles/enumeration.html "Augusta Savage, *Portrait of a Baby*, 1942") 
-*The Scientific Monthly*, 1922.
 :::
 
 # Forthcoming
