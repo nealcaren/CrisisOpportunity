@@ -429,7 +429,7 @@ Let me therefore turn to the last point I wish to consider.
 <h2>6th. What this Society might and ought to do.</h2>
 
 The aim of a society of this kind ought to be to furnish accurate
-information to such agencies as are engaged in th* work of social reform,
+information to such agencies as are engaged in the work of social reform,
 to endeavor to increase the cooperation between those agencies, and to seek
 to establish new agencies for reform in neglected and unknown fields of
 effort. Let me take up these 2 things in order:
@@ -462,7 +462,6 @@ land?
 call the "negro problem" certain bits of personal experience,
 joined to some ready and general information and to a good deal of gossip.
 There is not one of us that does not need to study
-
 <span class="correction" title="Transcriber's Note: &quot;thououghly&quot; in original.">thoroughly</span>
 and minutely
 any part of this subject which we propose to work upon. This society

@@ -1,7 +1,7 @@
 v=$RANDOM
 
 pandoc -s -o docs/articles/african_roots_of_war.html --template=templates/article_html.template markdown/african_roots_of_war.md  --css="article_style.css&id=$v"
-pandoc -s -o docs/articles/pathology.html --template=templates/article_html.template markdown/pathology_of_race_prejudice.md --css="article_style.css?id=$v"
+pandoc -s -o docs/articles/pathology.html --template=templates/article_html.template markdown/pathology.md --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/reaches.html --template=templates/article_html.template markdown/reaches.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/womanhood.html --template=templates/article_html.template markdown/womanhood.md  --css="article_style.css?id=$v"
 pandoc -s -o docs/articles/chicago.html --template=templates/article_html.template markdown/chicago.md  --css="article_style.css?id=$v"
