@@ -32,6 +32,13 @@
 # White Racism and Racial Violence
 
 ::: article
+## [Economic Aspects of Race Prejudice](articles/economic_aspects.html)
+### W.E.B. Du Bois
+[![](Images/new-york-cityscape.png)](articles/economic_aspects.html "Charles Alston, *New York Cityscape*, 1948") 
+*The Editorial Review*, 1910.
+:::
+
+::: article
 ## [&nbsp;<br>Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
 [![](Images/dancers.png)](articles/public_opinion.html "Charles Alston, *Dancers*, 1949") 
@@ -89,13 +96,6 @@
 :::
 
 ::: article
-## [The New Frontage of American Life](articles/frontage.html)
-### Charles S. Johnson
-[![](Images/black-belt.png)](articles/frontage.html "Archibald Motley, *Black Belt*, 1934") 
-*The New Negro An Interpretation*, 1925.
-:::
-
-::: article
 ## [Durham: Capital of the Black Middle Class](articles/durham.html)
 ### E. Franklin Frazier
 [![](Images/harlem-street.png)](articles/durham.html "William H. Johnson, *Harlem Street*, 1941") 
@@ -103,10 +103,10 @@
 :::
 
 ::: article
-## [&nbsp;<br>Where Is the Negro’s Heaven?](articles/heaven.html)
-### Kelly Miller
-[![](Images/church-on-lennox-avenue.png)](articles/heaven.html "William H. Johnson, *Church on Lennox Avenue*, 1940") 
-*Opportunity*, 1926.
+## [The New Frontage of American Life](articles/frontage.html)
+### Charles S. Johnson
+[![](Images/black-belt.png)](articles/frontage.html "Archibald Motley, *Black Belt*, 1934") 
+*The New Negro An Interpretation*, 1925.
 :::
 
 ::: article
@@ -117,10 +117,10 @@
 :::
 
 ::: article
-## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
-### Ira De A. Reid
-[![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
-*Ebony and Topaz: A Collectanea*, 1927.
+## [&nbsp;<br>Where Is the Negro’s Heaven?](articles/heaven.html)
+### Kelly Miller
+[![](Images/church-on-lennox-avenue.png)](articles/heaven.html "William H. Johnson, *Church on Lennox Avenue*, 1940") 
+*Opportunity*, 1926.
 :::
 
 ::: article
@@ -129,6 +129,13 @@
 [![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
 *Social Forces*, 1927.
 :::
+
+::: article
+## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
+### Ira De A. Reid
+[![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
+*Ebony and Topaz: A Collectanea*, 1927.
+:::
 # Labor and Economics
 
 ::: article
@@ -136,6 +143,13 @@
 ### Richard R. Wright, Jr.
 [![](Images/factory.png)](articles/unrest.html "Allan Randall Freelon, *Factory*, N.D.") 
 *Charities*, 1905.
+:::
+
+::: article
+## [&nbsp;<br>The Rural South](articles/rural_south.html)
+### W.E.B. Du Bois
+[![](Images/the-photographer.png)](articles/rural_south.html "Jacob Lawrence, *The Photographer*, 1942") 
+*American Statistical Association*, 1910.
 :::
 
 ::: article
@@ -252,6 +266,21 @@
 [![](Images/pool-parlor.png)](articles/critical_analysis.html "Jacob Lawrence, *Pool Parlor*, 1942") 
 *Journal of Negro Education*, 1935.
 :::
+# Methods
+
+::: article
+## [Program for a Sociological&nbsp;Society](articles/program.html)
+### W.E.B. Du Bois
+[![](Images/building-more-stately-mansions.png)](articles/program.html "Aaron Douglas, *Building more Stately Mansions*, 1944") 
+*First Sociological Club.*, 1897.
+:::
+
+::: article
+## [&nbsp;<br>Study of the Negro Problems](articles/negro_problems.html)
+### W.E.B. Du Bois
+[![](Images/meeting-place.png)](articles/negro_problems.html "Norman Lewis, *Meeting Place*, 1941") 
+*The Annals*, 1898.
+:::
 # Crime
 
 ::: article
@@ -265,7 +294,7 @@
 ::: article
 ## [Schools and the Vocational Life of Negroes](articles/schools.html)
 ### Elise Johnson McDougald
-[![](Images/the-photographer.png)](articles/schools.html "Jacob Lawrence, *The Photographer*, 1942") 
+[![](Images/new-york-cityscape.png)](articles/schools.html "Charles Alston, *New York Cityscape*, 1948") 
 *Opportunity*, 1923.
 :::
 

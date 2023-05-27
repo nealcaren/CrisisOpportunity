@@ -10,7 +10,7 @@ author:
 
 date: 1915
 
-citation: <em>The New Chivalry---Health,</em> edited by James E. McCulloch,</em> 1915, Southern Sociological Congress, pp. 412--421.
+citation: <em>The New Chivalry---Health,</em> edited by James E. McCulloch, 1915, Southern Sociological Congress, pp. 412--421.
 
 citation_title: The South and the Health of Negroes
 citation_journal_title: The New Chivalry---Health

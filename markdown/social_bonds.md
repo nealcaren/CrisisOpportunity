@@ -24,7 +24,7 @@ pdf_URL: "PDFS/Williams_1905_Bonds.pdf"
 citation: <em>Charities,</em> vol XV, no. 1, Oct. 1905, pp.  40--44.
 ---
 
-.
+
 [40]{.pagenum}The last federal census showed the Negro population of Chicago to be about 35,000. The present population is estimated to be over 50,000, an increase of about forty per cent in five years. The colored people who are thus crowding into Chicago come mostly from the states of Kentucky, Tennessee, Alabama, Mississippi, Louisiana, Arkansas and Missouri.
 
 The underlying causes are easily traceable and are mainly as follows:
