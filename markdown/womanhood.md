@@ -11,6 +11,15 @@ author:
 
 date: 1925
 
+citation_title: The Task of Negro Womanhood
+citation_journal_title: The New Negro An Interpretation
+citation_author: Johnson McDougald, Elise
+citation_publication_date: 1925
+citation_firstpage: 369
+citation_lastpage: 382
+
+
+
 citation: "<em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382."
 
 pdf_URL: "PDFS/McDougald_1925_Task.pdf"
