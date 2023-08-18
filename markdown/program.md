@@ -22,7 +22,7 @@ I do this the more boldly because I am a member of the organization and as such 
 such clubs is very large. The trouble is apt to be that the persons forming clubs for social reform have very vague ideas of what the science of sociology really is, and what is the real aim and object of their striving. Consequently it can easily happen that they drift aimlessly on until the members begin to wonder whether it is worthwhile to waste so much time doing nothing. I fancy I have seen in this club something of the same tendency, and it seems to me that the great need of this organization is a clearer conception of its' aims and more practical
 and persistent work to accomplish these objects.
 
-I have therefore chosen for my subject <em>A Program for a Sociological Society</em>, and I want to divide what I have to say in six parts. First I want to show what Sociology is. Second--- What the science has accomplished. Third--- By what methods its work has been done. Fourth--- How the material and knowledge thus collected can best be utilized. Fifth--- What the society has already accomplished and why, And finally what this society might and ought to do.
+I have therefore chosen for my subject <em>A Program for a Sociological Society</em>, and I want to divide what I have to say in six parts. First I want to show what Sociology is. Second--- What the science has accomplished. <span class="correction" title="Transcriber's Note: This section is missing from the text.">Third--- By what methods its work has been done.</span> Fourth--- How the material and knowledge thus collected can best be utilized. Fifth--- What the society has already accomplished and why, And finally what this society might and ought to do.
 
 ## 1st. What is Sociology
 
