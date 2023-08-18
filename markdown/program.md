@@ -33,11 +33,11 @@ This industrial revolution had serious consequences: first it fastened American 
 pros<span class="pagenum" id="Page_3">3</span>titution, 
 ignorance, and death began to assume threatening proportions. Men came to be attracted to these sinister phenomena and to ask what they real­ly meant, how far they were remediable, and how far inevitable.
 
-There was then but one science which undertook the study of the phenomena of human action and th twas the science of political economy. But this science was limited in scope: it began in the 17th nd 18th century when the phenomena of money and international trade first assumed importance and confined itself simply to a study of wealth: it asked how goods were produced, how they were distributed among the producers, and
-how their owners exchanged them for other goods. It thus took into account only a feW human activities under stable conditions of society. The industrial revolution, however, had greatly changed conditions, and brought
-a distinct demand for wider inquiry into the causes and scope of human action ---  deeper search for the reasons of present conditions and the intelligent application  of such knowledge to methods of social regeneration. This was the beginning of th modern science of Sociology.
+There was then but one science which undertook the study of the phenomena of human action and that was the science of political economy. But this science was limited in scope: it began in the 17th and 18th century when the phenomena of money and international trade first assumed importance and confined itself simply to a study of wealth: it asked how goods were produced, how they were distributed among the producers, and
+how their owners exchanged them for other goods. It thus took into account only a few human activities under stable conditions of society. The industrial revolution, however, had greatly changed conditions, and brought
+a distinct demand for wider inquiry into the causes and scope of human action ---  deeper search for the reasons of present conditions and the intelligent application  of such knowledge to methods of social regeneration. This was the beginning of the modern science of Sociology.
 
-Sociology is therefore the name given to that vast field of inquiry into human action aa manifested in modern organized life. It cannot study all human action under all circumstances, but <span class="correction" title="Transcriber's Note: &quot;thay&quot; in original.">that</span> human action
+Sociology is therefore the name given to that vast field of inquiry into human action as manifested in modern organized life. It cannot study all human action under all circumstances, but <span class="correction" title="Transcriber's Note: &quot;thay&quot; in original.">that</span> human action
 which by its regularity gives evidence of the presence of laws. 
 What these laws are we hardly know, and yet we do know that 
 there are in life curious and noticeable coincidences --- <span class="correction" title="Transcriber's Note: &quot;rythm&quot; in original.">rhythm</span> in life and death, a working out of cause and effect, <span class="correction" title="Transcriber's Note: &quot;evidenes&quot; in original.">evidences</span> of force action and reaction, which cannot be ignored or neglected. Many eminent men still insist that this mass of partially digested facts cannot be called a science --- and indeed if you mean by science, a body knowledge with definitely stated laws, and carefully systematized facts, then Sociology is not yet a science and may never become one. But if you mean by Sociology a vast and fruitful field of inquiry into the mysterious phenomena of human action, which
@@ -86,9 +86,9 @@ Characteristic of old countries. In the United States, on the other
 hand there are only 952 females for every 1,000 males. In the older,
 eastern states, however, we should expect to find conditions approaching
 those in Europe --- and sure enough there are 1,005 females to every 1,000
-males. To show the significence of such facts let us go a step farther:
+males. To show the <span class="correction" title="Transcriber's Note: &quot;significence&quot; in original.">significance</span> of such facts let us go a step farther:
 We find in the city of Baltimore 1,310 Negro women to every 1,000 men.
-We can immediately say this is surely an abnorman situation and must have
+We can immediately say this is surely an <span class="correction" title="Transcriber's Note: &quot;abnorman&quot; in original.">abnormal</span> situation and must have
 something to do with the large number of illegitimate births in that city.
 
 Statistics of age show that in normal countries about one third of
