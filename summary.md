@@ -69,7 +69,7 @@
 * W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,217
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
-* Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,349
+* Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,350
 
 ## Education
 

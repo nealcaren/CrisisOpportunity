@@ -74,8 +74,8 @@ It cannot be doubted that these historical factors have a very decided influence
 
 The crimes of the poor are generally their vices, which affect them more than they affect the other part of the community. The vices of the well-to-do, on the other hand, are seldom called criminal, unless they become of great social concern. A fashionable set may give euchre or bridge parties and hundreds of dollars may change hands and women may earn their “pin money” thereby, but they are rarely ever disturbed. The fashionable gentleman who gets drunk at a fashionable club, or the student on a “lark,” is sent home in a carriage, undisturbed; often the shoplifter of wealth and good family is merely a “kleptomaniac.” These facts should be considered when it is remembered that “craps” and “drunks” and “disorderlies” are chief causes for the large number of arrests and convictions among the poor. Negroes of the great Northern cities, being largely among the poor, must be affected by the differences which poverty makes in these matters.
 
-Then there is the matter of the trial after arrests. Even before justice, poverty suffers. On this point, *The Independent* of February 1, 1905, under the title of “The Law’s Delays,” said: >
+Then there is the matter of the trial after arrests. Even before justice, poverty suffers. On this point, *The Independent* of February 1, 1905, under the title of “The Law’s Delays,” said: 
 
-The *Tribune of Chicago* remarks that the fact that one-fourth the male convicts
+> The *Tribune of Chicago* remarks that the fact that one-fourth the male convicts
 [142]{.pagenum}
 at Joliet (a state penitentiary) and one-half of the female convicts there are Negroes, does not argue for the criminality of the race, but its poverty. Negroes do not profit by the maladministration of criminal justice in Chicago, because they have not the money to hire the right kind of shyster lawyers to defend them. The criminal laws of Illinois were not made by the people for their protection.
