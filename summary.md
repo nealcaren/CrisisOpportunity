@@ -14,8 +14,8 @@
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
 * Kelly Miller. <br>"Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations." <br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.<br> Word count: 1,835
-* Abram L. Harris. <br>"Economic Foundations of American Race Division." <br><em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.<br> Word count: 5,982
 * E. Franklin Frazier. <br>"The Pathology of Race&nbsp;Prejudice." <br><em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.<br> Word count: 2,405
+* Abram L. Harris. <br>"Economic Foundations of American Race Division." <br><em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.<br> Word count: 5,982
 
 ## Great Migration and Urban Sociology
 
@@ -26,8 +26,8 @@
 * Charles S. Johnson. <br>"The New Frontage of American&nbsp;Life." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 278--298.<br> Word count: 6,426
 * Eugene Kinckle Jones. <br>"Negro Migration in New York State." <br><em>Opportunity,</em> vol 4, no. 37, July 1926, pp.  7--11.<br> Word count: 5,207
 * Kelly Miller. <br>"Where Is the Negro’s Heaven?." <br><em>Opportunity,</em> vol 4, no. 48, Dec. 1926, pp. 370--373.<br> Word count: 3,532
-* Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
 * Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
+* Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
 
 ## Labor and Economics
 
@@ -61,21 +61,8 @@
 
 ## Methods
 
-* W.E.B. Du Bois. <br>"A Program for a Sociological&nbsp;Society." <br>Address given at the First Sociological Club. Special Collections and University Archives, University of Massachusetts Amherst Libraries. [mums312-b196-i035](http://credo.library.umass.edu/view/full/mums312-b196-i035). ca. 1897.<br> Word count: 6,722
+* W.E.B. Du Bois. <br>"A Program for a Sociological&nbsp;Society." <br>Address given at the First Sociological Club. Special Collections and University Archives, University of Massachusetts Amherst Libraries. [mums312-b196-i035](http://credo.library.umass.edu/view/full/mums312-b196-i035). ca. 1897.<br> Word count: 6,743
 * W.E.B. Du Bois. <br>"The Study of the Negro Problems." <br><em>The Annals of the American Academy of Political and Social Science,</em> Jan. 1898, pp. 1--23.<br> Word count: 7,428
 
 ## Crime
 
-* Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
-
-## Education
-
-* Elise Johnson McDougald. <br>"The Schools and the Vocational Life of Negroes." <br><em>Opportunity,</em> vol 1, no. 6, Jun. 1923, pp. 8--11.<br> Word count: 3,342
-* Bertram W. Doyle. <br>"The Etiquette of Race Relations — Past, Present, and Future." <br>*The Journal of Negro Education*, Apr., 1936, Vol. 5, No. 2 (Apr., 1936), pp. 191- 208.<br> Word count: 8,400
-* Horace Mann Bond. <br>"The Negro Elementary School and the Cultural Pattern." <br>*The Journal of Educational Sociology*, Vol. 13, No. 8, (Apr., 1940), pp. 479--489<br> Word count: 3,342
-
-## Family
-
-* E. Franklin Frazier. <br>"Three Scourges of the Negro Family." <br><em>Opportunity,</em> vol 4, no. 43, Sep. 1926, pp. 210--213, 234.<br> Word count: 3,926
-* E. Franklin Frazier. <br>"Is the Negro Family a Unique Sociological Unit?." <br><em>Opportunity,</em> vol V, no. 6, June. 1927, pp. 165--166.<br> Word count: 1,646
-* Charles S. Johnson. <br>"Negro Personality Changes in a Southern Community." <br><em>Race and Culture Contacts,</em> edited by E.B. Reuter, pp.  208--227.<br> Word count: 5,508

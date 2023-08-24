@@ -106,7 +106,7 @@ types: a population with a low birth-rate and low death-rate like
 France or a population with a high birth rate and high death rate like
 American Negro. The latter is a sign of a low standard of culture ---
 early marriage, illegitimacy and neglect of the laws of health; the
-the former is usually a sign of high civilization --- postponement of
+former is usually a sign of high civilization --- postponement of
 marriage until the support of a family is assured, and life according
 to the laws of hygiene. Son in the same country the character of a
 community may easily be approximately fixed by measuring the number
