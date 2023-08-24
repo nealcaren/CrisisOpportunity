@@ -21,7 +21,7 @@ citation_issue: May
 citation_firstpage: 1355
 citation_lastpage: 1357
 
-pdf_URL: DuBois_1899_Negro_and_Crime.pdf
+pdf_URL: PDFS/DuBois_1899_Negro_and_Crime.pdf
 
 citation: <em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.
 ---

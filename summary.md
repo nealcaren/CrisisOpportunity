@@ -14,8 +14,8 @@
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
 * Kelly Miller. <br>"Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations." <br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.<br> Word count: 1,835
-* E. Franklin Frazier. <br>"The Pathology of Race&nbsp;Prejudice." <br><em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.<br> Word count: 2,405
 * Abram L. Harris. <br>"Economic Foundations of American Race Division." <br><em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.<br> Word count: 5,982
+* E. Franklin Frazier. <br>"The Pathology of Race&nbsp;Prejudice." <br><em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.<br> Word count: 2,405
 
 ## Great Migration and Urban Sociology
 
@@ -26,8 +26,8 @@
 * Charles S. Johnson. <br>"The New Frontage of American&nbsp;Life." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 278--298.<br> Word count: 6,426
 * Eugene Kinckle Jones. <br>"Negro Migration in New York State." <br><em>Opportunity,</em> vol 4, no. 37, July 1926, pp.  7--11.<br> Word count: 5,207
 * Kelly Miller. <br>"Where Is the Negro’s Heaven?." <br><em>Opportunity,</em> vol 4, no. 48, Dec. 1926, pp. 370--373.<br> Word count: 3,532
-* Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
 * Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
+* Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
 
 ## Labor and Economics
 
@@ -69,6 +69,7 @@
 * W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,217
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
+* Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,349
 
 ## Education
 

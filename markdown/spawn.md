@@ -20,7 +20,7 @@ citation_issue: October
 citation_firstpage: 737
 citation_lastpage: 745
 
-pdf_URL: DuBois_1901_Spawn.pdf
+pdf_URL: PDFS/DuBois_1901_Spawn.pdf
 
 citation: <em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.
 ---
