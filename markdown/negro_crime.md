@@ -21,7 +21,7 @@ citation_issue: May
 citation_firstpage: 1355
 citation_lastpage: 1357
 
-pdf_URL: The_Negro_and_Crime.pdf
+pdf_URL: DuBois_1899_Negro_and_Crime.pdf
 
 citation: <em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.
 ---
@@ -37,7 +37,7 @@ In the town of Palmetto, where the recent disturbance began, It was only last De
 
 If one thing is certain, then, It Is that the Negro criminal in no Southern community represents the mass of the race, or can rightly be mistaken for it. Even In the matter of sexual crime the most prominent paper in the South declared editorially that “ninety-five per cent.” of the Negro men “are as respectful toward white women as any people on earth.” And whenever the terrible crime of rape has been beyond reasonable doubt proven upon a Negro, he has been found to be among the most ignorant and degraded of his people. The sexual looseness among the Negroes themselves, which the nation that taught them now taunts them with, is slowly but surely disappearing. The rate of illegitimacy among them Is probably less than in Austria or Italy, and it would be still smaller if law and public opinion In the South gave the defenseless black girl half the protection It throws about the white girl.
 
-Granting then, as every fair-minded man must, that "in almost all the elements of civilization the race, as a whole, has made distinct and gratifying progress,” to quote Dr. W. W. Landrum, Pastor First [white] Baptist Church of Atlanta, Ga., the question then comes—and this is the crucial question—What Is chiefly responsible for crime among Southern Negroes, outside the economic effects of emancipation ?
+Granting then, as every fair-minded man must, that "in almost all the elements of civilization the race, as a whole, has made distinct and gratifying progress,” to quote Dr. W. W. Landrum, Pastor First [white] Baptist Church of Atlanta, Ga., the question then comes—and this is the crucial question—What Is chiefly responsible for crime among Southern Negroes, outside the economic effects of emancipation?
 
 The first and greatest cause of Negro crime in the South Is the convict-lease system. States which use their criminals as sources of revenue in the hands of irresponsible speculators, who herd girls, boys, men and women promiscuously together without distinction or protection, who parade chained convicts in public, guarded by staves and pistols, and then plunge into this abyss of degradation the ignorant little black boy who steals a chicken or a handful of peanuts—what can such States expect but a harvest of criminals and prostitutes ? Does it not seem natural that the State which produced Sam Hose is guilty, as *The Atlanta Constitution* declared March 22, of “the burning shame of converting our penal establishments into schools for crime?” and we are prepared to hear, notwithstanding the awful revelations of Governor Atkinson’s prison commission:
 
@@ -46,8 +46,10 @@ The first and greatest cause of Negro crime in the South Is the convict-lease sy
 The next greatest cause of Negro crime in the South is the attitude of the courts. The Southern courts have erred in two ways: One, in treating the crime of whites so leniently that red-handed murderers walk scot-free and the public has lost faith in methods of justice. The other, in treating the crimes and misdemeanors of Negroes with such severity that the lesson of punishment Is lost through pity for the punished. When, therefore, the number of Negroes In Southern penal institutions Is cited as evidence of their lawlessness, students must not forget this double standard of Justice, which can best be Illustrated by the following clippings from *The Atlanta Constitution* of January 22d:
 
 > Egbert Jackson [colored], aged thirteen, was given a sentence of $50, or ten months In the chain gang for larceny from the house.
-***
-> he most affecting scene of all was the sentencing of Joe Bedding, a white man, for the killing of his brother, John Bedding. … Judge —— is a most tender-hearted man, and heard the prayers and saw the tears, and tempered justice with moderation, and gave the modern Cain two years in the penitentiary.
+
+---
+
+> The most affecting scene of all was the sentencing of Joe Bedding, a white man, for the killing of his brother, John Bedding. … Judge —— is a most tender-hearted man, and heard the prayers and saw the tears, and tempered justice with moderation, and gave the modern Cain two years in the penitentiary.
 
 Of course Jackson could pay no such fine and went to the chain gang.
 

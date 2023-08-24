@@ -66,3 +66,18 @@
 
 ## Crime
 
+* W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,217
+* Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
+* W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
+
+## Education
+
+* Elise Johnson McDougald. <br>"The Schools and the Vocational Life of Negroes." <br><em>Opportunity,</em> vol 1, no. 6, Jun. 1923, pp. 8--11.<br> Word count: 3,342
+* Bertram W. Doyle. <br>"The Etiquette of Race Relations — Past, Present, and Future." <br>*The Journal of Negro Education*, Apr., 1936, Vol. 5, No. 2 (Apr., 1936), pp. 191- 208.<br> Word count: 8,400
+* Horace Mann Bond. <br>"The Negro Elementary School and the Cultural Pattern." <br>*The Journal of Educational Sociology*, Vol. 13, No. 8, (Apr., 1940), pp. 479--489<br> Word count: 3,342
+
+## Family
+
+* E. Franklin Frazier. <br>"Three Scourges of the Negro Family." <br><em>Opportunity,</em> vol 4, no. 43, Sep. 1926, pp. 210--213, 234.<br> Word count: 3,926
+* E. Franklin Frazier. <br>"Is the Negro Family a Unique Sociological Unit?." <br><em>Opportunity,</em> vol V, no. 6, June. 1927, pp. 165--166.<br> Word count: 1,646
+* Charles S. Johnson. <br>"Negro Personality Changes in a Southern Community." <br><em>Race and Culture Contacts,</em> edited by E.B. Reuter, pp.  208--227.<br> Word count: 5,508

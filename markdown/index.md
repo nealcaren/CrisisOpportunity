@@ -284,9 +284,9 @@
 # Crime
 
 ::: article
-## [&nbsp;<br>The Negro and Crime](articles/negro_crime.md.html)
+## [&nbsp;<br>The Negro and Crime](articles/negro_crime.html)
 ### W.E.B. Du Bois
-[![](Images/mob-victim-meditation.png)](articles/negro_crime.md.html "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
+[![](Images/mob-victim-meditation.png)](articles/negro_crime.html "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
 *The Independent*, 1899.
 :::
 
@@ -295,6 +295,13 @@
 ### Monroe N. Work
 [![](Images/untitled.png)](articles/chicago_crime.html "Norman Lewis, *Untitled*, 1943") 
 *American Journal of Sociology*, 1900.
+:::
+
+::: article
+## [&nbsp;<br>Spawn of Slavery](articles/spawn.html)
+### W.E.B. Du Bois
+[![](Images/the-judgement-day.png)](articles/spawn.html "Aaron Douglas, *The Judgement Day*, 1939") 
+*Missionary Review*, 1901.
 :::
 # Education
 
