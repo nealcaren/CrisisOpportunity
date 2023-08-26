@@ -60,17 +60,17 @@
 :::
 
 ::: article
-## [Economic Foundations of American Race Division](articles/foundations.html)
-### Abram L. Harris
-[![](Images/the-judgement-day.png)](articles/foundations.html "Aaron Douglas, *The Judgement Day*, 1939") 
-*Social Forces*, 1927.
-:::
-
-::: article
 ## [The Pathology of Race Prejudice](articles/pathology.html)
 ### E. Franklin Frazier
 [![](Images/mob-victim-meditation.png)](articles/pathology.html "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
 *The Forum*, 1927.
+:::
+
+::: article
+## [Economic Foundations of American Race Division](articles/foundations.html)
+### Abram L. Harris
+[![](Images/the-judgement-day.png)](articles/foundations.html "Aaron Douglas, *The Judgement Day*, 1939") 
+*Social Forces*, 1927.
 :::
 # Great Migration and Urban Sociology
 
@@ -124,17 +124,17 @@
 :::
 
 ::: article
-## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem.html)
-### Ira De A. Reid
-[![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
-*Social Forces*, 1927.
-:::
-
-::: article
 ## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
 ### Ira De A. Reid
 [![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
 *Ebony and Topaz: A Collectanea*, 1927.
+:::
+
+::: article
+## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem.html)
+### Ira De A. Reid
+[![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
+*Social Forces*, 1927.
 :::
 # Labor and Economics
 
@@ -309,6 +309,13 @@
 ### Monroe N. Work
 [![](Images/dancers.png)](articles/north_crime.html "Charles Alston, *Dancers*, 1949") 
 *The Southern Workman*, 1910.
+:::
+
+::: article
+## [&nbsp;<br>The Negro Goes to Sing Sing](articles/sing_sing.html)
+### Ira De A. Reid
+[![](Images/the-wanderer.png)](articles/sing_sing.html "Norman Lewis, *The Wanderer*, 1933") 
+*Opportunity*, 1932.
 :::
 # Education
 

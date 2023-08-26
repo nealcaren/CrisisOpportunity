@@ -27,9 +27,6 @@ citation: <em>Opportunity,</em> vol 4, no. 45, Sep. 1926, pp.  274--278.
 ---
 
 
-
-By Ira De A. Reid
-
 [274]{.pagenum}
 Incredible as it may seem there are within the radius of one hundred and fifty blocks of that section of Harlem occupied by the colored population more than one hundred and forty churches. At the time of the count there were exactly that number. Since then more have been instituted or have moved into the district. These churches have an estimated membership of more than forty thousand.
 
