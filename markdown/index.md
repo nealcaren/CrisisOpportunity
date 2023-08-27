@@ -60,17 +60,17 @@
 :::
 
 ::: article
-## [The Pathology of Race Prejudice](articles/pathology.html)
-### E. Franklin Frazier
-[![](Images/mob-victim-meditation.png)](articles/pathology.html "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
-*The Forum*, 1927.
-:::
-
-::: article
 ## [Economic Foundations of American Race Division](articles/foundations.html)
 ### Abram L. Harris
 [![](Images/the-judgement-day.png)](articles/foundations.html "Aaron Douglas, *The Judgement Day*, 1939") 
 *Social Forces*, 1927.
+:::
+
+::: article
+## [The Pathology of Race Prejudice](articles/pathology.html)
+### E. Franklin Frazier
+[![](Images/mob-victim-meditation.png)](articles/pathology.html "Lois Mailou Jones, *Mob Victim Meditation*, 1944") 
+*The Forum*, 1927.
 :::
 # Great Migration and Urban Sociology
 
@@ -282,6 +282,13 @@
 *The Annals*, 1898.
 :::
 # Crime
+
+::: article
+## [&nbsp;<br>The Convict Lease System](articles/convict.html)
+### Ida B. Wells
+[![](Images/the-wash.png)](articles/convict.html "Horace Pippin, *The Wash*, 1940") 
+*Reason Why the Colored American Is Not in the World's Columbian Exposition*, 1893.
+:::
 
 ::: article
 ## [&nbsp;<br>The Negro and Crime](articles/negro_crime.html)

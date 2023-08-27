@@ -14,8 +14,8 @@
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
 * Kelly Miller. <br>"Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations." <br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.<br> Word count: 1,835
-* E. Franklin Frazier. <br>"The Pathology of Race&nbsp;Prejudice." <br><em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.<br> Word count: 2,405
 * Abram L. Harris. <br>"Economic Foundations of American Race Division." <br><em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.<br> Word count: 5,982
+* E. Franklin Frazier. <br>"The Pathology of Race&nbsp;Prejudice." <br><em>The Forum,</em> vol LXXVII, no. 6, 1927, pp. 856--862.<br> Word count: 2,405
 
 ## Great Migration and Urban Sociology
 
@@ -66,6 +66,7 @@
 
 ## Crime
 
+* Ida B. Wells. <br>"The Convict Lease System." <br><em>The Reason Why the Colored American Is Not in the World's Columbian Exposition,</em> Chapter 3, pp.  19--24.<br> Word count: 2,056
 * W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,217
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
