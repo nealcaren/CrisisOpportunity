@@ -312,6 +312,13 @@
 :::
 
 ::: article
+## [&nbsp;<br>What Negroes Think of Crime](articles/think.html)
+### W.E.B. Du Bois
+[![](Images/harlem-street.png)](articles/think.html "William H. Johnson, *Harlem Street*, 1941") 
+*Some Notes on Negro Crime*, 1904.
+:::
+
+::: article
 ## [&nbsp;<br>The Northern Negro and Crime](articles/north_crime.html)
 ### Monroe N. Work
 [![](Images/dancers.png)](articles/north_crime.html "Charles Alston, *Dancers*, 1949") 
