@@ -452,7 +452,11 @@ h1.title {
 margin-top: .5;
 }
 
-
+.caption {
+  font-size:smaller;
+  font-weight: 700;
+  line-height: 1.275rem;
+}
 
 .footnote-back {
   font-size: .8rem;

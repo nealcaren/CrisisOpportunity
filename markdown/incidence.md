@@ -47,7 +47,7 @@ Generally considered, the 1934 agricultural program and the Bankhead Act have be
 
 The high unemployment figures for Negroes are reflected in relief rolls, where relief has been equally available to white and Negro [740]{.pagenum} families. In 1933 a census of persons on relief showed 2,117,644 Negroes of all ages receiving aid. This was 17.8 per cent of all Negroes and 18.4 per cent of all cases on relief, although Negroes are only 9.4 per cent of the population. The percentages on relief varied by states from 4.3 per cent of the total Negro population in Virginia to 36.6 per cent in Florida and 38.0 per cent in Ohio. Although in general the Negroes have exceeded the whites by a considerable margin in most states, the proportions are not always an accurate index to Negro unemployment. In Mississippi, for example, where the population is about evenly divided, and the Negroes admittedly in greater economic need, there were 91,375 Negroes (9.0 per cent) and 136,339 whites (13.7 per cent) on relief.
 
-<caption> Table I
+[Table I]{.caption}
 
 | City              | Percentage of Negroes in&nbsp;Population | Percentage of Negroes in&nbsp;Relief Load |
 |-------------------|:-----------------------------------:|:------------------------------------:|

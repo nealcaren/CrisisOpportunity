@@ -37,7 +37,7 @@
 * Abram L. Harris. <br>"A White and Black World in American Labor and Politics." <br><em>Social Forces,</em> vol 4, no. 2, Mar. 1927, pp. 376--383.<br> Word count: 4,233
 * Abram L. Harris. <br>"Negro Labor's Quarrel with White Workingmen." <br><em>Current History,</em> vol 24, no. 6, Mar. 1926, pp. 903--908.<br> Word count: 3,936
 * Ira De A. Reid. <br>"Lily-White Labor." <br><em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.<br> Word count: 3,281
-* Charles S. Johnson. <br>"Incidence Upon the Negroes." <br>*American Journal of Sociology*, Vol. 40, No. 6 (May., 1935), pp. 737--745<br> Word count: 3,597
+* Charles S. Johnson. <br>"Incidence Upon the Negroes." <br>*American Journal of Sociology*, Vol. 40, No. 6 (May., 1935), pp. 737--745<br> Word count: 3,596
 * Charles S. Johnson. <br>"The Conflict of Caste and Class in an American Industry." <br>*American Journal of Sociology*, Vol. 42, No. 1 (Jul., 1936), pp. 55-65<br> Word count: 4,030
 * Horace R. Cayton and George&nbsp;S.&nbsp;Mitchell. <br>"The Social Organization of the Negro&nbsp;Community and Its Relation to the Union Movement." <br><em>Black Workers and the New Unions,</em> 1939, pp.  372--424.<br> Word count: 17,180
 
@@ -71,8 +71,10 @@
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
 * W.E.B. Du Bois. <br>"What Negroes Think of Crime." <br><em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.<br> Word count: 742
+* Kelly Miller. <br>"Crime Among Negroes." <br><em>The Southern Workman,</em> September 1909, pages 472--475.<br> Word count: 1,553
 * Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,350
 * Ira De A. Reid. <br>"The Negro Goes to Sing Sing." <br><em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.<br> Word count: 4,293
+* Earl R. Moses. <br>"Delinquency in the Negro Community." <br><em>Opportunity,</em> vol XI, no. 10, October. 1933, pp. 304--307.<br> Word count: 3,782
 
 ## Education
 

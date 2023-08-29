@@ -319,6 +319,13 @@
 :::
 
 ::: article
+## [&nbsp;<br>Crime Among Negroes](articles/crime.html)
+### Kelly Miller
+[![](Images/flight-into-egypt.png)](articles/crime.html "Henry Ossawa Tanner, *Flight Into Egypt*, 1922") 
+*The Southern Workman*, 1909.
+:::
+
+::: article
 ## [&nbsp;<br>The Northern Negro and Crime](articles/north_crime.html)
 ### Monroe N. Work
 [![](Images/dancers.png)](articles/north_crime.html "Charles Alston, *Dancers*, 1949") 
@@ -330,6 +337,13 @@
 ### Ira De A. Reid
 [![](Images/the-wanderer.png)](articles/sing_sing.html "Norman Lewis, *The Wanderer*, 1933") 
 *Opportunity*, 1932.
+:::
+
+::: article
+## [Delinquency in the Negro Community](articles/delinquency.html)
+### Earl R. Moses
+[![](Images/new-york-cityscape.png)](articles/delinquency.html "Charles Alston, *New York Cityscape*, 1948") 
+*Opportunity*, 1933.
 :::
 # Education
 
