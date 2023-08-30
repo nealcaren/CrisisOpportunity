@@ -26,8 +26,8 @@
 * Charles S. Johnson. <br>"The New Frontage of American&nbsp;Life." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 278--298.<br> Word count: 6,426
 * Eugene Kinckle Jones. <br>"Negro Migration in New York State." <br><em>Opportunity,</em> vol 4, no. 37, July 1926, pp.  7--11.<br> Word count: 5,207
 * Kelly Miller. <br>"Where Is the Negro’s Heaven?." <br><em>Opportunity,</em> vol 4, no. 48, Dec. 1926, pp. 370--373.<br> Word count: 3,532
-* Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
 * Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
+* Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
 
 ## Labor and Economics
 
@@ -73,6 +73,7 @@
 * W.E.B. Du Bois. <br>"What Negroes Think of Crime." <br><em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.<br> Word count: 742
 * Kelly Miller. <br>"Crime Among Negroes." <br><em>The Southern Workman,</em> September 1909, pages 472--475.<br> Word count: 1,554
 * Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,350
+* Monroe N. Work. <br>"Negro Criminality in the South." <br><em>The Annals of the American Academy of Political and Social Science,</em> Sep. 1913, pp. 74--80.<br> Word count: 3,620
 * Ira De A. Reid. <br>"The Negro Goes to Sing Sing." <br><em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.<br> Word count: 4,293
 * Earl R. Moses. <br>"Delinquency in the Negro Community." <br><em>Opportunity,</em> vol XI, no. 10, October. 1933, pp. 304--307.<br> Word count: 3,782
 

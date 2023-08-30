@@ -124,17 +124,17 @@
 :::
 
 ::: article
-## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
-### Ira De A. Reid
-[![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
-*Ebony and Topaz: A Collectanea*, 1927.
-:::
-
-::: article
 ## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem.html)
 ### Ira De A. Reid
 [![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
 *Social Forces*, 1927.
+:::
+
+::: article
+## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
+### Ira De A. Reid
+[![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
+*Ebony and Topaz: A Collectanea*, 1927.
 :::
 # Labor and Economics
 
@@ -330,6 +330,13 @@
 ### Monroe N. Work
 [![](Images/dancers.png)](articles/north_crime.html "Charles Alston, *Dancers*, 1949") 
 *The Southern Workman*, 1910.
+:::
+
+::: article
+## [Negro Criminality in the South](articles/criminality.html)
+### Monroe N. Work
+[![](Images/gloucester-harbor.png)](articles/criminality.html "Allan Randall Freelon, *Gloucester Harbor*, 1929") 
+*The Annals*, 1913.
 :::
 
 ::: article
