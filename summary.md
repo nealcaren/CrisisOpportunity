@@ -67,7 +67,7 @@
 ## Crime
 
 * Ida B. Wells. <br>"The Convict Lease System." <br><em>The Reason Why the Colored American Is Not in the World's Columbian Exposition,</em> Chapter 3, pp.  19--24.<br> Word count: 2,056
-* W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,217
+* W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,216
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
 * W.E.B. Du Bois. <br>"What Negroes Think of Crime." <br><em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.<br> Word count: 742
@@ -76,6 +76,7 @@
 * Monroe N. Work. <br>"Negro Criminality in the South." <br><em>The Annals of the American Academy of Political and Social Science,</em> Sep. 1913, pp. 74--80.<br> Word count: 3,620
 * Ira De A. Reid. <br>"The Negro Goes to Sing Sing." <br><em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.<br> Word count: 4,293
 * Earl R. Moses. <br>"Delinquency in the Negro Community." <br><em>Opportunity,</em> vol XI, no. 10, October. 1933, pp. 304--307.<br> Word count: 3,782
+* E. Franklin Frazier. <br>"Rebellious Youth." <br><em>The Negro Family in the United States,</em> Chapter WVII, pp.  358--374.<br> Word count: 6,110
 
 ## Education
 

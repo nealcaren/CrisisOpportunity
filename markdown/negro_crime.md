@@ -26,10 +26,10 @@ pdf_URL: PDFS/DuBois_1899_Negro_and_Crime.pdf
 citation: <em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.
 ---
 
-<span class="pagenum">1355</span><span class="pagenum">1355</span>
+<span class="pagenum">1355</span>
 The development of a Negro criminal class after emancipation was to be expected. It Is Impossible for such a social revolution to lake place without giving rise to a class of men, who, In the new stress of life, under new responsibilities, would lack the will and power to make a way, and would consequently sink Into vagrancy, poverty and crime. Indeed it Is astounding that a body of people whose family life had been so nearly destroyed, whose women had been forced Into concubinage, whose labor had been enslaved and then set adrift penniless, that such a nation should in a single generation be able to point to so many pure homes, so many property-holders, so many striving law abiding citizens. “The vast majority of the colored people,” says *The Atlanta Constitution*, “ would no more commit heinous crime than would the corresponding white class,” and the Rev. Dr. Hoss declares in the Nashville *Christian Advocate*, of which he is editor:
 
-> The Negroes on the whole have done aston<span class="pagenum">1355</span>ishingly well. Their record since the war has been almost as honorable as the one they made while the conflict was raging. To hold the entire race responsible for the outrages committed by a few thousands, or a few score thousands of its members, is not just or right.
+> The Negroes on the whole have done aston<span class="pagenum">1356</span>ishingly well. Their record since the war has been almost as honorable as the one they made while the conflict was raging. To hold the entire race responsible for the outrages committed by a few thousands, or a few score thousands of its members, is not just or right.
 
 In the town of Palmetto, where the recent disturbance began, It was only last December that a Methodist conference declared:
 

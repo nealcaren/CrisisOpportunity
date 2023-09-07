@@ -352,6 +352,13 @@
 [![](Images/new-york-cityscape.png)](articles/delinquency.html "Charles Alston, *New York Cityscape*, 1948") 
 *Opportunity*, 1933.
 :::
+
+::: article
+## [&nbsp;<br>Rebellious Youth](articles/rebellious_youth.html)
+### E. Franklin Frazier
+[![](Images/harlem-street.png)](articles/rebellious_youth.html "William H. Johnson, *Harlem Street*, 1941") 
+*Negro Family in the US*, 1939.
+:::
 # Education
 
 ::: article
