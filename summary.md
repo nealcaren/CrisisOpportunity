@@ -75,6 +75,7 @@
 * Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,350
 * Monroe N. Work. <br>"Negro Criminality in the South." <br><em>The Annals of the American Academy of Political and Social Science,</em> Sep. 1913, pp. 74--80.<br> Word count: 3,620
 * Ira De A. Reid. <br>"The Negro Goes to Sing Sing." <br><em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.<br> Word count: 4,293
+* E. Franklin Frazier. <br>"Juvenile Delinquency." <br><em>The Negro Family in Chicago,</em> 1932, Chapter X, pp.  204--219.<br> Word count: 4,274
 * Earl R. Moses. <br>"Delinquency in the Negro Community." <br><em>Opportunity,</em> vol XI, no. 10, October. 1933, pp. 304--307.<br> Word count: 3,782
 * E. Franklin Frazier. <br>"Rebellious Youth." <br><em>The Negro Family in the United States,</em> Chapter WVII, pp.  358--374.<br> Word count: 6,110
 

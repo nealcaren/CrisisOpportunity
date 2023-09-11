@@ -347,6 +347,13 @@
 :::
 
 ::: article
+## [&nbsp;<br>Juvenile Delinquency](articles/juvenile_delinquency.html)
+### E. Franklin Frazier
+[![](Images/church-on-lennox-avenue.png)](articles/juvenile_delinquency.html "William H. Johnson, *Church on Lennox Avenue*, 1940") 
+*Negro Family in Chigago*, 1932.
+:::
+
+::: article
 ## [Delinquency in the Negro Community](articles/delinquency.html)
 ### Earl R. Moses
 [![](Images/new-york-cityscape.png)](articles/delinquency.html "Charles Alston, *New York Cityscape*, 1948") 
