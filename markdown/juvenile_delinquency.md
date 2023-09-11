@@ -49,9 +49,7 @@ War. In 1925 nearly a fifth of the boys and girls brought into the
 Juvenile Court were Negroes. Not all of the cases of juvenile
 delinquency were brought into the court. In 1926 there were 1,322 Negro
 boys arrested for juvenile delinquency,
-
 [205]{.pagenum}
-
 although only 320 cases were taken to the court. In 1927 the number of
 arrests had increased to 1,503.^[In the city of Chicago practically all complaints alleging juvenile
 delinquency come to the attention of the juvenile police probation
@@ -68,12 +66,10 @@ The statistics which form the basis of this chapter were taken from
 the records of the Institute for Juvenile Research. See Table XVI,
 Appendix B.]
 
-The increase in the number of Negro delinquents has followed the
-movement of the Negro population into the areas
-
 ![Chart XII](Images/chart_xii.png)
 
-
+The increase in the number of Negro delinquents has followed the
+movement of the Negro population into the areas
 which have been characterized by a high delinquency rate. Clifford R.
 Shaw says in this connection:
 
@@ -88,8 +84,7 @@ due to some extent to the type of area in which this racial group is
 forced to live.^[Shaw and Myers, *The Illinois Crime Survey*, p. 670. The
 percentage of German and Irish cases brought to court has decreased
 since 1900 while the percentage of Polish cases, like the Negro
-cases, has increased *(ibid.,* p. 667).]]
-
+cases, has increased *(ibid.,* p. 667).]
 
 
 [TABLE XX. Percentage of Negro Cases in the Total Number of Delinquent Boys and
@@ -105,7 +100,7 @@ pp. 667, 669. The data for 1930 were supplied by Clifford R. Shaw.]]{.caption}
 
 The high delinquent rate which has characterized the area near the Loop,
 where a large part of the Negro population has found a foothold in the city, has existed over a period of
-thirty years "notwithstanding the fact that the (racial) composition has
+thirty years "notwithstanding the fact that the [racial] composition has
 changed markedly."^[Clifford R. Shaw, *op. cit*., p. 203.]
 
 
