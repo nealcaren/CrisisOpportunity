@@ -3,13 +3,6 @@
 # Racial Identity
 
 ::: article
-## [&nbsp;<br>The Task of Negro Womanhood](articles/womanhood.html)
-### Elise Johnson McDougald
-[![](Images/poster.png)](articles/womanhood.html "Charles Clarence Dawson, *poster*, 1934") 
-*The New Negro An Interpretation*, 1925.
-:::
-
-::: article
 ## [Is the American Negro to Remain Black?](articles/bleached.html)
 ### Kelly Miller
 [![](Images/the-new-negro.png)](articles/bleached.html "Allan Randall Freelon, *The New Negro*, 1949") 
@@ -30,6 +23,13 @@
 *American Journal of Sociology*, 1931.
 :::
 # White Racism and Racial Violence
+
+::: article
+## [&nbsp;<br>Has America a Race Problem](articles/race_problem.html)
+### Anna J. Cooper
+[![](Images/dancers.png)](articles/race_problem.html "Charles Alston, *Dancers*, 1949") 
+*A Voice from the South*, 1892.
+:::
 
 ::: article
 ## [Economic Aspects of Race Prejudice](articles/economic_aspects.html)
@@ -124,17 +124,17 @@
 :::
 
 ::: article
-## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem.html)
-### Ira De A. Reid
-[![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
-*Social Forces*, 1927.
-:::
-
-::: article
 ## [&nbsp;<br>Mrs. Bailey Pays the Rent](articles/rent.html)
 ### Ira De A. Reid
 [![](Images/blues.png)](articles/rent.html "Archibald Motley, *Blues*, 1929") 
 *Ebony and Topaz: A Collectanea*, 1927.
+:::
+
+::: article
+## [&nbsp;<br>Mirrors of Harlem](articles/mirrors_of_harlem.html)
+### Ira De A. Reid
+[![](Images/domino-players.png)](articles/mirrors_of_harlem.html "Horace Pippin, *Domino Players*, 1943") 
+*Social Forces*, 1927.
 :::
 # Labor and Economics
 
@@ -201,20 +201,6 @@
 *Black Workers and the New Unions*, 1939.
 :::
 # Women and Work
-
-::: article
-## [Two Million Negro Women at Work](articles/two_million.html)
-### Elizabeth Ross Haynes
-[![](Images/jennie.png)](articles/two_million.html "Lois Mailou Jones, *Jennie*, 1943") 
-*The Southern Workman*, 1922.
-:::
-
-::: article
-## [Negro Women in Our Economic&nbsp;Life](articles/negro_women.html)
-### Sadie T.M. Alexander
-[![](Images/sharecropper.png)](articles/negro_women.html "Elizabeth Catlett, *Sharecropper*, 1952") 
-*Opportunity*, 1930.
-:::
 # Health and Populations
 
 ::: article

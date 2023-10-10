@@ -1245,7 +1245,7 @@ can, I think, be clearly disproved. In a pamphlet which is certainly
 [[31]{#Page_31}]{.pagenum}not flattering to the Negro, a learned
 medical authority tells us: 
 
-I might remark in passing that,
+> I might remark in passing that,
 notwithstanding the horrible crimes perpetrated under the influence of
 the *furor sexualis* by the Negro, I believe that he compares quite
 favorably as regards sexual impulses---taking all abnormalities into

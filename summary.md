@@ -3,13 +3,13 @@
 
 ## Racial Identity
 
-* Elise Johnson McDougald. <br>"The Task of Negro&nbsp;Womanhood." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.<br> Word count: 4,543
 * Kelly Miller. <br>"Is the American Negro to Remain Black or Become Bleached?." <br>*South Atlantic Quarterly*, Vol. 25, No. 3, 1926, pp. 240--252<br> Word count: 4,841
 * E. Franklin Frazier. <br>"Racial Self-Expression." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 119-121<br> Word count: 2,724
 * Horace Mann Bond. <br>"Two Racial Islands in Alabama." <br>*American Journal of Sociology*, Vol. 36, No. 4 (Jan., 1931), pp. 552-567<br> Word count: 5,426
 
 ## White Racism and Racial Violence
 
+* Anna J. Cooper. <br>"Has America a Race Problem; If So, How Can It Best Be Solved?." <br><em>A Voice from the South. By A Black Woman of the South.,</em> pp.  149--174.<br> Word count: 4,644
 * W.E.B. Du Bois. <br>"The Economic Aspects of Race Prejudice." <br><em>The Editorial Review,</em> May 1910, pp. 488--493.<br> Word count: 2,490
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
@@ -26,8 +26,8 @@
 * Charles S. Johnson. <br>"The New Frontage of American&nbsp;Life." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 278--298.<br> Word count: 6,426
 * Eugene Kinckle Jones. <br>"Negro Migration in New York State." <br><em>Opportunity,</em> vol 4, no. 37, July 1926, pp.  7--11.<br> Word count: 5,207
 * Kelly Miller. <br>"Where Is the Negro’s Heaven?." <br><em>Opportunity,</em> vol 4, no. 48, Dec. 1926, pp. 370--373.<br> Word count: 3,532
-* Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
 * Ira De A. Reid. <br>"Mrs. Bailey Pays the Rent." <br><em>Ebony and Topaz A Collectanea.</em> Edited by Charles S. Johnson. 1927, pp. 144--147<br> Word count: 2,681
+* Ira De A. Reid. <br>"Mirrors of Harlem---Investigations and Problems of America’s Largest Colored Community." <br><em>Social Forces,</em> vol 5, no. 4, Jun. 1927, pp. 628--634.<br> Word count: 3,619
 
 ## Labor and Economics
 
@@ -43,12 +43,10 @@
 
 ## Women and Work
 
-* Ross. <br>"Two Million Negro Women at Work." <br><em>The Southern Workman,</em> vol LI, no. 2, Feb. 1922, pp. 64--72.<br> Word count: 2,495
-* Sadie T. M. Alexander. <br>"Negro Women in Our Economic&nbsp;Life." <br><em>Opportunity,</em> vol 8, no. 7, July 1930, pp. 201--203.<br> Word count: 2,176
 
 ## Health and Populations
 
-* Kelly Miller. <br>"A Review of Hoffman's *Race Traits and Tendencies of the American Negro*.." <br>A Review of Hoffman's *Race Traits and Tendencies of the American Negro*.  *American Negro Academy Occasional Papers,* No 1. 1897.<br> Word count: 15,180
+* Kelly Miller. <br>"A Review of Hoffman's *Race Traits and Tendencies of the American Negro*.." <br>A Review of Hoffman's *Race Traits and Tendencies of the American Negro*.  *American Negro Academy Occasional Papers,* No 1. 1897.<br> Word count: 15,181
 * Monroe N. Work. <br>"The South and the Health of Negroes." <br><em>The New Chivalry---Health,</em> edited by James E. McCulloch, 1915, Southern Sociological Congress, pp. 412--421.<br> Word count: 2,709
 * Kelly Miller. <br>"Enumeration Errors in Negro&nbsp;Population." <br>*The Scientific Monthly*, Vol. 14, No. 2 (Feb., 1922), pp. 168-177<br> Word count: 5,518
 
