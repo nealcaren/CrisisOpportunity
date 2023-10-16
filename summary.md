@@ -41,8 +41,12 @@
 * Charles S. Johnson. <br>"The Conflict of Caste and Class in an American Industry." <br>*American Journal of Sociology*, Vol. 42, No. 1 (Jul., 1936), pp. 55-65<br> Word count: 4,030
 * Horace R. Cayton and George&nbsp;S.&nbsp;Mitchell. <br>"The Social Organization of the Negro&nbsp;Community and Its Relation to the Union Movement." <br><em>Black Workers and the New Unions,</em> 1939, pp.  372--424.<br> Word count: 17,180
 
-## Women and Work
+## Gender
 
+* Anna J. Cooper. <br>"The Status of Woman in America." <br><em>A Voice from the South. By A Black Woman of the South.,</em> pp.  127--145.<br> Word count: 3,391
+* Ross. <br>"Two Million Negro Women at Work." <br><em>The Southern Workman,</em> vol LI, no. 2, Feb. 1922, pp. 64--72.<br> Word count: 2,495
+* Elise Johnson McDougald. <br>"The Task of Negro&nbsp;Womanhood." <br><em>The New Negro An Interpretation</em> edited by Alain Locke, 1925, pp. 369--382.<br> Word count: 4,543
+* Sadie T. M. Alexander. <br>"Negro Women in Our Economic&nbsp;Life." <br><em>Opportunity,</em> vol 8, no. 7, July 1930, pp. 201--203.<br> Word count: 2,176
 
 ## Health and Populations
 
