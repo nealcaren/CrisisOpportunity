@@ -200,7 +200,35 @@
 [![](Images/a-step-in-the-right-direction.png)](articles/social_organization.html "Charles Alston, *A Step in the Right Direction*, 1943") 
 *Black Workers and the New Unions*, 1939.
 :::
-# Women and Work
+# Gender
+
+::: article
+## [The Status of Woman in America](articles/status.html)
+### Anna J. Cooper
+[![](Images/domino-players.png)](articles/status.html "Horace Pippin, *Domino Players*, 1943") 
+*A Voice from the South*, 1892.
+:::
+
+::: article
+## [Two Million Negro Women at Work](articles/two_million.html)
+### Elizabeth Ross Haynes
+[![](Images/jennie.png)](articles/two_million.html "Lois Mailou Jones, *Jennie*, 1943") 
+*The Southern Workman*, 1922.
+:::
+
+::: article
+## [&nbsp;<br>The Task of Negro Womanhood](articles/womanhood.html)
+### Elise Johnson McDougald
+[![](Images/poster.png)](articles/womanhood.html "Charles Clarence Dawson, *poster*, 1934") 
+*The New Negro An Interpretation*, 1925.
+:::
+
+::: article
+## [Negro Women in Our Economic&nbsp;Life](articles/negro_women.html)
+### Sadie T.M. Alexander
+[![](Images/sharecropper.png)](articles/negro_women.html "Elizabeth Catlett, *Sharecropper*, 1952") 
+*Opportunity*, 1930.
+:::
 # Health and Populations
 
 ::: article
