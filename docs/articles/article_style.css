@@ -54,20 +54,20 @@ a:hover {
 
 
 a {
-  color: #darkgrey;
+  color: darkgrey;
   text-decoration: none;
 }
 
 a:visited {
-  color: #black;
+  color: black;
 }
 
 a:hover {
-  color: #black;
+  color: black;
 }
 
 a:active {
-  color: #black;
+  color: black;
 }
 
 a:focus {

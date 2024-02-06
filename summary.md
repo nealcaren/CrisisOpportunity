@@ -11,6 +11,7 @@
 
 * Anna J. Cooper. <br>"Has America a Race Problem; If So, How Can It Best Be Solved?." <br><em>A Voice from the South. By A Black Woman of the South.,</em> pp.  149--174.<br> Word count: 4,644
 * W.E.B. Du Bois. <br>"The Economic Aspects of Race Prejudice." <br><em>The Editorial Review,</em> May 1910, pp. 488--493.<br> Word count: 2,490
+* Richard R. Wright, Jr.. <br>"The Negro Problem." <br><em>The Negro Problem.</em> 1911. The A.M.E. Book Concern.<br> Word count: 5,558
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
 * Kelly Miller. <br>"Review of <em>The&nbsp;Negro in&nbsp;Chicago,</em> by Chicago Commission on Race Relations." <br><em>American Journal of Sociology,</em> vol 29, no. 4, Jan. 1924, pp. 499--503.<br> Word count: 1,835

@@ -39,6 +39,13 @@
 :::
 
 ::: article
+## [&nbsp;<br>The Negro Problem](articles/negro_problem.html)
+### Richard R. Wright, Jr.
+[![](Images/war-scene.png)](articles/negro_problem.html "Henry Ossawa Tanner, *War Scene*, 1914") 
+*The Negro Problem*, 1911.
+:::
+
+::: article
 ## [&nbsp;<br>Public Opinion and the Negro](articles/public_opinion.html)
 ### Charles S. Johnson
 [![](Images/dancers.png)](articles/public_opinion.html "Charles Alston, *Dancers*, 1949") 
