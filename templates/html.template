@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, height=device-height"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
 
@@ -61,9 +61,6 @@ $if(twitter-image)$
   <meta property="twitter:image" content="$twitter-image$">
 $endif$
   <style type="text/css">code{white-space: pre;}</style>
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
