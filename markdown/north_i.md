@@ -21,6 +21,29 @@ citation_firstpage: 115
 citation_lastpage: 122
 
 citation: <em>The Survey,</em> vol 40, no. 5, May 1918, pp. 115--122.
+description: "George Edmund Haynes's 1918 article 'Negroes Move North: Departure from the South' published in The Survey. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Haynes, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/north_i.html"
+og-url: "http://crisisopportunity.org/articles/north_i.html"
+og-title: "Negroes Move North: Departure from the South - George Edmund Haynes (1918)"
+og-description: "George Edmund Haynes's historical sociology article from 1918."
+og-image: "http://crisisopportunity.org/Images/going-to-church.png"
+twitter-url: "http://crisisopportunity.org/articles/north_i.html"
+twitter-title: "Negroes Move North: Departure from the South - George Edmund Haynes (1918)"
+twitter-description: "George Edmund Haynes's historical sociology article from 1918."
+twitter-image: "http://crisisopportunity.org/Images/going-to-church.png"
+article_url: "north_i"
+description: "George Edmund Haynes's 1918 article 'Negroes Move North: Departure from the South' published in The Survey. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Haynes, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/north_i.html"
+og-url: "http://crisisopportunity.org/articles/north_i.html"
+og-title: "Negroes Move North: Departure from the South - George Edmund Haynes (1918)"
+og-description: "George Edmund Haynes's historical sociology article from 1918."
+og-image: "http://crisisopportunity.org/Images/going-to-church.png"
+twitter-url: "http://crisisopportunity.org/articles/north_i.html"
+twitter-title: "Negroes Move North: Departure from the South - George Edmund Haynes (1918)"
+twitter-description: "George Edmund Haynes's historical sociology article from 1918."
+twitter-image: "http://crisisopportunity.org/Images/going-to-church.png"
 ---
 [115]{.pagenum}
 The present migration of Negroes from the South is another chapter in the story of the masses struggling to secure better conditions of living and larger life.

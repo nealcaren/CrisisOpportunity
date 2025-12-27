@@ -24,6 +24,29 @@ citation_lastpage: 46
 
 pdf_URL: "PDFS/Work_1924_Stock.pdf"
 citation: <em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.
+description: "Monroe N. Work's 1923 article 'Taking Stock of the Race Problem' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/stock.html"
+og-url: "http://crisisopportunity.org/articles/stock.html"
+og-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
+og-description: "Monroe N. Work's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/flight-into-egypt.png"
+twitter-url: "http://crisisopportunity.org/articles/stock.html"
+twitter-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
+twitter-description: "Monroe N. Work's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/flight-into-egypt.png"
+article_url: "stock"
+description: "Monroe N. Work's 1923 article 'Taking Stock of the Race Problem' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/stock.html"
+og-url: "http://crisisopportunity.org/articles/stock.html"
+og-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
+og-description: "Monroe N. Work's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/flight-into-egypt.png"
+twitter-url: "http://crisisopportunity.org/articles/stock.html"
+twitter-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
+twitter-description: "Monroe N. Work's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/flight-into-egypt.png"
 ---
 
 [41]{.pagenum}

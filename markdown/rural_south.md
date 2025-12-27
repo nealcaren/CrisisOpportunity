@@ -22,7 +22,29 @@ citation_lastpage: 84
 abstract: Paper read at the joint meeting of the American Economic Association and the American Statistical Association, Washington, D. C., December 28, 1911.
 
 pdf_URL: "PDFS/DuBois_1912_Rural_South.pdf"
-
+description: "W.E.B. Du Bois's 1910 article 'The Rural South' published in American Statistical Association. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/rural_south.html"
+og-url: "http://crisisopportunity.org/articles/rural_south.html"
+og-title: "The Rural South - W.E.B. Du Bois (1910)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1910."
+og-image: "http://crisisopportunity.org/Images/the-photographer.png"
+twitter-url: "http://crisisopportunity.org/articles/rural_south.html"
+twitter-title: "The Rural South - W.E.B. Du Bois (1910)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1910."
+twitter-image: "http://crisisopportunity.org/Images/the-photographer.png"
+article_url: "rural_south"
+description: "W.E.B. Du Bois's 1910 article 'The Rural South' published in American Statistical Association. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/rural_south.html"
+og-url: "http://crisisopportunity.org/articles/rural_south.html"
+og-title: "The Rural South - W.E.B. Du Bois (1910)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1910."
+og-image: "http://crisisopportunity.org/Images/the-photographer.png"
+twitter-url: "http://crisisopportunity.org/articles/rural_south.html"
+twitter-title: "The Rural South - W.E.B. Du Bois (1910)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1910."
+twitter-image: "http://crisisopportunity.org/Images/the-photographer.png"
 ---
 
 [80]{.pagenum}One may readily admit most of the favorable signs of advance in the rural South and yet see grave causes for disquietude. Contrary to the unfaltering and reiterated statements of many people that the Negro is too lazy and inefficient to work steadily or to save, every succeeding census gives more and more unanswerable evidence that the accumulation of landed property in the hands of black folk is increasing with great rapidity in the face of great difficulties. The figures at present obtainable indicate that between 1890 and 1910 the Negro farm owners increased nearly 90 per cent., and that the value of their holdings in that same period has considerably more than doubled. If we leave out of account all Negroes in the South except those who own land, we find that these alone have become an economic force that must be reckoned with. In South Carolina, for instance, not only are most of the farms run by Negroes but 25 per cent. of the actual owners are black.

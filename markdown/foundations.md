@@ -21,6 +21,29 @@ citation_firstpage: 468
 citation_lastpage: 478
 
 citation: <em>Social Forces,</em> vol 5, no. 3, Mar. 1927, pp. 468--478.
+description: "Abram L. Harris's 1927 article 'Economic Foundations of American Race Division' published in Social Forces. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Harris, Black sociology, historical sociology, race relations, labor economics"
+canonical: "http://crisisopportunity.org/articles/foundations.html"
+og-url: "http://crisisopportunity.org/articles/foundations.html"
+og-title: "Economic Foundations of American Race Division - Abram L. Harris (1927)"
+og-description: "Abram L. Harris's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/the-judgement-day.png"
+twitter-url: "http://crisisopportunity.org/articles/foundations.html"
+twitter-title: "Economic Foundations of American Race Division - Abram L. Harris (1927)"
+twitter-description: "Abram L. Harris's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/the-judgement-day.png"
+article_url: "foundations"
+description: "Abram L. Harris's 1927 article 'Economic Foundations of American Race Division' published in Social Forces. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Harris, Black sociology, historical sociology, race relations, labor economics"
+canonical: "http://crisisopportunity.org/articles/foundations.html"
+og-url: "http://crisisopportunity.org/articles/foundations.html"
+og-title: "Economic Foundations of American Race Division - Abram L. Harris (1927)"
+og-description: "Abram L. Harris's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/the-judgement-day.png"
+twitter-url: "http://crisisopportunity.org/articles/foundations.html"
+twitter-title: "Economic Foundations of American Race Division - Abram L. Harris (1927)"
+twitter-description: "Abram L. Harris's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/the-judgement-day.png"
 ---
 [468]{.pagenum}
 The apologetic school of American race relations considers the social distance[^fn1] between white and black Americans as conforming to a natural order of pre-ordained and inescapable physical, mental and moral differences between different branches of the human species. And according to the philosophy of this school, the abridgment of social distance is undertaken only at the penalty of provoking inherent racial antipathy; the price of social peace being the maintenance of mutually exclusive worlds of racial habitation characterized by reciprocal racial tolerance. The fatalism which runs through this viewpoint hinges upon a belief in well established race differences upon which race prejudice is believed to be based, and, the corresponding conviction that the only way to lessen the belliose manifestations of race prejudice is by rendering wholesale contact between members of each race impossible.

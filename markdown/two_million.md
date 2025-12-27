@@ -21,6 +21,29 @@ citation_firstpage: 64
 citation_lastpage: 72
 
 citation: <em>The Southern Workman,</em> vol LI, no. 2, Feb. 1922, pp. 64--72.
+description: "Elizabeth Ross Haynes's 1922 article 'Two Million Negro Women at Work' published in The Southern Workman. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Haynes, Black sociology, historical sociology, race relations, labor economics, gender studies"
+canonical: "http://crisisopportunity.org/articles/two_million.html"
+og-url: "http://crisisopportunity.org/articles/two_million.html"
+og-title: "Two Million Negro Women at Work - Elizabeth Ross Haynes (1922)"
+og-description: "Elizabeth Ross Haynes's historical sociology article from 1922."
+og-image: "http://crisisopportunity.org/Images/jennie.png"
+twitter-url: "http://crisisopportunity.org/articles/two_million.html"
+twitter-title: "Two Million Negro Women at Work - Elizabeth Ross Haynes (1922)"
+twitter-description: "Elizabeth Ross Haynes's historical sociology article from 1922."
+twitter-image: "http://crisisopportunity.org/Images/jennie.png"
+article_url: "two_million"
+description: "Elizabeth Ross Haynes's 1922 article 'Two Million Negro Women at Work' published in The Southern Workman. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Haynes, Black sociology, historical sociology, race relations, labor economics, gender studies"
+canonical: "http://crisisopportunity.org/articles/two_million.html"
+og-url: "http://crisisopportunity.org/articles/two_million.html"
+og-title: "Two Million Negro Women at Work - Elizabeth Ross Haynes (1922)"
+og-description: "Elizabeth Ross Haynes's historical sociology article from 1922."
+og-image: "http://crisisopportunity.org/Images/jennie.png"
+twitter-url: "http://crisisopportunity.org/articles/two_million.html"
+twitter-title: "Two Million Negro Women at Work - Elizabeth Ross Haynes (1922)"
+twitter-description: "Elizabeth Ross Haynes's historical sociology article from 1922."
+twitter-image: "http://crisisopportunity.org/Images/jennie.png"
 ---
 
 [64]{.pagenum}

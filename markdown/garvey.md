@@ -21,8 +21,29 @@ citation_volume: 4
 citation_issue: 47
 citation_firstpage: 346
 citation_lastpage: 348
-
-
+description: "E. Franklin Frazier's 1926 article 'The Garvey Movement' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/garvey.html"
+og-url: "http://crisisopportunity.org/articles/garvey.html"
+og-title: "The Garvey Movement - E. Franklin Frazier (1926)"
+og-description: "E. Franklin Frazier's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/negro-in-african-setting.png"
+twitter-url: "http://crisisopportunity.org/articles/garvey.html"
+twitter-title: "The Garvey Movement - E. Franklin Frazier (1926)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/negro-in-african-setting.png"
+article_url: "garvey"
+description: "E. Franklin Frazier's 1926 article 'The Garvey Movement' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/garvey.html"
+og-url: "http://crisisopportunity.org/articles/garvey.html"
+og-title: "The Garvey Movement - E. Franklin Frazier (1926)"
+og-description: "E. Franklin Frazier's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/negro-in-african-setting.png"
+twitter-url: "http://crisisopportunity.org/articles/garvey.html"
+twitter-title: "The Garvey Movement - E. Franklin Frazier (1926)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/negro-in-african-setting.png"
 ---
 
 

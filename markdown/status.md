@@ -22,6 +22,29 @@ citation_lastpage: 145
 pdf_URL: PDFS/Cooper_1892_Status_of_Woman.pdf
 
 citation: <em>A Voice from the South. By A Black Woman of the South.,</em> pp.  127--145.
+description: "Anna J. Cooper's 1892 article 'The Status of Woman in America' published in A Voice from the South. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Cooper, Black sociology, historical sociology, race relations, gender studies"
+canonical: "http://crisisopportunity.org/articles/status.html"
+og-url: "http://crisisopportunity.org/articles/status.html"
+og-title: "The Status of Woman in America - Anna J. Cooper (1892)"
+og-description: "Anna J. Cooper's historical sociology article from 1892."
+og-image: "http://crisisopportunity.org/Images/domino-players.png"
+twitter-url: "http://crisisopportunity.org/articles/status.html"
+twitter-title: "The Status of Woman in America - Anna J. Cooper (1892)"
+twitter-description: "Anna J. Cooper's historical sociology article from 1892."
+twitter-image: "http://crisisopportunity.org/Images/domino-players.png"
+article_url: "status"
+description: "Anna J. Cooper's 1892 article 'The Status of Woman in America' published in A Voice from the South. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Cooper, Black sociology, historical sociology, race relations, gender studies"
+canonical: "http://crisisopportunity.org/articles/status.html"
+og-url: "http://crisisopportunity.org/articles/status.html"
+og-title: "The Status of Woman in America - Anna J. Cooper (1892)"
+og-description: "Anna J. Cooper's historical sociology article from 1892."
+og-image: "http://crisisopportunity.org/Images/domino-players.png"
+twitter-url: "http://crisisopportunity.org/articles/status.html"
+twitter-title: "The Status of Woman in America - Anna J. Cooper (1892)"
+twitter-description: "Anna J. Cooper's historical sociology article from 1892."
+twitter-image: "http://crisisopportunity.org/Images/domino-players.png"
 ---
 
 

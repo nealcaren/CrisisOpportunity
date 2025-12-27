@@ -22,7 +22,29 @@ citation_firstpage: 370
 citation_lastpage: 373
 
 pdf_URL: "PDFS/Miller_1926_Heaven.pdf"
-
+description: "Kelly Miller's 1926 article 'Where Is the Negro’s Heaven?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/heaven.html"
+og-url: "http://crisisopportunity.org/articles/heaven.html"
+og-title: "Where Is the Negro’s Heaven? - Kelly Miller (1926)"
+og-description: "Kelly Miller's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/church-on-lennox-avenue.png"
+twitter-url: "http://crisisopportunity.org/articles/heaven.html"
+twitter-title: "Where Is the Negro’s Heaven? - Kelly Miller (1926)"
+twitter-description: "Kelly Miller's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/church-on-lennox-avenue.png"
+article_url: "heaven"
+description: "Kelly Miller's 1926 article 'Where Is the Negro’s Heaven?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/heaven.html"
+og-url: "http://crisisopportunity.org/articles/heaven.html"
+og-title: "Where Is the Negro’s Heaven? - Kelly Miller (1926)"
+og-description: "Kelly Miller's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/church-on-lennox-avenue.png"
+twitter-url: "http://crisisopportunity.org/articles/heaven.html"
+twitter-title: "Where Is the Negro’s Heaven? - Kelly Miller (1926)"
+twitter-description: "Kelly Miller's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/church-on-lennox-avenue.png"
 ---
 
 [370]{.pagenum}

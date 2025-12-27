@@ -20,7 +20,29 @@ citation_firstpage: 74
 citation_lastpage: 80
 
 pdf_URL: "PDFS/Work_1913_Criminality.pdf"
-
+description: "Monroe N. Work's 1913 article 'Negro Criminality in the South' published in The Annals. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/criminality.html"
+og-url: "http://crisisopportunity.org/articles/criminality.html"
+og-title: "Negro Criminality in the South - Monroe N. Work (1913)"
+og-description: "Monroe N. Work's historical sociology article from 1913."
+og-image: "http://crisisopportunity.org/Images/gloucester-harbor.png"
+twitter-url: "http://crisisopportunity.org/articles/criminality.html"
+twitter-title: "Negro Criminality in the South - Monroe N. Work (1913)"
+twitter-description: "Monroe N. Work's historical sociology article from 1913."
+twitter-image: "http://crisisopportunity.org/Images/gloucester-harbor.png"
+article_url: "criminality"
+description: "Monroe N. Work's 1913 article 'Negro Criminality in the South' published in The Annals. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/criminality.html"
+og-url: "http://crisisopportunity.org/articles/criminality.html"
+og-title: "Negro Criminality in the South - Monroe N. Work (1913)"
+og-description: "Monroe N. Work's historical sociology article from 1913."
+og-image: "http://crisisopportunity.org/Images/gloucester-harbor.png"
+twitter-url: "http://crisisopportunity.org/articles/criminality.html"
+twitter-title: "Negro Criminality in the South - Monroe N. Work (1913)"
+twitter-description: "Monroe N. Work's historical sociology article from 1913."
+twitter-image: "http://crisisopportunity.org/Images/gloucester-harbor.png"
 ---
 
 [74]{.pagenum}

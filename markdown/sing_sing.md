@@ -24,6 +24,29 @@ citation_lastpage: 217
 
 pdf_URL: "PDFS/Reid_1932_SingSing.pdf"
 citation: <em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.
+description: "Ira De A. Reid's 1932 article 'The Negro Goes to Sing Sing' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Reid, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/sing_sing.html"
+og-url: "http://crisisopportunity.org/articles/sing_sing.html"
+og-title: "The Negro Goes to Sing Sing - Ira De A. Reid (1932)"
+og-description: "Ira De A. Reid's historical sociology article from 1932."
+og-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+twitter-url: "http://crisisopportunity.org/articles/sing_sing.html"
+twitter-title: "The Negro Goes to Sing Sing - Ira De A. Reid (1932)"
+twitter-description: "Ira De A. Reid's historical sociology article from 1932."
+twitter-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+article_url: "sing_sing"
+description: "Ira De A. Reid's 1932 article 'The Negro Goes to Sing Sing' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Reid, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/sing_sing.html"
+og-url: "http://crisisopportunity.org/articles/sing_sing.html"
+og-title: "The Negro Goes to Sing Sing - Ira De A. Reid (1932)"
+og-description: "Ira De A. Reid's historical sociology article from 1932."
+og-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+twitter-url: "http://crisisopportunity.org/articles/sing_sing.html"
+twitter-title: "The Negro Goes to Sing Sing - Ira De A. Reid (1932)"
+twitter-description: "Ira De A. Reid's historical sociology article from 1932."
+twitter-image: "http://crisisopportunity.org/Images/the-wanderer.png"
 ---
 
 [215]{.pagenum}Sing Sing prison is located thirty miles up the east bank of the Hudson River from New York City; beneath a high bluff, where more than three hundred years ago the Sinck Sinck Indians built their signal fires. Originally called the Mount Pleasant Prison, it is historically the third of New York’s state prisons. The Sing Sing cell block, built entirely by prisoners, was completed in 1828. Because the inmates are committed from the counties of New York State which average one-twentieth of the United States’ population, Sing Sing --- as far as the racial and nationality composition of its population is concerned --- may be truly called the most representative of American prisons.^[Lawes, Lewis E. Life and Death in Sing Sing. New York. Doubleday, Doran & Co. 1928. p. 80.]

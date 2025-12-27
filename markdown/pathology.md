@@ -1,4 +1,4 @@
-﻿---
+---
 charset: 'UTF-8'
 lang:    'en'
 
@@ -25,8 +25,29 @@ citation_volume: 77
 citation_issue: 6
 citation_firstpage: 856
 citation_lastpage: 862
-
-
+description: "E. Franklin Frazier's 1927 article 'The Pathology of Race Prejudice' published in The Forum. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/pathology.html"
+og-url: "http://crisisopportunity.org/articles/pathology.html"
+og-title: "The Pathology of Race Prejudice - E. Franklin Frazier (1927)"
+og-description: "E. Franklin Frazier's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/mob-victim-meditation.png"
+twitter-url: "http://crisisopportunity.org/articles/pathology.html"
+twitter-title: "The Pathology of Race Prejudice - E. Franklin Frazier (1927)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/mob-victim-meditation.png"
+article_url: "pathology"
+description: "E. Franklin Frazier's 1927 article 'The Pathology of Race Prejudice' published in The Forum. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/pathology.html"
+og-url: "http://crisisopportunity.org/articles/pathology.html"
+og-title: "The Pathology of Race Prejudice - E. Franklin Frazier (1927)"
+og-description: "E. Franklin Frazier's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/mob-victim-meditation.png"
+twitter-url: "http://crisisopportunity.org/articles/pathology.html"
+twitter-title: "The Pathology of Race Prejudice - E. Franklin Frazier (1927)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/mob-victim-meditation.png"
 ---
 
 

@@ -20,7 +20,29 @@ citation_firstpage: 412
 citation_lastpage: 421
 
 pdf_URL: "PDFS/Work_1915_Health.pdf"
-
+description: "Monroe N. Work's 1915 article 'The South and the Health of Negroes' published in Southern Sociological Congress. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/health.html"
+og-url: "http://crisisopportunity.org/articles/health.html"
+og-title: "The South and the Health of Negroes - Monroe N. Work (1915)"
+og-description: "Monroe N. Work's historical sociology article from 1915."
+og-image: "http://crisisopportunity.org/Images/war-scene.png"
+twitter-url: "http://crisisopportunity.org/articles/health.html"
+twitter-title: "The South and the Health of Negroes - Monroe N. Work (1915)"
+twitter-description: "Monroe N. Work's historical sociology article from 1915."
+twitter-image: "http://crisisopportunity.org/Images/war-scene.png"
+article_url: "health"
+description: "Monroe N. Work's 1915 article 'The South and the Health of Negroes' published in Southern Sociological Congress. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/health.html"
+og-url: "http://crisisopportunity.org/articles/health.html"
+og-title: "The South and the Health of Negroes - Monroe N. Work (1915)"
+og-description: "Monroe N. Work's historical sociology article from 1915."
+og-image: "http://crisisopportunity.org/Images/war-scene.png"
+twitter-url: "http://crisisopportunity.org/articles/health.html"
+twitter-title: "The South and the Health of Negroes - Monroe N. Work (1915)"
+twitter-description: "Monroe N. Work's historical sociology article from 1915."
+twitter-image: "http://crisisopportunity.org/Images/war-scene.png"
 ---
 
 [412]{.pagenum}The campaign for health improvement which is now going on

@@ -21,7 +21,29 @@ citation_volume: 4
 citation_issue: 3
 citation_firstpage: 308
 citation_lastpage: 320
-
+description: "Ralph J. Bunche's 1935 article 'Tactics and Programs of Minority Groups' published in Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bunche, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/critical_analysis.html"
+og-url: "http://crisisopportunity.org/articles/critical_analysis.html"
+og-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
+og-description: "Ralph J. Bunche's historical sociology article from 1935."
+og-image: "http://crisisopportunity.org/Images/pool-parlor.png"
+twitter-url: "http://crisisopportunity.org/articles/critical_analysis.html"
+twitter-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
+twitter-description: "Ralph J. Bunche's historical sociology article from 1935."
+twitter-image: "http://crisisopportunity.org/Images/pool-parlor.png"
+article_url: "critical_analysis"
+description: "Ralph J. Bunche's 1935 article 'Tactics and Programs of Minority Groups' published in Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bunche, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/critical_analysis.html"
+og-url: "http://crisisopportunity.org/articles/critical_analysis.html"
+og-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
+og-description: "Ralph J. Bunche's historical sociology article from 1935."
+og-image: "http://crisisopportunity.org/Images/pool-parlor.png"
+twitter-url: "http://crisisopportunity.org/articles/critical_analysis.html"
+twitter-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
+twitter-description: "Ralph J. Bunche's historical sociology article from 1935."
+twitter-image: "http://crisisopportunity.org/Images/pool-parlor.png"
 ---
 
 [308]{.pagenum}

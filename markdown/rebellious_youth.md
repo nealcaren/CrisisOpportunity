@@ -22,6 +22,29 @@ citation_lastpage: 375
 pdf_URL: PDFS/Frazier_1939_Delinquent_Youth.pdf
 
 citation: <em>The Negro Family in the United States,</em> Chapter WVII, pp.  358--374.
+description: "E. Franklin Frazier's 1939 article 'Rebellious Youth' published in Negro Family in the US. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/rebellious_youth.html"
+og-url: "http://crisisopportunity.org/articles/rebellious_youth.html"
+og-title: "Rebellious Youth - E. Franklin Frazier (1939)"
+og-description: "E. Franklin Frazier's historical sociology article from 1939."
+og-image: "http://crisisopportunity.org/Images/harlem-street.png"
+twitter-url: "http://crisisopportunity.org/articles/rebellious_youth.html"
+twitter-title: "Rebellious Youth - E. Franklin Frazier (1939)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1939."
+twitter-image: "http://crisisopportunity.org/Images/harlem-street.png"
+article_url: "rebellious_youth"
+description: "E. Franklin Frazier's 1939 article 'Rebellious Youth' published in Negro Family in the US. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/rebellious_youth.html"
+og-url: "http://crisisopportunity.org/articles/rebellious_youth.html"
+og-title: "Rebellious Youth - E. Franklin Frazier (1939)"
+og-description: "E. Franklin Frazier's historical sociology article from 1939."
+og-image: "http://crisisopportunity.org/Images/harlem-street.png"
+twitter-url: "http://crisisopportunity.org/articles/rebellious_youth.html"
+twitter-title: "Rebellious Youth - E. Franklin Frazier (1939)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1939."
+twitter-image: "http://crisisopportunity.org/Images/harlem-street.png"
 ---
 
 [358]{.pagenum}

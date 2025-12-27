@@ -20,7 +20,29 @@ citation_firstpage: 137
 citation_lastpage: 142
 
 pdf_URL: "PDFS/Wright_1910_North_1.pdf"
-
+description: "Monroe N. Work's 1910 article 'The Northern Negro and Crime' published in The Southern Workman. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations, criminology"
+canonical: "http://crisisopportunity.org/articles/north_crime.html"
+og-url: "http://crisisopportunity.org/articles/north_crime.html"
+og-title: "The Northern Negro and Crime - Monroe N. Work (1910)"
+og-description: "Monroe N. Work's historical sociology article from 1910."
+og-image: "http://crisisopportunity.org/Images/dancers.png"
+twitter-url: "http://crisisopportunity.org/articles/north_crime.html"
+twitter-title: "The Northern Negro and Crime - Monroe N. Work (1910)"
+twitter-description: "Monroe N. Work's historical sociology article from 1910."
+twitter-image: "http://crisisopportunity.org/Images/dancers.png"
+article_url: "north_crime"
+description: "Monroe N. Work's 1910 article 'The Northern Negro and Crime' published in The Southern Workman. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Work, Black sociology, historical sociology, race relations, criminology"
+canonical: "http://crisisopportunity.org/articles/north_crime.html"
+og-url: "http://crisisopportunity.org/articles/north_crime.html"
+og-title: "The Northern Negro and Crime - Monroe N. Work (1910)"
+og-description: "Monroe N. Work's historical sociology article from 1910."
+og-image: "http://crisisopportunity.org/Images/dancers.png"
+twitter-url: "http://crisisopportunity.org/articles/north_crime.html"
+twitter-title: "The Northern Negro and Crime - Monroe N. Work (1910)"
+twitter-description: "Monroe N. Work's historical sociology article from 1910."
+twitter-image: "http://crisisopportunity.org/Images/dancers.png"
 ---
 
 [137]{.pagenum}

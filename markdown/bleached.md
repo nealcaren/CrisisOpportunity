@@ -21,8 +21,29 @@ citation_firstpage: 240
 citation_lastpage: 252
 
 pdf_URL: "PDFS/Miller_1926_Bleached.pdf"
-
-
+description: "Kelly Miller's 1926 article 'Is the American Negro to Remain Black?' published in South Atlantic Quarterly. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/bleached.html"
+og-url: "http://crisisopportunity.org/articles/bleached.html"
+og-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
+og-description: "Kelly Miller's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/the-new-negro.png"
+twitter-url: "http://crisisopportunity.org/articles/bleached.html"
+twitter-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
+twitter-description: "Kelly Miller's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/the-new-negro.png"
+article_url: "bleached"
+description: "Kelly Miller's 1926 article 'Is the American Negro to Remain Black?' published in South Atlantic Quarterly. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/bleached.html"
+og-url: "http://crisisopportunity.org/articles/bleached.html"
+og-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
+og-description: "Kelly Miller's historical sociology article from 1926."
+og-image: "http://crisisopportunity.org/Images/the-new-negro.png"
+twitter-url: "http://crisisopportunity.org/articles/bleached.html"
+twitter-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
+twitter-description: "Kelly Miller's historical sociology article from 1926."
+twitter-image: "http://crisisopportunity.org/Images/the-new-negro.png"
 ---
 
 

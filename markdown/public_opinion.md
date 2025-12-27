@@ -21,9 +21,32 @@ citation_issue: 7
 citation_firstpage: 201
 citation_lastpage: 205
 
-pdf_URL: Johnson_1923_Public_Opinion.pdf
+pdf_URL: PDFS/Johnson_1923_Public_Opinion.pdf
 
 citation: <em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.
+description: "Charles S. Johnson's 1923 article 'Public Opinion and the Negro' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Johnson, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/public_opinion.html"
+og-url: "http://crisisopportunity.org/articles/public_opinion.html"
+og-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
+og-description: "Charles S. Johnson's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/dancers.png"
+twitter-url: "http://crisisopportunity.org/articles/public_opinion.html"
+twitter-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
+twitter-description: "Charles S. Johnson's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/dancers.png"
+article_url: "public_opinion"
+description: "Charles S. Johnson's 1923 article 'Public Opinion and the Negro' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Johnson, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/public_opinion.html"
+og-url: "http://crisisopportunity.org/articles/public_opinion.html"
+og-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
+og-description: "Charles S. Johnson's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/dancers.png"
+twitter-url: "http://crisisopportunity.org/articles/public_opinion.html"
+twitter-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
+twitter-description: "Charles S. Johnson's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/dancers.png"
 ---
 
 <span class="pagenum">201</span>

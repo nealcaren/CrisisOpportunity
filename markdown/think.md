@@ -22,6 +22,29 @@ citation_lastpage: 55
 pdf_URL: PDFS/DuBois_1904_think.pdf
 
 citation: <em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.
+description: "W.E.B. Du Bois's 1904 article 'What Negroes Think of Crime' published in Some Notes on Negro Crime. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations, criminology"
+canonical: "http://crisisopportunity.org/articles/think.html"
+og-url: "http://crisisopportunity.org/articles/think.html"
+og-title: "What Negroes Think of Crime - W.E.B. Du Bois (1904)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1904."
+og-image: "http://crisisopportunity.org/Images/harlem-street.png"
+twitter-url: "http://crisisopportunity.org/articles/think.html"
+twitter-title: "What Negroes Think of Crime - W.E.B. Du Bois (1904)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1904."
+twitter-image: "http://crisisopportunity.org/Images/harlem-street.png"
+article_url: "think"
+description: "W.E.B. Du Bois's 1904 article 'What Negroes Think of Crime' published in Some Notes on Negro Crime. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations, criminology"
+canonical: "http://crisisopportunity.org/articles/think.html"
+og-url: "http://crisisopportunity.org/articles/think.html"
+og-title: "What Negroes Think of Crime - W.E.B. Du Bois (1904)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1904."
+og-image: "http://crisisopportunity.org/Images/harlem-street.png"
+twitter-url: "http://crisisopportunity.org/articles/think.html"
+twitter-title: "What Negroes Think of Crime - W.E.B. Du Bois (1904)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1904."
+twitter-image: "http://crisisopportunity.org/Images/harlem-street.png"
 ---
 
 [54]{.pagenum}As a rough answer to this question, the results of written answers of Negro school children and students have been collected. A series of simple questions were first put to 1,500 Negro school children in the Atlanta public schools. The most of them were between the ages of 9 and 15 years and were city bred. Of these 583 said that laws were made “for protection;” 315, “to keep peace” or “order;” and 183, to “govern” or “rule” persons.

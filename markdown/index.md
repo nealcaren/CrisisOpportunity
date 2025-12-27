@@ -1,3 +1,43 @@
+---
+lang: en
+pagetitle: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars | Historical Articles & Research"
+description: "Explore forgotten works of early Black sociologists including W.E.B. Du Bois, E. Franklin Frazier, Charles S. Johnson, and others. Historical articles on race relations, urban sociology, labor economics, and social movements from the early decades of American sociology."
+keywords: "Black sociology, early American sociology, W.E.B. Du Bois, E. Franklin Frazier, Charles S. Johnson, Great Migration, Harlem Renaissance scholarship, historical sociology, race relations, urban sociology, Kelly Miller, Anna J. Cooper"
+canonical: "http://crisisopportunity.org/"
+sitemap: "/sitemap.xml"
+og-type: "website"
+og-url: "http://crisisopportunity.org/"
+og-title: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars"
+og-description: "A compilation of largely-forgotten works by Black scholars from the early decades of sociology. Explore historical articles on race, migration, labor, and social movements."
+og-image: "http://crisisopportunity.org/Images/logo1.png"
+twitter-card: "summary_large_image"
+twitter-url: "http://crisisopportunity.org/"
+twitter-title: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars"
+twitter-description: "A compilation of largely-forgotten works by Black scholars from the early decades of sociology."
+twitter-image: "http://crisisopportunity.org/Images/logo1.png"
+header-includes: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Crisis & Opportunity",
+    "description": "A compilation of largely-forgotten works by Black scholars from the early decades of sociology. These articles offer valuable insights into the evolution of sociology and its relevance to current social issues.",
+    "url": "http://crisisopportunity.org/",
+    "publisher": {
+      "@type": "Person",
+      "name": "Neal Caren",
+      "email": "neal.caren@unc.edu"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Sociology",
+      "sameAs": "https://en.wikipedia.org/wiki/Sociology"
+    },
+    "keywords": ["Black sociology", "W.E.B. Du Bois", "E. Franklin Frazier", "Charles S. Johnson", "historical sociology", "race relations", "Great Migration", "urban sociology"]
+  }
+  </script>
+---
+
 [&nbsp;]{.motto}
 
 # Racial Identity

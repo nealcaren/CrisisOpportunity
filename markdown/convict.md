@@ -22,6 +22,29 @@ citation_lastpage: 24
 pdf_URL: PDFS/Wells_1893_Convict_Lease_System.pdf
 
 citation: <em>The Reason Why the Colored American Is Not in the World's Columbian Exposition,</em> Chapter 3, pp.  19--24.
+description: "Ida B. Wells's 1893 article 'The Convict Lease System' published in Reason Why the Colored American Is Not in the World's Columbian Exposition. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Wells, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/convict.html"
+og-url: "http://crisisopportunity.org/articles/convict.html"
+og-title: "The Convict Lease System - Ida B. Wells (1893)"
+og-description: "Ida B. Wells's historical sociology article from 1893."
+og-image: "http://crisisopportunity.org/Images/the-wash.png"
+twitter-url: "http://crisisopportunity.org/articles/convict.html"
+twitter-title: "The Convict Lease System - Ida B. Wells (1893)"
+twitter-description: "Ida B. Wells's historical sociology article from 1893."
+twitter-image: "http://crisisopportunity.org/Images/the-wash.png"
+article_url: "convict"
+description: "Ida B. Wells's 1893 article 'The Convict Lease System' published in Reason Why the Colored American Is Not in the World's Columbian Exposition. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Wells, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/convict.html"
+og-url: "http://crisisopportunity.org/articles/convict.html"
+og-title: "The Convict Lease System - Ida B. Wells (1893)"
+og-description: "Ida B. Wells's historical sociology article from 1893."
+og-image: "http://crisisopportunity.org/Images/the-wash.png"
+twitter-url: "http://crisisopportunity.org/articles/convict.html"
+twitter-title: "The Convict Lease System - Ida B. Wells (1893)"
+twitter-description: "Ida B. Wells's historical sociology article from 1893."
+twitter-image: "http://crisisopportunity.org/Images/the-wash.png"
 ---
 
 <span class="pagenum">19</span>

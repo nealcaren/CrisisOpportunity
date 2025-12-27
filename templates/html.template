@@ -5,13 +5,61 @@
   <meta name="generator" content="pandoc">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, height=device-height"/>
 
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+
+  <!-- SEO Meta Tags -->
+$if(description)$
+  <meta name="description" content="$description$">
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$keywords$">
+$endif$
 $for(author-meta)$
   <meta name="author" content="$author-meta$">
 $endfor$
 $if(date-meta)$
   <meta name="dcterms.date" content="$date-meta$">
 $endif$
-  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+$if(canonical)$
+  <link rel="canonical" href="$canonical$">
+$endif$
+$if(sitemap)$
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="$sitemap$">
+$endif$
+
+  <!-- Open Graph / Facebook -->
+$if(og-type)$
+  <meta property="og:type" content="$og-type$">
+$endif$
+$if(og-url)$
+  <meta property="og:url" content="$og-url$">
+$endif$
+$if(og-title)$
+  <meta property="og:title" content="$og-title$">
+$endif$
+$if(og-description)$
+  <meta property="og:description" content="$og-description$">
+$endif$
+$if(og-image)$
+  <meta property="og:image" content="$og-image$">
+$endif$
+
+  <!-- Twitter -->
+$if(twitter-card)$
+  <meta property="twitter:card" content="$twitter-card$">
+$endif$
+$if(twitter-url)$
+  <meta property="twitter:url" content="$twitter-url$">
+$endif$
+$if(twitter-title)$
+  <meta property="twitter:title" content="$twitter-title$">
+$endif$
+$if(twitter-description)$
+  <meta property="twitter:description" content="$twitter-description$">
+$endif$
+$if(twitter-image)$
+  <meta property="twitter:image" content="$twitter-image$">
+$endif$
   <style type="text/css">code{white-space: pre;}</style>
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

@@ -20,7 +20,29 @@ citation_firstpage: 1
 citation_lastpage: 12
 
 pdf_URL: "PDFS/DuBois_1910_EconomicAspect.pdf"
-
+description: "W.E.B. Du Bois's 1898 article 'Study of the Negro Problems' published in The Annals. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/negro_problems.html"
+og-url: "http://crisisopportunity.org/articles/negro_problems.html"
+og-title: "Study of the Negro Problems - W.E.B. Du Bois (1898)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1898."
+og-image: "http://crisisopportunity.org/Images/meeting-place.png"
+twitter-url: "http://crisisopportunity.org/articles/negro_problems.html"
+twitter-title: "Study of the Negro Problems - W.E.B. Du Bois (1898)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1898."
+twitter-image: "http://crisisopportunity.org/Images/meeting-place.png"
+article_url: "negro_problems"
+description: "W.E.B. Du Bois's 1898 article 'Study of the Negro Problems' published in The Annals. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bois, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/negro_problems.html"
+og-url: "http://crisisopportunity.org/articles/negro_problems.html"
+og-title: "Study of the Negro Problems - W.E.B. Du Bois (1898)"
+og-description: "W.E.B. Du Bois's historical sociology article from 1898."
+og-image: "http://crisisopportunity.org/Images/meeting-place.png"
+twitter-url: "http://crisisopportunity.org/articles/negro_problems.html"
+twitter-title: "Study of the Negro Problems - W.E.B. Du Bois (1898)"
+twitter-description: "W.E.B. Du Bois's historical sociology article from 1898."
+twitter-image: "http://crisisopportunity.org/Images/meeting-place.png"
 ---
 
 [1]{.pagenum}The present period in the development of sociological study is a trying one; it is the period of observation, research and comparison---work always wearisome, often aimless, without well-settled principles and guiding lines, and subject ever to the pertinent criticism: What, after all, has been accomplished? To this the one positive answer which years of research and speculation have been able to return is that the phenomena of society are worth the most careful and systematic study, and whether or not this study may eventually lead to a systematic body of knowledge deserving the name of science, it cannot in any case fail to give the world a mass of truth worth the knowing.

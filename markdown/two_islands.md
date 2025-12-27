@@ -27,8 +27,29 @@ citation_volume: 36
 citation_issue: 4
 citation_firstpage: 552
 citation_lastpage: 567
-
-
+description: "Horace Mann Bond's 1931 article 'Two Racial Islands in Alabama' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bond, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/two_islands.html"
+og-url: "http://crisisopportunity.org/articles/two_islands.html"
+og-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
+og-description: "Horace Mann Bond's historical sociology article from 1931."
+og-image: "http://crisisopportunity.org/Images/the-wash.png"
+twitter-url: "http://crisisopportunity.org/articles/two_islands.html"
+twitter-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
+twitter-description: "Horace Mann Bond's historical sociology article from 1931."
+twitter-image: "http://crisisopportunity.org/Images/the-wash.png"
+article_url: "two_islands"
+description: "Horace Mann Bond's 1931 article 'Two Racial Islands in Alabama' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Bond, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/two_islands.html"
+og-url: "http://crisisopportunity.org/articles/two_islands.html"
+og-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
+og-description: "Horace Mann Bond's historical sociology article from 1931."
+og-image: "http://crisisopportunity.org/Images/the-wash.png"
+twitter-url: "http://crisisopportunity.org/articles/two_islands.html"
+twitter-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
+twitter-description: "Horace Mann Bond's historical sociology article from 1931."
+twitter-image: "http://crisisopportunity.org/Images/the-wash.png"
 ---
 
 ## I

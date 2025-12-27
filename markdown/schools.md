@@ -22,7 +22,29 @@ citation_lastpage: 11
 
 citation: <em>Opportunity,</em> vol 1, no. 6, Jun. 1923, pp. 8--11.
 pdf_URL: "PDFS/McDougald_1923_Schools.pdf"
-
+description: "Elise Johnson McDougald's 1923 article 'Schools and the Vocational Life of Negroes' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "McDougald, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/schools.html"
+og-url: "http://crisisopportunity.org/articles/schools.html"
+og-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+og-description: "Elise Johnson McDougald's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/new-york-cityscape.png"
+twitter-url: "http://crisisopportunity.org/articles/schools.html"
+twitter-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+twitter-description: "Elise Johnson McDougald's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/new-york-cityscape.png"
+article_url: "schools"
+description: "Elise Johnson McDougald's 1923 article 'Schools and the Vocational Life of Negroes' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "McDougald, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/schools.html"
+og-url: "http://crisisopportunity.org/articles/schools.html"
+og-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+og-description: "Elise Johnson McDougald's historical sociology article from 1923."
+og-image: "http://crisisopportunity.org/Images/new-york-cityscape.png"
+twitter-url: "http://crisisopportunity.org/articles/schools.html"
+twitter-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+twitter-description: "Elise Johnson McDougald's historical sociology article from 1923."
+twitter-image: "http://crisisopportunity.org/Images/new-york-cityscape.png"
 ---
 
 [8]{.pagenum}

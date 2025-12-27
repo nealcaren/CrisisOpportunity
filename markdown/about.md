@@ -1,3 +1,21 @@
+---
+lang: en
+pagetitle: "About Crisis & Opportunity - Forgotten Works by Early Black Sociologists"
+description: "Learn about Crisis & Opportunity, a compilation of largely-forgotten works by Black scholars from the early decades of sociology. Named after two prominent periodicals founded by W.E.B. Du Bois and Charles S. Johnson."
+keywords: "Crisis magazine, Opportunity magazine, W.E.B. Du Bois, Charles S. Johnson, Black sociology history, early American sociology, NAACP, National Urban League"
+canonical: "http://crisisopportunity.org/about.html"
+og-type: "website"
+og-url: "http://crisisopportunity.org/about.html"
+og-title: "About Crisis & Opportunity - Forgotten Works by Early Black Sociologists"
+og-description: "Learn about this compilation of largely-forgotten works by Black scholars from the early decades of sociology."
+og-image: "http://crisisopportunity.org/Images/logo1.png"
+twitter-card: "summary"
+twitter-url: "http://crisisopportunity.org/about.html"
+twitter-title: "About Crisis & Opportunity"
+twitter-description: "Learn about this compilation of largely-forgotten works by Black scholars from the early decades of sociology."
+twitter-image: "http://crisisopportunity.org/Images/logo1.png"
+---
+
 &nbsp;
 
 [Crisis *&* Opportunity]{.smallcaps} is a compilation of largely-forgotten works by Black scholars from the early decades of sociology. These articles offer valuable insights into the evolution of sociology and its relevance to current social issues. Many of the selected works have been previously hard to access or ignored, and their republication aims to promote a more diverse and inclusive understanding of the discipline's history.

@@ -21,6 +21,29 @@ citation_firstpage: 170
 citation_lastpage: 173
 
 citation: <em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.
+description: "Ira De A. Reid's 1930 article 'Lily-White Labor' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Reid, Black sociology, historical sociology, race relations, labor economics"
+canonical: "http://crisisopportunity.org/articles/lilywhite.html"
+og-url: "http://crisisopportunity.org/articles/lilywhite.html"
+og-title: "Lily-White Labor - Ira De A. Reid (1930)"
+og-description: "Ira De A. Reid's historical sociology article from 1930."
+og-image: "http://crisisopportunity.org/Images/building-more-stately-mansions.png"
+twitter-url: "http://crisisopportunity.org/articles/lilywhite.html"
+twitter-title: "Lily-White Labor - Ira De A. Reid (1930)"
+twitter-description: "Ira De A. Reid's historical sociology article from 1930."
+twitter-image: "http://crisisopportunity.org/Images/building-more-stately-mansions.png"
+article_url: "lilywhite"
+description: "Ira De A. Reid's 1930 article 'Lily-White Labor' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Reid, Black sociology, historical sociology, race relations, labor economics"
+canonical: "http://crisisopportunity.org/articles/lilywhite.html"
+og-url: "http://crisisopportunity.org/articles/lilywhite.html"
+og-title: "Lily-White Labor - Ira De A. Reid (1930)"
+og-description: "Ira De A. Reid's historical sociology article from 1930."
+og-image: "http://crisisopportunity.org/Images/building-more-stately-mansions.png"
+twitter-url: "http://crisisopportunity.org/articles/lilywhite.html"
+twitter-title: "Lily-White Labor - Ira De A. Reid (1930)"
+twitter-description: "Ira De A. Reid's historical sociology article from 1930."
+twitter-image: "http://crisisopportunity.org/Images/building-more-stately-mansions.png"
 ---
 
 [170]{.pagenum}

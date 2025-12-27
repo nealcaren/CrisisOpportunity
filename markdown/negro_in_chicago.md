@@ -21,8 +21,30 @@ citation_volume: 29
 citation_issue: 4
 citation_firstpage: 499
 citation_lastpage: 503
-pdf_URL: Miller_1924_Negro_in_Chicago.pdf
-
+pdf_URL: PDFS/Miller_1924_Negro_in_Chicago.pdf
+description: "Kelly Miller's 1924 article 'Review of The Negro in Chicago,' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations, urban sociology"
+canonical: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+og-url: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+og-title: "Review of The Negro in Chicago, - Kelly Miller (1924)"
+og-description: "Kelly Miller's historical sociology article from 1924."
+og-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+twitter-url: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+twitter-title: "Review of The Negro in Chicago, - Kelly Miller (1924)"
+twitter-description: "Kelly Miller's historical sociology article from 1924."
+twitter-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+article_url: "negro_in_chicago"
+description: "Kelly Miller's 1924 article 'Review of The Negro in Chicago,' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Miller, Black sociology, historical sociology, race relations, urban sociology"
+canonical: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+og-url: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+og-title: "Review of The Negro in Chicago, - Kelly Miller (1924)"
+og-description: "Kelly Miller's historical sociology article from 1924."
+og-image: "http://crisisopportunity.org/Images/the-wanderer.png"
+twitter-url: "http://crisisopportunity.org/articles/negro_in_chicago.html"
+twitter-title: "Review of The Negro in Chicago, - Kelly Miller (1924)"
+twitter-description: "Kelly Miller's historical sociology article from 1924."
+twitter-image: "http://crisisopportunity.org/Images/the-wanderer.png"
 ---
 
 [499]{.pagenum}

@@ -22,6 +22,29 @@ citation_lastpage: 424
 
 pdf_URL: "PDFS/Cayton_1939_Social.pdf"
 citation: <em>Black Workers and the New Unions,</em> 1939, pp.  372--424.
+description: "Horace R. Cayton and George S. Mitchell's 1939 article 'Social Organization of the Negro Community and the Union Movement' published in Black Workers and the New Unions. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Mitchell, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/social_organization.html"
+og-url: "http://crisisopportunity.org/articles/social_organization.html"
+og-title: "Social Organization of the Negro Community and the Union ... - Horace R. Cayton and George S. Mitchell (1939)"
+og-description: "Horace R. Cayton and George S. Mitchell's historical sociology article from 1939."
+og-image: "http://crisisopportunity.org/Images/a-step-in-the-right-direction.png"
+twitter-url: "http://crisisopportunity.org/articles/social_organization.html"
+twitter-title: "Social Organization of the Negro Community and the Union ... - Horace R. Cayton and George S. Mitchell (1939)"
+twitter-description: "Horace R. Cayton and George S. Mitchell's historical sociology article from 1939."
+twitter-image: "http://crisisopportunity.org/Images/a-step-in-the-right-direction.png"
+article_url: "social_organization"
+description: "Horace R. Cayton and George S. Mitchell's 1939 article 'Social Organization of the Negro Community and the Union Movement' published in Black Workers and the New Unions. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Mitchell, Black sociology, historical sociology, race relations, Great Migration"
+canonical: "http://crisisopportunity.org/articles/social_organization.html"
+og-url: "http://crisisopportunity.org/articles/social_organization.html"
+og-title: "Social Organization of the Negro Community and the Union ... - Horace R. Cayton and George S. Mitchell (1939)"
+og-description: "Horace R. Cayton and George S. Mitchell's historical sociology article from 1939."
+og-image: "http://crisisopportunity.org/Images/a-step-in-the-right-direction.png"
+twitter-url: "http://crisisopportunity.org/articles/social_organization.html"
+twitter-title: "Social Organization of the Negro Community and the Union ... - Horace R. Cayton and George S. Mitchell (1939)"
+twitter-description: "Horace R. Cayton and George S. Mitchell's historical sociology article from 1939."
+twitter-image: "http://crisisopportunity.org/Images/a-step-in-the-right-direction.png"
 ---
 
 [372]{.pagenum}Most discussions of the question of Negroes in the labor movement have

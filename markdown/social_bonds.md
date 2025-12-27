@@ -22,6 +22,29 @@ citation_lastpage: 44
 citation_title: Social Bonds in the \"Black Belt\" of Chicago
 pdf_URL: "PDFS/Williams_1905_Bonds.pdf"
 citation: <em>Charities,</em> vol XV, no. 1, Oct. 1905, pp.  40--44.
+description: "Fannie Barrier Williams's 1905 article 'Social Bonds in the "Black Belt" of Chicago' published in Charities. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Williams, Black sociology, historical sociology, race relations, urban sociology"
+canonical: "http://crisisopportunity.org/articles/social_bonds.html"
+og-url: "http://crisisopportunity.org/articles/social_bonds.html"
+og-title: "Social Bonds in the "Black Belt" of Chicago - Fannie Barrier Williams (1905)"
+og-description: "Fannie Barrier Williams's historical sociology article from 1905."
+og-image: "http://crisisopportunity.org/Images/looking-upward.png"
+twitter-url: "http://crisisopportunity.org/articles/social_bonds.html"
+twitter-title: "Social Bonds in the "Black Belt" of Chicago - Fannie Barrier Williams (1905)"
+twitter-description: "Fannie Barrier Williams's historical sociology article from 1905."
+twitter-image: "http://crisisopportunity.org/Images/looking-upward.png"
+article_url: "social_bonds"
+description: "Fannie Barrier Williams's 1905 article 'Social Bonds in the "Black Belt" of Chicago' published in Charities. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Williams, Black sociology, historical sociology, race relations, urban sociology"
+canonical: "http://crisisopportunity.org/articles/social_bonds.html"
+og-url: "http://crisisopportunity.org/articles/social_bonds.html"
+og-title: "Social Bonds in the "Black Belt" of Chicago - Fannie Barrier Williams (1905)"
+og-description: "Fannie Barrier Williams's historical sociology article from 1905."
+og-image: "http://crisisopportunity.org/Images/looking-upward.png"
+twitter-url: "http://crisisopportunity.org/articles/social_bonds.html"
+twitter-title: "Social Bonds in the "Black Belt" of Chicago - Fannie Barrier Williams (1905)"
+twitter-description: "Fannie Barrier Williams's historical sociology article from 1905."
+twitter-image: "http://crisisopportunity.org/Images/looking-upward.png"
 ---
 
 

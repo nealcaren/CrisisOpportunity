@@ -23,7 +23,29 @@ citation_firstpage: 165
 citation_lastpage: 166
 
 pdf_URL: "PDFS/Frazier_1926_Scourges.pdf"
-
+description: "E. Franklin Frazier's 1927 article 'Is the Negro Family a Unique Sociological Unit?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/unique.html"
+og-url: "http://crisisopportunity.org/articles/unique.html"
+og-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
+og-description: "E. Franklin Frazier's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/harriet-tubman-series.png"
+twitter-url: "http://crisisopportunity.org/articles/unique.html"
+twitter-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/harriet-tubman-series.png"
+article_url: "unique"
+description: "E. Franklin Frazier's 1927 article 'Is the Negro Family a Unique Sociological Unit?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "Frazier, Black sociology, historical sociology, race relations"
+canonical: "http://crisisopportunity.org/articles/unique.html"
+og-url: "http://crisisopportunity.org/articles/unique.html"
+og-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
+og-description: "E. Franklin Frazier's historical sociology article from 1927."
+og-image: "http://crisisopportunity.org/Images/harriet-tubman-series.png"
+twitter-url: "http://crisisopportunity.org/articles/unique.html"
+twitter-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
+twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
+twitter-image: "http://crisisopportunity.org/Images/harriet-tubman-series.png"
 ---
 
 
