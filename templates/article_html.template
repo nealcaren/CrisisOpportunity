@@ -49,8 +49,8 @@ $if(pdf_URL)$
 <meta name="citation_pdf_url" content="https://www.crisisopportunity.org/articles/$pdf_URL$">
 $endif$
 $if(article_url)$
-  <meta name="citation_fulltext_html_url" content="http://crisisopportunity.org/articles/$article_url$.html">
-  <meta name="citation_abstract_html_url" content="http://crisisopportunity.org/articles/$article_url$.html">
+  <meta name="citation_fulltext_html_url" content="https://crisisopportunity.org/articles/$article_url$.html">
+  <meta name="citation_abstract_html_url" content="https://crisisopportunity.org/articles/$article_url$.html">
 $endif$
 $if(lang)$
   <meta name="citation_language" content="$lang$">

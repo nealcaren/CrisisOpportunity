@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://crisisopportunity.org/books/sitemap.xml
+Sitemap: https://crisisopportunity.org/books/sitemap.xml

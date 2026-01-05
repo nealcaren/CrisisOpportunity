@@ -80,8 +80,8 @@ for row in articles:
         # Generate SEO fields
         description = generate_description(title, author_name, journal, year)
         keywords = generate_keywords(author_name, title, journal)
-        canonical_url = f"http://crisisopportunity.org/articles/{article_url}.html"
-        og_image = f"http://crisisopportunity.org/Images/{art_slug}.png"
+        canonical_url = f"https://crisisopportunity.org/articles/{article_url}.html"
+        og_image = f"https://crisisopportunity.org/Images/{art_slug}.png"
 
         # Create short title for OG (remove HTML)
         og_title = re.sub(r'<[^>]+>', '', title).replace('&nbsp;', ' ')

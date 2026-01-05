@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>http://crisisopportunity.org/sitemap_articles.xml</loc>
+    <loc>https://crisisopportunity.org/sitemap_articles.xml</loc>
     <lastmod>2025-12-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>http://crisisopportunity.org/books/sitemap.xml</loc>
+    <loc>https://crisisopportunity.org/books/sitemap.xml</loc>
     <lastmod>2025-12-27</lastmod>
   </sitemap>
 </sitemapindex>
