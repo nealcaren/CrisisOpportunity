@@ -34,17 +34,6 @@ twitter-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDou
 twitter-description: "Elise Johnson McDougald's historical sociology article from 1923."
 twitter-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
 article_url: "schools"
-description: "Elise Johnson McDougald's 1923 article 'Schools and the Vocational Life of Negroes' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "McDougald, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/schools.html"
-og-url: "https://crisisopportunity.org/articles/schools.html"
-og-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
-og-description: "Elise Johnson McDougald's historical sociology article from 1923."
-og-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
-twitter-url: "https://crisisopportunity.org/articles/schools.html"
-twitter-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
-twitter-description: "Elise Johnson McDougald's historical sociology article from 1923."
-twitter-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
 ---
 
 [8]{.pagenum}

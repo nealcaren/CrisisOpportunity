@@ -22,7 +22,9 @@ citation_lastpage: 1
 
 citation: <em>Opportunity,</em> vol 4, no. 37, July 1926, pp.  7--11.
 pdf_URL: "PDFS/Jones_1926_Negro_Migration.pdf"
-description: "Eugene Kinckle Jones's 1926 article 'Negro Migration in New York State' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'Negro Migration in New York State (Eugene Kinckle Jones, 1926)'
+description: 'National Urban League director Eugene Kinckle Jones''s 1926 analysis of the Great Migration''s impact on New York State — housing, employment, and community life for Black migrants from the South. Published in Opportunity magazine. Full text of the public-domain original.'
 keywords: "Jones, Black sociology, historical sociology, race relations, Great Migration"
 canonical: "https://crisisopportunity.org/articles/migration.html"
 og-url: "https://crisisopportunity.org/articles/migration.html"
@@ -34,17 +36,6 @@ twitter-title: "Negro Migration in New York State - Eugene Kinckle Jones (1926)"
 twitter-description: "Eugene Kinckle Jones's historical sociology article from 1926."
 twitter-image: "https://crisisopportunity.org/Images/the-migration-of-the-negro-panel-1.png"
 article_url: "migration"
-description: "Eugene Kinckle Jones's 1926 article 'Negro Migration in New York State' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Jones, Black sociology, historical sociology, race relations, Great Migration"
-canonical: "https://crisisopportunity.org/articles/migration.html"
-og-url: "https://crisisopportunity.org/articles/migration.html"
-og-title: "Negro Migration in New York State - Eugene Kinckle Jones (1926)"
-og-description: "Eugene Kinckle Jones's historical sociology article from 1926."
-og-image: "https://crisisopportunity.org/Images/the-migration-of-the-negro-panel-1.png"
-twitter-url: "https://crisisopportunity.org/articles/migration.html"
-twitter-title: "Negro Migration in New York State - Eugene Kinckle Jones (1926)"
-twitter-description: "Eugene Kinckle Jones's historical sociology article from 1926."
-twitter-image: "https://crisisopportunity.org/Images/the-migration-of-the-negro-panel-1.png"
 ---
 
 [7]{.pagenum}The Negro population in northern United States increased in the ten years between 1910 and 1920 from 1,000,000 to more than 1,500,000. Since the larger part of this half million increase occurred in the few years prior to 1920 and the increase since 1920 has been at about the same rate, it is fair to estimate that there are now close to two million Negroes north of the Mason and Dixon line. The increase was due in the main to the migration of Negroes from the South and to the relatively small West Indian immigration.

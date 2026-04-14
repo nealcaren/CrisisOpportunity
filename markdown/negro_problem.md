@@ -21,7 +21,9 @@ citation_publication_date: 1911
 pdf_URL: PDFS/the-negro-problem.pdf
 
 citation: <em>The Negro Problem.</em> 1911. The A.M.E. Book Concern.
-description: "Richard R. Wright, Jr.'s 1911 article 'The Negro Problem' published in The Negro Problem. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'The Negro Problem: What It Is and What It Is Not (Richard R. Wright Jr., 1911)'
+description: 'Richard R. Wright Jr.''s 1911 lectures defining "the Negro problem" — arguing that it is not a problem of Black Americans but a sociological problem of American society as a whole. Published by the AME Book Concern. Full text of the public-domain original.'
 keywords: "Jr, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/negro_problem.html"
 og-url: "https://crisisopportunity.org/articles/negro_problem.html"
@@ -33,17 +35,6 @@ twitter-title: "The Negro Problem - Richard R. Wright, Jr. (1911)"
 twitter-description: "Richard R. Wright, Jr.'s historical sociology article from 1911."
 twitter-image: "https://crisisopportunity.org/Images/war-scene.png"
 article_url: "negro_problem"
-description: "Richard R. Wright, Jr.'s 1911 article 'The Negro Problem' published in The Negro Problem. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Jr, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/negro_problem.html"
-og-url: "https://crisisopportunity.org/articles/negro_problem.html"
-og-title: "The Negro Problem - Richard R. Wright, Jr. (1911)"
-og-description: "Richard R. Wright, Jr.'s historical sociology article from 1911."
-og-image: "https://crisisopportunity.org/Images/war-scene.png"
-twitter-url: "https://crisisopportunity.org/articles/negro_problem.html"
-twitter-title: "The Negro Problem - Richard R. Wright, Jr. (1911)"
-twitter-description: "Richard R. Wright, Jr.'s historical sociology article from 1911."
-twitter-image: "https://crisisopportunity.org/Images/war-scene.png"
 ---
 
 

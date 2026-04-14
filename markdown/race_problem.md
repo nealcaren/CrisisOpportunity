@@ -34,17 +34,6 @@ twitter-title: "Has America a Race Problem - Anna J. Cooper (1892)"
 twitter-description: "Anna J. Cooper's historical sociology article from 1892."
 twitter-image: "https://crisisopportunity.org/Images/dancers.png"
 article_url: "race_problem"
-description: "Anna J. Cooper's 1892 article 'Has America a Race Problem' published in A Voice from the South. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Cooper, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/race_problem.html"
-og-url: "https://crisisopportunity.org/articles/race_problem.html"
-og-title: "Has America a Race Problem - Anna J. Cooper (1892)"
-og-description: "Anna J. Cooper's historical sociology article from 1892."
-og-image: "https://crisisopportunity.org/Images/dancers.png"
-twitter-url: "https://crisisopportunity.org/articles/race_problem.html"
-twitter-title: "Has America a Race Problem - Anna J. Cooper (1892)"
-twitter-description: "Anna J. Cooper's historical sociology article from 1892."
-twitter-image: "https://crisisopportunity.org/Images/dancers.png"
 ---
 
 

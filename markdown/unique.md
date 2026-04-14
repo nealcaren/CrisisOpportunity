@@ -35,17 +35,6 @@ twitter-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Fr
 twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
 twitter-image: "https://crisisopportunity.org/Images/harriet-tubman-series.png"
 article_url: "unique"
-description: "E. Franklin Frazier's 1927 article 'Is the Negro Family a Unique Sociological Unit?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Frazier, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/unique.html"
-og-url: "https://crisisopportunity.org/articles/unique.html"
-og-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
-og-description: "E. Franklin Frazier's historical sociology article from 1927."
-og-image: "https://crisisopportunity.org/Images/harriet-tubman-series.png"
-twitter-url: "https://crisisopportunity.org/articles/unique.html"
-twitter-title: "Is the Negro Family a Unique Sociological Unit? - E. Franklin Frazier (1927)"
-twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
-twitter-image: "https://crisisopportunity.org/Images/harriet-tubman-series.png"
 ---
 
 

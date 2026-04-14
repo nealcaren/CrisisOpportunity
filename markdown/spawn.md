@@ -35,17 +35,6 @@ twitter-title: "Spawn of Slavery - W.E.B. Du Bois (1901)"
 twitter-description: "W.E.B. Du Bois's historical sociology article from 1901."
 twitter-image: "https://crisisopportunity.org/Images/the-judgement-day.png"
 article_url: "spawn"
-description: "W.E.B. Du Bois's 1901 article 'Spawn of Slavery' published in Missionary Review. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bois, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/spawn.html"
-og-url: "https://crisisopportunity.org/articles/spawn.html"
-og-title: "Spawn of Slavery - W.E.B. Du Bois (1901)"
-og-description: "W.E.B. Du Bois's historical sociology article from 1901."
-og-image: "https://crisisopportunity.org/Images/the-judgement-day.png"
-twitter-url: "https://crisisopportunity.org/articles/spawn.html"
-twitter-title: "Spawn of Slavery - W.E.B. Du Bois (1901)"
-twitter-description: "W.E.B. Du Bois's historical sociology article from 1901."
-twitter-image: "https://crisisopportunity.org/Images/the-judgement-day.png"
 ---
 
 <span class="pagenum">737</span> 

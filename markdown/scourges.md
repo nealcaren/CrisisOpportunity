@@ -35,17 +35,6 @@ twitter-title: "Three Scourges of the Negro Family - E. Franklin Frazier (1926)"
 twitter-description: "E. Franklin Frazier's historical sociology article from 1926."
 twitter-image: "https://crisisopportunity.org/Images/sorrow.png"
 article_url: "scourges"
-description: "E. Franklin Frazier's 1926 article 'Three Scourges of the Negro Family' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Frazier, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/scourges.html"
-og-url: "https://crisisopportunity.org/articles/scourges.html"
-og-title: "Three Scourges of the Negro Family - E. Franklin Frazier (1926)"
-og-description: "E. Franklin Frazier's historical sociology article from 1926."
-og-image: "https://crisisopportunity.org/Images/sorrow.png"
-twitter-url: "https://crisisopportunity.org/articles/scourges.html"
-twitter-title: "Three Scourges of the Negro Family - E. Franklin Frazier (1926)"
-twitter-description: "E. Franklin Frazier's historical sociology article from 1926."
-twitter-image: "https://crisisopportunity.org/Images/sorrow.png"
 ---
 
 [210]{.pagenum}

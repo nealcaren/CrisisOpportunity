@@ -24,7 +24,9 @@ citation_lastpage: 73
 
 pdf_URL: "PDFS/Wright_1905_Unrest.pdf"
 citation: <em>Charities,</em> vol XV, no. 1, Oct. 1905, pp.  69--73.
-description: "Richard R. Wright, Jr.'s 1905 article 'The Negro in Times of Industrial Unrest' published in Charities. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'The Negro in Times of Industrial Unrest: Black Workers in the 1905 Chicago Teamsters Strike (Wright, 1905)'
+description: 'Richard R. Wright Jr.''s 1905 account of Black workers as strikebreakers during the Chicago Teamsters strike — race, labor, and the politics of industrial conflict at the turn of the twentieth century. Published in Charities magazine. Full text of the public-domain original.'
 keywords: "Jr, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/unrest.html"
 og-url: "https://crisisopportunity.org/articles/unrest.html"
@@ -36,17 +38,6 @@ twitter-title: "The Negro in Times of Industrial Unrest - Richard R. Wright, Jr.
 twitter-description: "Richard R. Wright, Jr.'s historical sociology article from 1905."
 twitter-image: "https://crisisopportunity.org/Images/factory.png"
 article_url: "unrest"
-description: "Richard R. Wright, Jr.'s 1905 article 'The Negro in Times of Industrial Unrest' published in Charities. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Jr, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/unrest.html"
-og-url: "https://crisisopportunity.org/articles/unrest.html"
-og-title: "The Negro in Times of Industrial Unrest - Richard R. Wright, Jr. (1905)"
-og-description: "Richard R. Wright, Jr.'s historical sociology article from 1905."
-og-image: "https://crisisopportunity.org/Images/factory.png"
-twitter-url: "https://crisisopportunity.org/articles/unrest.html"
-twitter-title: "The Negro in Times of Industrial Unrest - Richard R. Wright, Jr. (1905)"
-twitter-description: "Richard R. Wright, Jr.'s historical sociology article from 1905."
-twitter-image: "https://crisisopportunity.org/Images/factory.png"
 ---
 [69]{.pagenum}
 The scope of this paper is limited to the local situation in Chicago. The writer has for six years observed conditions among workingmen in this, the most rapidly growing Negro city population in the country, a population which in the last forty years has increased twice as rapidly as the total population of Chicago, and sixteen times as rapidly as the total Negro population of the country.

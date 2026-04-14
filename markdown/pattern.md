@@ -39,17 +39,6 @@ twitter-title: "Negro Elementary School and the Cultural Pattern - Horace Mann B
 twitter-description: "Horace Mann Bond's historical sociology article from 1940."
 twitter-image: "https://crisisopportunity.org/Images/congolaise.png"
 article_url: "pattern"
-description: "Horace Mann Bond's 1940 article 'Negro Elementary School and the Cultural Pattern' published in Journal of Educational Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bond, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/pattern.html"
-og-url: "https://crisisopportunity.org/articles/pattern.html"
-og-title: "Negro Elementary School and the Cultural Pattern - Horace Mann Bond (1940)"
-og-description: "Horace Mann Bond's historical sociology article from 1940."
-og-image: "https://crisisopportunity.org/Images/congolaise.png"
-twitter-url: "https://crisisopportunity.org/articles/pattern.html"
-twitter-title: "Negro Elementary School and the Cultural Pattern - Horace Mann Bond (1940)"
-twitter-description: "Horace Mann Bond's historical sociology article from 1940."
-twitter-image: "https://crisisopportunity.org/Images/congolaise.png"
 ---
 
 

@@ -21,7 +21,9 @@ citation_volume: 4
 citation_issue: 3
 citation_firstpage: 308
 citation_lastpage: 320
-description: "Ralph J. Bunche's 1935 article 'Tactics and Programs of Minority Groups' published in Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'A Critical Analysis of the Tactics and Programs of Minority Groups (Ralph Bunche, 1935)'
+description: 'Future Nobel laureate Ralph J. Bunche''s 1935 essay assessing the strategies of Black civil rights organizations between the wars — the NAACP, the Urban League, and Black nationalist movements — and the limits of each approach. The Journal of Negro Education. Full text of the public-domain original.'
 keywords: "Bunche, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/critical_analysis.html"
 og-url: "https://crisisopportunity.org/articles/critical_analysis.html"
@@ -33,17 +35,6 @@ twitter-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)
 twitter-description: "Ralph J. Bunche's historical sociology article from 1935."
 twitter-image: "https://crisisopportunity.org/Images/pool-parlor.png"
 article_url: "critical_analysis"
-description: "Ralph J. Bunche's 1935 article 'Tactics and Programs of Minority Groups' published in Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bunche, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/critical_analysis.html"
-og-url: "https://crisisopportunity.org/articles/critical_analysis.html"
-og-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
-og-description: "Ralph J. Bunche's historical sociology article from 1935."
-og-image: "https://crisisopportunity.org/Images/pool-parlor.png"
-twitter-url: "https://crisisopportunity.org/articles/critical_analysis.html"
-twitter-title: "Tactics and Programs of Minority Groups - Ralph J. Bunche (1935)"
-twitter-description: "Ralph J. Bunche's historical sociology article from 1935."
-twitter-image: "https://crisisopportunity.org/Images/pool-parlor.png"
 ---
 
 [308]{.pagenum}

@@ -35,17 +35,6 @@ twitter-title: "The Task of Negro Womanhood - Elise Johnson McDougald (1925)"
 twitter-description: "Elise Johnson McDougald's historical sociology article from 1925."
 twitter-image: "https://crisisopportunity.org/Images/poster.png"
 article_url: "womanhood"
-description: "Elise Johnson McDougald's 1925 article 'The Task of Negro Womanhood' published in The New Negro An Interpretation. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "McDougald, Black sociology, historical sociology, race relations, gender studies"
-canonical: "https://crisisopportunity.org/articles/womanhood.html"
-og-url: "https://crisisopportunity.org/articles/womanhood.html"
-og-title: "The Task of Negro Womanhood - Elise Johnson McDougald (1925)"
-og-description: "Elise Johnson McDougald's historical sociology article from 1925."
-og-image: "https://crisisopportunity.org/Images/poster.png"
-twitter-url: "https://crisisopportunity.org/articles/womanhood.html"
-twitter-title: "The Task of Negro Womanhood - Elise Johnson McDougald (1925)"
-twitter-description: "Elise Johnson McDougald's historical sociology article from 1925."
-twitter-image: "https://crisisopportunity.org/Images/poster.png"
 ---
 
 <span class="pagenum">369</span>

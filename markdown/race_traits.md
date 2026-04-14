@@ -34,17 +34,6 @@ twitter-title: "A Review of Hoffman's *Race Traits* - Kelly Miller (1897)"
 twitter-description: "Kelly Miller's historical sociology article from 1897."
 twitter-image: "https://crisisopportunity.org/Images/study-in-black-and-white.png"
 article_url: "race_traits"
-description: "Kelly Miller's 1897 article 'A Review of Hoffman's *Race Traits*' published in American Negro Academy. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Miller, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/race_traits.html"
-og-url: "https://crisisopportunity.org/articles/race_traits.html"
-og-title: "A Review of Hoffman's *Race Traits* - Kelly Miller (1897)"
-og-description: "Kelly Miller's historical sociology article from 1897."
-og-image: "https://crisisopportunity.org/Images/study-in-black-and-white.png"
-twitter-url: "https://crisisopportunity.org/articles/race_traits.html"
-twitter-title: "A Review of Hoffman's *Race Traits* - Kelly Miller (1897)"
-twitter-description: "Kelly Miller's historical sociology article from 1897."
-twitter-image: "https://crisisopportunity.org/Images/study-in-black-and-white.png"
 ---
 
 

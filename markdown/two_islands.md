@@ -27,7 +27,9 @@ citation_volume: 36
 citation_issue: 4
 citation_firstpage: 552
 citation_lastpage: 567
-description: "Horace Mann Bond's 1931 article 'Two Racial Islands in Alabama' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'Two Racial Islands in Alabama: Creoles of Mon Louis & the "Alabama Cajans" (Bond, 1931)'
+description: 'Horace Mann Bond''s 1931 study of two mixed-race communities in Alabama — the Creoles of Mon Louis Island and the "Cajans" of Mobile County — and how each was positioned between Black and white. American Journal of Sociology, Vol. 36. Full text of the public-domain original.'
 keywords: "Bond, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/two_islands.html"
 og-url: "https://crisisopportunity.org/articles/two_islands.html"
@@ -39,17 +41,6 @@ twitter-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
 twitter-description: "Horace Mann Bond's historical sociology article from 1931."
 twitter-image: "https://crisisopportunity.org/Images/the-wash.png"
 article_url: "two_islands"
-description: "Horace Mann Bond's 1931 article 'Two Racial Islands in Alabama' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bond, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/two_islands.html"
-og-url: "https://crisisopportunity.org/articles/two_islands.html"
-og-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
-og-description: "Horace Mann Bond's historical sociology article from 1931."
-og-image: "https://crisisopportunity.org/Images/the-wash.png"
-twitter-url: "https://crisisopportunity.org/articles/two_islands.html"
-twitter-title: "Two Racial Islands in Alabama - Horace Mann Bond (1931)"
-twitter-description: "Horace Mann Bond's historical sociology article from 1931."
-twitter-image: "https://crisisopportunity.org/Images/the-wash.png"
 ---
 
 ## I

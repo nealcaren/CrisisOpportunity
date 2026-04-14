@@ -33,17 +33,6 @@ twitter-title: "Negro Labor's Quarrel with White Workingmen - Abram L. Harris (1
 twitter-description: "Abram L. Harris's historical sociology article from 1926."
 twitter-image: "https://crisisopportunity.org/Images/the-negro-worker.png"
 article_url: "quarrel"
-description: "Abram L. Harris's 1926 article 'Negro Labor's Quarrel with White Workingmen' published in Current History. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Harris, Black sociology, historical sociology, race relations, labor economics"
-canonical: "https://crisisopportunity.org/articles/quarrel.html"
-og-url: "https://crisisopportunity.org/articles/quarrel.html"
-og-title: "Negro Labor's Quarrel with White Workingmen - Abram L. Harris (1926)"
-og-description: "Abram L. Harris's historical sociology article from 1926."
-og-image: "https://crisisopportunity.org/Images/the-negro-worker.png"
-twitter-url: "https://crisisopportunity.org/articles/quarrel.html"
-twitter-title: "Negro Labor's Quarrel with White Workingmen - Abram L. Harris (1926)"
-twitter-description: "Abram L. Harris's historical sociology article from 1926."
-twitter-image: "https://crisisopportunity.org/Images/the-negro-worker.png"
 ---
 
 

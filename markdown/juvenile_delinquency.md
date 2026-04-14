@@ -34,17 +34,6 @@ twitter-title: "Juvenile Delinquency - E. Franklin Frazier (1932)"
 twitter-description: "E. Franklin Frazier's historical sociology article from 1932."
 twitter-image: "https://crisisopportunity.org/Images/church-on-lennox-avenue.png"
 article_url: "juvenile_delinquency"
-description: "E. Franklin Frazier's 1932 article 'Juvenile Delinquency' published in Negro Family in Chigago. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Frazier, Black sociology, historical sociology, race relations, criminology"
-canonical: "https://crisisopportunity.org/articles/juvenile_delinquency.html"
-og-url: "https://crisisopportunity.org/articles/juvenile_delinquency.html"
-og-title: "Juvenile Delinquency - E. Franklin Frazier (1932)"
-og-description: "E. Franklin Frazier's historical sociology article from 1932."
-og-image: "https://crisisopportunity.org/Images/church-on-lennox-avenue.png"
-twitter-url: "https://crisisopportunity.org/articles/juvenile_delinquency.html"
-twitter-title: "Juvenile Delinquency - E. Franklin Frazier (1932)"
-twitter-description: "E. Franklin Frazier's historical sociology article from 1932."
-twitter-image: "https://crisisopportunity.org/Images/church-on-lennox-avenue.png"
 ---
 
 

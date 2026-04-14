@@ -35,17 +35,6 @@ twitter-title: "Delinquency in the Negro Community - Earl R. Moses (1933)"
 twitter-description: "Earl R. Moses's historical sociology article from 1933."
 twitter-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
 article_url: "delinquency"
-description: "Earl R. Moses's 1933 article 'Delinquency in the Negro Community' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Moses, Black sociology, historical sociology, race relations, criminology"
-canonical: "https://crisisopportunity.org/articles/delinquency.html"
-og-url: "https://crisisopportunity.org/articles/delinquency.html"
-og-title: "Delinquency in the Negro Community - Earl R. Moses (1933)"
-og-description: "Earl R. Moses's historical sociology article from 1933."
-og-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
-twitter-url: "https://crisisopportunity.org/articles/delinquency.html"
-twitter-title: "Delinquency in the Negro Community - Earl R. Moses (1933)"
-twitter-description: "Earl R. Moses's historical sociology article from 1933."
-twitter-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
 ---
 
 [304]{.pagenum}

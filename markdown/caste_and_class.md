@@ -38,17 +38,6 @@ twitter-title: "Conflict of Caste and Class in an American Industry - Charles S.
 twitter-description: "Charles S. Johnson's historical sociology article from 1936."
 twitter-image: "https://crisisopportunity.org/Images/garmin.png"
 article_url: "caste_and_class"
-description: "Charles S. Johnson's 1936 article 'Conflict of Caste and Class in an American Industry' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/caste_and_class.html"
-og-url: "https://crisisopportunity.org/articles/caste_and_class.html"
-og-title: "Conflict of Caste and Class in an American Industry - Charles S. Johnson (1936)"
-og-description: "Charles S. Johnson's historical sociology article from 1936."
-og-image: "https://crisisopportunity.org/Images/garmin.png"
-twitter-url: "https://crisisopportunity.org/articles/caste_and_class.html"
-twitter-title: "Conflict of Caste and Class in an American Industry - Charles S. Johnson (1936)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1936."
-twitter-image: "https://crisisopportunity.org/Images/garmin.png"
 ---
 
 [55]{.pagenum}

@@ -36,17 +36,6 @@ twitter-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
 twitter-description: "Charles S. Johnson's historical sociology article from 1923."
 twitter-image: "https://crisisopportunity.org/Images/dancers.png"
 article_url: "public_opinion"
-description: "Charles S. Johnson's 1923 article 'Public Opinion and the Negro' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/public_opinion.html"
-og-url: "https://crisisopportunity.org/articles/public_opinion.html"
-og-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
-og-description: "Charles S. Johnson's historical sociology article from 1923."
-og-image: "https://crisisopportunity.org/Images/dancers.png"
-twitter-url: "https://crisisopportunity.org/articles/public_opinion.html"
-twitter-title: "Public Opinion and the Negro - Charles S. Johnson (1923)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1923."
-twitter-image: "https://crisisopportunity.org/Images/dancers.png"
 ---
 
 <span class="pagenum">201</span>

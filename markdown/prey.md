@@ -36,17 +36,6 @@ twitter-title: "Let Us Prey! - Ira De A. Reid (1926)"
 twitter-description: "Ira De A. Reid's historical sociology article from 1926."
 twitter-image: "https://crisisopportunity.org/Images/going-to-church.png"
 article_url: "prey"
-description: "Ira De A. Reid's 1926 article 'Let Us Prey!' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Reid, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/prey.html"
-og-url: "https://crisisopportunity.org/articles/prey.html"
-og-title: "Let Us Prey! - Ira De A. Reid (1926)"
-og-description: "Ira De A. Reid's historical sociology article from 1926."
-og-image: "https://crisisopportunity.org/Images/going-to-church.png"
-twitter-url: "https://crisisopportunity.org/articles/prey.html"
-twitter-title: "Let Us Prey! - Ira De A. Reid (1926)"
-twitter-description: "Ira De A. Reid's historical sociology article from 1926."
-twitter-image: "https://crisisopportunity.org/Images/going-to-church.png"
 ---
 
 

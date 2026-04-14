@@ -32,17 +32,6 @@ twitter-title: "Crime Among Negroes - Kelly Miller (1909)"
 twitter-description: "Kelly Miller's historical sociology article from 1909."
 twitter-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
 article_url: "crime"
-description: "Kelly Miller's 1909 article 'Crime Among Negroes' published in The Southern Workman. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Miller, Black sociology, historical sociology, race relations, criminology"
-canonical: "https://crisisopportunity.org/articles/crime.html"
-og-url: "https://crisisopportunity.org/articles/crime.html"
-og-title: "Crime Among Negroes - Kelly Miller (1909)"
-og-description: "Kelly Miller's historical sociology article from 1909."
-og-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
-twitter-url: "https://crisisopportunity.org/articles/crime.html"
-twitter-title: "Crime Among Negroes - Kelly Miller (1909)"
-twitter-description: "Kelly Miller's historical sociology article from 1909."
-twitter-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
 ---
 
 > *Abstract [472]{.pagenum} of an address delivered in Cleveland Hall Chapel, on July 15, 1909, before the thirteenth annual Hampton Conference.*

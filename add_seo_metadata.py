@@ -59,7 +59,10 @@ for row in articles:
     with open(md_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Check if SEO metadata already exists
+    # Check if SEO metadata already exists OR has been hand-customized
+    if 'custom_seo: true' in content:
+        print(f"Skipping {md_file} - hand-customized SEO (custom_seo: true)")
+        continue
     if 'description:' in content and 'og-url:' in content and 'article_url:' in content:
         print(f"Skipping {md_file} - SEO metadata already exists")
         continue

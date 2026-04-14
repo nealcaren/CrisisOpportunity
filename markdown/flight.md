@@ -35,17 +35,6 @@ twitter-title: "How Much is the Migration a Flight from Persecution? - Charles S
 twitter-description: "Charles S. Johnson's historical sociology article from 1923."
 twitter-image: "https://crisisopportunity.org/Images/barry-place.png"
 article_url: "flight"
-description: "Charles S. Johnson's 1923 article 'How Much is the Migration a Flight from Persecution?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations, Great Migration"
-canonical: "https://crisisopportunity.org/articles/flight.html"
-og-url: "https://crisisopportunity.org/articles/flight.html"
-og-title: "How Much is the Migration a Flight from Persecution? - Charles S. Johnson (1923)"
-og-description: "Charles S. Johnson's historical sociology article from 1923."
-og-image: "https://crisisopportunity.org/Images/barry-place.png"
-twitter-url: "https://crisisopportunity.org/articles/flight.html"
-twitter-title: "How Much is the Migration a Flight from Persecution? - Charles S. Johnson (1923)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1923."
-twitter-image: "https://crisisopportunity.org/Images/barry-place.png"
 ---
 
 [272]{.pagenum}

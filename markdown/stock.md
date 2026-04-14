@@ -36,17 +36,6 @@ twitter-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
 twitter-description: "Monroe N. Work's historical sociology article from 1923."
 twitter-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
 article_url: "stock"
-description: "Monroe N. Work's 1923 article 'Taking Stock of the Race Problem' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Work, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/stock.html"
-og-url: "https://crisisopportunity.org/articles/stock.html"
-og-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
-og-description: "Monroe N. Work's historical sociology article from 1923."
-og-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
-twitter-url: "https://crisisopportunity.org/articles/stock.html"
-twitter-title: "Taking Stock of the Race Problem - Monroe N. Work (1923)"
-twitter-description: "Monroe N. Work's historical sociology article from 1923."
-twitter-image: "https://crisisopportunity.org/Images/flight-into-egypt.png"
 ---
 
 [41]{.pagenum}

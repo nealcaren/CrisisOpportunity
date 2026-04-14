@@ -22,7 +22,9 @@ citation_lastpage: 24
 pdf_URL: PDFS/Wells_1893_Convict_Lease_System.pdf
 
 citation: <em>The Reason Why the Colored American Is Not in the World's Columbian Exposition,</em> Chapter 3, pp.  19--24.
-description: "Ida B. Wells's 1893 article 'The Convict Lease System' published in Reason Why the Colored American Is Not in the World's Columbian Exposition. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'The Convict Lease System (Ida B. Wells, 1893)'
+description: 'Ida B. Wells''s 1893 indictment of the convict lease system — how Southern states turned Black prisoners into forced labor for private industry after Emancipation, and the lives lost under the practice. From The Reason Why the Colored American Is Not in the World''s Columbian Exposition. Full text of the public-domain original.'
 keywords: "Wells, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/convict.html"
 og-url: "https://crisisopportunity.org/articles/convict.html"
@@ -34,17 +36,6 @@ twitter-title: "The Convict Lease System - Ida B. Wells (1893)"
 twitter-description: "Ida B. Wells's historical sociology article from 1893."
 twitter-image: "https://crisisopportunity.org/Images/the-wash.png"
 article_url: "convict"
-description: "Ida B. Wells's 1893 article 'The Convict Lease System' published in Reason Why the Colored American Is Not in the World's Columbian Exposition. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Wells, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/convict.html"
-og-url: "https://crisisopportunity.org/articles/convict.html"
-og-title: "The Convict Lease System - Ida B. Wells (1893)"
-og-description: "Ida B. Wells's historical sociology article from 1893."
-og-image: "https://crisisopportunity.org/Images/the-wash.png"
-twitter-url: "https://crisisopportunity.org/articles/convict.html"
-twitter-title: "The Convict Lease System - Ida B. Wells (1893)"
-twitter-description: "Ida B. Wells's historical sociology article from 1893."
-twitter-image: "https://crisisopportunity.org/Images/the-wash.png"
 ---
 
 <span class="pagenum">19</span>

@@ -21,7 +21,9 @@ citation_firstpage: 170
 citation_lastpage: 173
 
 citation: <em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.
-description: "Ira De A. Reid's 1930 article 'Lily-White Labor' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'Lily-White Labor: How Unions Barred Black Workers (Ira De A. Reid, 1930)'
+description: 'Ira De A. Reid''s 1930 investigation of the "lily-white" labor movement — the AFL craft unions, railroad brotherhoods, and trade guilds that excluded Black workers from skilled employment in the 1920s. Published in Opportunity magazine. Full text of the public-domain original.'
 keywords: "Reid, Black sociology, historical sociology, race relations, labor economics"
 canonical: "https://crisisopportunity.org/articles/lilywhite.html"
 og-url: "https://crisisopportunity.org/articles/lilywhite.html"
@@ -33,17 +35,6 @@ twitter-title: "Lily-White Labor - Ira De A. Reid (1930)"
 twitter-description: "Ira De A. Reid's historical sociology article from 1930."
 twitter-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
 article_url: "lilywhite"
-description: "Ira De A. Reid's 1930 article 'Lily-White Labor' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Reid, Black sociology, historical sociology, race relations, labor economics"
-canonical: "https://crisisopportunity.org/articles/lilywhite.html"
-og-url: "https://crisisopportunity.org/articles/lilywhite.html"
-og-title: "Lily-White Labor - Ira De A. Reid (1930)"
-og-description: "Ira De A. Reid's historical sociology article from 1930."
-og-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
-twitter-url: "https://crisisopportunity.org/articles/lilywhite.html"
-twitter-title: "Lily-White Labor - Ira De A. Reid (1930)"
-twitter-description: "Ira De A. Reid's historical sociology article from 1930."
-twitter-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
 ---
 
 [170]{.pagenum}

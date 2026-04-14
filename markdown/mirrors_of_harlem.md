@@ -33,17 +33,6 @@ twitter-title: "Mirrors of Harlem - Ira De A. Reid (1927)"
 twitter-description: "Ira De A. Reid's historical sociology article from 1927."
 twitter-image: "https://crisisopportunity.org/Images/domino-players.png"
 article_url: "mirrors_of_harlem"
-description: "Ira De A. Reid's 1927 article 'Mirrors of Harlem' published in Social Forces. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Reid, Black sociology, historical sociology, race relations, urban sociology"
-canonical: "https://crisisopportunity.org/articles/mirrors_of_harlem.html"
-og-url: "https://crisisopportunity.org/articles/mirrors_of_harlem.html"
-og-title: "Mirrors of Harlem - Ira De A. Reid (1927)"
-og-description: "Ira De A. Reid's historical sociology article from 1927."
-og-image: "https://crisisopportunity.org/Images/domino-players.png"
-twitter-url: "https://crisisopportunity.org/articles/mirrors_of_harlem.html"
-twitter-title: "Mirrors of Harlem - Ira De A. Reid (1927)"
-twitter-description: "Ira De A. Reid's historical sociology article from 1927."
-twitter-image: "https://crisisopportunity.org/Images/domino-players.png"
 ---
 [628]{.pagenum}
 Within the past decade the attention of people everywhere has been at some time centered on Harlem. Never before has this particular section of New York received such notice despite the fact that the connotation of the word itself has changed from Dutch to Irish to Jewish to Negro. One may reasonably expect that it will remain Negro unless there is an industrial encroachment.

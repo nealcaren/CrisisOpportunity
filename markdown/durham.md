@@ -26,17 +26,6 @@ twitter-title: "Durham: Capital of the Black Middle Class - E. Franklin Frazier 
 twitter-description: "E. Franklin Frazier's historical sociology article from 1925."
 twitter-image: "https://crisisopportunity.org/Images/harlem-street.png"
 article_url: "durham"
-description: "E. Franklin Frazier's 1925 article 'Durham: Capital of the Black Middle Class' published in The New Negro An Interpretation. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Frazier, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/durham.html"
-og-url: "https://crisisopportunity.org/articles/durham.html"
-og-title: "Durham: Capital of the Black Middle Class - E. Franklin Frazier (1925)"
-og-description: "E. Franklin Frazier's historical sociology article from 1925."
-og-image: "https://crisisopportunity.org/Images/harlem-street.png"
-twitter-url: "https://crisisopportunity.org/articles/durham.html"
-twitter-title: "Durham: Capital of the Black Middle Class - E. Franklin Frazier (1925)"
-twitter-description: "E. Franklin Frazier's historical sociology article from 1925."
-twitter-image: "https://crisisopportunity.org/Images/harlem-street.png"
 ---
 
 

@@ -22,7 +22,9 @@ citation_firstpage: 191
 citation_lastpage: 208
 
 pdf_URL: "PDFS/Doyle_1936_Etiquette.pdf"
-description: "Bertram W. Doyle's 1936 article 'The Etiquette of Race Relations' published in The Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+custom_seo: true
+seo_title: 'The Etiquette of Race Relations: Social Control Under Jim Crow (Bertram Doyle, 1936)'
+description: 'Bertram W. Doyle''s 1936 essay on racial etiquette as a system of social control in the Jim Crow South — the unwritten rules governing every interaction between Black and white Americans, from forms of address to public space. The Journal of Negro Education. Full text of the public-domain original.'
 keywords: "Doyle, Black sociology, historical sociology, race relations"
 canonical: "https://crisisopportunity.org/articles/etiquette.html"
 og-url: "https://crisisopportunity.org/articles/etiquette.html"
@@ -34,17 +36,6 @@ twitter-title: "The Etiquette of Race Relations - Bertram W. Doyle (1936)"
 twitter-description: "Bertram W. Doyle's historical sociology article from 1936."
 twitter-image: "https://crisisopportunity.org/Images/cocktails.png"
 article_url: "etiquette"
-description: "Bertram W. Doyle's 1936 article 'The Etiquette of Race Relations' published in The Journal of Negro Education. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Doyle, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/etiquette.html"
-og-url: "https://crisisopportunity.org/articles/etiquette.html"
-og-title: "The Etiquette of Race Relations - Bertram W. Doyle (1936)"
-og-description: "Bertram W. Doyle's historical sociology article from 1936."
-og-image: "https://crisisopportunity.org/Images/cocktails.png"
-twitter-url: "https://crisisopportunity.org/articles/etiquette.html"
-twitter-title: "The Etiquette of Race Relations - Bertram W. Doyle (1936)"
-twitter-description: "Bertram W. Doyle's historical sociology article from 1936."
-twitter-image: "https://crisisopportunity.org/Images/cocktails.png"
 ---
 
 

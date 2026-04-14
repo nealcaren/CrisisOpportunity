@@ -32,17 +32,6 @@ twitter-title: "White and Black World in American Labor and Politics - Abram L. 
 twitter-description: "Abram L. Harris's historical sociology article from 1925."
 twitter-image: "https://crisisopportunity.org/Images/builders.png"
 article_url: "american_labor"
-description: "Abram L. Harris's 1925 article 'White and Black World in American Labor and Politics' published in Social Forces. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Harris, Black sociology, historical sociology, race relations, labor economics"
-canonical: "https://crisisopportunity.org/articles/american_labor.html"
-og-url: "https://crisisopportunity.org/articles/american_labor.html"
-og-title: "White and Black World in American Labor and Politics - Abram L. Harris (1925)"
-og-description: "Abram L. Harris's historical sociology article from 1925."
-og-image: "https://crisisopportunity.org/Images/builders.png"
-twitter-url: "https://crisisopportunity.org/articles/american_labor.html"
-twitter-title: "White and Black World in American Labor and Politics - Abram L. Harris (1925)"
-twitter-description: "Abram L. Harris's historical sociology article from 1925."
-twitter-image: "https://crisisopportunity.org/Images/builders.png"
 ---
 
 

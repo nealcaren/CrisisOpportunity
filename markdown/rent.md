@@ -31,17 +31,6 @@ twitter-title: "Mrs. Bailey Pays the Rent - Ira De A. Reid (1927)"
 twitter-description: "Ira De A. Reid's historical sociology article from 1927."
 twitter-image: "https://crisisopportunity.org/Images/blues.png"
 article_url: "rent"
-description: "Ira De A. Reid's 1927 article 'Mrs. Bailey Pays the Rent' published in Ebony and Topaz: A Collectanea. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Reid, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/rent.html"
-og-url: "https://crisisopportunity.org/articles/rent.html"
-og-title: "Mrs. Bailey Pays the Rent - Ira De A. Reid (1927)"
-og-description: "Ira De A. Reid's historical sociology article from 1927."
-og-image: "https://crisisopportunity.org/Images/blues.png"
-twitter-url: "https://crisisopportunity.org/articles/rent.html"
-twitter-title: "Mrs. Bailey Pays the Rent - Ira De A. Reid (1927)"
-twitter-description: "Ira De A. Reid's historical sociology article from 1927."
-twitter-image: "https://crisisopportunity.org/Images/blues.png"
 ---
 
 ::::: verse ::

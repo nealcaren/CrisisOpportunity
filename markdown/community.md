@@ -33,17 +33,6 @@ twitter-title: "Negro Personality Changes in a Southern Community - Charles S. J
 twitter-description: "Charles S. Johnson's historical sociology article from 1934."
 twitter-image: "https://crisisopportunity.org/Images/hallie-s-red.png"
 article_url: "community"
-description: "Charles S. Johnson's 1934 article 'Negro Personality Changes in a Southern Community' published in Race and Culture Contacts. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/community.html"
-og-url: "https://crisisopportunity.org/articles/community.html"
-og-title: "Negro Personality Changes in a Southern Community - Charles S. Johnson (1934)"
-og-description: "Charles S. Johnson's historical sociology article from 1934."
-og-image: "https://crisisopportunity.org/Images/hallie-s-red.png"
-twitter-url: "https://crisisopportunity.org/articles/community.html"
-twitter-title: "Negro Personality Changes in a Southern Community - Charles S. Johnson (1934)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1934."
-twitter-image: "https://crisisopportunity.org/Images/hallie-s-red.png"
 ---
 
 

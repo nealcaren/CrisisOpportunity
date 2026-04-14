@@ -34,17 +34,6 @@ twitter-title: "Economic Future of the Negro American - W.E.B. Du Bois and Augus
 twitter-description: "W.E.B. Du Bois and Augustus Granville Dill's historical sociology article from 1912."
 twitter-image: "https://crisisopportunity.org/Images/gloucester-harbor.png"
 article_url: "economic"
-description: "W.E.B. Du Bois and Augustus Granville Dill's 1912 article 'Economic Future of the Negro American' published in The Negro American Artisan. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Dill, Black sociology, historical sociology, race relations, labor economics"
-canonical: "https://crisisopportunity.org/articles/economic.html"
-og-url: "https://crisisopportunity.org/articles/economic.html"
-og-title: "Economic Future of the Negro American - W.E.B. Du Bois and Augustus Granville Dill (1912)"
-og-description: "W.E.B. Du Bois and Augustus Granville Dill's historical sociology article from 1912."
-og-image: "https://crisisopportunity.org/Images/gloucester-harbor.png"
-twitter-url: "https://crisisopportunity.org/articles/economic.html"
-twitter-title: "Economic Future of the Negro American - W.E.B. Du Bois and Augustus Granville Dill (1912)"
-twitter-description: "W.E.B. Du Bois and Augustus Granville Dill's historical sociology article from 1912."
-twitter-image: "https://crisisopportunity.org/Images/gloucester-harbor.png"
 ---
 
 [127]{.pagenum}What are the questions in the present problem of the economic status of the Negro American? They may be summed up in four groups:

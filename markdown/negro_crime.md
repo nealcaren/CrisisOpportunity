@@ -36,17 +36,6 @@ twitter-title: "The Negro and Crime - W.E.B. Du Bois (1899)"
 twitter-description: "W.E.B. Du Bois's historical sociology article from 1899."
 twitter-image: "https://crisisopportunity.org/Images/mob-victim-meditation.png"
 article_url: "negro_crime"
-description: "W.E.B. Du Bois's 1899 article 'The Negro and Crime' published in The Independent. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bois, Black sociology, historical sociology, race relations, criminology"
-canonical: "https://crisisopportunity.org/articles/negro_crime.html"
-og-url: "https://crisisopportunity.org/articles/negro_crime.html"
-og-title: "The Negro and Crime - W.E.B. Du Bois (1899)"
-og-description: "W.E.B. Du Bois's historical sociology article from 1899."
-og-image: "https://crisisopportunity.org/Images/mob-victim-meditation.png"
-twitter-url: "https://crisisopportunity.org/articles/negro_crime.html"
-twitter-title: "The Negro and Crime - W.E.B. Du Bois (1899)"
-twitter-description: "W.E.B. Du Bois's historical sociology article from 1899."
-twitter-image: "https://crisisopportunity.org/Images/mob-victim-meditation.png"
 ---
 
 <span class="pagenum">1355</span>

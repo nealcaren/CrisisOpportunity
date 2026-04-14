@@ -33,17 +33,6 @@ twitter-title: "The New Frontage of American Life - Charles S. Johnson (1925)"
 twitter-description: "Charles S. Johnson's historical sociology article from 1925."
 twitter-image: "https://crisisopportunity.org/Images/black-belt.png"
 article_url: "frontage"
-description: "Charles S. Johnson's 1925 article 'The New Frontage of American Life' published in The New Negro An Interpretation. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/frontage.html"
-og-url: "https://crisisopportunity.org/articles/frontage.html"
-og-title: "The New Frontage of American Life - Charles S. Johnson (1925)"
-og-description: "Charles S. Johnson's historical sociology article from 1925."
-og-image: "https://crisisopportunity.org/Images/black-belt.png"
-twitter-url: "https://crisisopportunity.org/articles/frontage.html"
-twitter-title: "The New Frontage of American Life - Charles S. Johnson (1925)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1925."
-twitter-image: "https://crisisopportunity.org/Images/black-belt.png"
 ---
 
 ## I

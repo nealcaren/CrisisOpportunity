@@ -35,17 +35,6 @@ twitter-title: "Racial Self-Expression - E. Franklin Frazier (1927)"
 twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
 twitter-image: "https://crisisopportunity.org/Images/ascent-of-ethiopia.png"
 article_url: "selfexpression"
-description: "E. Franklin Frazier's 1927 article 'Racial Self-Expression' published in Ebony and Topaz: A Collectanea. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Frazier, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/selfexpression.html"
-og-url: "https://crisisopportunity.org/articles/selfexpression.html"
-og-title: "Racial Self-Expression - E. Franklin Frazier (1927)"
-og-description: "E. Franklin Frazier's historical sociology article from 1927."
-og-image: "https://crisisopportunity.org/Images/ascent-of-ethiopia.png"
-twitter-url: "https://crisisopportunity.org/articles/selfexpression.html"
-twitter-title: "Racial Self-Expression - E. Franklin Frazier (1927)"
-twitter-description: "E. Franklin Frazier's historical sociology article from 1927."
-twitter-image: "https://crisisopportunity.org/Images/ascent-of-ethiopia.png"
 ---
 
 

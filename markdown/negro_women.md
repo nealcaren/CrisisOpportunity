@@ -33,17 +33,6 @@ twitter-title: "Negro Women in Our Economic Life - Sadie T.M. Alexander (1930)"
 twitter-description: "Sadie T.M. Alexander's historical sociology article from 1930."
 twitter-image: "https://crisisopportunity.org/Images/sharecropper.png"
 article_url: "negro_women"
-description: "Sadie T.M. Alexander's 1930 article 'Negro Women in Our Economic Life' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Alexander, Black sociology, historical sociology, race relations, labor economics, gender studies"
-canonical: "https://crisisopportunity.org/articles/negro_women.html"
-og-url: "https://crisisopportunity.org/articles/negro_women.html"
-og-title: "Negro Women in Our Economic Life - Sadie T.M. Alexander (1930)"
-og-description: "Sadie T.M. Alexander's historical sociology article from 1930."
-og-image: "https://crisisopportunity.org/Images/sharecropper.png"
-twitter-url: "https://crisisopportunity.org/articles/negro_women.html"
-twitter-title: "Negro Women in Our Economic Life - Sadie T.M. Alexander (1930)"
-twitter-description: "Sadie T.M. Alexander's historical sociology article from 1930."
-twitter-image: "https://crisisopportunity.org/Images/sharecropper.png"
 ---
 
 

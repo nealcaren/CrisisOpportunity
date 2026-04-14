@@ -24,17 +24,6 @@ twitter-title: "Program for a Sociological Society - W.E.B. Du Bois (1897)"
 twitter-description: "W.E.B. Du Bois's historical sociology article from 1897."
 twitter-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
 article_url: "program"
-description: "W.E.B. Du Bois's 1897 article 'Program for a Sociological Society' published in First Sociological Club.. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Bois, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/program.html"
-og-url: "https://crisisopportunity.org/articles/program.html"
-og-title: "Program for a Sociological Society - W.E.B. Du Bois (1897)"
-og-description: "W.E.B. Du Bois's historical sociology article from 1897."
-og-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
-twitter-url: "https://crisisopportunity.org/articles/program.html"
-twitter-title: "Program for a Sociological Society - W.E.B. Du Bois (1897)"
-twitter-description: "W.E.B. Du Bois's historical sociology article from 1897."
-twitter-image: "https://crisisopportunity.org/Images/building-more-stately-mansions.png"
 ---
 
 

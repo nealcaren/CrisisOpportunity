@@ -38,17 +38,6 @@ twitter-title: "After Garvey---What? - Charles S. Johnson (1923)"
 twitter-description: "Charles S. Johnson's historical sociology article from 1923."
 twitter-image: "https://crisisopportunity.org/Images/meeting-place.png"
 article_url: "after_garvey"
-description: "Charles S. Johnson's 1923 article 'After Garvey---What?' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Johnson, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/after_garvey.html"
-og-url: "https://crisisopportunity.org/articles/after_garvey.html"
-og-title: "After Garvey---What? - Charles S. Johnson (1923)"
-og-description: "Charles S. Johnson's historical sociology article from 1923."
-og-image: "https://crisisopportunity.org/Images/meeting-place.png"
-twitter-url: "https://crisisopportunity.org/articles/after_garvey.html"
-twitter-title: "After Garvey---What? - Charles S. Johnson (1923)"
-twitter-description: "Charles S. Johnson's historical sociology article from 1923."
-twitter-image: "https://crisisopportunity.org/Images/meeting-place.png"
 ---
 
 

@@ -33,17 +33,6 @@ twitter-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
 twitter-description: "Kelly Miller's historical sociology article from 1926."
 twitter-image: "https://crisisopportunity.org/Images/the-new-negro.png"
 article_url: "bleached"
-description: "Kelly Miller's 1926 article 'Is the American Negro to Remain Black?' published in South Atlantic Quarterly. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Miller, Black sociology, historical sociology, race relations"
-canonical: "https://crisisopportunity.org/articles/bleached.html"
-og-url: "https://crisisopportunity.org/articles/bleached.html"
-og-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
-og-description: "Kelly Miller's historical sociology article from 1926."
-og-image: "https://crisisopportunity.org/Images/the-new-negro.png"
-twitter-url: "https://crisisopportunity.org/articles/bleached.html"
-twitter-title: "Is the American Negro to Remain Black? - Kelly Miller (1926)"
-twitter-description: "Kelly Miller's historical sociology article from 1926."
-twitter-image: "https://crisisopportunity.org/Images/the-new-negro.png"
 ---
 
 

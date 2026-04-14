@@ -33,17 +33,6 @@ twitter-title: "Crime Among the Negroes of Chicago: A Social Study - Monroe N. W
 twitter-description: "Monroe N. Work's historical sociology article from 1900."
 twitter-image: "https://crisisopportunity.org/Images/untitled.png"
 article_url: "chicago_crime"
-description: "Monroe N. Work's 1900 article 'Crime Among the Negroes of Chicago: A Social Study' published in American Journal of Sociology. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
-keywords: "Work, Black sociology, historical sociology, race relations, urban sociology, criminology"
-canonical: "https://crisisopportunity.org/articles/chicago_crime.html"
-og-url: "https://crisisopportunity.org/articles/chicago_crime.html"
-og-title: "Crime Among the Negroes of Chicago: A Social Study - Monroe N. Work (1900)"
-og-description: "Monroe N. Work's historical sociology article from 1900."
-og-image: "https://crisisopportunity.org/Images/untitled.png"
-twitter-url: "https://crisisopportunity.org/articles/chicago_crime.html"
-twitter-title: "Crime Among the Negroes of Chicago: A Social Study - Monroe N. Work (1900)"
-twitter-description: "Monroe N. Work's historical sociology article from 1900."
-twitter-image: "https://crisisopportunity.org/Images/untitled.png"
 ---
 
 [204]{.pagenum}
