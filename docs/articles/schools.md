@@ -1,13 +1,55 @@
-8
+---
+charset: 'UTF-8'
+lang:    'en'
 
-The Schools and the Vocational Life of Negroes
+title: "The Schools and the Vocational Life of Negroes"
+short_title: McDougald
 
-By Elise Johxson McDougald
+author:
+- name: Elise Johnson McDougald
+- affiliation: ""
+
+date: 1923
+
+editorial_summary: >-
+  McDougald argues that Black children are systematically underserved by
+  both Southern state systems and Northern public trade schools, and that
+  vocational guidance must bridge school and workplace to counter the forces
+  pushing Black workers into unskilled labor. Drawing on a New York City
+  study showing that fewer than thirty percent of nearly two thousand Black
+  workers used trade training and none had graduated from public trade
+  schools, she reports on a four-year Board of Education counseling
+  experiment in Harlem elementary schools.
+
+citation_title: "The Schools and the Vocational Life of Negroes"
+citation_journal_title: Opportunity
+citation_author: McDougald, Elise Johnson
+citation_publication_date: 1923
+citation_volume: 1
+citation_issue: 6
+citation_firstpage: 8
+citation_lastpage: 11
+
+citation: <em>Opportunity,</em> vol 1, no. 6, Jun. 1923, pp. 8--11.
+pdf_URL: "PDFS/McDougald_1923_Schools.pdf"
+description: "Elise Johnson McDougald's 1923 article 'Schools and the Vocational Life of Negroes' published in Opportunity. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
+keywords: "McDougald, Black sociology, historical sociology, race relations"
+canonical: "https://crisisopportunity.org/articles/schools.html"
+og-url: "https://crisisopportunity.org/articles/schools.html"
+og-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+og-description: "Elise Johnson McDougald's historical sociology article from 1923."
+og-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
+twitter-url: "https://crisisopportunity.org/articles/schools.html"
+twitter-title: "Schools and the Vocational Life of Negroes - Elise Johnson McDougald (1923)"
+twitter-description: "Elise Johnson McDougald's historical sociology article from 1923."
+twitter-image: "https://crisisopportunity.org/Images/new-york-cityscape.png"
+article_url: "schools"
+---
 
 [8]{.pagenum}
 A discussion of the school and its relation to the vocational life of the Negro, brings us to the consideration of two of the most vital activities of human life—learning and earning. These are vital to all; and, to the Negro, who is like all other folk, the effort to secure, a chance to learn and to earn, has brought about an heroic change. Within a year, 84,000 Negroes left the states of South Carolina, Alabama, Arkansas, Georgia and Tennessee. It is significant that all of these states rank in the lowest third of states in educational progress in the nation. After years of patient endurance, the Negro by migrating, has made the problem of education and vocation, a national, rather than a sectional one.
 
-Now that the problem is nation-wide, its relation to the problems of the human race in general is becoming more apparent. It is, after all, simply a phase of the big struggle of the modern era—the struggle of the Common Man for fullest development. The Negro is regarded as the commonest of common men in America, and any consideration of his welfare, in any field of endeavor, is highly in accord with the tendency of the present age—“appreciation of the genius of the common man.”
+Now that the problem is nation-wide, its relation to the problems of the human race in general is becoming more apparent. It is, after all, simply a phase of the big struggle of the modern era—the struggle of the Common Man for fullest development. The Negro is regarded as the commonest of common men in America, and any consideration of his welfare, in any field of endeavor, is highly in accord with the tendency of the present age---“appreciation of the genius of the common man.”
 
 No matter how white America may estimate him, the Negro knows that he has contributed sufficiently toward the building up of this country, to warrant his claiming a respected place in the nation. Still more than that, he feels he is a factor in the work of the world.  He has reason to be proud of the fact that, in making these contributions, he has benefitted other groups in the nation even more than he has his own. Since we are considering the question of learning and
 earning, let us note what the Negro has meant to America along these lines. He has played a vital part in the educational system. The educational philosophy of the Negro, Booker T. Washington is the out-standing contribution, among the contribution of educators, white or black, to education in America. In the matter of earning, his attitude on the dignity of labor has done great good in the life of the United States. After weighing these values, the nation has decided that vocational education is good and necessary, not only for the black child but for the white. With the monument---Tuskegee---as a model, trade schools are everywhere planned, and trade courses are very rapidly being added in already existing schools. Federal legislation and aid in educational matters is a modern development, and even there, the effect of this leader’s teachings is to be noted. For the government is greatly concerned, not only with raising the general educational standards, but, is anxious that the vocations, notably agriculture and Domestic Arts, be closely linked up with schools all over the country. There can be no doubt that the Negro has greatly influenced the forward movements in education in this country.

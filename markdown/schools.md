@@ -11,6 +11,16 @@ author:
 
 date: 1923
 
+editorial_summary: >-
+  McDougald argues that Black children are systematically underserved by
+  both Southern state systems and Northern public trade schools, and that
+  vocational guidance must bridge school and workplace to counter the forces
+  pushing Black workers into unskilled labor. Drawing on a New York City
+  study showing that fewer than thirty percent of nearly two thousand Black
+  workers used trade training and none had graduated from public trade
+  schools, she reports on a four-year Board of Education counseling
+  experiment in Harlem elementary schools.
+
 citation_title: "The Schools and the Vocational Life of Negroes"
 citation_journal_title: Opportunity
 citation_author: McDougald, Elise Johnson

@@ -598,4 +598,19 @@ nav {
   }
 }
 
+/* Editorial summary: visible to crawlers / LLMs / screen readers, hidden
+   from sighted users. These are site-written summaries, not original
+   abstracts, so they should not display on the page. */
+.editorial-summary {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: normal;
+  border: 0;
+}
+
 

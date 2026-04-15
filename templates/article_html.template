@@ -171,6 +171,11 @@ $if(abstract)$
 <p class="abstract"><strong>Abstract: </strong>$abstract$</p>
 
 $endif$
+$if(editorial_summary)$
+
+<div class="editorial-summary" role="doc-abstract" aria-label="Editorial summary" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:normal;border:0">$editorial_summary$</div>
+
+$endif$
 
 
 $body$

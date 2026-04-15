@@ -11,6 +11,16 @@ author:
 
 date: 1915
 
+editorial_summary: >-
+  Du Bois argues that the Great War's true origins lie not in the
+  Balkans but in the European scramble for African land, labor, and
+  raw materials that accelerated after the 1884 Berlin Conference.
+  Tracing the partition of the continent, the brutalities of
+  Leopold's Congo, and the alliance of white capital and white labor
+  in the spoils of empire, he contends that lasting peace requires
+  extending democracy to the darker peoples — land, education, and
+  self-rule — not merely disarmament among European powers.
+
 citation: <em>The Atlantic Monthly,</em> May, 1915, pp. 707--714.
 
 

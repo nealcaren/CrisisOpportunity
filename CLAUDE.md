@@ -10,6 +10,7 @@ A digital repository of early-20th-century sociology works by Black scholars, pu
 - `articles.csv`, `art.csv` — metadata driving the index build (title, author, journal, year, category, article_url, artpng).
 - `preprocess.ipynb` — the build. Reads the CSVs, renders `markdown/index.md`, then runs pandoc to produce `docs/*.html` and `docs/articles/*.html`. Cache-busts CSS via `?id={random}`.
 - `add_seo_metadata.py`, `add_lazy_loading.lua`, `optimize_images.sh` — post-processing helpers touched during the SEO/perf pass.
+- `generate_llm_resources.py` — post-build helper that (a) copies `markdown/*.md` into `docs/articles/` so LLMs can fetch clean markdown, (b) writes `docs/llms.txt` (llmstxt.org format) from `articles.csv` including each article's summary, (c) injects Schema.org `ScholarlyArticle` JSON-LD into each `docs/articles/*.html` with an `abstract` field, and (d) injects a hidden `.editorial-summary` div at the end of the body for articles with an `editorial_summary:` field. Idempotent — safe to rerun. Must be rerun whenever articles are added or the notebook is rebuilt.
 - `word/` — .docx exports (optional, commented out in the notebook).
 - `build/` — currently empty.
 
@@ -17,8 +18,18 @@ A digital repository of early-20th-century sociology works by Black scholars, pu
 
 1. Edit source in `markdown/*.md` or update `articles.csv`.
 2. Run `preprocess.ipynb` end-to-end. It regenerates `markdown/index.md` from the CSV and calls pandoc for every article + index/about/art.
-3. Commit both the `markdown/` source and the regenerated `docs/` output. GitHub Pages serves from `docs/`.
+3. Run `python generate_llm_resources.py` to refresh `docs/articles/*.md`, `docs/llms.txt`, and JSON-LD blocks in the built HTML.
+4. Commit both the `markdown/` source and the regenerated `docs/` output. GitHub Pages serves from `docs/`.
 4. There is no CI build step — `docs/` must be committed in its built form.
+
+## Abstracts vs. editorial summaries
+
+Two distinct YAML fields live in the article frontmatter:
+
+- `abstract:` — reserved for the **original** abstract as it appeared in the source publication (or a near-verbatim pull quote from the article's opening). Six articles carry one: `caste_and_class`, `incidence`, `negro_problem`, `pathology`, `rural_south`, `two_islands`. Pandoc renders these visibly as `<p class="abstract">` on the article page.
+- `editorial_summary:` — a site-written 2–3 sentence summary of what the author argues and on what evidence. Added to the remaining 55 articles (and to `african_roots_of_war`) so that LLMs, search engines, and `llms.txt` have a real description of each article instead of the boilerplate SEO blurb. These are **never** shown to sighted readers: the template wraps them in a visually-hidden `.editorial-summary` div with an inline style, and they also surface via the JSON-LD `abstract` field and the raw `.md` copies in `docs/articles/`.
+
+If you hand-write a better summary for an article and want it to display on the page, move the text from `editorial_summary:` to `abstract:` in that article's markdown file.
 
 ## Conventions
 
