@@ -61,7 +61,7 @@ industrial skill; that the political convention or stump speaking had more attra
 [412]{.pagenum}
 the “compromiser between Northern and Southern whites and the Negro.” Although the speech made for him a well-nigh invulnerable position in interracial matters, a few Negroes looked upon it as a repudiation of the race’s political and civil rights, but only a few had the courage of their convictions.
 
-The first person to open fire upon the Washington group was W.E.B. Du Bois, a Harvard Doctor of Philosophy, who was leaching at Atlanta University about this time. Dr. Du Bois branded the speech as “The Atlanta Compromise,” and criticised it in the following, terms:
+The first person to open fire upon the Washington group was W.E.B. Du Bois, a Harvard Doctor of Philosophy, who was teaching at Atlanta University about this time. Dr. Du Bois branded the speech as “The Atlanta Compromise,” and criticised it in the following, terms:
 
 > The growing spirit of kindliness and reconciliation between the North and South after the frightful differences of a generation ago ought to lie a source of deep congratulation to all and especially to those whose mistreatment caused the war, but if that reconciliation is to be marked by the industrial slavery and civic death of those same black men, with permanent legislation into a position of inferiority, then those black men, if they are really men, are called upon by every consideration of patriotism and loyally to oppose such a course by all civilized methods, even though such opposition involves disagreement with Mr. Booker T. Washington. …
 
@@ -80,7 +80,7 @@ In July, 1905, a conference of twenty-nine colored men assembled at the request 
 1. Freedom of speech and criticism;
 2. Manhood suffrage;
 3. The abolition of all caste distinction based simply upon race and color;
-4. The recognition of the principles of hitman brotherhood as a practical present creed; and
+4. The recognition of the principles of human brotherhood as a practical present creed; and
 5. The recognition of the highest and best human training as the monopoly of no class or race.
 
 The Niagara Movement never attained a very large membership. After four years of protests and battling in the courts for civil rights, most of its members went over to the newly formed National Association for the Advancement of Colored People.

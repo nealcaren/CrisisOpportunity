@@ -47,7 +47,7 @@ article_url: "north_i"
 [115]{.pagenum}
 The present migration of Negroes from the South is another chapter in the story of the masses struggling to secure better conditions of living and larger life.
 
-This movement northward is vitally changing the South, the North, and the Negroes themselves, North and South. The facts should be studied therefore sympathetically and frankly to arrive at “a complete understanding and cooperation of all forces. North and South, white and black, that are Ln the last analysis necessary to the right solution of a nation-wide problem with its nation-wide responsibility.”
+This movement northward is vitally changing the South, the North, and the Negroes themselves, North and South. The facts should be studied therefore sympathetically and frankly to arrive at “a complete understanding and cooperation of all forces. North and South, white and black, that are in the last analysis necessary to the right solution of a nation-wide problem with its nation-wide responsibility.”
 
 The geographical and numerical extent of this migration has been large. The movement is due to fundamental economic and social forces. It has already produced such far-reaching effects in the South that remedies are now being sought and applied. The part of this question which pertains more nearly to the South will be discussed here, and the part which relates to the North in a later article.
 

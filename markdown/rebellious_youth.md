@@ -64,7 +64,7 @@ be dealt with under the law.^[As defined in the report of the Committee on Socia
 23).]
 
 Negro boys and girls are younger on the whole than the white boys and
-girls handled by the courts. In the sixty- seven courts for which we
+girls handled by the courts. In the sixty-seven courts for which we
 have records in 1933, 87 per cent of the Negro boys and 84 per cent of
 the Negro girls as compared with 79 per cent of the white boys and 69
 per
@@ -141,7 +141,7 @@ sister whose home is filthy and unsanitary and an unfit place to live.
 The boy does not have supervision. He will not tell the truth and is
 badly in need of supervision.^[From court record.]
 
-In the charges brought by police officers against a fifteen- year-old
+In the charges brought by police officers against a fifteen-year-old
 boy, who was sentenced to the Children's Detention Home for a year, one
 can see to what extent these homeless children in the slum areas of
 southern cities are subjected to all types of vicious influences:
@@ -446,7 +446,7 @@ our figures indicate that the charges against Negro boys are at
 present similar to those against white boys (see Joint Committee on
 Negro Child Study, *A Study of Delinquent and Neglected Children
 before the New York City Children's Court in 1925* \[New York,
-1927\], P- 6).] The majority of the less serious crimes were
+1927\], p. 6).] The majority of the less serious crimes were
 indicative of the lack of recreational facilities and programs for the
 children of the Harlem community. For example, in 1934 eleven of the
 boys were charged with hitching on trolleys and twenty-seven with
