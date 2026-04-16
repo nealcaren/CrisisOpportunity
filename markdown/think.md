@@ -32,7 +32,7 @@ citation_lastpage: 55
 
 pdf_URL: PDFS/DuBois_1904_think.pdf
 
-citation: <em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.
+citation: <em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  54--55.
 description: "W.E.B. Du Bois's 1904 article 'What Negroes Think of Crime' published in Some Notes on Negro Crime. Historical sociology examining race relations, urban life, and social dynamics in early 20th century America."
 keywords: "Bois, Black sociology, historical sociology, race relations, criminology"
 canonical: "https://crisisopportunity.org/articles/think.html"

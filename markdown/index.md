@@ -1,43 +1,3 @@
----
-lang: en
-pagetitle: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars | Historical Articles & Research"
-description: "Explore forgotten works of early Black sociologists including W.E.B. Du Bois, E. Franklin Frazier, Charles S. Johnson, and others. Historical articles on race relations, urban sociology, labor economics, and social movements from the early decades of American sociology."
-keywords: "Black sociology, early American sociology, W.E.B. Du Bois, E. Franklin Frazier, Charles S. Johnson, Great Migration, Harlem Renaissance scholarship, historical sociology, race relations, urban sociology, Kelly Miller, Anna J. Cooper"
-canonical: "https://crisisopportunity.org/"
-sitemap: "/sitemap.xml"
-og-type: "website"
-og-url: "https://crisisopportunity.org/"
-og-title: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars"
-og-description: "A compilation of largely-forgotten works by Black scholars from the early decades of sociology. Explore historical articles on race, migration, labor, and social movements."
-og-image: "https://crisisopportunity.org/Images/logo1.png"
-twitter-card: "summary_large_image"
-twitter-url: "https://crisisopportunity.org/"
-twitter-title: "Crisis & Opportunity - Forgotten Sociology by Early Black Scholars"
-twitter-description: "A compilation of largely-forgotten works by Black scholars from the early decades of sociology."
-twitter-image: "https://crisisopportunity.org/Images/logo1.png"
-header-includes: |
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Crisis & Opportunity",
-    "description": "A compilation of largely-forgotten works by Black scholars from the early decades of sociology. These articles offer valuable insights into the evolution of sociology and its relevance to current social issues.",
-    "url": "https://crisisopportunity.org/",
-    "publisher": {
-      "@type": "Person",
-      "name": "Neal Caren",
-      "email": "neal.caren@unc.edu"
-    },
-    "about": {
-      "@type": "Thing",
-      "name": "Sociology",
-      "sameAs": "https://en.wikipedia.org/wiki/Sociology"
-    },
-    "keywords": ["Black sociology", "W.E.B. Du Bois", "E. Franklin Frazier", "Charles S. Johnson", "historical sociology", "race relations", "Great Migration", "urban sociology"]
-  }
-  </script>
----
-
 [&nbsp;]{.motto}
 
 # Racial Identity
@@ -471,13 +431,6 @@ header-includes: |
 [![](Images/hallie-s-red.png)](articles/community.html "William Edouard Scott, *Hallie's Red*, 1920") 
 *Race and Culture Contacts*, 1934.
 :::
-
-# Forthcoming
-* Thompson, Anna J. "A Survey of Crime among Negroes in Philadelphia." *Opportunity* Vol 4, July-Sept.
-* Johnson, Charles S.  and Horace M. Bond. "The Investigation of Racial Differences Prior to 1910." *The Journal of Negro Education*, Vol. 3, No. 3, (Jul., 1934), pp. 328-339. 
-* Frazier, E. Franklin "The Status of the Negro in the American Social Order." *The Journal of Negro Education*, Vol. 4, No. 3, (Jul., 1935), pp. 293-307 
-* Reid, Ira De A. "Negro Immigration to the United States."  *Social Forces*, Mar., 1938, Vol. 16, No. 3 (Mar., 1938), pp. 411-417
-* Andrews, Norman P. "The Negro in Politics" *The Journal of Negro History* 1920 5:4, 420-436. 
 
 ::: center
 About [[Crisis *&* Opportunity]{.smallcaps}](about.html)

@@ -10,7 +10,7 @@
 ## White Racism and Racial Violence
 
 * Anna J. Cooper. <br>"Has America a Race Problem; If So, How Can It Best Be Solved?." <br><em>A Voice from the South. By A Black Woman of the South.,</em> pp.  149--174.<br> Word count: 4,644
-* W.E.B. Du Bois. <br>"The Economic Aspects of Race Prejudice." <br><em>The Editorial Review,</em> May 1910, pp. 488--493.<br> Word count: 2,490
+* W.E.B. Du Bois. <br>"The Economic Aspects of Race Prejudice." <br><em>The Editorial Review,</em> May 1910, pp. 488--493.<br> Word count: 2,489
 * Richard R. Wright, Jr.. <br>"The Negro Problem." <br><em>The Negro Problem.</em> 1911. The A.M.E. Book Concern.<br> Word count: 5,558
 * Charles S. Johnson. <br>"Public Opinion and The&nbsp;Negro." <br><em>Opportunity,</em> vol 1, no. 7, July 1923, pp.  201--205.<br> Word count: 5,845
 * Monroe N. Work. <br>"Taking Stock of the Race Problem: A Statistical Review, and Interpretation of the Facts at the End of the Year 1923." <br><em>Opportunity,</em> vol 2, no. 14, Feb. 1924, pp.  41--46.<br> Word count: 5,837
@@ -40,7 +40,7 @@
 * Ira De A. Reid. <br>"Lily-White Labor." <br><em>Opportunity,</em> vol 8, no. 6, Jun. 1930, pp. 170--173, 189.<br> Word count: 3,281
 * Charles S. Johnson. <br>"Incidence Upon the Negroes." <br>*American Journal of Sociology*, Vol. 40, No. 6 (May., 1935), pp. 737--745<br> Word count: 3,596
 * Charles S. Johnson. <br>"The Conflict of Caste and Class in an American Industry." <br>*American Journal of Sociology*, Vol. 42, No. 1 (Jul., 1936), pp. 55-65<br> Word count: 4,030
-* Horace R. Cayton and George&nbsp;S.&nbsp;Mitchell. <br>"The Social Organization of the Negro&nbsp;Community and Its Relation to the Union Movement." <br><em>Black Workers and the New Unions,</em> 1939, pp.  372--424.<br> Word count: 17,180
+* Horace R. Cayton and George&nbsp;S.&nbsp;Mitchell. <br>"The Social Organization of the Negro&nbsp;Community and Its Relation to the Union Movement." <br><em>Black Workers and the New Unions,</em> 1939, pp.  372--424.<br> Word count: 17,179
 
 ## Gender
 
@@ -64,7 +64,7 @@
 
 ## Methods
 
-* W.E.B. Du Bois. <br>"A Program for a Sociological&nbsp;Society." <br>Address given at the First Sociological Club. Special Collections and University Archives, University of Massachusetts Amherst Libraries. [mums312-b196-i035](http://credo.library.umass.edu/view/full/mums312-b196-i035). ca. 1897.<br> Word count: 6,743
+* W.E.B. Du Bois. <br>"A Program for a Sociological&nbsp;Society." <br>Address given at the First Sociological Club. Special Collections and University Archives, University of Massachusetts Amherst Libraries. [mums312-b196-i035](http://credo.library.umass.edu/view/full/mums312-b196-i035). ca. 1897.<br> Word count: 6,742
 * W.E.B. Du Bois. <br>"The Study of the Negro Problems." <br><em>The Annals of the American Academy of Political and Social Science,</em> Jan. 1898, pp. 1--23.<br> Word count: 7,428
 
 ## Crime
@@ -73,14 +73,14 @@
 * W.E.B. Du Bois. <br>"The Negro and Crime." <br><em>The Independent,</em> vol LI, May 1899, pp.  1355--1357.<br> Word count: 1,216
 * Monroe N. Work. <br>"Crime Among the Negroes of Chicago: A Social Study." <br>*American Journal of Sociology*, Vol. 6, No. 2, Sep. 1900, pp. 204--223<br> Word count: 7,563
 * W.E.B. Du Bois. <br>"The Spawn of Slavery: The Convict-lease System in the South." <br><em>The Missionary Review of the World,</em> Oct. 1901, pp.  737--745.<br> Word count: 3,359
-* W.E.B. Du Bois. <br>"What Negroes Think of Crime." <br><em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  55--54.<br> Word count: 742
+* W.E.B. Du Bois. <br>"What Negroes Think of Crime." <br><em>Some Notes on Negro Crime Particularly in Georgia,</em> May 1904. Chapter 10, pp.  54--55.<br> Word count: 742
 * Kelly Miller. <br>"Crime Among Negroes." <br><em>The Southern Workman,</em> September 1909, pages 472--475.<br> Word count: 1,554
 * Monroe N. Work. <br>"The Northern Negro and Crime." <br><em>Southern Workman,</em> March 1910, pages 137--142.<br> Word count: 2,350
 * Monroe N. Work. <br>"Negro Criminality in the South." <br><em>The Annals of the American Academy of Political and Social Science,</em> Sep. 1913, pp. 74--80.<br> Word count: 3,620
 * Ira De A. Reid. <br>"The Negro Goes to Sing Sing." <br><em>Opportunity,</em> vol 10, no. 7, Oct. 1932, pp.  215--217.<br> Word count: 4,293
 * E. Franklin Frazier. <br>"Juvenile Delinquency." <br><em>The Negro Family in Chicago,</em> 1932, Chapter X, pp.  204--219.<br> Word count: 4,274
 * Earl R. Moses. <br>"Delinquency in the Negro Community." <br><em>Opportunity,</em> vol XI, no. 10, October. 1933, pp. 304--307.<br> Word count: 3,782
-* E. Franklin Frazier. <br>"Rebellious Youth." <br><em>The Negro Family in the United States,</em> Chapter WVII, pp.  358--374.<br> Word count: 6,110
+* E. Franklin Frazier. <br>"Rebellious Youth." <br><em>The Negro Family in the United States,</em> Chapter WVII, pp.  358--374.<br> Word count: 6,108
 
 ## Education
 

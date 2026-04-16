@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /articles/PDFS/
 
 Sitemap: https://crisisopportunity.org/sitemap.xml
